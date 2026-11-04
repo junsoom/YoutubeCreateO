@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+
+	<!-- Preload -->
+	<link rel="preload" fetchpriority="high" as="image" href="'https://web-cdn.org/s/1606/image/Banners/08.jpg?maxwidth=1280'" type="image/webp">
+
+	<!-- Page Tags -->
+	<meta charset="utf-8">
+	
+	<title>The Official Loch Ness Monster Sightings Register | Webcam images 2021 on</title>
+	<link rel="canonical" href="https://www.lochnesssightings.com/webcam-images-2021-on">
+
+	<!-- Meta Tags -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#395363">
+
+	<!-- RSS Feed -->
+	<link rel="alternate" type="application/rss+xml"  title="The Official Loch Ness Monster Sightings Register RSS Feed"  href="https://www.lochnesssightings.com/rss/" />
+
+	<!-- Favicon -->
+	<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>&#127758;</text></svg>">
+
+	<!-- Fonts -->
+   <!-- Chango-->
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Chango&display=swap">
+	<link href="https://fonts.googleapis.com/css2?family=Chango&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+
+	<!-- Styles -->
+	<link rel="stylesheet" href="https://web-cdn.org/css/combo.css?r=1850">
+	<link rel="stylesheet" href="https://www.lochnesssightings.com/site.css?r=26033810" title="site_styles">
+	<style>
+		#header_slide1{background-image:url('https://web-cdn.org/s/1606/image/Banners/08.jpg?maxwidth=1280');}
+		#header_slide2{background-image:url('https://web-cdn.org/s/1606/image/Banners/09.jpg?maxwidth=1280');}
+		
+		@media only screen and (max-width: 500px) {
+		#header_slide1{background-image:url('https://web-cdn.org/s/1606/image/Banners/08.jpg?maxwidth=500&cropxunits=100&cropyunits=100&crop=35,0,65,100');}
+		#header_slide2{background-image:url('https://web-cdn.org/s/1606/image/Banners/09.jpg?maxwidth=500&cropxunits=100&cropyunits=100&crop=35,0,65,100');}
+		}
+
+	</style>
+
+	<!-- jQuery -->
+	
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+	
+
+	<!-- jQuery plugins -->
+	
+	<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js" defer></script>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+	
+
+	<script src="https://web-cdn.org/js/fancybox/source/jquery.fancybox.pack.js" defer></script>
+	<script src="https://web-cdn.org/js/js.cookie.min.js" defer></script>
+	<script src="https://web-cdn.org/js/doubletaptogo.js" defer></script>
+	<script src="https://web-cdn.org/js/tablesorter.js"></script>
+	
+	<script src="https://web-cdn.org/js/site.js?r=1850" defer></script>
+
+	
+	<script>
+	$.fn.openMobileMenu = function () {
+		if ($(window).width() < 1025) {
+			$('nav>ul').slideToggle(300);
+			return false;
+		} else {
+			if ($('nav').css('right') != '0px') {
+				$('nav').animate({"right":"0"}, "300");
+			} else {
+				$('nav').animate({"right":-$('nav').width()}, "300");
+			}
+		}
+	};
+
+	$(document).ready( function() {
+		
+		if ($('#header_slideshow').children().length > 1) {
+			// Shuffle slides into random starting order
+			var slides = $('#header_slideshow > div').get();
+			for (var i = slides.length - 1; i > 0; i--) {
+				var j = Math.floor(Math.random() * (i + 1));
+				var temp = slides[i];
+				slides[i] = slides[j];
+				slides[j] = temp;
+			}
+			$.each(slides, function(i, slide) {
+				$('#header_slideshow').append(slide);
+			});
+
+			$('#header_slideshow > div:gt(0)').hide();
+			setInterval(function() {
+				$('#header_slideshow > div:first')
+					.fadeOut(2000)
+					.next()
+					.fadeIn(2000)
+					.end()
+					.appendTo('#header_slideshow');
+			}, 5000);
+		}
+		
+
+		$('table.tablesorter, section.tablesorter table').tablesorter({dateFormat:'ddmmyyyy'});
+
+		$(document).on('click', 'table.tablesorter tbody td', function () {
+			var $cell = $(this);
+			var $table = $cell.closest('table');
+			var columnIndex = $cell.index();
+			var value = $.trim($cell.text()); // full text, used for matching — hidden sort-helper spans are fine here
+
+			if ($cell.hasClass('filter-active')) {
+				clearFilter($table);
+				return;
+			}
+
+			$table.find('td.filter-active').removeClass('filter-active');
+			$cell.addClass('filter-active');
+
+			$table.find('tbody tr').each(function () {
+				var cellText = $.trim($(this).find('td').eq(columnIndex).text());
+				$(this).toggle(cellText === value);
+			});
+
+			setFilterCaption($table, getDisplayText($cell));
+		});
+
+		// Strips hidden elements (e.g. sort-helper spans) before reading text, for display purposes only
+		function getDisplayText($cell) {
+			var $clone = $cell.clone();
+			$clone.find('[hidden]').remove();
+			return $.trim($clone.text());
+		}
+
+		// Clicking the caption also clears the filter
+		$(document).on('click', 'table.tablesorter caption.filter-caption', function () {
+			clearFilter($(this).closest('table'));
+		});
+
+		function setFilterCaption($table, value) {
+			var $caption = $table.find('caption.filter-caption');
+			if ($caption.length === 0) {
+				$caption = $('<caption class="filter-caption"></caption>').prependTo($table);
+			}
+			$caption.text('Filtered to "' + value + '"').show();
+		}
+
+		function clearFilter($table) {
+			$table.find('tbody tr').show();
+			$table.find('td.filter-active').removeClass('filter-active');
+			$table.find('caption.filter-caption').hide().empty();
+		}
+		
+		if ($(window).width() > 1023) {
+			$('nav li:has(ul)').doubleTapToGo();
+		}
+
+		$('#menu_opener').click( function() {
+			$('nav').openMobileMenu();
+		});
+		$('#menu_opener').keypress(function (e) {
+			var key = e.which;
+			if(key == 13) {
+				$('nav').openMobileMenu();
+			}
+		});
+
+
+		$('nav a[href="/webcam-images-2021-on"]').addClass('on').attr('aria-current','page');
+		$('section.breadcrumb a:last-child').attr('aria-current','page');
+
+		$('nav li:has(ul)').addClass('has_children');
+		
+
+		$('#admin_class_toggle').click( function() {
+			$('body').toggleClass('loggedin loggedinoff');
+		});
+
+		$('section.meetings .paginator .prev').click( function() {
+			var blockId = $(this).attr('id').replace('prev_','');
+			$('#meetings_'+blockId).slideUp('slow', function(){
+				$('#meetings_'+blockId).load('/ajax/meetings/?blockid='+blockId, function(){
+					$('#meetings_'+blockId).slideDown('slow');
+				});
+			});
+		});
+
+		// mobile style 2 - child pages hidden
+		$('nav.mobile_nav_2 li.has_children').click( function() {
+			if ($(this).hasClass('open') == false) {
+				$('.sub_menu').not(this).slideUp(400);
+				$('.has_children').removeClass('open');
+				$(this).children('.sub_menu').slideDown(400);
+				$(this).toggleClass('open');
+			}
+		});
+
+	});
+
+	$(document).on('mousedown', '.bx-viewport a.fancybox', function(e) {
+		e.stopImmediatePropagation();
+		var href = $(this).attr('href');
+		$.fancybox.open({
+			href: href,
+			type: 'ajax'
+		});
+		return false;
+	});
+</script>
+	
+	<!-- Open Graph Data for Social Networks -->
+	<meta property="fb:app_id" content="163471835449">
+	<meta property="og:site_name" content="The Official Loch Ness Monster Sightings Register">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://www.lochnesssightings.com/webcam-images-2021-on">
+	<meta property="og:title" content="The Official Loch Ness Monster Sightings Register | Webcam i">
+	<meta property="og:description" content="">
+	<meta property="og:image" content="">
+
+	<!-- Twitter Card Data -->
+	<meta name="twitter:card" content="summary_large_image">
+	
+	<meta name="twitter:domain" content="www.lochnesssightings.com">
+	<meta name="twitter:title" content="The Official Loch Ness Monster Sightings Register | Webcam i">
+	<meta name="twitter:description" content="">
+	<meta name="twitter:image" content="">
+	<meta name="twitter:url" content="https://www.lochnesssightings.com/webcam-images-2021-on">
+
+</head>
+
+<body id="p25519" class="hyphenate margin_1 link_shadow Paid width_1280 no-aside sdf3 admin_format">
+	
+	<a href="#main_content_start" id="skip_link">Skip to Main Content</a>
+	<a href="/admin/" id="admin_tab" aria-label="Log in to Admin System" rel="nofollow"><img src="https://web-cdn.org/img/cog.png?r=14" width="22" height="23" alt="Cog Icon signifying link to Admin page"></a>
+	<a id="top" class="page_anchor"></a>
+	<main class="mobile_layout7 desktop_layout8">
+	<header class="header_layout0">
+		<div id="header_slideshow">
+<div id="header_slide1"></div>
+<div id="header_slide2"></div>
+		</div>
+		<div id="inner">
+			<h1 id="sitehead" class="header_heading">The Official Loch Ness Monster Sightings Register</h1>
+		</div>
+	</header>
+	<nav id="main_menu" class="mobile_nav_2 desktop_nav_2 nav_center" aria-label="Main Navigation">
+		<span id="menu_opener" tabindex="0"></span>
+
+		<!-- cached nav -->
+		<ul>
+			<li id="b25517">
+				<a href="/">Home</a>
+			</li>
+			<li id="b25518">
+				<a href="/sightings-from-2021-on">Sightings from 2021 on</a>
+			</li>
+			<li id="b25519">
+				<a href="/webcam-images-2021-on">Webcam images 2021 on</a>
+			</li>
+			<li id="b25520">
+				<a href="/sightings-from-2000-2020">Sightings from 2000 - 2020</a>
+			</li>
+			<li id="b25521">
+				<a href="/sightings-1986-1999">sightings 1986 -1999</a>
+			</li>
+			<li id="b25522">
+				<a href="/sightings-565-1985">Sightings 565 -1985</a>
+			</li>
+			<li id="b25523">
+				<a href="/loch-ness-essential-facts">Loch Ness - essential facts</a>
+			</li>
+			<li id="b25524">
+				<a href="/loch-ness-webcams">Loch Ness Webcams</a>
+			</li>
+			<li id="b25525">
+				<a href="/drive-the-monster-66-where-to-look-for-nessie">Drive the monster 66 - where to look for nessie</a>
+			</li>
+			<li id="b25527">
+				<a href="/monster-hunters/-researchers">Monster hunters/ researchers</a>
+			</li>
+			<li id="b25528">
+				<a href="/nessie-hunts-over-the-years">Nessie hunts over the years</a>
+			</li>
+			<li id="b25529">
+				<a href="/the-scientific-evidence">The Scientific Evidence</a>
+			</li>
+			<li id="b25530">
+				<a href="/pessie-a-prehistoric-nessie-fossil">Pessie - a Prehistoric Nessie Fossil</a>
+			</li>
+			<li id="b25531">
+				<a href="/the-best-and-worst-of-whats-been-seen">The best and worst of what's been seen</a>
+			</li>
+			<li id="b25532">
+				<a href="/fakes-jokes-and-hoaxes">Fakes, Jokes and Hoaxes</a>
+			</li>
+			<li id="b25533">
+				<a href="/nessie-in-the-news">Nessie in the news</a>
+			</li>
+			<li id="b25534">
+				<a href="/loch-morar">Loch Morar</a>
+			</li>
+			<li id="b25535">
+				<a href="/loch-lochy">Loch Lochy</a>
+			</li>
+			<li id="b25536">
+				<a href="/other-scottish-lochs">Other Scottish Lochs</a>
+			</li>
+			<li id="b25537">
+				<a href="/lake-monsters-worldwide">Lake Monsters Worldwide</a>
+			</li>
+			<li id="b25538">
+				<a href="/whats-not-a-sighting">what's not a sighting</a>
+			</li>
+			<li id="b25540">
+				<a href="/feedback">Contact Us</a>
+			</li>
+			<li id="b25541">
+				<a href="/links">Links</a>
+			</li>
+			<li id="b25542">
+				<a href="/map">Map</a>
+			</li>
+			<li id="b25543">
+				<a href="/report-a-sighting">Report a sighting</a>
+			</li>
+		</ul>
+
+	</nav>
+
+	<article>
+		<a id="main_content_start"></a>
+		<div>
+			<section id="block_56535" class="block text">
+				<div>
+				<div></div>
+					<h2>Webcam images 2021 on</h2>
+					<div>
+					<p>Over the past few years, and especially during the Covid crisis, many images that we receive come from the Loch Ness Webcam. For reasons outwith the control of the camera operators, the resolution of some of the images from the camera has at times been less than ideal. As such, it has been more difficult to identify what some images submitted. Given they are still 'unexplained' though, we decided that from 2021 onwards, such images would be listed separately from those that are reported by people who saw something while physically at the loch. This we feel more properly gives 21st Century tech it's place in the history of Loch Ness.</p>
+					<p><strong>2026</strong></p>
+					<p>On 9 July 2026, &nbsp;Eoin Fagan reported the sighting of two large moving objects submerging which he captured on the VILN Shoreland Lodges Webcam at 15.26pm. He said that one large singular object emerged from the water of Loch Ness way out in the loch and at the same time a sailing boat was hugging the northern shore heading north. A second large object emerged from the water a minute later behind the first one. The first one lay motionless, then the second object moved towards it and passed by close to it heading north, then the motionless object moved north in the same direction. This is a still of what he saw:</p>
+					<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://web-cdn.org/s/1606/image/Screenshot-2026-07-10-at-00.31.35-Eoin.png?maxwidth=800"></p>
+					<p>&nbsp;</p>
+					<p>On the 5th of March 2026 Eoin Fagan saw a mysterious movement and shape of an object on the VILN Clansman webcam at 17.20pm. He said that the unusual nature of the event, although brief, is the manner in which the object broke surface 4 times, rose and dipped while moving to the right against the current that was moving left and north. The weather was cloudy, with a slight ripple on the surface, and there was no surface vessels visible before or at the time of the sighting. It took place 200 yards out from the pier at the Clansman. It can be viewed on his youtube channel at <span class="yt-core-attributed-string--link-inherit-color" dir="auto">@eoinfagan333</span></p>
+					<p><strong>2025</strong></p>
+					<p>29 August 2025 - Eoin Fagan captured an image on the VILN Clansman Webcam at 19.49pm. He explained that the sighting took place more than halfway across the loch on the right hand side of the screen. Initially 2 humps emerged together in a large disturbance out of the water, then submerged, then a large single hump emerged, and submerged, then the camera rotated, and when it came back to the area of sighting, 2 further humps appeared in a different direction, but still keeping the same distance apart, when first observed. e. Conditions were calmish at the time of sighting and I did not notice any surface vessels in the area before the sighting, or at the time of the sighting. thi ishat he captured:</p>
+					<p><img src="https://web-cdn.org/s/1606/image/Old-Site/webcam-eoin-aug-2025.jpg" alt=""></p>
+					<p>7 June 2025 - Tim Campbell from Northern Ireland was watching the Nessie on the Net! webcam at 9.43 am when he saw something disturb the water for approximately 4 minutes. You can see what he saw <a href="https://youtu.be/zJ-TYYBm_fw?si=8h9bkCO0OUp1JkpT">here</a>.&nbsp;</p>
+					<p>19 April 2025 - A cryptid enthusiast watching the webcams from Kosovo reported:</p>
+					<p class="Normal tm5">I've been watching the Loch Ness Webcams online for quite a while. At around 08:00 hours as I was watching the webcams online, I got a glimpse of a 30 to 40 feet object moving through the loch. On camera this object even though far away, was very large and it immediately caught my attention. It was huge, dark, and moving. The object was close the shore line on the other side of the river.&nbsp;</p>
+					<p class="Normal tm5">There was no boat, no trail being left by a boat. It's clearly something underwater, it is big and it is moving.&nbsp;</p>
+					<p class="Normal tm5">This is what he captured:</p>
+					<p class="Normal tm5"><img src="https://web-cdn.org/s/1606/image/Old-Site/webcam-anon-april-2025.jpg" alt=""></p>
+					<p>&nbsp;</p>
+					<p>15 March 2025 - Veteran camera watcher Eoin Fagan reported:&nbsp;</p>
+					<p class="Normal tm5">At&nbsp; 11.01 hours at the Shorelands camera, I noticed a fast moving wake going across the middle of the loch, that had a large round black hump, at the front of the wake. I first thought it was the black rubber speed boat that zips around the loch out of Fort Augustus, carrying tourists, but the wake just fizzled out as if it was never there in the first place, needless to say it was no boat.</p>
+					<p class="Normal tm5">The second sighting occurred 7 minutes later, an object like a next&nbsp;protrusion, came up out of the water, for a few seconds then plunged back from where it came from.</p>
+					<p class="Normal tm5">Again, you might say that was wildfowl of some sort, but it looked quite unusual, and very striking. The neck, if it was a neck, was rather long lankey looking for a goose or a swan, kind of thick, and very straight looking, up like a 90 degree angle.&nbsp; While you take in the distance from the webcam to the object, it certainly is different looking. The surface conditions were calm and mirror like, weather dry and fine.</p>
+					<p class="Normal tm5">A small white motor boat came into view from Cherry Island direction, as the second object plunged back into the water.</p>
+					<p class="Normal tm5">This is an image of what he saw:</p>
+					<p class="Normal tm5"><img src="https://web-cdn.org/s/1606/image/Old-Site/webcam-eoiin-jan-2025.jpg" alt=""></p>
+					<p>&nbsp;</p>
+					<p><strong>2024</strong></p>
+					<p>23 July 2024<strong> - </strong>Matt Reddick was watching the Nessie of the Net Live Cam during the evening and for about 5 seconds something large appeared to splash around on the top right of the water on the far side of the loch. He noted that other than this this the water was very calm. You can see what he caught <a href="https://www.youtube.com/watch?v=Lk3_OKLQgq8">here</a>.</p>
+					<p>9 July 2024. Again, long time Nessie watcher Eoin Fagan was watchng the VILN Clansman webcam at 07.50am. He saw two moving objects on the same line which kept the same distance apart through out the whole footage. He suggested that the two objects were both parts of the one object, which appeared to be in the region of 16 to 18 feet long. The sighting took place about 100 yards out from the shoreline. The weather conditions were slightly overcast with light disturbance of surface water, with light breeze north south. The objects were moving against the current. There were no boats visible except the parked Jacobite Cruiser that was parked overnight. Here's a screenshot of what he saw:</p>
+					<p><img src="https://web-cdn.org/s/1606/image/Old-Site/eoin-fagan-2024-07-09-webcam.png" alt=""></p>
+					<p><strong>2023</strong></p>
+					<p>4 July 2023&nbsp; - veteran watcher Eoin Fagan captured a classic LNM sighting at Shoreland Lodges Webcam. He states that is not a seal, big fish or an otter. The creature is visibly seen, but it emerges, submerges, emerges swims, changes direction towards the middle of the Loch and submerges in a video over 4 minutes long. The surface was ideal for Nessie spotting. The moving target swam parallel to a trawler. Sighting took place at 07.55am and the video can be seen <a href="https://youtu.be/qhYfKWpXJAE">here</a>.</p>
+					<p><strong>2021</strong></p>
+					<p><strong>Webcam image count - 10</strong></p>
+					<p>19 Octobe 2021 Veteran webcam watcher Eoin Fagan recorded a black object high out of the water moving down the Loch, on the northern side. As it moved down it went lower in the water on approach of a cruiser moving north, in its direction. By the time the cruiser became in view on the screen, the mysterious&nbsp;object submerged totally in the water, but still must have been touching the water, from underneath as it was leaving a straight line wake on the water, towards the oncoming cruiser.&nbsp; By the time the cruiser got to where the last position of the disturbance on the water , the object was completely gone.&nbsp; The object had to be a couple of feet or more out of the water when first sighted, especially to see it from that distance. The recording captures the moment of the object submerging perfectly. You can see the footage on Eoin's <a href="https://www.youtube.com/channel/UCoxWoE_IYPFWfEEKw2cnv2Q/featured" target="_blank" rel="noopener">Youtube Channel</a></p>
+					<p>&nbsp;</p>
+					<p>6 September 2021 - Weiming.Jiang, watching from China, took the image below just after half past ten local time. She said that at first there was only one black dot, and then two black dots appeared, very close to the shore. The dots moved on the water for six minutes.</p>
+					<p><img src="https://web-cdn.org/s/1606/image/Old-Site/tannai-pic.jpg" alt=""></p>
+					<p>&nbsp;</p>
+					<p>22 August 2021 - veteran webcam watcher Eoin O'Fagan reported watching the webcam at 10.51 in the&nbsp; morning and seeing 2 solid black shapes that headed across the screen then completely&nbsp;disappeared. He said it began over to the right of the screen and heaeded towards a stationary boat on the left of the screen A small&nbsp;motor boat went through close to the shoreline a few minutes earlier and went by the stationary boat, shore side. He took this still image</p>
+					<p><img src="https://web-cdn.org/s/1606/image/Old-Site/fagan-22-8-21.jpg" alt=""></p>
+					<p>&nbsp;</p>
+					<p>&nbsp;</p>
+					<p>&nbsp;</p>
+					<p>11 August - Matt Reddick, watching online from Dallas, Texas caught an unidentified moving image on the water via the Nessie on the Net! webcam.</p>
+					<p>He explained: "At 3:56:00 or just before, between the clearing in the trees just above the shore in the middle of the frame, something surfaces. It appears to surface and dive leaving wakes as it swims left. When I applied filters, I could see something else a ways to the left that I missed in original at the beginning of the sighting" In addition, at approximately 4:04:15, a boat is crossing from left to right. Something else surfaces well behind in its wake and seems to chase or catch up to it. You can view his video on <a href="https://www.youtube.com/watch?v=p-O0BUkGrYA" target="_blank" rel="noopener">youtube</a></p>
+					<p>26 March - Roslyn Casey from Leeds was watching the webcam at 17.46 and captured the image below. LIke many, although she has in the past visited the loch, Roslyn has been carrying out the search via the web since the beginning of lockdown and the travel restrictions that have been in place in the UK</p>
+					<p><img src="https://web-cdn.org/s/1606/image/Old-Site/r_casey_pic.jpg" alt=""></p>
+					<p>&nbsp;</p>
+					<p>17 March - Kalynn Wangle caught another glimpse of something unknown at the loch - she explained "On March 17th at 16:15 a very large dark shape appears to be swimming from left to right at the very front of the shore. It seems to be making a wave for a bit, and either surfaces for a second or is just under the surface.&nbsp; At 16:17 it goes behind the tree on the right, and doesn't pop back up".</p>
+					<p>A video of what Kalynn captured online is on <a href="https://www.youtube.com/watch?v=EATINbx3dBQ" target="_blank" rel="noopener">YouTube</a></p>
+					<p>12 March 2021 - Eoin O'Fagan caught sight of something unexplained on the webcam. He said:</p>
+					<p>"I captured some footage off the webcam at 17.08 today, 12/03/21. There was disturbance of water and a wake is also visible with a black shape is seen rising up and down, as it moves slowly across the screen and disappears under the letter h of the same word.</p>
+					<p>2 smaller black shapes appeared, close together and I caught this odd looking image on a screenshot (below).I did not see any boats, at the time of sighting. There seemed to be a lot of action on the water around the object even though it moved slowly."</p>
+					<p>Youcan see the video he took on <a href="https://www.youtube.com/watch?v=ntHCxxkVA7U" target="_blank" rel="noopener">YouTube</a></p>
+					<p>&nbsp;</p>
+					<p>22 January 2021 - again Eoin O'Fagan caught sight of something unexplained on the webcam - it was very similar to the 19 January sighting. He explained:</p>
+					<p>"I just went into the webcam at 2.11 pm and immediately saw what I could make out was 2 objects splashing around in the bay about 100 feet apart.They were 2 black objects throwing up a lot of water, and from the distance were large looking in the water. Then the one on the right submerged, and then came up again.The one on the left did the same thing intermittently. They were visible for up to 3 minutes, and then there was nothing.They could have been a couple of feet out of the water and maybe a dozen feet long."&nbsp;</p>
+					<p>This is a still of what he saw:</p>
+					<p><img src="https://web-cdn.org/s/1606/image/Old-Site/eoin-22-1-21.png" alt=""></p>
+					<p>4 mins after viewing the sighting he also briefly spotted a black shape a few hundred yards&nbsp; further up the loch from the area of interest and took a screenshot of this image. The result is shown below:</p>
+					<p><img src="https://web-cdn.org/s/1606/image/Old-Site/eoin-22-1-21_2.jpg" alt=""></p>
+					<p>&nbsp;</p>
+					<p>19 January 2021 - long time Nessie watcher Eoin O'Fagan caught sight of something unexplained on the webcam at 2.20pm local time. He said that it was visible&nbsp;for about 20 minutes but he managed to get a recording of it for 3 and a half minutes. He also explained that it was coming in and out of view for 20 minutes and watched the webcam till dark confirming that there was definitely no boat traffic in the area. This is a still of what he captured:</p>
+					<p><img src="https://web-cdn.org/s/1606/image/Old-Site/eoin-19-1-21.png" alt=""></p>
+					<p>11 January 2021 - at 11.42am, regular webcam watcher Kalynn Wangle&nbsp; noticed a "V" shaped wake close to the left front side of the loch shore while watching the cam, and less than 10 seconds later, she saw something black surface for only about a second before it disappeared. She watched the footage a few times, and reported it as looking like black object is swimming out from behind the tree that cover the view of the shore. You can see more at https://youtu.be/n--ByFl_Gpo</p></div>
+					
+				</div>
+			</section>
+
+		</div>
+	</article>
+	<footer>
+		<div>
+			<section id="block_56562" class="block contact-details  noteditable">
+				<div>
+				
+					<div>
+						<i class="iconify" style="--svg:url(https://api.iconify.design/clarity/email-solid.svg);" title="Email"></i><a href="/cdn-cgi/l/email-protection#dfb3b0bcb7b1baacacacb6b8b7abb6b1b8ac9fb8b2beb6b3f1bcb0b2" class="site_contact_email"><span class="__cf_email__" data-cfemail="e4888b878c8a819797978d838c908d8a8397a48389858d88ca878b89">[email&#160;protected]</span></a><br>
+					</div>
+				</div>
+			</section>
+
+		</div>
+
+		<div id="site_essentials">
+			<a href="/cookie-policy">Cookie Policy</a>
+			<a href="/sitemap">Sitemap</a>
+		</div>
+	
+	</footer>
+	</main>
+	
+	<a href="#top" class="back_up_page" aria-label="Scroll to Top of Page" title="Back to Top">^</a>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

@@ -1,0 +1,7 @@
+{"id": "long_test", "format": "long", "fps": 24,
+ "beats": [
+  {"scene": "chapter", "lines": ["첫 번째 기록."], "params": {"key": "wvow_lab", "num": 1, "title": "TNT 구역의 붉은 눈", "sub": "1966년 11월 15일, 웨스트버지니아"}, "sfx": [{"name": "typewriter", "at": 0.15, "keys": 20, "gain": 0.3}]},
+  {"scene": "photo", "lines": ["이건 목격자가 사흘 뒤 직접 그린 그림입니다.", "키가 [2미터]나 되고, 등에는 거대한 날개."], "params": {"key": "scarberry_sketch", "mode": "fit", "exposure": 0.55, "zoom": [1.0, 1.2]}},
+  {"scene": "photo", "lines": ["그리고 1967년 12월, [실버 브리지]."], "params": {"key": "bridge_old", "mode": "fill", "crop": [0.012, 0.0, 0.988, 1.0], "zoom": [1.0, 1.15]}},
+  {"scene": "photo_end", "lines": ["구독하고, 다음 파일을 열어 보세요."], "params": {"key": "statue2", "mode": "fill", "next": "다음 파일 ▶ #002 네스호의 괴물"}}
+ ]}

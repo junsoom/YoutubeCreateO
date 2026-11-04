@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+
+	<!-- Preload -->
+	<link rel="preload" fetchpriority="high" as="image" href="'https://web-cdn.org/s/1606/image/Banners/08.jpg?maxwidth=1280'" type="image/webp">
+
+	<!-- Page Tags -->
+	<meta charset="utf-8">
+	
+	<title>The Official Loch Ness Monster Sightings Register | sightings 1986 -1999</title>
+	<link rel="canonical" href="https://www.lochnesssightings.com/sightings-1986-1999">
+
+	<!-- Meta Tags -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#395363">
+
+	<!-- RSS Feed -->
+	<link rel="alternate" type="application/rss+xml"  title="The Official Loch Ness Monster Sightings Register RSS Feed"  href="https://www.lochnesssightings.com/rss/" />
+
+	<!-- Favicon -->
+	<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>&#127758;</text></svg>">
+
+	<!-- Fonts -->
+   <!-- Chango-->
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Chango&display=swap">
+	<link href="https://fonts.googleapis.com/css2?family=Chango&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+
+	<!-- Styles -->
+	<link rel="stylesheet" href="https://web-cdn.org/css/combo.css?r=1850">
+	<link rel="stylesheet" href="https://www.lochnesssightings.com/site.css?r=26033810" title="site_styles">
+	<style>
+		#header_slide1{background-image:url('https://web-cdn.org/s/1606/image/Banners/08.jpg?maxwidth=1280');}
+		#header_slide2{background-image:url('https://web-cdn.org/s/1606/image/Banners/09.jpg?maxwidth=1280');}
+		
+		@media only screen and (max-width: 500px) {
+		#header_slide1{background-image:url('https://web-cdn.org/s/1606/image/Banners/08.jpg?maxwidth=500&cropxunits=100&cropyunits=100&crop=35,0,65,100');}
+		#header_slide2{background-image:url('https://web-cdn.org/s/1606/image/Banners/09.jpg?maxwidth=500&cropxunits=100&cropyunits=100&crop=35,0,65,100');}
+		}
+
+	</style>
+
+	<!-- jQuery -->
+	
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+	
+
+	<!-- jQuery plugins -->
+	
+	<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js" defer></script>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+	
+
+	<script src="https://web-cdn.org/js/fancybox/source/jquery.fancybox.pack.js" defer></script>
+	<script src="https://web-cdn.org/js/js.cookie.min.js" defer></script>
+	<script src="https://web-cdn.org/js/doubletaptogo.js" defer></script>
+	<script src="https://web-cdn.org/js/tablesorter.js"></script>
+	
+	<script src="https://web-cdn.org/js/site.js?r=1850" defer></script>
+
+	
+	<script>
+	$.fn.openMobileMenu = function () {
+		if ($(window).width() < 1025) {
+			$('nav>ul').slideToggle(300);
+			return false;
+		} else {
+			if ($('nav').css('right') != '0px') {
+				$('nav').animate({"right":"0"}, "300");
+			} else {
+				$('nav').animate({"right":-$('nav').width()}, "300");
+			}
+		}
+	};
+
+	$(document).ready( function() {
+		
+		if ($('#header_slideshow').children().length > 1) {
+			// Shuffle slides into random starting order
+			var slides = $('#header_slideshow > div').get();
+			for (var i = slides.length - 1; i > 0; i--) {
+				var j = Math.floor(Math.random() * (i + 1));
+				var temp = slides[i];
+				slides[i] = slides[j];
+				slides[j] = temp;
+			}
+			$.each(slides, function(i, slide) {
+				$('#header_slideshow').append(slide);
+			});
+
+			$('#header_slideshow > div:gt(0)').hide();
+			setInterval(function() {
+				$('#header_slideshow > div:first')
+					.fadeOut(2000)
+					.next()
+					.fadeIn(2000)
+					.end()
+					.appendTo('#header_slideshow');
+			}, 5000);
+		}
+		
+
+		$('table.tablesorter, section.tablesorter table').tablesorter({dateFormat:'ddmmyyyy'});
+
+		$(document).on('click', 'table.tablesorter tbody td', function () {
+			var $cell = $(this);
+			var $table = $cell.closest('table');
+			var columnIndex = $cell.index();
+			var value = $.trim($cell.text()); // full text, used for matching — hidden sort-helper spans are fine here
+
+			if ($cell.hasClass('filter-active')) {
+				clearFilter($table);
+				return;
+			}
+
+			$table.find('td.filter-active').removeClass('filter-active');
+			$cell.addClass('filter-active');
+
+			$table.find('tbody tr').each(function () {
+				var cellText = $.trim($(this).find('td').eq(columnIndex).text());
+				$(this).toggle(cellText === value);
+			});
+
+			setFilterCaption($table, getDisplayText($cell));
+		});
+
+		// Strips hidden elements (e.g. sort-helper spans) before reading text, for display purposes only
+		function getDisplayText($cell) {
+			var $clone = $cell.clone();
+			$clone.find('[hidden]').remove();
+			return $.trim($clone.text());
+		}
+
+		// Clicking the caption also clears the filter
+		$(document).on('click', 'table.tablesorter caption.filter-caption', function () {
+			clearFilter($(this).closest('table'));
+		});
+
+		function setFilterCaption($table, value) {
+			var $caption = $table.find('caption.filter-caption');
+			if ($caption.length === 0) {
+				$caption = $('<caption class="filter-caption"></caption>').prependTo($table);
+			}
+			$caption.text('Filtered to "' + value + '"').show();
+		}
+
+		function clearFilter($table) {
+			$table.find('tbody tr').show();
+			$table.find('td.filter-active').removeClass('filter-active');
+			$table.find('caption.filter-caption').hide().empty();
+		}
+		
+		if ($(window).width() > 1023) {
+			$('nav li:has(ul)').doubleTapToGo();
+		}
+
+		$('#menu_opener').click( function() {
+			$('nav').openMobileMenu();
+		});
+		$('#menu_opener').keypress(function (e) {
+			var key = e.which;
+			if(key == 13) {
+				$('nav').openMobileMenu();
+			}
+		});
+
+
+		$('nav a[href="/sightings-1986-1999"]').addClass('on').attr('aria-current','page');
+		$('section.breadcrumb a:last-child').attr('aria-current','page');
+
+		$('nav li:has(ul)').addClass('has_children');
+		
+
+		$('#admin_class_toggle').click( function() {
+			$('body').toggleClass('loggedin loggedinoff');
+		});
+
+		$('section.meetings .paginator .prev').click( function() {
+			var blockId = $(this).attr('id').replace('prev_','');
+			$('#meetings_'+blockId).slideUp('slow', function(){
+				$('#meetings_'+blockId).load('/ajax/meetings/?blockid='+blockId, function(){
+					$('#meetings_'+blockId).slideDown('slow');
+				});
+			});
+		});
+
+		// mobile style 2 - child pages hidden
+		$('nav.mobile_nav_2 li.has_children').click( function() {
+			if ($(this).hasClass('open') == false) {
+				$('.sub_menu').not(this).slideUp(400);
+				$('.has_children').removeClass('open');
+				$(this).children('.sub_menu').slideDown(400);
+				$(this).toggleClass('open');
+			}
+		});
+
+	});
+
+	$(document).on('mousedown', '.bx-viewport a.fancybox', function(e) {
+		e.stopImmediatePropagation();
+		var href = $(this).attr('href');
+		$.fancybox.open({
+			href: href,
+			type: 'ajax'
+		});
+		return false;
+	});
+</script>
+	
+	<!-- Open Graph Data for Social Networks -->
+	<meta property="fb:app_id" content="163471835449">
+	<meta property="og:site_name" content="The Official Loch Ness Monster Sightings Register">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://www.lochnesssightings.com/sightings-1986-1999">
+	<meta property="og:title" content="The Official Loch Ness Monster Sightings Register | sighting">
+	<meta property="og:description" content="">
+	<meta property="og:image" content="">
+
+	<!-- Twitter Card Data -->
+	<meta name="twitter:card" content="summary_large_image">
+	
+	<meta name="twitter:domain" content="www.lochnesssightings.com">
+	<meta name="twitter:title" content="The Official Loch Ness Monster Sightings Register | sighting">
+	<meta name="twitter:description" content="">
+	<meta name="twitter:image" content="">
+	<meta name="twitter:url" content="https://www.lochnesssightings.com/sightings-1986-1999">
+
+</head>
+
+<body id="p25521" class="hyphenate margin_1 link_shadow Paid width_1280 no-aside sdf3 admin_format">
+	
+	<a href="#main_content_start" id="skip_link">Skip to Main Content</a>
+	<a href="/admin/" id="admin_tab" aria-label="Log in to Admin System" rel="nofollow"><img src="https://web-cdn.org/img/cog.png?r=14" width="22" height="23" alt="Cog Icon signifying link to Admin page"></a>
+	<a id="top" class="page_anchor"></a>
+	<main class="mobile_layout7 desktop_layout8">
+	<header class="header_layout0">
+		<div id="header_slideshow">
+<div id="header_slide1"></div>
+<div id="header_slide2"></div>
+		</div>
+		<div id="inner">
+			<h1 id="sitehead" class="header_heading">The Official Loch Ness Monster Sightings Register</h1>
+		</div>
+	</header>
+	<nav id="main_menu" class="mobile_nav_2 desktop_nav_2 nav_center" aria-label="Main Navigation">
+		<span id="menu_opener" tabindex="0"></span>
+
+		<!-- cached nav -->
+		<ul>
+			<li id="b25517">
+				<a href="/">Home</a>
+			</li>
+			<li id="b25518">
+				<a href="/sightings-from-2021-on">Sightings from 2021 on</a>
+			</li>
+			<li id="b25519">
+				<a href="/webcam-images-2021-on">Webcam images 2021 on</a>
+			</li>
+			<li id="b25520">
+				<a href="/sightings-from-2000-2020">Sightings from 2000 - 2020</a>
+			</li>
+			<li id="b25521">
+				<a href="/sightings-1986-1999">sightings 1986 -1999</a>
+			</li>
+			<li id="b25522">
+				<a href="/sightings-565-1985">Sightings 565 -1985</a>
+			</li>
+			<li id="b25523">
+				<a href="/loch-ness-essential-facts">Loch Ness - essential facts</a>
+			</li>
+			<li id="b25524">
+				<a href="/loch-ness-webcams">Loch Ness Webcams</a>
+			</li>
+			<li id="b25525">
+				<a href="/drive-the-monster-66-where-to-look-for-nessie">Drive the monster 66 - where to look for nessie</a>
+			</li>
+			<li id="b25527">
+				<a href="/monster-hunters/-researchers">Monster hunters/ researchers</a>
+			</li>
+			<li id="b25528">
+				<a href="/nessie-hunts-over-the-years">Nessie hunts over the years</a>
+			</li>
+			<li id="b25529">
+				<a href="/the-scientific-evidence">The Scientific Evidence</a>
+			</li>
+			<li id="b25530">
+				<a href="/pessie-a-prehistoric-nessie-fossil">Pessie - a Prehistoric Nessie Fossil</a>
+			</li>
+			<li id="b25531">
+				<a href="/the-best-and-worst-of-whats-been-seen">The best and worst of what's been seen</a>
+			</li>
+			<li id="b25532">
+				<a href="/fakes-jokes-and-hoaxes">Fakes, Jokes and Hoaxes</a>
+			</li>
+			<li id="b25533">
+				<a href="/nessie-in-the-news">Nessie in the news</a>
+			</li>
+			<li id="b25534">
+				<a href="/loch-morar">Loch Morar</a>
+			</li>
+			<li id="b25535">
+				<a href="/loch-lochy">Loch Lochy</a>
+			</li>
+			<li id="b25536">
+				<a href="/other-scottish-lochs">Other Scottish Lochs</a>
+			</li>
+			<li id="b25537">
+				<a href="/lake-monsters-worldwide">Lake Monsters Worldwide</a>
+			</li>
+			<li id="b25538">
+				<a href="/whats-not-a-sighting">what's not a sighting</a>
+			</li>
+			<li id="b25540">
+				<a href="/feedback">Contact Us</a>
+			</li>
+			<li id="b25541">
+				<a href="/links">Links</a>
+			</li>
+			<li id="b25542">
+				<a href="/map">Map</a>
+			</li>
+			<li id="b25543">
+				<a href="/report-a-sighting">Report a sighting</a>
+			</li>
+		</ul>
+
+	</nav>
+
+	<article>
+		<a id="main_content_start"></a>
+		<div>
+			<section id="block_56537" class="block text">
+				<div>
+				<div></div>
+					<h2><span >Loch Ness Sightings 1986 -1999</span></h2>
+					<div> <p>Just a word on these sightings. The Official Loch Ness Monster Fan Club started this register in 1996 and this register continues to collect data to this day. The sightings reported between 1985 (when Henry Bauer's list concluded) and 1995 have been collected from a number of sources - direct reports, newspaper articles, Rip Hepple's Nessletters, the <a href="http://lochnessmystery.blogspot.co.uk" target="_blank" rel="noopener">Loch Ness Mystery Blogspot</a> (where the Nessletters are now digitised) and with the help of Dr Charles Paxton of St Andrews University</p> <p><strong>1999</strong></p> <p><strong>Total for 1999 - 4</strong></p> <p>14.9.99<br>It was around 11.30 a.m. when a couple touring the area spotted in Urquhart Bay what they first thought to be a car tyre on the surface of the loch. It appeared to be about three feet long and one foot tall at its highest point. The object then moved against the waves formation in the area creating a wake as it did so. The couple saw some kind of water disturbance about three feet behind the black coloured object, which appeared to rise slightly out of the water before submerging.</p> <p>5.7.99<br>A couple on holiday from Huntly witnessed a creature in the middle of the loch at 9am.&nbsp; They watched as it moved up the loch for a period of around 20 minutes close to the Loch Ness Caravan and Camping Park. An experienced whale watcher, the man said that he had never before seen anything like it.</p> <p>30.3.99<br>A group of 6-7 people saw a head and neck rise from the water 200 yards from the south shore of the loch.&nbsp; The watched as a black shape rose and then disappeared only to reappear a few minutes later.&nbsp; The was witnessed from a lay by opposite Urquhart castle.&nbsp; One witnessed described the head as being about 18 inches in height.</p> <p>22.2.99</p> <p>For the first time in since June 1963, Nessie was spotted out of the water on the shores of Loch Ness by an American visitor to the area.&nbsp; This unique sighting took place at 8.30 in the evening on the beach between Dores and Foyers where the creature, said to be between 10-15 metres in length with a long neck, scurried off into the water as the man approached.</p> <p><strong>1998</strong></p> <p><strong>Total for year -10</strong></p> <p>31.12.98&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A local couple saw a hump shape like an upturned boat for about 10-15 seconds&nbsp; during the afternoon of New Years eve.</p> <p>24.10.98&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A Hertfordshire couple on holiday in the area saw a large creature moving under the&nbsp; waters of the loch at 1100 hours about half way up the loch..</p> <p>20.10.98&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A local van driver spotted something in the flat calm waters of the loch at 1100 hours&nbsp; near Cherry Island.&nbsp;</p> <p>22.9.98&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A monster hunter undertaking an early morning watch of the loch reported a strange fast moving wake near the Loch Ness Caravan and Camping Park at Invermoriston.</p> <p>5.9.98&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Mitchison from Newcastle man and his family were aboard the boat &ldquo;Nessie Hunter&rdquo; when the man videoed an unidentified creature just south of Urquhart Castle.</p> <p>16.7.98&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An Invermoriston woman saw a wake and humps travel across the loch towards them at 2130 hours.</p> <p>12.7.98&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A man visiting from Fife saw a high speed v-shaped wake appear in the middle of the loch.</p> <p>19.6.98&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A group enjoying an evening cruise on the &ldquo;Jacobite Queen&rdquo; saw a large object in the water near Urquhart Castle.</p> <p>17.6.98&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Four men saw a large creature in the loch early in the morning near Inverfarigaig.</p> <p>30.5.98&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A Marlborough woman reported a black object about ten feet high in the water directly beside Urquhart Castle.</p> <p><strong>1997</strong></p> <p><strong>Total for year - 17</strong></p> <p>26.12.97 -&nbsp; at 8.30am Aron Bowers was driving up the hill on the A82 out of Lewiston when glancing out to his left, eh and his friend from Stoke saw a distubanc eout in Urquhart Bayopposite Temple pier. There was a c100 foot linear disturbance of water about 3-4 feet wide which was attached to a 50-60 foot circular disturbance. The appearance was of a sizeable object that had sped away from a stationary position, turned and circled to the left and disappeared.<br><br>&nbsp;24.10.97&nbsp;&nbsp;&nbsp; A black hump appeared in the water near the jetty at Fort Augustus.&nbsp; A man on holiday from Birmingham took two photos of the creature.</p> <p>13.8.97&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A large&nbsp; dark coloured object appeared in the water near Abriachan and moved through the water at speed.</p> <p>9.8.97&nbsp;&nbsp; A camper staying at the Loch Ness Caravan and Camping Park at Invermoriston reported a strange incident which happened at 3 o&rsquo;clock in the morning.</p> <p>4.7.97&nbsp;&nbsp;&nbsp; The &ldquo;Royal Scot&rdquo; reported a similar contact at a depth of 300 feet to those spotted on 2 July.</p> <p>2.7.97&nbsp;&nbsp;&nbsp; The &ldquo;Royal Scot&rdquo; from Fort Augustus had two sonar contacts at a depth of 400 feet in a trench just north of Fort Augustus.</p> <p>21.6.97&nbsp;&nbsp;&nbsp;&nbsp; A dark object was spotted&nbsp; moving swiftly across the loch about one mile south of Urquhart Castle at 0900 hours.&nbsp;<br><br>14.6.97&nbsp;&nbsp;&nbsp;&nbsp; A pole like object&nbsp; appeared from the water near Dores on top of which was a small head that looked around before disappearing.</p> <p>28.5.97 &ndash; Elaine Hall saw a series of humps move through the water at Invermoriston</p> <p>22.3.97&nbsp;&nbsp;&nbsp; Richard White of Muir of Ord was travelling down the south side of the loch when he saw a number of black humps moving through the water about 200m from the shore. This is what he saw:</p> <p ><img  src="https://web-cdn.org/s/1606/image/Old-Site/richard-white-1997.jpg" alt=""></p> <p>17.3.97&nbsp; A local man from Glenurquhart reported seeing two humps in the water close to Abriachan.</p> <p>16.2.97&nbsp;&nbsp; A family reported an object travelling quickly through the water near Foyers</p> <p>The Bob Rines expedition also had four large contacts on sonar in the Urquhart Bay area during the summer, bringing the total number of contacts to 17.</p> <p><strong>1996</strong></p> <p><strong>Total for year - 17</strong></p> <p>1.3.96&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cigar shaped object seen at entrance to Caledonian Canal at Fort Augustus</p> <p>7.3.96&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Large black &lsquo;lump&rsquo; seen travelling across loch towards Dores from Abriachan</p> <p>14.3.96&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dark hump appeared twice in quick succession between Dores and Abriachan</p> <p>9.4.96&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shiny black object with 30 foot trail spotted just north of Fort Augustus</p> <p>9.4.96&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Two humps rose from water and left trail behind - north of Fort Augustus</p> <p>10.4.96&nbsp;&nbsp;&nbsp;&nbsp; Dark object with head and neck visible followed for 4 miles down loch</p> <p>13.5.96&nbsp;&nbsp;&nbsp;&nbsp; Object and wake seen just off Urquhart Castle around midday</p> <p>14.5.96&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photo taken of &lsquo;something spooky&rsquo; at the loch - photo now with NASA</p> <p>June 1996 - reported in 2025, Ronnie Smith from Edinburgh said:&nbsp;</p> <p class="Normal tm5"><span class="tm6">"I have been a commercial fisherman for over 50 years and I feel it is time I spoke out about an incident I and my two crew at the time witnessed while going through Loch Ness in1996.</span></p> <p class="Normal tm5"><span class="tm6">I had taken this route in previous years and noticed at times an unusual disturbance in the water in this area but for some reason decided this time to investigate. Slowly approaching the disturbed area, I asked the crew to go up to the whaleback which they did and became extremely excited. I joined them and was totally shocked when we watched creatures some four to five feet below the surface swimming in an ellipse shape appearing to chase each other. They were turning starboard showing us their left side which indicated they were not small but because the surface was disturbed by their movement the rear was not clear enough to gauge the length. The front shape was clear enough to see it was not long but more of a crocodile shape with a left forward fin and a broad back and a tail which must have provided the power. My boat was 72ft and the broken water ellipse was at least 70 &ndash; 100 yards long. We observed them for at least 10 minutes in which time they looked as if they were chasing their tails and never stopped or dived. Looking back, it could be they were corralling the salmon which was plentiful at the time or it was a breeding courtship"&nbsp;<br></span></p> <p class="Normal tm5"><span class="tm6">Detailing the actual sighting:-</span></p> <p class="Normal tm5"><span class="tm6">Our height of eye from whaleback was at least 15ft and distance from the nearest edge of disturbed water was 20-25ft. Weather that day was breath calm and the creatures never stopped moving or diving. We stayed at least 10 minutes observing them and they were still active when we decided to leave. Our estimate of the creatures was about 20 &ndash; 30ft"</span></p> <p class="Normal tm5"><span class="tm6">This is his recollection of what he saw:</span></p> <p class="Normal tm5"><span class="tm6"><img src="https://web-cdn.org/s/1606/image/Old-Site/r-smith-image.jpeg" alt="">&nbsp;<br></span></p> <p>13.6.96&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frothy disturbance seen near Foyers in the evening by 16 people</p> <p>1.7.96&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Two black lumps appeared from water between Dores and Abriachan</p> <p>21.7.96&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dark hump appeared off Invermoriston - seen by two people</p> <p>1.8.96&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Black shiny hump seen off pier at Fort Augustus in late afternoon</p> <p>9.8.96&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photo taken of unidentified object in water opposite Urquhart bay</p> <p>11.8.96&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photo taken of &lsquo;solid black object&rsquo; in water across from Abriachan</p> <p>18.8.96&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Head and neck photographed off Invermoriston Camp Site</p> <p>22.8.96&nbsp;&nbsp;&nbsp;&nbsp; Two humps and a tail spotted by fishermen near Invermoriston.</p> <p>7.9.96&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Several &lsquo;black and shiny&rsquo; humps appeared in middle of loch near Abriachan</p> <p><strong>1995</strong></p> <p><strong>Total for year - 2</strong></p> <p>September 1995 - Lorna Taylor reported seeing a head, neck and body rising out of loch near Urquhart Castle</p> <p>Bill Bolton &amp; Allan Whitfield spotted something unexplained from the Loch Ness Submarine in July - reported in the Sunday Telegraph 30.7.95<br><br><strong>1994</strong></p> <p><strong>Total for year - 5</strong></p> <p>Rita Goold spotted something unexplained in May on the far side of Loch from the Clansman Marina- reported in Nessletter 122</p> <p>Fiona Mackay and Erroll David spotted something unexplained on June 1- reported in Paleoworld The Loch Ness Secret on the Loch Ness Discovered DVD</p> <p>25 July 1994 &ndash; Peter Hanson of Richmond, Yorkshire, snapped a creature &lsquo;with a long neck&rsquo; when he took a trip in the Loch Ness Submarine.</p> <p>26 August 1994 - James Brown saw a black object moving across the loch 2.5km north of Fort Augustus. It was estimated to be 1.2m wide and 1.8m with a long oval body.</p> <p>2 September 1994 &ndash; Luis and Luisa Guimares, on holiday from Portugal, snapped three black humps and a wake in the loch opposite Urquhart Castle. The sighting was witnessed by Inverness taxi driver Iain MacGregor.</p> <p><strong>1993</strong></p> <p><strong>Total for year - 3</strong></p> <p>Roland O' Brien spotted something unexplained on August 10 in Dores Bay &ndash; reported in Highland News August 28th 1993</p> <p>22 June 1993 - Edna MacInnes took picture showing a wake moving down the loch near Dores. The creature was also seen from the other side of the loch by James McIntosh and his son</p> <p>Mr. C. Mitchell spotted something unexplained on May 5 at 6.30pm off Foyers &ndash; reported in Nessletter 119&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> <p><strong>1992</strong></p> <p><strong>Total for year - 8</strong></p> <p>Late 1992 - in new analysis completed in 2020, long time Alan McKenna investigator reviewed footage from a 1992 documentary. A slowed down portion of the original video appears to show an animate object, larger than a seal or otter, in the loch. The original footage can be seen at this link at the 14:40 timing mark:</p> <p><a href="https://m.youtube.com/watch?v=jYnZoQ9E17Y&amp;feature=youtu.be" target="_blank" rel="noopener">https://m.youtube.com/watch?v=jYnZoQ9E17Y&amp;feature=youtu.be</a></p> <p>30 November 1992 &ndash; Jockie Thomson of Primrose Bay, Invermoriston reported seeing a creature with a large head rising about 4 feet out of the water &ndash; the sighting lasted three minutes.</p> <p>Mr and Mrs Fulton spotted something unexplained from a moored boat on September 19 at 10.30am in Urquhart Bay &ndash; reported in Nessletter 112&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>Rhona More from Glen Urquhart spotted something unexplained on September 18 between Abriachan and the Clansman &ndash; reported in the Inverness Courier 29th September</p> <p>Stuart Ross MacDonald spotted something unexplained on September 17 between Foyers and Inverness &ndash; reported in Nessletter 111&nbsp;&nbsp;</p> <p>Mrs Valery Ann Moffat spotted something unexplained&nbsp; in mid-September in Urquhart Bay &ndash; reported in Nessletter 119&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>July 12th- Murdo Urquhart reported seeing a green/black creature near Aldourie Castle in the early evening. He wasdriving at the timeand unable to stop to get a better look - reported in Highland News</p> <p>Steve Feltham spotted something unexplained in May at Fort Augustus, Loch Ness &ndash; reported in an interview in CFZ Yearbook 2004&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> <p><strong>1991</strong></p> <p><strong>Total for year - 2</strong></p> <p>Hector MacDonald of the Scott II spotted something unexplained in September between Tor Point and Dores Bay &ndash; reported in Nessletter 109</p> <p>28 June 1991 &ndash; early in the morning, Margaret MacLennan of Dores reported seeing a creature that was around 6 feet in length with a &lsquo;crocodile skin&rsquo; moving against the wind some 30 yards from her house. The sighting was reported to Steve Feltham</p> <p><strong>1990</strong></p> <p><strong>Total for year - 3</strong></p> <p>Helen Cross spotted something unexplained on October 13 in Urquhart Bay- reported in Nessletter 107</p> <p>26 April 1990 &ndash; Trevor Davis and Jimmy MacIntyre, both of Inverness, reported seeing a &lsquo;huge creature&rsquo; circling in the water near the mouth of the River Foyers. Its neck rose six feet out of the water.</p> <p>Michael Davies&nbsp; spotted something unexplained on April 23 - reported in the Inverness Courier, &nbsp;April 27th 1990</p> <p><strong>1989</strong></p> <p>30 May 1989 &ndash; Mr &amp; Mars Bergquist, visiting from San Diego saw a large hump with its own wake at 11.30 am in clear bright weather. The sighting took place in the loch off the Clansman Hotel.</p> <p>25 June 1989 &ndash; Mrs Judy Chafin, visiting from Vancouver Island filmed a 10ft long animal with a basketball sized head zig zagging across Urquhart Bay at 4.45pm in the afternoon. The sighting was verified as an unknown animal by Dr Gordon Williamson, an Inverness based Marine Biologist.</p> <p><strong>1988</strong></p> <p>Ron and Gavin Carty spotted something unexplained off Urquhart Castle on December 29 &ndash; reported in Nessletter 92&nbsp;&nbsp;</p> <p>Neal Stevenson&nbsp; spotted something unexplained off Urquhart Castle on October 25 at 10.45am&nbsp; - reported in Nessletter 91&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>31 August 1988 - John Galbraith, Skipper of the Campbeltown based Prawn Trawler &lsquo;Sapphire&rsquo; picked up an usual sonar reading in Foyers Bay. The creature was estimated to be between 90 and 120 feet long and the sighting lasted two minutes.</p> <p>Andrew Williams and his girlfriend spotted something unexplained in July between Fort August and Invermoriston &ndash; reported in Nessletter 111</p> <p>Norman Mackenzie spotted something unexplained on June 3 at, Johnny's Point (2.5 miles off Fort Augustus) - reported in the Sunday Post&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>Mr. D.C. Williams spotted something unexplained on May 19 &ndash; reported in Nessletter 93&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>Andreas Trottman spotted something unexplained in Urquhart Bay at around 6.30am in early May - reported in Nessletter 93&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>Frank Iannella spotted something unexplained on May 9 &ndash; reported in Nessletter 88&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>Laura Miller &amp; 4 friends spotted something unexplained at the Loch in January &ndash; reported in Nessletter 88</p> <p><strong>1987</strong></p> <p>9 October 1987 &ndash; Adrian Shine, leader of Operation Deepscan, located a large unidentified moving object in the loch. He acknowledged that it was a living creature.</p> <p>Jim Hogg &amp; Alan O'Hara spotted something unexplained&nbsp; on September 21 at 3.50pm &ndash; reported in Nessletter 86&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>Mrs C. Wilcox spotted something unexplained on August 29 &ndash; reported in Nessletter 86&nbsp;&nbsp;</p> <p>Tommy Mattson spotted something unexplained in the middle of the loch on August 22&nbsp; at 2.47pm - reported in Nessletter 86&nbsp;</p> <p>Ron MacLennan spotted something unexplained on July 23 at 4.40pm, near Tor Point reported in Nessletter 83&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>Barbara Grant&nbsp;&nbsp;&nbsp; spotted something unexplained on July&nbsp; 21 at 8.30am near Abriachan &ndash; reported in Nessletter 83</p> <p>Eoin O Faodhagain, visting from Ireland reported "On the afternoon of the 15th of July 1987, I was upstairs in a scheduled bus, coming from Fort Augustus going to Drumnadroichit. The day was overcast and there was a force 8 gale blowing north south with a swell&nbsp;on the Loch of two to three feet. Nearing Invermoriston, as I was gazing through the window of the bus, I noticed a large boulder, like a huge rock out in the loch. I knew as a glacial lake there wasn't any boulders out in the loch as the sides go straight down. The object was mottled brown in colour and the swell of the waves only came up half way on the object so I estimated&nbsp;that it was at least five feet out of the water, the length looked more than the height maybe five to eight feet long. I could not say it was moving, as the bus was moving, I got the impression, it was stationary. I watched the object for less than two minutes, but it felt like eternity, that was the effect it had on me, stunned. My sighting ended when as the bus got nearer Invermoriston,&nbsp;&nbsp;the dreaded forestry got in the way of my line of sight at the loch, and no more of it could I see or my Nessie. At the time I felt overwhelmed and deflated all in the space of two minutes. I was out on a small cruiser the next day at the castle and after speaking to the skipper, that is when I found out what the swell was on the Loch the previous day, and with this information I was able to judge how high this object I saw was out of the water. I never opened my mouth on the bus during the sighting, I was too engrossed what I was looking at to say anything."</p> <p>Lorraine Davidson spotted something unexplained in the evening around mid-June - reported in Nessletter 87&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>Miles Cato spotted something unexplained near Borlum Bay in mid-March 1987 &ndash; reported in Nessletter 87&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>Dr and Mrs Ayles spotted something unexplained in early March at 3.55pm &ndash; reported in the Press and Journal March 7th 1987.&nbsp;&nbsp;&nbsp;</p> <p><strong>1986</strong></p> <p>Norrie Macleod spotted something unexplained in November off Dores -reported in the Highland News 22nd November 1986&nbsp;&nbsp;</p> <p>12 November 1986 &ndash; Mr Alan Lamb and his wife Helen spotted a dark grey object in the middle of the loch opposite Urquhart castle. The sighting took place at 8.45am and lasted 5 minutes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>Jean Skeldon spotted something unexplained one evening in early October in Dores Bay&nbsp; reported in Nessletter 79&nbsp;&nbsp;&nbsp;</p> <p>17 August 1986 &ndash; Sharon Boulton and Catriona Murray, both of Drumnadrochit, reported seeing a dark shape surfacing and submerging near Urquhart castle</p> <p>Brian O'Brian in early June spotted something unexplained outside of Urquhart Bay - reported in Nessletter 78</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p></div>
+					
+				</div>
+			</section>
+
+		</div>
+	</article>
+	<footer>
+		<div>
+			<section id="block_56562" class="block contact-details  noteditable">
+				<div>
+				
+					<div>
+						<i class="iconify" style="--svg:url(https://api.iconify.design/clarity/email-solid.svg);" title="Email"></i><a href="/cdn-cgi/l/email-protection#98f4f7fbf0f6fdebebebf1fff0ecf1f6ffebd8fff5f9f1f4b6fbf7f5" class="site_contact_email"><span class="__cf_email__" data-cfemail="0e62616d66606b7d7d7d6769667a6760697d4e69636f6762206d6163">[email&#160;protected]</span></a><br>
+					</div>
+				</div>
+			</section>
+
+		</div>
+
+		<div id="site_essentials">
+			<a href="/cookie-policy">Cookie Policy</a>
+			<a href="/sitemap">Sitemap</a>
+		</div>
+	
+	</footer>
+	</main>
+	
+	<a href="#top" class="back_up_page" aria-label="Scroll to Top of Page" title="Back to Top">^</a>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

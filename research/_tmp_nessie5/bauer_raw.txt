@@ -1,0 +1,1217 @@
+===FILE 1916-to-1933.pdf
+---PAGE 1
+0.0887	0.9213	1916
+0.0405	0.8898	James Cameron: obs. 9 in Mackal, Monsters of Loch Ness; Costello, In
+0.0550	0.8750	Search of Lake Monsters, 29
+0.0420	0.8512	Andrew Urquhart: Nessletter, no. 28, Ness Information Service: R. R.
+0.0551	0.8296	Hepple, Huntshieldford, St. Johns Chapel, Bishop Auckland, Co. Dur-
+0.0552	0.8157	ham, England DL13 1RQ
+0.0871	0.7886	1917
+0.0405	0.7576	W. Cary: Dinsdale, Leviathans, 195; National Geographic, June 1977
+0.0872	0.7391	1919
+0.0406	0.7094	Feb., Jack Forbes: Witchell, Loch Ness Story, 1976, p. 130
+0.0870	0.6868	1923
+0.0405	0.6542	Apr., A. Cruikshank: land sight. no. 7 in Mackal, Monsters of Loch
+0.0536	0.6390	Ness; Witchell, Loch Ness Story, 1976, p. 131
+0.0406	0.6165	May 10, W. Miller: obs. no. 10 in Mackal, Monsters of Loch Ness; Cos-
+0.0537	0.5980	tello, In Search of Lake Monsters, 30
+0.0872	0.5756	1924
+0.0391	0.5477	Angus Cameron: Inverness Courier, 4 Sept. 1964
+0.0843	0.5238	1926
+0.0376	0.4930	Simon Cameron: Witchell, Loch Ness Story, 1976, p. 30
+0.0858	0.4741	1927
+0.0391	0.4469	Costello, In Search of Lake Monsters, 25
+0.0376	0.4235	F. Macleod: Northern Chronicle, 20 Feb. 1935
+0.0377	0.4046	July, Francis Stuart: Scotsman, 16 June 1956
+0.0377	0.3518	Aug., Mrs. Cummings: obs. no. 11 in Mackal, Monsters of Loch Ness;
+0.0522	0.3326	Costello, In Search of Lake Monsters, 24
+0.0843	0.3105	1920s
+0.0378	0.2835	Witchell, Loch Ness Story, 1976, p. 133
+0.0348	0.2318	July 14 or 22, lan Milne: obs. no. 12 in Mackal, Monsters of Loch Ness;
+0.0507	0.2082	Costello, In Search of Lake Monsters, 24; Witchell, Loch Ness Story,
+0.0507	0.1942	1976, p. 46
+0.0828	0.1677	1931
+0.0347	0.1396	J. J. Christie: Inverness Courier, 5 Mar. 1948
+0.0362	0.0863	Feb. 7, John Cameron: obs. no. 15 in Mackal, Monsters of Loch Ness;
+0.0507	0.0654	Costello, In Search of Lake Monsters, 30; Constance Whyte, More
+0.0492	0.0435	than a Legend, London: Hamish Hamilton, 1957, p. 204 (all subse-
+0.0493	0.0288	quent references are to this edition).
+0.5654	0.9129	Mrs. MacDonald: obs. no. 16 in Mackal, Monsters of Loch Ness; Inver-
+0.5784	0.8929	ness Courier, 12 Jan. 1934
+0.5654	0.8444	Inverness Courier, 22 Dec. 1933
+0.5640	0.8219	Jan., Alexander Davidson: ibid., 12 Jan. 1934
+0.5640	0.8012	Mar., Miss McDonald: Times (London), 15 Dec. 1933
+0.5654	0.7805	Apr., Sir Compton MacKenzie: Costello, In Search of Lake Monsters, 22
+0.5653	0.7586	Apr. 10: Reader's Digest (German edition), Apr. 1977
+0.5654	0.7433	Apr. 14, Mrs. MacKay: obs. nos. 18-19 in Mackal, Monsters of Loch
+0.5798	0.7169	Ness; Witchell, Loch Ness Story, 1976, p. 43; Whyte, More than a
+0.5784	0.7012	Legend, 206
+0.5640	0.6812	Spring, A. Davidson: Inverness Courier, 12 Jan. 1934
+0.5653	0.6570	May 11, A. Shaw: obs. no. 21 in Mackal, Monsters of Loch Ness; Cos-
+0.5770	0.6397	tello, In Search of Lake Monsters, 30
+0.5654	0.6169	May ?, A.S.: obs. no. 22 in Mackal, Monsters of Loch Ness; Whyte,
+0.5785	0.5982	More than a Legend, 206
+0.5654	0.5775	May 27, Mr. & Mrs. Simpson: obs. nos. 23-25 in Mackal, Monsters of
+0.5770	0.5550	Loch Ness; Costello, In Search of Lake Monsters, 31; Whyte, More
+0.5785	0.5380	than a Legend, 205
+0.5640	0.5152	May ?: Costello, In Search of Lake Monsters, 31
+0.5639	0.4930	May 31: Binns, Loch Ness Mystery Solved, 19; Inverness Courier, 2 June
+0.5640	0.4534	May/June, McLennans: obs. no. 26 in Mackal, Monsters of Loch Ness;
+0.5785	0.4348	Costello, In Search of Lake Monsters, 30
+0.5625	0.4161	June 1: Binns, Loch Ness Mystery Solved, 19; Maurice Burton, The Elu-
+0.5784	0.3922	sive Monster, London: Rupert Hart-Davis, 1961, p. 19; Costello, In
+0.5785	0.3747	Search of Lake Monsters, 31
+0.5625	0.3540	June 8, J. Cameron: Binns, Loch Ness Mystery Solved, 88; Inverness
+0.5770	0.3333	Courier, 2 June 1933; Witchell, Loch Ness Story, 1976, p. 47
+0.5625	0.3126	June 15, F. Sutherland: Northern Chronicle, 21 June 1933
+0.5625	0.2939	June 27: Witchell, Loch Ness Story, 1976, p. 47
+0.5625	0.2732	June ?, A. Ross: obs. no. 27 in Mackal, Monsters of Loch Ness
+0.5625	0.2524	July 1, Lay monk: Northern Chronicle, 12 July 1933
+0.5625	0.2317	July 8: Northern Chronicle, 12 July 1933
+0.5625	0.2130	July 10, A. Frazer: Zeit, 31 Dec. 1936
+0.5625	0.1902	July 15, J. Simpson: obs. no. 28 in Mackal, Monsters of Loch Ness
+0.5625	0.1693	July 22, Spicer: Inverness Courier, 4 Aug. 1933; land sight. no. 11 in
+0.5784	0.1459	Mackal, Monsters of Loch Ness; Dinsdale, Loch Ness Monster, 32;
+0.5785	0.1304	Burton, Elusive Monster, 149
+0.5625	0.1097	July 26, Wm. Grant: Northern Chronicle, 26 July 1933
+0.5654	0.0890	Aug., Mrs. McLennan: land sight. no. 12 in Mackal, Monsters of Loch
+0.5785	0.0683	Ness; Burton, Elusive Monster, 150; Costello, In Search of Lake Mon-
+0.5785	0.0476	sters, 35; Witchell, Loch Ness Story, 1976, p. 136
+0.5654	0.0269	Aug. 5, Miss N. Smith: obs. no. 29 in Mackal, Monsters of Loch Ness;
+===FILE 1933-to-1933.pdf
+---PAGE 1
+0.0507	0.9117	Binns, Loch Ness Mystery Solved, 21, 173; Inverness Courier, 8 Aug.
+0.0377	0.8735	Aug. 5, Miss Keyes: obs. no. 30 in Mackal, Monsters of Loch Ness; Cos-
+0.0493	0.8516	tello, In Search of Lake Monsters, 41; Inverness Courier, 8 Aug. 1933
+0.0377	0.8316	Aug. 9, Mrs. Cheshire: Binns, Loch Ness Mystery Solued, 22; Inverness
+0.0523	0.8180	Courier, 11 Aug. 1933
+0.0362	0.7921	Aug. 11, A. H. Palmer: obs. no. 31 in Mackal, Monsters of Loch Ness;
+0.0507	0.7693	Costello, In Search of Lake Monsters, 41; Whyte, More than a Leg-
+0.0362	0.7304	Aug. 15, John Cameron: obs. no. 34 in Mackal, Monsters of Loch Ness
+0.0362	0.7105	Aug. 16, Mrs. Scott: obs. no. 36 in ibid.; Whyte, More than a Legend,
+0.0362	0.6711	Aug. 18, Mrs. McDonnell: obs. no. 37 in Mackal, Monsters of Loch
+0.0494	0.6543	Ness; Whyte, More than a Legend, 205
+0.0362	0.6325	Aug. 19, Moir: obs. no. 38 in Mackal, Monsters of Loch Ness
+0.0362	0.6116	Aug. 24, Mrs. Rathray: Burton, Elusive Monster, 24
+0.0362	0.5912	Aug. 26, W.D.H.M.: Whyte, More than a Legend, 204
+0.0362	0.5737	Aug. 31: Inverness Courier, 6 Sept. 1933
+0.0362	0.5509	Aug. ?, Hector Macphail: obs. no. 41 in Mackal, Monsters of Loch Ness
+0.0362	0.5276	Aug. ?, G. McQueen: obs. no. 32 in ibid.; Whyte, More than a Legend,
+0.0362	0.4916	Aug. ?, R. Fullerton: obs. no. 33 in Mackal, Monsters of Loch Ness
+0.0362	0.4697	Aug. ?, A.J.G.: obs. no. 35 in ibid.; Whyte, More than a Legend, 202
+0.0348	0.4509	Sept. 13, J. Cameron: Inverness Courier, 15 Sept. 1933
+0.0349	0.4355	Sept. 14: ibid.
+0.0347	0.4087	Sept. 14, James Cameron: ibid.; Binns, Loch Ness Mystery Solved, 22
+0.0333	0.3891	Sept. 22, Miss Fraser: obs. no. 43 in Mackal, Monsters of Loch Ness;
+0.0478	0.3675	Burton, Elusive Monster, 119; Costello, In Search of Lake Monsters,
+0.0478	0.3506	42; Witchell, Loch Ness Story, 1976, p. 48
+0.0348	0.3290	Sept. 22, D. W. Morrison: obs. nos. 44, 46 in Mackal, Monsters of Loch
+0.0493	0.3081	Ness; Costello, In Search of Lake Monsters, 42; Whyte, More than a
+0.0479	0.2941	Legend, 204
+0.0333	0.2691	Sept. 22, George Macqueen: Inverness Courier, 26 Sept. 1933
+0.0333	0.2482	Sept. 22, A. Campbell: Whyte, More than a Legend, 203; obs. no. 45 in
+0.0478	0.2280	Mackal, Monsters of Loch Ness; Binns, Loch Ness Mystery Solved, 76
+0.0332	0.2049	Sept. ?, James Cameron: Whyte, More than a Legend, 204; obs. no. 47 in
+0.0478	0.1901	Mackal, Monsters of Loch Ness
+0.0334	0.1688	Sept. ?, J.M. McSkimming: obs. no. 42 in Mackal, Monsters of Loch
+0.0333	0.1261	Oct. 1, Russell: obs. no. 48 in ibid.; Binns, Loch Ness Mystery Solved,
+0.0464	0.1081	122; Costello, In Search of Lake Monsters, 43
+0.0333	0.0852	Oct. 18, Mrs. G.: obs. no. 49 in Mackal, Monsters of Loch Ness; Whyte,
+0.0480	0.0693	More than a Legend, 202
+0.0333	0.0461	Oct. 20, Connell (Scott II): obs. no. 50 in Mackal, Monsters of Loch
+0.0464	0.0272	Ness; Inverness Courier, 24 Oct. 1933
+0.5624	0.9115	Oct. 22, Mrs. J. Simpson: obs. no. 51 in Mackal, Monsters of Loch Ness;
+0.5785	0.8937	Costello, In Search of Lake Monsters, 43; Binns, Loch Ness Mystery
+0.5768	0.8720	Solved, 122
+0.5625	0.8508	Oct. 22, A. Gillies: Inverness Courier, 27 Oct. 1933; Whyte, More than a
+0.5770	0.8320	Legend, 201-2; obs. no. 52 in Mackal, Monsters of Loch Ness
+0.5640	0.8119	Oct. 22 or 27, Miss McDonald: obs. no. 54 in Mackal, Monsters of Loch
+0.5770	0.7955	Ness
+0.5639	0.7704	Oct. 30, McLeod: obs. no. 55 in ibid.; Inverness Courier, 31 Oct. 1933
+0.5640	0.7503	Oct. ?, Whyte, More than a Legend, 49; Costello, In Search of Lake
+0.5785	0.7299	Monsters, 66
+0.5640	0.7117	Autumn, O'Flynn: obs. no. 56 in Mackal, Monsters of Loch Ness
+0.5640	0.6912	Nov. 10, McRae: obs. no. 57 in ibid.; Inverness Courier, 14 Dec. 1933
+0.5640	0.6708	Nov. 10, Mrs. A. Pimley: Inverness Courier, 14 Dec. 1933
+0.5639	0.6488	Nov. 11, John Cameron: obs. no. 58 in Mackal, Monsters of Loch Ness;
+0.5784	0.6293	Whyte, More than a Legend, 201
+0.5639	0.6090	*Nov. 12, Hugh Gray: photo 1 in Mackal, Monsters of Loch Ness; Bur-
+0.5770	0.5910	ton, Elusive Monster, 78; Costello, In Search of Lake Monsters, 38;
+0.5785	0.5706	Witchell, Loch Ness Story, 1976, p. 56
+0.5639	0.5490	Nov. 14, Mr. & Mrs. Kirton: obs. no. 59 in Mackal, Monsters of Loch
+0.5785	0.5295	Ness; Binns, Loch Ness Mystery Solved, 93; Times (London), 27 Dec.
+0.5639	0.4881	mid-Nov., B. MacKenzie: Times (London), 18 Dec. 1933
+0.5639	0.4667	Nov. 17, A.R.McF.: obs. no. 60 in Mackal, Monsters of Loch Ness;
+0.5770	0.4499	Whyte, More than a Legend, 201
+0.5639	0.4254	Nov. 20, Miss Simpson: Burton, Elusive Monster, 122; obs. no. 61 in
+0.5784	0.4083	Mackal, Monsters of Loch Ness
+0.5640	0.3885	Nov. 23: Times (London), 9 Dec. 1933
+0.5638	0.3618	Nov. 24, Rev. D.: obs. no. 62 in Mackal, Monsters of Loch Ness
+0.5654	0.3456	Oct./Nov., Mrs. Cameron: Inverness Courier, 12 Jan. 1934
+0.5640	0.3272	early Dec., Mr. & Mrs. MacKenzie: Times (London), 18 Dec. 1933
+0.5654	0.3066	Dec. 6, A. Macdonald: ibid.
+0.5654	0.2860	Dec. 6, A. Bisset: Inverness Courier, 8 Dec. 1933
+0.5654	0.2624	Dec. 11, Mr. O.: obs. no. 63 in Mackal, Monsters of Loch Ness; Whyte,
+0.5798	0.2462	More than a Legend, 201
+0.5654	0.2270	*Dec. 12, M. Irvine: film 3 in Mackal, Monsters of Loch Ness; Burton,
+0.5799	0.2064	Elusive Monster, 72; Costello, In Search of Lake Monsters, 43; Witch-
+0.5785	0.1859	ell, Loch Ness Story, 1976, p. 57
+0.5653	0.1652	Dec. 13, A. Gillies: Inverness Courier, 15 Dec. 1933
+0.5654	0.1472	Dec. 18: Times (London), 18 Dec. 1933
+0.5654	0.1268	Dec. 19: Daily Mail, 21 Dec. 1933
+0.5654	0.1043	Dec. 20, Wetherall: Costello, In Search of Lake Monsters, 45; Witchell,
+0.5798	0.0832	Loch Ness Story, 1976, p. 60
+0.5668	0.0650	Dec. 20, Mrs. Reid: land sight. no. 12 in Mackal, Monsters of Loch
+0.5799	0.0450	Ness; Costello, In Search of Lake Monsters, 35; Witchell, Loch Ness
+0.5799	0.0266	Story, 1976, p. 136; Inverness Courier, 26 Dec. 1933
+===FILE 1933-to-1934.pdf
+---PAGE 1
+0.0420	0.9081	Dec. 25, Mach: obs. no. 64 in Mackal, Monsters of Loch Ness; Whyte,
+0.0579	0.8945	More than a Legend, 205
+0.0435	0.8712	Dec. 26, J. Kirton: obs. no. 65 in Mackal, Monsters of Loch Ness; Times
+0.0552	0.8568	(London), 27 Dec. 1933
+0.0420	0.8281	Dec. 27, G. Jamieson: obs. no. 66 in Mackal, Monsters of Loch Ness;
+0.0565	0.8073	Burton, Elusive Monster, 123; Whyte, More than a Legend, 200
+0.0420	0.7880	Dec. 27, S. Mackintosh: Times (London), 29 Dec. 1933
+0.0421	0.7747	Dec. 28: ibid.
+0.0420	0.7512	Dec. 29: Inverness Courier, 29 Dec. 1933
+0.0420	0.7243	Dec. 30, John Deans: Times (London), 1 Jan. 1934; obs. no. 67 in
+0.0552	0.7116	Mackal, Monsters of Loch Ness
+0.0420	0.6877	Dec. 30, Goodbody: obs. no. 68 in Mackal, Monsters of Loch Ness
+0.0420	0.6664	Dec. ?, H. F. Hay: Costello, In Search of Lake Monsters, 48
+0.0420	0.6447	?, Mrs. E. Price-Hughes: land sight. no. 10 in Mackal, Monsters of Loch
+0.0551	0.6262	Ness; Costello, In Search of Lake Monsters, 121
+0.0405	0.6046	?, Wm. McLean: Witchell, Loch Ness Story, 1976, p. 136
+0.0405	0.5858	?, Mrs. Kirton: obs. no. 17 in Mackal, Monsters of Loch Ness
+0.0406	0.5675	?, A. J. Gray: Inverness Courier, 21 June 1935
+0.0405	0.5455	?: Witchell, Loch Ness Story, 1976, p. 53
+0.0392	0.4969	Costello, In Search of Lake Monsters, 143
+0.0391	0.4702	early, Mrs. McL.: obs. no. 70 in Mackal, Monsters of Loch Ness; Whyte,
+0.0550	0.4548	More than a Legend, 200
+0.0391	0.4295	early Jan., Mrs. Goodbody: obs. no. 69 in Mackal, Monsters of Loch
+0.0376	0.3892	Jan. 2: Inverness Courier, 5 Jan. 1934; Northern Chronicle, 17 Jan. 1934
+0.0378	0.3741	Jan. 3: Inverness Courier, 5 Jan. 1934
+0.0377	0.3510	Jan. 3, Wm. Macintosh: Times (London), 4 Jan. 1934
+0.0376	0.3283	Jan. 4: "Our Special Artist Investigates the Loch Ness Monster," Illus-
+0.0521	0.3073	trated London News, 13 Jan. 1934, pp. 1, 40-41
+0.0377	0.2883	Jan. 4, A. Grant: land sight. no. 14 in Mackal, Monsters of Loch Ness;
+0.0536	0.2660	Costello, In Search of Lake Monsters, 46; Witchell, Loch Ness Story,
+0.0536	0.2486	1976, p. 137; Burton, Elusive Monster, 146
+0.0378	0.2310	Jan. 4, Alexander Rose: Daily Mail, 5 Jan. 1934
+0.0363	0.2106	Jan. 7, Lind Davidson: Inverness Courier, 9 Jan. 1934
+0.0362	0.1895	Jan. 7: Daily Mail, 8 Jan. 1934
+0.0363	0.1694	Jan. 8, A. Davidson: Inverness Courier, 12 Jan. 1934
+0.0362	0.1451	Jan. 10, J.H.F., M.A.H.: obs. no. 71 in Mackal, Monsters of Loch Ness;
+0.0537	0.1282	Whyte, More than a Legend, 199
+0.0363	0.1084	Jan. 10, G. Jamieson: unidentified sources
+0.0362	0.0846	Jan. 11, Mrs. Tinnock: Inverness Courier, 12 Jan. 1934
+0.0361	0.0654	Jan. 13: ibid., 16 Jan. 1934
+0.0363	0.0511	Jan. 15: ibid.
+0.0362	0.0219	Jan. 15, Wetherall: Witchell, Loch Ness Story, 1976, p. 63
+0.5640	0.9121	Jan. 30, Carson: obs. no. /2 in Mackal, Monsters of Loch Ness; Burton,
+0.5813	0.8917	Elusive Monster, 123; Whyte, More than a Legend, 198; Inverness
+0.5799	0.8732	Courier, 2 Feb. 1934
+0.5653	0.8489	Feb. 9, D. Williamson: Inverness Courier, 13 Feb. 1934
+0.5654	0.8303	Feb. 11, D. Grant: ibid.
+0.5654	0.8098	Feb. 22, Mrs. McDonald: obs. no. 73 in Mackal, Monsters of Loch Ness;
+0.5785	0.7911	Inverness Courier, 27 Feb. 1934
+0.5654	0.7670	Feb. 24, Mrs. Hill: Inverness Courier, 27 Feb. 1934; Whyte, More than a
+0.5784	0.7492	Legend, 198
+0.5654	0.7257	Feb. 25, Mrs. McLennan: ibid.; obs. no. 74 in Mackal, Monsters of Loch
+0.5799	0.7075	Ness; Burton, Elusive Monster, 123
+0.5654	0.6869	Feb. ?, P. Harvey: land sight. no 15 in Mackal, Monsters of Loch Ness;
+0.5813	0.6629	Costello, In Search of Lake Monsters, 49; Witchell, Loch Ness Story,
+0.5799	0.6461	1976, p. 139
+0.5668	0.6232	Mar. 2, J. Simpson: Northern Chronicle, 7 Mar. 1934
+0.5668	0.6048	Mar. 3, R. Mitchell: Inverness Courier, 6 Mar. 1934
+0.5654	0.5849	Mar. 3, J. Campbell: ibid.
+0.5652	0.5630	Mar. 5, J. Macdonald: ibid.
+0.5654	0.5440	Mar. 28, I. Finkelstein: ibid., 30 Mar. 1934
+0.5669	0.5235	Apr. 1: ibid., 3 Apr. 1934
+0.5669	0.5028	Apr. 1, Miss Warwick: ibid.; obs. no. 75 in Mackal, Monsters of Loch
+0.5669	0.4599	Apr. 1, D. Fraser: Inverness Courier, 3 Apr. 1934
+0.5669	0.4417	Apr. 1, G. Rodgers: ibid.
+0.5669	0.4232	Apr. 2: Northern Chronicle, 4 Apr. 1934
+0.5669	0.4008	Apr. 16, J. Hunt: Inverness Courier, 17 Apr. 1934; obs. no. 76 in Mackal,
+0.5814	0.3824	Monsters of Loch Ness
+0.5668	0.3595	Apr. 16, Macdonald: Inverness Courier, 17 Apr. 1934
+0.5698	0.3415	*Apr. 19, K. Wilson: ibid., 20 Apr. 1934; photo 2 in Mackal, Monsters
+0.5828	0.3224	of Loch Ness; Witchell, Loch Ness Story, 1976, p. 63
+0.5682	0.2979	Apr.?, Major J.H.: Whyte, More than a Legend, 198
+0.5669	0.2801	May 1, Miss K. McDonald: obs. no. 77 in Mackal, Monsters of Loch
+0.5813	0.2561	Ness; Burton, Elusive Monster, 123; Whyte, More than a Legend, 197
+0.5668	0.2368	May 4, Kenneth: Inverness Courier, 8 May 1934
+0.5668	0.2163	May 7, K. Cameron: Northern Chronicle, 9 May 1934
+0.5668	0.1960	May 7, G. Grinton: Inverness Courier, 8 May 1934
+0.5669	0.1736	May 18, Dyer: ibid., 18 May 1934
+0.5668	0.1551	May 20, H. Matheson: Northern Chronicle, 23 May 1934; Daily Mail,
+0.5813	0.1363	23 May 1934
+0.5668	0.1140	May 24, H. Ross: Inverness Courier, 25 May 1934
+0.5668	0.0958	May 26, Brother Horan: obs. no. 79 in Mackal, Monsters of Loch Ness;
+0.5814	0.0733	Burton, Elusive Monster, 129; Costello, In Search of Lake Monsters,
+0.5843	0.0552	66; Witchell, Loch Ness Story, 1976, p. 85
+0.5696	0.0316	May 30, Miss Fraser: Inverness Courier, 1 June 1934
+0.5683	0.0123	May-31, J. Macdonald: ibid., 5 June 1934
+===FILE 1934-to-1934.pdf
+---PAGE 1
+0.0305	0.9170	June 3, C. MacKintosh: ibid.
+0.0289	0.8953	June 3: Northern Chronicle, 6 June 1934
+0.0290	0.8725	June 5, Mrs. Munro: land sight. no. 16 in Mackal, Monsters of Loch
+0.0449	0.8536	Ness; Burton, Elusive Monster, 145; Witchell, Loch Ness Story, 1976,
+0.0449	0.8317	p. 140; Costello, In Search of Lake Monsters, 67; Binns, Loch Ness
+0.0451	0.8200	Mystery Solved, 91
+0.0290	0.7954	June 9, J. Peter: Northern Chronicle, 13 June 1934
+0.0304	0.7739	*June 10: photo 3 in Mackal, Monsters of Loch Ness; Burton, Elusive
+0.0449	0.7523	Monster, 81; Costello, In Search of Lake Monsters, 65; Witchell, Loch
+0.0448	0.7359	Ness Story, 1976, p. 77
+0.0290	0.7165	June 11, J. Dean: Inverness Courier, 12 June 1934
+0.0275	0.6920	June 16, D. Petrie: Witchell, Loch Ness Story, 1976, p. 83; Times (Lon-
+0.0436	0.6798	don), 18 June 1934
+0.0275	0.6511	June 24, Miss Fraser: Costello, In Search of Lake Monsters, 68; obs. no.
+0.0420	0.6367	80 in Mackal, Monsters of Loch Ness
+0.0275	0.6138	June 25, Ch. Macdonald: Inverness Courier, 26 June 1934
+0.0276	0.5985	June 25, M. Macmillan: ibid.
+0.0274	0.5732	June 26, J. Fraser: Northern Chronicle, 27 June 1934
+0.0275	0.5564	June 29, J. Harting: Inverness Courier, 3 July 1934
+0.0275	0.5342	June 30: ibid.; Costello, In Search of Lake Monsters, 68; obs. no. 81 in
+0.0435	0.5134	Mackal, Monsters of Loch Ness; Whyte, More than a Legend, 47
+0.0275	0.4933	June ?, John Young: Witchell, Loch Ness Story, 1976, p. 75
+0.0275	0.4714	July 4: Costello, In Search of Lake Monsters, 61; A. Hall, Bestien,
+0.0419	0.4518	Scheusale und Monster, Berlin: Ullstein, 1979, p. 76
+0.0274	0.4316	July 12, F. Haselfoot: Burton, Elusive Monster, 127; Costello, In Search
+0.0406	0.4139	of Lake Monsters, 56; Times (London), 16 July 1934
+0.0275	0.3964	July 12, Chambers: Inverness Courier, 13 July 1934
+0.0275	0.3724	July 12, William McKay: Burton, Elusive Monster, 51; obs. no. 82 in
+0.0422	0.3577	Mackal, Monsters of Loch Ness
+0.0275	0.3336	July 12, R.J. Scott: Burton, Elusive Monster, 49; Inverness Courier, 13
+0.0407	0.3179	July 1934; obs. no. 85 in Mackal, Monsters of Loch Ness
+0.0290	0.2957	* July 13: photo 4 in Mackal, Monsters of Loch Ness
+0.0260	0.2718	July 14, R. J. Scott: obs. no. 86 in ibid.; Burton, Elusive Monster, 52
+0.0261	0.2561	July 14, A. Macmillan: Inverness Courier, 17 July 1934
+0.0262	0.2391	July 15, Miss Pillon: ibid.
+0.0260	0.2116	July 16, Macintosh: ibid.; Burton, Elusive Monster, 52; obs. no. 87 in
+0.0422	0.1976	Mackal, Monster of Loch Ness
+0.0262	0.1759	July 16, Mrs. Briddle: Inverness Courier, 17 July 1934
+0.0260	0.1517	July 17, Ross: Burton, Elusive Monster, 53; obs. no. 88 in Mackal, Mon-
+0.0407	0.1403	sters of Loch Ness
+0.0261	0.1126	July 18, W. McKay: Burton, Elusive Monster, 53; obs. no. 89 in Mackal,
+0.0436	0.0985	Monsters of Loch Ness
+0.0260	0.0732	July 18, W. Campbell: Burton, Elusive Monster, 57
+0.0261	0.0522	July 19, McKay: ibid., 54; obs. no. 90 in Mackal, Monsters of Loch Ness
+0.0260	0.0327	July 19, G. Lobban: Northern Chronicle, 25 July 1934
+0.0262	0.0156	July 19, C. Graham: ibid.
+0.5580	0.9144	July 22, William MacDonald: ibid.
+0.5581	0.8933	July 24, Ch. Mace: ibid.
+0.5581	0.8775	July 24: ibid.
+0.5581	0.8557	July 24, R. Urquhart: Burton, Elusive Monster, 55
+0.5581	0.8336	July 24, Ralph: ibid., 56; obs. no. 91 in Mackal, Monsters of Loch Ness
+0.5581	0.8138	July 24, Duncan Cameron: Inverness Courier, 27 July 1934
+0.5581	0.7942	July 25, W. Campbell: ibid., 31 July 1934; Burton, Elusive Monster, 56;
+0.5727	0.7765	obs. no. 92 in Mackal, Monsters of Loch Ness
+0.5580	0.7544	July 26, John Tolmie: Inverness Courier, 31 July 1934
+0.5581	0.7351	July 27, Grant: Burton, Elusive Monster, 56, 140; obs. no. 93 in Mackal,
+0.5756	0.7194	Monsters of Loch Ness
+0.5581	0.6957	July 30, Scott: Burton, Elusive Monster, 57; obs. no. 95 in Mackal, Mon-
+0.5727	0.6798	sters of Loch Ness
+0.5581	0.6539	July 30, W. Campbell: Burton, Elusive Monster, 57, 140; Costello, In
+0.5741	0.6346	Search of Lake Monsters, 57; obs. no. 94 in Mackal, Monsters of
+0.5754	0.6191	Loch Ness
+0.5581	0.5949	July?, E.F.: obs. no. 96 in Mackal, Monsters of Loch Ness; Whyte, More
+0.5727	0.5768	than a Legend, 197
+0.5581	0.5549	July ?, Mrs. Cameron: Costello, In Search of Lake Monsters, 34
+0.5596	0.5353	July ?, Ian J. Matheson: Whyte, More than a Legend, 196; Witchell, Loch
+0.5756	0.5156	Ness Story, 1976, p. 141
+0.5596	0.4980	July ?: Burton, Elusive Monster, 55
+0.5596	0.4783	July ?, W.McL.C.: Whyte, More than a Legend, 197
+0.5596	0.4585	July ?, W. Milligan: Northern Chronicle, 1 Aug. 1934
+0.5596	0.4348	July 30-Aug. 4, Lawson: Inverness Courier, 7 Aug. 1934
+0.5610	0.4150	Aug. 1, Mrs. Smith: ibid., 3 Aug. 1934
+0.5610	0.3953	Aug. 1, J. Hartwell: ibid.
+0.5610	0.3752	*Aug. 5, F. C. Adams: Burton, Elusive Monster, 80; Costello, In Search
+0.5755	0.3541	of Lake Monsters, 64; photo 5 in Mackal, Monsters of Loch Ness
+0.5625	0.3360	Aug. 5, J. Fraser: Inverness Courier, 7 Aug. 1934
+0.5625	0.3159	Aug. 5, J. Rigg: ibid.
+0.5598	0.2947	Aug.
+0.6090	0.2949	Capt. Fraser: Burton, Elusive Monster, 59; obs. no. 99 in
+0.5755	0.2766	Mackal, Monsters of Loch Ness
+0.5624	0.2545	Aug. 7, Mr. Alexander: Northern Chronicle, 8 Aug. 1934
+0.5625	0.2371	Aug. 8, Sir Macdonald: Inverness Courier, 14 Aug. 1934; obs. no. 100 in
+0.5770	0.2174	Mackal, Monsters of Loch Ness; Whyte, More than a Legend, 47;
+0.5799	0.1957	Witchell, Loch Ness Story, 1976, p. 83
+0.5668	0.1794	Aug. 11, I. Kirton: Inverness Courier, 14 Aug. 1934
+0.5624	0.1536	Aug. 11, P.G.: Whyte, More than a Legend, 196
+0.5624	0.1355	Aug. 12, Grant: Burton, Elusive Monster, 60; Costello, In Search of Lake
+0.5769	0.1139	Monsters, 58; obs. no. 101 in Mackal, Monsters of Loch Ness; Witch-
+0.5769	0.0946	ell, Loch Ness Story, 1976, p. 70
+0.5624	0.0746	Aug. 12, H. Schields: Inverness Courier, 14 Aug. 1934
+0.5640	0.0571	Aug. 13, D. J. Peterson: ibid., 17 Aug. 1934
+0.5624	0.0371	mid-Aug., I. Armitage: Northern Chronicle, 15 Aug. 1934
+0.5624	0.0142	Aug. 20, George Somerset: Inverness Courier, 24 Aug. 1934
+===FILE 1934-to-1936.pdf
+---PAGE 1
+0.0420	0.9117	Aug. 26, Mrs. MacKinnon: ibid., 28 Aug. 1934
+0.0420	0.8887	Aug. 30, Dom Cyril: Costello, In Search of Lake Monsters, 66; obs. no.
+0.0551	0.8701	102 in Mackal, Monsters of Loch Ness; Whyte, More than a Legend,
+0.0405	0.8270	Summer, J.C.: obs. no. 98 in Mackal, Monsters of Loch Ness; Whyte,
+0.0538	0.8152	More than a Legend, 197
+0.0406	0.7897	Sept. 4, The Sisters: Northern Chronicle, 5 Sept. 1934
+0.0405	0.7683	Sept. 7, Miss Fraser: Inverness Courier, 11 Sept. 1934
+0.0392	0.7533	Sept. 7: ibid.
+0.0392	0.7310	Sept. 9, A. Fraser: ibid.
+0.0390	0.7042	*Sept. 15, J. Fraser: photo 4 in Mackal, Monsters of Loch Ness; Binns,
+0.0550	0.6841	Loch Ness Mystery Solved, 39; Witchell, Loch Ness Story, 1976, p. 71
+0.0390	0.6674	Sept. 15: Northern Chronicle, 20 Feb. 1935
+0.0391	0.6436	Sept. 29, Miss Chisholm: Inverness Courier, 2 Oct. 1934
+0.0390	0.6263	Sept. 29, J. Campbell: ibid.
+0.0390	0.6062	?9: Northern Chronicle, 23 Sept. 1936
+0.0391	0.5837	Oct. 2, E. Cameron: Northern Chronicle, 3 Oct. 1934
+0.0391	0.5632	Oct. 4, Mrs. MacCallum: Inverness Courier, 9 Oct. 1934
+0.0392	0.5460	Oct. 13, Mrs. Grant: ibid., 16 Oct. 1934
+0.0390	0.5217	Nov. 15, H. Paterson: Northern Chronicle, 21 Nov. 1934
+0.0392	0.5070	Nov. 16, H. Matheson: ibid.
+0.0376	0.4829	Dec. 6, J. Sinclair: ibid., 12 Dec. 1934
+0.0376	0.4609	Dec. 27, W. Wotherspoon: ibid., 2 Jan. 1935
+0.0362	0.4319	late, Mrs. C.A.McG., Miss R.C.: obs. no. 107 in Mackal, Monsters of
+0.0522	0.4160	Loch Ness; Whyte, More than a Legend, 196
+0.0363	0.3983	late ?, I.M.: obs. no. 97 in Mackal, Monsters of Loch Ness
+0.0362	0.3767	late ?, H.F., Col. W.: obs. no. 104 in ibid.
+0.0361	0.3535	late ?, D.McK., J.C.: obs. no. 105 in ibid.
+0.0361	0.3345	late ?, J.C.: obs. no. 106 in ibid.
+0.0348	0.2824	Jan. 13, D. Fraser: Northern Chronicle, 16 Jan. 1935
+0.0347	0.2574	Jan. 19: Inverness Courier, 22 Jan. 1935; T. Shields, They Saw Nessie,
+0.0508	0.2433	Gartochen: NNorthern Books, 1984, p. 19
+0.0361	0.2203	Feb. 7, D. Ross: Inverness Courier, 8 Feb. 1935
+0.0361	0.1997	Apr. 19, Mrs. Scott: ibid., 23 Apr. 1935
+0.0362	0.1794	May 23, George Clark: ibid., 24 May 1935
+0.0347	0.1547	June 10, Mrs. Magrath: Northern Chronicle, 12 June 1935
+0.0347	0.1378	June 17, R. Forbes: ibid., 19 June 1935
+0.0348	0.1180	June 19, A. J. Gray: Inverness Courier, 21 June 1935
+0.0346	0.0935	June 21, G. Sutherland: ibid., 25 June 1935
+0.0334	0.0780	June 23: Whyte, More than a Legend, 20
+0.0347	0.0547	early July, Arthur Pimley: Northern Chronicle, 10 July 1935
+0.0334	0.0369	mid-July, Mr. Clelland: ibid., 24 July 1935
+0.0347	0.0129	Aug. 2, Rev. Moore: Inverness Courier, 6 Aug. 1935
+0.5654	0.9136	Aug. 4, Maj. Phillips: ibid.
+0.5669	0.8912	Aug. 16, P. Grant: ibid., 20 Aug. 1935
+0.5654	0.8726	Aug. 17: ibid.
+0.5667	0.8491	Aug. 18, lan MacPhail: ibid.
+0.5669	0.8315	Aug. 18, M. Steward: Northern Chronicle, 21 Aug. 1935
+0.5669	0.8090	Aug. 19, C. W. Farnham: ibid.
+0.5669	0.7904	Aug. 20, Count Bentinck: Inverness Courier, 20 Aug. 1935
+0.5669	0.7700	Aug. 24, Count Bentinck: ibid., 10 Sept. 1935; obs. no. 103 in Mackal,
+0.5828	0.7493	Monsters of Loch Ness; Costello, In Search of Lake Monsters, 65;
+0.5814	0.7290	Witchell, Loch Ness Story, 1976, p. 202
+0.5669	0.7061	Summer, H. Gordon: obs. no. 108 in Mackal, Monsters of Loch Ness;
+0.5798	0.6849	Whyte, More than a Legend, 61
+0.5669	0.6671	Sept. 5, R. Stone: Inverness Courier, 10 Sept. 1935
+0.5669	0.6448	Sept. 9, G. Watt: ibid.
+0.5669	0.6260	Autumn: J. A. Carruth, Loch Ness and Its Monsters, 9th ed., Fort Au-
+0.5799	0.6037	gustus: Abbey Press, 1971, p. 15.
+0.5668	0.5819	Dec. 24, R. McKenzie: Shields, They Saw Nessie, 21; Witchell, Loch
+0.5814	0.5626	Ness Story, 1976, p. 85
+0.5683	0.5109	Mar. 22, Alpin Chisholm: Inverness Courier, 24 Mar. 1936; Northern
+0.5843	0.4928	Chronicle, 25 Mar. 1936
+0.5668	0.4695	end Mar., Mrs. Grant: Inverness Courier, 31 Mar. 1936
+0.5669	0.4497	May 10, James Mavor: Northern Chronicle, 13 May 1936
+0.5668	0.4289	June, Mr. & Mrs. Hallam: obs. no. 109 in Mackal, Monsters of Loch
+0.5669	0.3879	June 20: Northern Chronicle, 24 June, 1936
+0.5668	0.3692	June 20: ibid.
+0.5668	0.3465	June 20, H.A. Frere: ibid.; Inverness Courier, 23 June 1936
+0.5668	0.3248	June 21: Inverness Courier, 23 June 1936
+0.5667	0.3051	June 21, Miss H. MacFie: ibid.
+0.5667	0.2847	July 23, H. A. Frere: ibid., 28 Sept. 1937
+0.5683	0.2646	Sept. 9, I. Macintosh: ibid., 15 Sept. 1936; Northern Chronicle, 16 Sept.
+0.5683	0.2235	Sept. 17, C. Campbell: Inverness Courier, 22 Sept. 1936; Northern
+0.5812	0.2011	Chronicle, 23 Sept. 1936
+0.5682	0.1821	*Sept. 22, M. Irvine: film 5 in Mackal, Monsters of Loch Ness; Costello,
+0.5828	0.1602	In Search of Lake Monsters, 71; Witchell, Loch Ness Story, 1976,
+0.5813	0.1402	p. 78
+0.5683	0.1211	Sept. 29: Northern Chronicle, 30 Sept. 1936; Inverness Courier, 22 Sept.
+0.5682	0.0796	Sept. 29, Miss Jobson: Northern Chronicle, 30 Sept. 1936
+0.5697	0.0592	Oct. 28, D. McMillan: Witchell, Loch Ness Story, 1976, p. 86
+0.5698	0.0390	Oct. ?, Mrs. Moir: Costello, In Search of Lake Monsters, 74; obs. no.
+0.5843	0.0185	110 in Mackal, Monsters of Loch Ness
+===FILE 1936-to-1939.pdf
+---PAGE 1
+0.0334	0.9099	Nov. ?, H. MacKenzie: Inverness Courier, 24 Nov. 1936; Northern
+0.0480	0.8916	Chronicle, 25 Nov. 1936
+0.0813	0.8647	1936/37
+0.0320	0.8405	June, Jimmie Williams: Nessletter, no. 66
+0.0333	0.8168	Summer, N. LePoer: Burton, Elusive Monster, 110
+0.0812	0.7929	1937
+0.0320	0.7668	Jan. 3, Farrel: Costello, In Search of Lake Monsters, 68; obs. no. 111 in
+0.0479	0.7457	Mackal, Monsters of Loch Ness
+0.0334	0.7254	early Feb., C. A. Macgruer: Inverness Courier, 12 Feb. 1937
+0.0320	0.7053	late Feb., Mr. Campbell: ibid., 2 Mar. 1937
+0.0334	0.6851	Mar. 15, C. McPherson Young: ibid., 16 Mar. 1937
+0.0334	0.6626	Easter, A. Erskine Murray: Burton, Elusive Monster, 125; Costello, In
+0.0465	0.6439	Search of Lake Monsters, 74
+0.0334	0.6236	Apr. 16: Inverness Chronicle, 20 Apr. 1937
+0.0334	0.6051	Apr. 17: ibid.
+0.0334	0.5828	Apr. 18, B. Macrae: ibid.
+0.0320	0.5601	June, A. Smith: Costello, In Search of Lake Monsters, 69; obs. no. 112 in
+0.0480	0.5419	Mackal, Monsters of Loch Ness
+0.0334	0.5215	mid-June: Northern Chronicle, 30 June 1937
+0.0320	0.4990	July 13, Gourlay: Costello, In Search of Lake Monsters, 69; obs. no. 113
+0.0465	0.4804	in Mackal, Monsters of Loch Ness
+0.0320	0.4601	July 25, William Young: Inverness Courier, 27 July 1937
+0.0319	0.4369	July 27, L.A.R.: Burton, Elusive Monster, 126; Costello, In Search of
+0.0480	0.4211	Lake Monsters, 75; obs. no. 114 in Mackal, Monsters of Loch Ness;
+0.0493	0.3969	Whyte, More than a Legend, 195
+0.0319	0.3759	July 30, P. Grant: Inverness Courier, 3 Aug. 1937
+0.0334	0.3558	Aug. 12: ibid., 17 Aug. 1937
+0.0334	0.3331	Aug., Rev. Graham: obs. no. 115 in Mackal, Monsters of Loch Ness;
+0.0494	0.3170	Whyte, More than a Legend, 49
+0.0334	0.2924	Summer, Frs. Grimet, McKinnon: Costello, In Search of Lake Monsters,
+0.0334	0.2514	Sept. 9, Mrs. Ferguson: Northern Chronicle, 11 Sept. 1937
+0.0334	0.2352	Sept. 18, M.A.F.: Inverness Courier, 24 Sept. 1937
+0.0334	0.2127	Nov. 7, P. Walker: ibid., 9 Nov. 1937
+0.0334	0.1920	?, D. Hunter: obs. no. 117 in Mackal, Monsters of Loch Ness
+0.0334	0.1718	?, M.: Whyte, More than a Legend, 195
+0.0319	0.1172	Jan., W. MacKay: obs. no. 118 in Mackal, Monsters of Loch Ness;
+0.0492	0.0991	Witchell, Loch Ness Story, 1976, p. 90
+0.0334	0.0811	Jan. 26, Wm. M'Lellan: Inverness Courier, 28 Jan. 1938
+0.0320	0.0593	late Feb.: ibid., 1 Mar. 1938
+0.0320	0.0389	late Feb., D. McDonald: ibid.
+0.0334	0.0203	Feb. 26: ibid.
+0.5624	0.9121	Apr. 25, C. B. Prickett: Times (London), 9 May 1938; Whyte, More than
+0.5741	0.8955	a Legend, 59
+0.5625	0.8729	*May 29, G.E. Taylor: Burton, Elusive Monster, 83; film 6 in Mackal,
+0.5770	0.8568	Monsters of Loch Ness
+0.8096	0.8344	128; Costello, In Search of
+0.5610	0.8139	Juncke Monste 13, 75nobsanos. M6, 19 in Mackal, Monsters of Loch
+0.5770	0.7975	Ness
+0.5610	0.7730	early June: Inverness Courier, 14 June 1938
+0.5609	0.7515	early June, H. Colvin: ibid.
+0.5610	0.7297	July 11, Mrs. Steward: ibid., 12 July 1938
+0.5624	0.7092	Aug. 2, J. J. Forsyth: Northern Chronicle, 3 Aug. 1938
+0.5625	0.6892	Aug. 9, A. MacLaren: ibid., 10 Aug. 1938
+0.5625	0.6687	Aug. 16, Rev. M'Kinnon: Inverness Courier, 19 Aug. 1938; Northern
+0.5770	0.6501	Chronicle, 17 Aug. 1938
+0.5624	0.6274	Aug. 25, Mr. Battle: Inverness Courier, 26 Aug. 1938
+0.5625	0.6057	Aug. 30, W. Brodie: obs. no. 120 in Mackal, Monsters of Loch Ness;
+0.5784	0.5851	Whyte, More than a Legend, 195
+0.5624	0.5642	Aug. 31, Wm. Grant: Inverness Courier, 2 Sept. 1938
+0.5625	0.5460	Aug. 31, J. McEwan: ibid.
+0.5625	0.5256	Summer, Mr. & Mrs. Wotherspoon: obs. no. 121 in Mackal, Monsters of
+0.5770	0.5091	Loch Ness
+0.5625	0.4846	Summer, R. Synge: Witchell, Loch Ness Story, 1976, p. 97
+0.5639	0.4621	?, Anne J. Thomas: Scots Magazine, Jan. 1980
+0.5640	0.4434	*?, J. Carrie: Witchell, Loch Ness Story, 1976, p. 206
+0.5639	0.4176	?, Sir David Hunter Blair: Whyte, More than a Legend, 59
+0.5638	0.4000	?: ibid., 75
+0.5638	0.3793	P: Scots Magazine, May 1962
+0.6118	0.3535	1939
+0.5624	0.3275	Jan. 16, H. A. Frere: Inverness Courier, 18 Jan. 1939
+0.5640	0.3087	Apr. 5, L. P. Prover: ibid., 7 Apr. 1939
+0.5640	0.2883	May 24, J. Macdonald: ibid., 26 May 1939; Northern Chronicle, 31 May
+0.5785	0.2720	1939
+0.5624	0.2471	June, A. C. Martin: obs. no. 123 in Mackal, Monsters of Loch Ness;
+0.5785	0.2290	Whyte, More than a Legend, 44; Witchell, Loch Ness Story, 1976,
+0.5785	0.2065	p. 96
+0.5640	0.1858	June 21, Th. Campbell: Inverness Courier, 23 June 1939
+0.5638	0.1630	July 3, W. Macdonald: ibid., 4 July 1939
+0.5654	0.1452	Aug. 4, Munro: ibid., 8 Aug. 1939
+0.5651	0.1208	Aug. 5, Gilchrist: ibid.
+0.5654	0.1041	Aug. 12, W. Fraser: ibid., 15 Aug. 1939
+0.5654	0.0838	Aug. 16, Duguid: ibid., 18 Aug. 1939
+0.5653	0.0607	?, S. Hunter Gordon: Costello, In Search of Lake Monsters, 69; obs. no.
+0.5784	0.0397	127 in Mackal, Monsters of Loch Ness
+0.5653	0.0195	P: Dinsdale, Leviathans, 56
+===FILE 1939-to-1950.pdf
+---PAGE 1
+0.0406	0.9184	, R. McEwen: obs. nos. 124-25 in Mackal, Monsters of Loch Ness;
+0.0508	0.8972	Witchell, Loch Ness Story, 1976, pp. 8/-88
+0.0363	0.8746	?, W. MacKay: obs. no. 126 in Mackal, Monsters of Loch Ness
+0.0842	0.8505	1930s
+0.0378	0.8250	D.A.C.: obs. no. 14 in Mackal, Monsters of Loch Ness
+0.0363	0.8022	Alec Muir: land sight. no. 8 in ibid.; Costello, In Search of Lake Mon-
+0.0508	0.7849	sters, 120
+0.0363	0.7644	Schoolchildren: Burton, Elusive Monster, 152; Costello, In Search of
+0.0509	0.7455	Lake Monsters, 121; land sight no. 9 in Mackal, Monsters of Loch
+0.0523	0.7256	Ness; Witchell, Loch Ness Story, 1976, p. 136
+0.0363	0.7058	early, Alex Campbell: Dinsdale, Loch Ness Monster, 114
+0.0363	0.6839	end: Witchell, Loch Ness Story, 1976, p. 82
+0.0843	0.6599	1940
+0.0392	0.6362	May 5, Dom Cyril: Costello, In Search of Lake Monsters, 66; obs. no.
+0.0407	0.6143	• 129 in Mackal, Monsters of Loch Ness; Whyte, More than a Legend,
+0.0363	0.5723	? J.McD.: obs. no. 128 in Mackal, Monsters of Loch Ness; Whyte, More
+0.0509	0.5566	than a Legend, 195
+0.0363	0.5327	?, G. E. Carruth: Witchell, Loch Ness Story, 1976, p. 103
+0.0842	0.5084	1940-45
+0.0363	0.4829	James Cameron: ibid., 205; obs. no. 130 in Mackal, Monsters of Loch
+0.0857	0.4372	1941
+0.0378	0.4113	Aug.: Costello, In Search of Lake Monsters, 76
+0.0857	0.3875	1942
+0.0363	0.3615	June: Time, 29 June 1942
+0.0377	0.3106	C.B. Farrel: obs. no. 131 in Mackal, Monsters of Loch Ness
+0.0363	0.2903	Jan. 8, S. Grant: obs. no. 132 in ibid.; Costello, In Search of Lake Mon-
+0.0378	0.2524	May 25, C.B. Farrel: Burton, Elusive Monster, 130; obs. no. 133 in
+0.0523	0.2306	Mackal, Monsters of Loch Ness; Witchell, Loch Ness Story, 1976,
+0.0495	0.2110	p. 89
+0.0378	0.1909	?, R. Flint: Witchell, Loch Ness Story, 1976, p. 105
+0.0378	0.1412	Apr., Meiklem: obs. no. 134 in Mackal, Monsters of Loch Ness; Whyte,
+0.0522	0.1194	More than a Legend, 55; Witchell, Loch Ness Story, 1976, p. 104
+0.0363	0.0980	Summer, J.MacF.B.: obs. no. 135 in Mackal, Monsters of Loch Ness;
+0.0509	0.0795	Whyte, More than a Legend, 194
+0.0378	0.0298	May, Mr. & Mrs. Lane: obs. no. 136 in Mackal, Monsters of Loch Ness;
+0.0522	0.0092	Whyte, More than a Legend, 194
+0.5668	0.9151	Summer, I.C.: obs. no. 137 in Mackal, Monsters of Loch Ness; Whyte,
+0.5828	0.8963	More than a Legend, 194
+0.5669	0.8765	Sept., Gavin Maxwell: Costello, In Search of Lake Monsters, 106
+0.5669	0.8568	?, William MacKay: obs. no. 119 in Mackal, Monsters of Loch Ness;
+0.5842	0.8323	Witchell, Loch Ness Story, 1976, p. 90
+0.6177	0.8089	1946
+0.5653	0.7845	July 28, D.A. Campbell: Inverness Courier, 30 July 1946
+0.5668	0.7632	Aug., N. Atkinson: Burton, Elusive Monster, 158; Costello, In Search of
+0.5814	0.7455	Lake Monsters, 77
+0.5698	0.6958	Apr. 4: Costello, In Search of Lake Monsters, 77; obs. no. 159 in
+0.5828	0.6730	Mackal, Monsters of Loch Ness; Whyte, More than a Legend, 40;
+0.5843	0.6541	Witchell, Loch Ness Story, 1976, p. 90
+0.5697	0.6340	Apr. 4, J. W. Killop: Inverness Courier, 8 Apr. 1947
+0.5668	0.6138	June, Brother Mark: Scotsman, 16 June 1956
+0.5682	0.5922	July 18: Inverness Courier, 1 Aug. 1947
+0.5668	0.5745	July 27: ibid.; obs. nos. 140-41 in Mackal, Monsters of Loch Ness
+0.5668	0.5543	July 27, J. C. Forbes: Janet Bord & Colin Bord, Alien Animals, Harris-
+0.5842	0.5145	1947; Whyte, More than a Legend, 64
+0.5683	0.4950	July 30, D. Maciver: Inverness Courier, 16 Jan. 1948
+0.5698	0.4732	Aug.: Witchell, Loch Ness Story, 1976, p. 106
+0.5697	0.4532	?, D. McBryde: Whyte, More than a Legend, 30
+0.5698	0.4332	?, Arthur Grant: Costello, In Search of Lake Monsters, 77
+0.5682	0.3831	late May, Mr. Pearson: Inverness Courier, 15 June 1948
+0.5683	0.3636	June 14: obs. no. 142 in Mackal, Monsters of Loch Ness; Whyte, More
+0.5828	0.3438	than a Legend, 193
+0.5696	0.3222	July 15: Shields, They Saw Nessie, 22
+0.5711	0.3025	Dec., Mrs. Ellice: Costello, In Search of Lake Monsters, 77; obs. no. 143
+0.5842	0.2823	in Mackal, Monsters of Loch Ness; Whyte, More than a Legend, 39
+0.5712	0.2304	obs. no. 144 in Mackal, Monsters of Loch Ness; Whyte, More than a
+0.5843	0.2144	Legend, 50
+0.5712	0.1627	Apr. 19, Lady Baillie: obs. no. 145 in Mackal, Monsters of Loch Ness;
+0.5857	0.1406	Whyte, More than a Legend, 64; Witchell, Loch Ness Story, 1976,
+0.5697	0.1031	June 20, C. Dunton: obs. no. 146 in Mackal, Monsters of Loch Ness;
+0.5842	0.0811	Shields, They Saw Nessie, 23; Whyte, More than a Legend, 60
+0.5726	0.0612	Aug. 29, Miss Mcl.: obs. nos. 147-48 in Mackal, Monsters of Loch
+0.5857	0.0405	Ness; Shields, They Saw Nessie, 24; Whyte, More than a Legend, 193
+0.5727	0.0218	Aug.?: Binns, Loch Ness Mystery Solved, 197
+===FILE 1951-to-1957.pdf
+---PAGE 1
+0.0289	0.8934	Feb. 24: Inverness Courier, 27 Feb. 1951
+0.0276	0.8736	June 27: ibid., 29 June 1951
+0.0275	0.8466	June 28, R.B., R.McL.: obs. no. 149 in Mackal, Monsters of Loch Ness;
+0.0422	0.8330	Whyte, More than a Legend, 193
+0.0275	0.8079	June ?, J. Harper Smith: Witchell, Loch Ness Story, 1976, p. 112
+0.0290	0.7866	*July 14, Lachlan Stuart: ibid., 108; Burton, Elusive Monster, 74; photo
+0.0422	0.7719	6 in Mackal, Monsters of Loch Ness
+0.0304	0.7459	Nov. 13, P. Grant: Dinsdale, Loch Ness Monster, 98; obs. no. 162 in
+0.0435	0.7282	Mackal, Monsters of Loch Ness; Whyte, More than a Legend, 53;
+0.0435	0.7081	Witchell, Loch Ness Story, 1976, p. 112
+0.0290	0.6591	Feb. ?, D. Macdonald: Inverness Courier, 29 Feb. 1952
+0.0290	0.6380	Apr. 1, P. MacMillan: Whyte, More than a Legend, 191
+0.0275	0.6144	Apr. 28, Wm. MacDonald: ibid., 192; Burton, Elusive Monster, 137;
+0.0420	0.5946	Carruth, Loch Ness and Its Monsters, 19; obs. no. 151 in Mackal,
+0.0435	0.5750	Monsters of Loch Ness; Shields, They Saw Nessie, 25
+0.0275	0.5508	July, McAffee: Costello, In Search of Lake Monsters, 79; Witchell, Loch
+0.0420	0.5349	Ness Story, 1976, p. 197
+0.0275	0.5101	Aug. 18, Mrs. Finlay: Burton, Elusive Monster, 130; obs. no. 150 in
+0.0407	0.4949	Mackal, Monsters of Loch Ness
+0.0275	0.4733	Aug. 20: Inverness Courier, 22 Aug. 1952
+0.0274	0.4489	end Aug., Mr. Watkinson, Daily Mail, 26 Aug. 1952
+0.0261	0.4328	Sept. 11: Inverness Courier, 12 Sept. 1952
+0.0262	0.4111	Sept. 19, Neil MacCallum: Evening Sentinel, 2 Sept. 1983
+0.0260	0.3914	Sept. 27, Vera McDonald: ibid.
+0.0260	0.3672	Sept. ?, K. A. Key: Tim Dinsdale, Project Water Horse, London: Rout-
+0.0391	0.3492	ledge and Kegan Paul, 1975, p. 187
+0.0262	0.3319	?: Nessletter, no. 23.
+0.0275	0.3066	?, Mr. Skinner: F. W. Holiday, The Great Orm of Loch Ness, London:
+0.0392	0.2889	Faber and Faber, 1968, p. 151 (all subsequent references are to this
+0.0406	0.2737	edition)
+0.0275	0.2179	Dec. 10, Tulloch: Burton, Elusive Monster, 126; obs. no. 152 in Mackal,
+0.0420	0.1945	Monsters of Loch Ness; Shields, They Saw Nessie, 26; Whyte, More
+0.0392	0.1792	than a Legend, 192
+0.0262	0.1589	Dec. 15: Daily Mail, 16 Dec. 1953
+0.0741	0.1324	1954
+0.0259	0.1051	Cottier: Burton, Elusive Monster, 112
+0.0245	0.0799	Feb. 4, David Slorach: Costello, In Search of Lake Monsters, 81; Hall,
+0.0406	0.0669	Bestien, Scheusale und Monster, 76
+0.0245	0.0403	Feb. 26, A. J. Campbell: obs. no. 153 in Mackal, Monsters of Loch Ness;
+0.0391	0.0206	Shields, They Saw Nessie, 26; Whyte, More than a Legend, 192
+0.5551	0.9100	July 9, Miss McDonald: Inverness Courier, 13 July 1954; obs. no. 154 in
+0.5697	0.8895	Mackal, Monsters of Loch Ness; Whyte, More than a Legend, 192
+0.5551	0.8692	July 20, Miss E. McG.: obs. no. 156 in Mackal, Monsters of Loch Ness;
+0.5697	0.8487	Whyte, More than a Legend, 192
+0.5551	0.8272	July ?, W.H. Davidson, Cary: Dinsdale, Leviathans, 196; obs. no. 155 in
+0.5697	0.8082	Mackal, Monsters of Loch Ness; Witchell, Loch Ness Story, 1976,
+0.5609	0.7692	Aug. 8, Miss Ch. Mclnnes: Inverness Courier, 10 Aug. 1954; obs. no.
+0.5740	0.7465	157 in Mackal, Monsters of Loch Ness; Whyte, More than a Legend
+0.5581	0.7067	Aug. 14, P. McMillan: Inverness Courier, 17 Aug. 1954; obs. no. 158 in
+0.5712	0.6861	Mackal, Monsters of Loch Ness; Whyte, More than a Legend, 191;
+0.5727	0.6660	Witchell, Loch Ness Story, 1976, p. 96
+0.5566	0.6429	Sept. 9, S.M.: Inverness Courier, 17 Sept. 1954
+0.5581	0.6248	Autumn, Miss Fraser: Whyte, More than a Legend, 172
+0.5595	0.6042	Oct. 8: obs. no. 159 in Mackal, Monsters of Loch Ness; Whyte, More
+0.5712	0.5845	than a Legend, 43; Witchell, Loch Ness Story, 1976, p. 95
+0.5581	0.5620	?, Mrs. McNaughton: Inverness Courier, 11 Sept. 1964
+0.6061	0.5356	1955
+0.5596	0.5090	Scots Magazine, Oct. 1975
+0.5595	0.4907	Apr., R. Ward: obs. no. 160 in Mackal, Monsters of Loch Ness; Whyte,
+0.5727	0.4722	More than a Legend, 38
+0.5581	0.4495	early July, Miss Fraser: obs. no. 161 in Mackal, Monsters of Loch Ness;
+0.5727	0.4318	Whyte, More than a Legend, 43
+0.5595	0.4110	July 27, Mr. A. Mackenzie: Inverness Courier, 29 July 1955
+0.5595	0.3904	*July 29, P. A. Macnab: Costello, In Search of Lake Monsters, 82; photo
+0.5727	0.3707	7 in Mackal, Monsters of Loch Ness; Witchell, Loch Ness Story, 1976,
+0.5595	0.3275	early Aug., K. Shakespeare: Burton, Elusive Monster, 117; Tim Dinsdale,
+0.5755	0.3071	The Story of the Loch Ness Monster, London: Target, 1973, p. 68
+0.6089	0.2805	1955/56
+0.5610	0.2566	Alex Campbell: Binns, Loch Ness Mystery Solued, 79; Witchell, Loch
+0.5739	0.2324	Ness Story, 1976, p. 82
+0.5580	0.1811	July, Mr. & Mrs. Graham: obs. no. 163 in Mackal, Monsters of Loch
+0.5609	0.1110	Mar. 11, Mr. D. Fowlie: Inverness Courier, 18 June 1957
+0.5610	0.0913	Mar. 11, J. Grant: Shields, They Saw Nessie, 28; Witchell, Loch Ness
+0.5756	0.0733	Story, 1976, p. 118
+0.5595	0.0491	June 16, D. Campbell: Dinsdale, Loch Ness Monster, 115; obs. no. 164
+0.5755	0.0271	in Mackal, Monsters of Loch Ness; Witchell, Loch Ness Story, 1976,
+===FILE 1957-to-1962.pdf
+---PAGE 1
+0.0320	0.9076	June 16, Mr. & Mrs. McQueen: Inverness Courier, 18 June 1957
+0.0320	0.8913	July, Mr. Jan Verleun: Daily Express, 25 July 1957
+0.0320	0.8693	Dec. 29, R. Bain: Shields, They Saw Nessie, 29; Witchell, Loch Ness
+0.0465	0.8494	Story, 1976, p. 120
+0.0320	0.7971	Spring, Mr. & Mrs. Rowland: Burton, Elusive Monster, 77; obs. no. 165
+0.0465	0.7791	in Mackal, Monsters of Loch Ness
+0.0334	0.7590	May 16, William Grigor: Press and Journal, 22 May 1958
+0.0320	0.7387	May 21: Shields, They Saw Nessie, 29
+0.0334	0.7187	May ?, Watchorn: Dinsdale, Leviathans, 200
+0.0319	0.6967	July 16, Alex Campbell: Binns, Loch Ness Mystery Solved, 79; Witchell,
+0.0478	0.6782	Loch Ness Story, 1976, p.81
+0.0320	0.6586	July 16: Shields, They Saw Nessie, 30
+0.0334	0.6365	Aug. 5, M. Scott Moncrieff: Highland Herald, 7 Aug. 1958
+0.0333	0.6127	*Oct., H.L. Cockrell: photo 8 in Mackal, Monsters of Loch Ness;
+0.0479	0.5958	Witchell, Loch Ness Story, 1976, p. 125
+0.0334	0.5743	Oct., Brown: Dinsdale, Loch Ness Monster, 102
+0.0320	0.5241	Feb. 2, H. Mclntosh: Shields, They Saw Nessie, 31; Witchell, Loch Ness
+0.0465	0.5060	Story, 1976, p. 97
+0.0320	0.4839	Mar. 22, Denys Tucker: Costello, In Search of Lake Monsters, 83
+0.0305	0.4656	late June, A. Andrews: Nessletter, no. 5
+0.0304	0.4429	July 4: Inverness Courier, 10 July 1959
+0.0305	0.4255	July 5: ibid.
+0.0305	0.4056	July 8: Shields, They Saw Nessie, 32
+0.0305	0.3652	July essie,, Murray: Dinsdalc, Loch Ness Monster, 58; Shields, They Saw
+0.0305	0.3453	July 20: Times, 20 July 1959
+0.0320	0.3232	Aug./Sept., R. F. Sisson: Alan Villiers, «Scotland from Her Lovely Lochs
+0.0464	0.2990	and Seas,i National Geographic, Apr. 1961, pp. 492-539
+0.0333	0.2501	Feb. 28, T. McLeod: land sight. no. 17 in Mackal, Monsters of Loch
+0.0479	0.2313	Ness; Witchell, Loch Ness Story, 1976, p. 141
+0.0320	0.2088	Apr. 20: Dinsdale, Loch Ness Monster, 71
+0.0320	0.1905	*Apr. 23, Tim Dinsdale: Dinsdale, Loch Ness Monster, 76; film 7 in
+0.0464	0.1684	Mackal, Monsters of Loch Ness; Witchell, Loch Ness Story, 1976,
+0.0320	0.1305	May 24, P. O'Connor: obs. no. 166 in Mackal, Monsters of Loch Ness
+0.0319	0.1073	*May 27, P. O'Connor: photo 9 in ibid.; Burton, Elusive Monster, 81;
+0.0463	0.0869	Costello, In Search of Lake Monsters, 87
+0.0320	0.0681	June 20, M. Burton: Burton, Elusive Monster, 170
+0.0318	0.0280	Jumonster: A Seieni Mnvesti Bationn, Ilstrated cndon News, Nes
+0.5610	0.9153	*June 24, M. Burton: Burton, Elusive Monster, 161; Costello, In Search
+0.5712	0.8939	of Lake Monsters, 88; photo 10 in Mackal, Monsters of Loch Ness
+0.5579	0.8726	June 26: Burton, "Problem of the Loch Ness Monster"
+0.5581	0.8551	July 3, P. O'Connor: obs. no. 168 in Mackal, Monsters of Loch Ness
+0.5581	0.8330	July 4: obs. no. 167 in ibid.; Burton, Elusive Monster, 66; Costello, In
+0.5727	0.8150	Search of Lake Monsters, 89
+0.5595	0.7928	July 10, Bruce Ing: Burton, Elusive Monster, 65; Costello, In Search of
+0.5741	0.7751	Lake Monsters, 89; obs. no. 169 in Mackal, Monsters of Loch Ness;
+0.5756	0.7550	Witchell, Loch Ness Story, 1976, p. 150
+0.5596	0.7349	July 11: Shields, They Saw Nessie, 32
+0.5581	0.7143	July 14, Bruce Ing: obs. no. 170 in Mackal, Monsters of Loch Ness
+0.5595	0.6921	July ?,J. Edwards: Burton, Elusive Monster, 111
+0.5610	0.6726	*Aug. 7, McLeods: obs. no. 171 in Mackal, Monsters of Loch Ness;
+0.5756	0.6526	Witchell, Loch Ness Story, 1976, p. 151
+0.5610	0.6308	Aug. 13, Dobb: obs. no. 172 in Mackal, Monsters of Loch Ness
+0.5610	0.6124	Aug. ?: Burton, Elusive Monster, 118
+0.5610	0.5922	Aug. ?, Mrs. Cary: Dinsdale, Leviathans, 196
+0.5610	0.5676	Oct. 23, Rev. Dobb: Burton, Elusive Monster, 11; obs. no. 173 in
+0.5756	0.5502	Mackal, Monsters of Loch Ness
+0.5610	0.5321	Nov. 27: Shields, They Saw Nessie, 33
+0.5610	0.5100	Dec. 5: ibid., 34; Burton, Elusive Monster, 26; obs. no. 174 in Mackal,
+0.5756	0.4938	Monsters of Loch Ness
+0.5610	0.4697	Dec. ?, Robert Duff: obs. no. 175 in Mackal, Monsters of Loch Ness
+0.5610	0.4216	June: The Field, 23 Nov. 1961
+0.5610	0.3972	June 8, David Foster: Shields, They Saw Nessie, 35
+0.5595	0.3770	July 21, H. Stiff: Dinsdale, Leviathans, 64
+0.5625	0.3594	Aug. 11, Stanley Hill: Costello, In Search of Lake Monsters, 90
+0.5624	0.3386	Aug. 11, Bert McDonald: Field, 23 Nov. 1961
+0.5625	0.3171	Aug. ?, Mclntosh: obs. no. 176 in Mackal, Monsters of Loch Ness
+0.5625	0.2971	Nov.: Holiday, Great Orm, 9
+0.6104	0.2710	1962
+0.5625	0.2469	G.A.S.: Dinsdale, Leviathans, 39
+0.5624	0.2229	May 11, Mrs. Christie: ibid., 30; Costello, In Search of Lake Monsters,
+0.5610	0.1844	June 29, H.G. Hasler: Costello, In Search of Lake Monsters, 94
+0.5610	0.1644	June ?: ibid., 95; Mackal, Monsters of Loch Ness, 351
+0.5625	0.1444	Aug. 23, F. W. Holiday: Holiday, Great Orm, 11
+0.5625	0.1245	Aug. 23: ibid., 10
+0.5625	0.1044	Aug. 23, F. W. Holiday: ibid., 13
+0.5625	0.0843	Aug. 24, F. W. Holiday: Hall, Bestien, Scheusale und Monster, 78; obs.
+0.5756	0.0640	no. 177 in Mackal, Monsters of Loch Ness
+0.5624	0.0418	Aug. ?, Arthur Kopit: New York Times Magazine, 1 Aug. 1976
+===FILE 1962-to-1966.pdf
+---PAGE 1
+0.0392	0.9152	*Oct. 19: Costello, In Search of Lake Monsters, 97; Hall, Bestien, Sche-
+0.0538	0.8929	usale und Monster, 78; film 8 in Mackal, Monsters of Loch Ness;
+0.0552	0.8705	Witchell, Loch Ness Story, 1976, p. 156
+0.0392	0.8525	Oct. 19, Michael Spear: Costello, In Search of Lake Monsters, 97;
+0.0551	0.8311	Witchell, Loch Ness Story, 1976, p. 156
+0.0392	0.8120	Oct. 25: Costello, In Search of Lake Monsters, 97
+0.0392	0.7599	Apr. 21, Mrs. Vera King: Sun World Telegram, 22 Apr. 1963
+0.0377	0.7404	June 4: Inverness Courier, 20 Mar. 1964
+0.0378	0.7211	June 4, Sylvia MacKintosh: obs. no. 178 in Mackal, Monsters of Loch
+0.0378	0.6808	June 5: Inverness Courier, 20 Mar. 1964
+0.0375	0.6634	June 6: ibid.
+0.0392	0.6404	*June 6: film 10, land sight. no. 18 in Mackal, Monsters of Loch Ness;
+0.0538	0.6202	Witchell, Loch Ness Story, 1976, p. 144
+0.0392	0.6019	*June 6: film 9 in Mackal, Monsters of Loch Ness
+0.0378	0.5798	June 12, Jack MacLean: Shields, They Saw Nessie, 36
+0.0392	0.5561	*June 13: Inverness Courier, 11 Oct. 1963; film 11 in Mackal, Monsters
+0.0523	0.5410	of Loch Ness
+0.0363	0.5172	July 31, John MacLean: Inverness Courier, 2 Aug. 1963
+0.0363	0.4990	July ?, D. Maclntosh: Dinsdale, Leviathans, 15; Witchell, Loch Ness
+0.0523	0.4787	Story, 1976, p. 179
+0.0392	0.4586	Aug., F. W. Holiday: Holiday, Great Orm, 43
+0.0392	0.4364	Aug. 20, R. West: Inverness Courier, 23 Aug. 1963; Shields, They Saw
+0.0523	0.4180	Nessie, 36
+0.0392	0.3980	Aug. 21, E. Kerr: Inverness Courier, 23 Aug. 1963
+0.0391	0.3744	Aug. 23, W. Fallows: ibid., 27 Aug. 1963
+0.0392	0.3574	Aug. 24, D. Blacklock: ibid.
+0.0391	0.3343	Aug. ?, Heather Cary: Dinsdale, Leviathans, 196
+0.0392	0.3172	Aug. ?, A. Grant: obs. nos. 179-80 in Mackal, Monsters of Loch Ness;
+0.0537	0.2926	Witchell, Loch Ness Story, 1976, p. 97
+0.0377	0.2726	?, Doglerush: Nessletter, no. 18
+0.0363	0.2226	Jan. 11, Alex Campbell: obs. no. 181 in Mackal, Monsters of Loch Ness;
+0.0523	0.2059	Dinsdale, Leviathans, 205
+0.0378	0.1838	Mar. 25, A. Russel: Dinsdale, Leviathans, 205; obs. no. 183 in Mackal,
+0.0523	0.1657	Monsters of Loch Ness; Shields, They Saw Nessie, 37
+0.0377	0.1418	Mar. ?, William Fraser: obs. no. 182 in Mackal, Monsters of Loch Ness
+0.0377	0.1217	May 6: obs. no. 184 in ibid.; Dinsdale, Leviathans, 205
+0.0378	0.1030	May 17, Mr. & Mrs. Eames: Dinsdale, Leviathans, 205; obs. no. 185 in
+0.0522	0.0841	Mackal, Monsters of Loch Ness
+0.0377	0.0596	May 18, Fred Pullen: Dinsdale, Leviathans, 205; obs. no. 186 in Mackal,
+0.0523	0.0461	Monsters of Loch Ness
+0.0377	0.0205	May 19, Mr. & Mrs. Hodge, Ivor Newby: Costello, In Search of Lake
+0.5769	0.9120	Monsters, 100; Dinsdale, Leviathans, 205; obs. no. 187 in Mackal,
+0.5770	0.8946	Monsters of Loch Ness; Witchell, Loch Ness Story, 1976, pp. 161-62
+0.5624	0.8725	May 27: Witchell, Loch Ness Story, 1976, p. 178
+0.5610	0.8525	June 9: Dinsdale, Leviathans, 205
+0.5625	0.8303	July 17, Alex Campbell: ibid., 206; obs. no. 188 in Mackal, Monsters of
+0.5755	0.8157	Loch Ness
+0.5625	0.7899	Aug. 9, J. Dawson: Dinsdale, Leviathans, 206; obs. no. 189 in Mackal,
+0.5770	0.7734	Monsters of Loch Ness
+0.5625	0.7514	Aug. 19, J. Thompson: Dinsdale, Leviathans, 206; obs. no. 190 in
+0.5756	0.7313	Mackal, Monsters of Loch Ness
+0.5636	0.6916	ALocD: Dissdale, Leviathans, 206; obs. no. 191 in Mackal, Monsters of
+0.5623	0.6711	Sept. 5: ibid.
+0.5624	0.6482	Sept. 6, Mr. & Mrs. Riley: Dinsdale, Leviathans, 206; obs. no. 192 in
+0.5770	0.6302	Mackal, Monsters of Loch Ness
+0.5625	0.6101	Sept. 8, Mrs. McNaughton: Dinsdale, Leviathans, 206; Inverness Cou-
+0.5755	0.5876	rier, 11 Sept. 1964; obs. no. 193 in Mackal, Monsters of Loch Ness
+0.5624	0.5671	carly Oct., Mrs. Dalles: Dinsdale, Leviathans, 206; obs. no. 194 in
+0.5769	0.5498	Mackal, Monsters of Loch Ness
+0.5640	0.5273	mid-Oct.: Dinsdale, Leviathans, 206; obs. no. 195 in Mackal, Monsters
+0.5770	0.5085	of Loch Ness
+0.5639	0.4563	Mar. 30, Miss Keith: obs. no. 196 in Mackal, Monsters of Loch Ness;
+0.5785	0.4364	Witchell, Loch Ness Story, 1976, p. 180
+0.5654	0.4160	Apr. 14, W. J. Home: Holiday, Great Orm, 157
+0.5639	0.3937	June, Frank Searle: Hall, Bestien, Scheusale und Monster, 79
+0.5624	0.3738	June: obs. no. 197 in Mackal, Monsters of Loch Ness
+0.5624	0.3533	June, F.W. Holiday: obs. no. 198 in ibid.; Costello, In Search of Lake
+0.5770	0.3348	Monsters, 101
+0.5640	0.3131	June 6, Simon Campbell: Holiday, Great Orm, 100
+0.5654	0.2968	June 15, Mr. Cameron & Mr. Fraser: ibid., 107
+0.5654	0.2768	June 21, F. W. Holiday: Costello, In Search of Lake Monsters, 102; obs.
+0.5785	0.2545	no. 199 in Mackal, Monsters of Loch Ness
+0.5639	0.2319	July 30, H. Ferguson: obs. no. 200 in Mackal, Monsters of Loch Ness
+0.5654	0.2134	*Aug. 1, E. Hall: Costello, In Search of Lake Monsters, 102; film 13 in
+0.5784	0.1910	Mackal, Monsters of Loch Ness
+0.5669	0.1736	Sept. 8, Helen McNaughton: Holiday, Great Orm, 61
+0.5669	0.1535	Sept. 30, E. & V. Eliot: obs. no. 201 in Mackal, Monsters of Loch Ness
+0.5640	0.1313	?, Br. Carruth: Witchell, Loch Ness Story, 1976, p. 102
+0.5653	0.0784	Mar. 27, David James: Costello, In Search of Lake Monsters, 104
+0.5669	0.0606	Apr. 21, Hilda Hitching: Shields, They Saw Nessie, 38
+0.5654	0.0384	May 28, Mr. & Mrs. Macdonald: obs. no. 202 in Mackal, Monsters of
+0.5814	0.0239	Loch Ness
+===FILE 1966-to-1968.pdf
+---PAGE 1
+0.0158	0.9068	May 29, Mr. & Mrs. Pommitz: obs. no. 203 in ibid.
+0.0159	0.8891	May 31, Mae Macdonald: obs. no. 204 in ibid.
+0.0144	0.8670	June 13, B. Cameron: obs. no. 205 in ibid.
+0.0145	0.8500	June 14, F. Young: obs. no. 206 in ibid.
+0.0144	0.8270	June 14, Mr. & Mrs. Johnstone: obs. no. 207 in ibid.
+0.0158	0.8071	June 20, L. Holmgren: obs. no 208 in ibid.
+0.0159	0.7874	June 29, R. W. Swan: obs. no. 209 in ibid.
+0.0158	0.7673	July. 7, Mr. & Mrs. Dickson: obs. no. 210 in ibid.
+0.0158	0.7471	July 21, Clem Skelton: obs. no. 211 in ibid.
+0.0159	0.7269	July 28, H. Cary: obs. no. 212 in ibid.
+0.0157	0.7043	July 28, Knapp: obs. no. 213 in ibid.
+0.0159	0.6855	July 30, Miss Lewis: obs. no. 214 in ibid.
+0.0187	0.6655	Aug. 20, Dr. Heathcote: obs. nos. 215-16 in ibid.
+0.0188	0.6447	*Aug. 20, Sandermann: photo 13 in ibid.
+0.0173	0.6254	Sept. 5, M. Pool: obs. no. 217 in ibid.
+0.0173	0.6053	Sept. 17, Roy P. Mackal: ibid., 20
+0.0174	0.5838	Sept. 25, Clem Skelton, Peter Hodge, Angela Veitch, Roy Mackal: obs.
+0.0320	0.5658	no. 218 in ibid., and pp. 20-21
+0.0188	0.5434	Sept. 28, Lichterfelde: Witchell, Loch Ness Story, 1976, p. 99
+0.0174	0.5236	Sept. 28, Mrs. N. Shulman: obs. no. 219 in Mackal, Monsters of Loch
+0.0334	0.5080	Ness
+0.0188	0.4838	?, Roy P. Mackal: ibid., 19
+0.0189	0.4638	*?, M. Edwards: Witchell, Loch Ness Story, 1976, p. 164
+0.0188	0.4409	?, F. Gregory: obs. no. 210 in Mackal, Monsters of Loch Ness
+0.0202	0.3913	Mar. 17, John Cameron: obs. no. 221 in ibid.; David James, Loch Ness
+0.0334	0.3715	Investigation Annual Report, n.p., 1967, p.3; Witchell, Loch Ness
+0.0349	0.3520	Story, 1976, p. 101
+0.0203	0.3308	Apr. 5, D. Wathen: James, LNI Annual Report, 1967, p. 3; obs. no. 222
+0.0333	0.3128	in Mackal, Monsters of Loch Ness
+0.0202	0.2896	Apr. 14, Mr. & Mrs. Cary: James, LNI Annual Report, 1967, p.3; obs.
+0.0348	0.2706	no. 223 in Mackal, Monsters of Loch Ness
+0.0202	0.2498	Apr. ?, D. Fraser: Witchell, Loch Ness Story, 1976, p. 99
+0.0203	0.2310	*May 22, L.S. Durkin, Miss Atkin: James, LNI Annual Report, 1967,
+0.0348	0.2103	p. 4; film 14, obs. no. 224 in Mackal, Monsters of Loch Ness; Witch-
+0.0348	0.1897	ell, Loch Ness Story, 1976, p. 165
+0.0203	0.1696	May 27, F. W. Holiday: James, LNI Annual Report, 1967, p. 4
+0.0203	0.1495	May 28, Pyman: ibid.; obs. no. 225 in Mackal, Monsters of Loch Ness
+0.0233	0.1340	June 7, R. Dodson: James, LNI Annual Report, 1967, p. 4
+0.0246	0.1126	*June 13, R. H. Raynor: ibid.; film 15, obs. no. 226 in Mackal, Monsters
+0.0363	0.0918	of Loch Ness; Witchell, Loch Ness Story, 1976, p. 165
+0.0217	0.0674	*July 15, Dobbie: James, LNI Annual Report, 1967 p. 5; photo 14, obs.
+0.0348	0.0484	no. 227 in Mackal, Monsters of Loch Ness
+0.0203	0.0290	July 23: Costello, In Search of Lake Monsters, 117
+0.5538	0.9120	Aug. 6, Peter Davies: James, LNI Annual Report, 1967, p. 5; obs. no. 228
+0.5669	0.8918	in Mackal, Monsters of Loch Ness
+0.5538	0.8719	Aug. 7, N. Schofield: James, LNI Annual Report, 1967, p. 5; obs. no. 229
+0.5669	0.8520	in Mackal, Monsters of Loch Ness
+0.5538	0.8320	Aug. 13, J. Kendrick: James, LNI Annual Report, 1967, p. 5
+0.5538	0.8120	Aug. 18, D. Field: ibid.; obs. no. 230 in Mackal, Monsters of Loch Ness
+0.5538	0.7897	Aug. 22, D. Gartrell: James, LNI Annual Report, 1967, p. 6; obs. no.
+0.5681	0.7682	231 in Mackal, Monsters of Loch Ness
+0.5537	0.7469	*Aug. 22, Andrew Chapman: James, LNI Annual Report, 1967, p. 6;
+0.5683	0.7340	film 16 in Mackal, Monsters of Loch Ness
+0.5523	0.7080	*Aug. 23, S. Hunter: James, LNI Annual Report, 1967, p. 6; film 17 in
+0.5683	0.6877	Mackal, Monsters of Loch Ness
+0.5538	0.6678	Aug. 29, Kewley: James, LNI Annual Report, 1967, p. 7; obs. no. 232 in
+0.5668	0.6471	Mackal, Monsters of Loch Ness
+0.5538	0.6280	*Summer: Costello, In Search of Lake Monsters, 117
+0.5538	0.6080	Sept. 18, John Matheson: James, LNI Annual Report, 1967, p. 7; Mackal,
+0.5696	0.5896	Monsters of Loch Ness, 28
+0.5537	0.5659	Sept. 20, D. Bland: James, LNI Annual Report, 1967, p. 7; obs. no. 233
+0.5669	0.5479	in Mackal, Monsters of Loch Ness
+0.5537	0.5260	Sept. 21, A. Hayward: James, LNI Annual Report, 1967, p. 8; obs. no.
+0.5683	0.5080	234 in Mackal, Monsters of Loch Ness
+0.5552	0.4856	Sept. 26, John Stout: James, LNI Annual Report, 1967, p. 8; obs. no. 235
+0.5668	0.4672	in Mackal, Monsters of Loch Ness
+0.5537	0.4441	*Oct. 5, Clem Skelton: James, LNI Annual Report, 1967, p. 8; film 18 in
+0.5698	0.4240	Mackal, Monsters of Loch Ness
+0.5551	0.3758	Mr. W. A. Adamson: Holiday, Great Orm, 41
+0.5566	0.3536	Apr. 18, C. Sanders: David James, Loch Ness Investigation Annual Re-
+0.5696	0.3329	port, n.p., 1968, p. 2; obs. no. 236 in Mackal, Monsters of Loch Ness
+0.5567	0.3158	Apr. 18, W. V. Turl: James, LNI Annual Report, 1968, p. 2; obs. no. 237
+0.5681	0.2940	in Mackal, Monsters of Loch Ness
+0.5552	0.2740	May 3, G. Brusey: Shields, They Saw Nessie, 40
+0.5552	0.2517	May 4, L. Irvine: James, LNI Annual Report, 1968, p. 2; obs. no. 238 in
+0.5698	0.2320	Mackal, Monsters of Loch Ness
+0.5566	0.2111	May 5, P. Bull: James, LNI Annual Report, 1968, p.2; obs. no. 239 in
+0.5698	0.1918	Mackal, Monsters of Loch Ness
+0.5566	0.1717	May 10, Mrs. Wolbourn: James, LNI Annual Report, 1968, p. 3
+0.5566	0.1516	May 27, Mr. & Mrs. Warren: obs. no. 240 in Mackal, Monsters of Loch
+0.5552	0.1120	June 27, Lundberg: obs. no. 241 in ibid.; James, LNI Annual Report,
+0.5696	0.0913	1968, p. 3
+0.5552	0.0719	July 7, John Mackay: Shields, Ihey Saw Nessie, 41
+0.5552	0.0499	July 10, Mr. & Mrs. Deacon: James, LNI Annual Report, 1968, p. 3;
+0.5711	0.0302	obs. no. 242 in Mackal, Monsters of Loch Ness
+===FILE 1968-to-1974.pdf
+---PAGE 1
+0.0218	0.9124	July 23, Mr. & Mrs. Heal: James, LNI Annual Report, 1968, p. 3; obs.
+0.0378	0.8941	no. 243 in Mackal, Monsters of Loch Ness
+0.0232	0.8721	July 27, McLean: James, LNI Annual Report, 1968, p.3
+0.0232	0.8543	July ?, Dr. K. McLeod: Bord & Bord, Alien Animals, 38
+0.0246	0.8319	Aug. 23, Hugh Munro: Shields, They Saw Nessie, 41
+0.0247	0.8127	Aug. 26, F. W. Holiday: James, LNI Annual Report, 1968, p. 3; obs. no.
+0.0377	0.7936	244 in Mackal, Monsters of Loch Ness
+0.0246	0.7715	Aug. 26, Thresh: James, LNI Annual Report, 1968, p. 3
+0.0246	0.7305	Sept. 5, lan Smith: Dinsdale, Project Water Horse, 62
+0.0247	0.7131	Sept. 5: ibid., 64
+0.0246	0.6906	Sept. 6, Dinsdale: ibid.; Dinsdale, Loch Ness Monster, 128
+0.0247	0.6710	Sept. 19, Mr. & Mrs. Silcock: James, LNI Annual Report, 1968, p.3;
+0.0392	0.6551	obs. no. 246 in Mackal, Monsters of Loch Ness
+0.0261	0.6305	Nov. 11, McLeod: James, LNI Annual Report, 1968, p.4; obs. no. 247
+0.0378	0.6113	in Mackal, Monsters of Loch Ness
+0.0261	0.5595	Apr. 7, B. Marshall: David James, Loch Ness Investigation Annual Re-
+0.0392	0.5407	port, n.p., 1969, p. 5; obs. no. 248 in Mackal, Monsters of Loch Ness
+0.0275	0.5192	*May 27, H. Barski: James, LNI Annual Report, 1969, p. 5; film 20 in
+0.0421	0.5013	Mackal, Monsters of Loch Ness
+0.0246	0.4798	June 1, W. Cary: James, LNI Annual Report, 1969, p. S; Witchell, Loch
+0.0407	0.4608	Ness Story, 1976, p. 206; Witchell, Loch Ness Story, 1982, p. 164
+0.0260	0.4375	June 5, Best: James, LNI Annual Report, 1969, p. 5
+0.0247	0.4180	June 21, Mrs. Matthews: ibid.
+0.0261	0.3979	*June 23, A. Skelton: ibid.; film 21 in Mackal, Monsters of Loch Ness
+0.0262	0.3784	July 26, Mr. & Mrs. Clayton: James, LNI Annual Report, 1969, p.5;
+0.0392	0.3606	obs. no. 249 in Mackal, Monsters of Loch Ness
+0.0291	0.3406	Aug. 1, R. Moyse: James, LNI Annual Report, 1969, p. 6; obs. no. 250 in
+0.0406	0.3180	Mackal, Monsters of Loch Ness
+0.0276	0.2985	Aug. 6, Craven: James, LNI Annual Report, 1969, p. 6; obs. no. 251 in
+0.0407	0.2787	Mackal, Monsters of Loch Ness
+0.0276	0.2567	Aug. 6, Graham Bayley: James, LNI Annual Report, 1969, p. 6
+0.0275	0.2365	Aug. 12, James Skeldon: ibid.; Nessletter, no. 55
+0.0276	0.2191	*Aug. ?, Mrs. Tait: Hall, Bestien, Scheusale und Monster, 64; Costello, In
+0.0407	0.1992	Search of Lake Monsters, 112
+0.0276	0.1790	*Sept. 16, I. Shield: James, LNI Annual Report, 1969, p. 6; film 22 in
+0.0434	0.1578	Mackal, Monsters of Loch Ness
+0.0276	0.1373	Sept. ?: Dinsdale, Project Water Horse, 189
+0.0275	0.1139	Oct. 10, M. Rickards: James, LNI Annual Report, 1969, p. 7
+0.0276	0.0654	July 18, Mr. & Mrs. Tyrrel: Witchell, Loch Ness Story, 1976, p. 180
+0.0290	0.0465	July 26: Costello, In Search of Lake Monsters, 111
+0.0305	0.0279	Aug., Tim Dinsdale: Binns, Loch Ness Mystery Solved, 142; Carruth,
+0.0451	0.0060	Loch Ness and Its Monsters, 23; Dinsdale, Loch Ness Monster, 207
+0.5538	0.9163	Sept., Jack Uhlrich: Costello, In Search of Lake Monsters, 111
+0.5538	0.8962	Sept., Roy P. Mackal: Mackal, Monsters of Loch Ness, 69
+0.5551	0.8439	May, S. France: Witchell, Loch Ness Story, 1976, p. 181
+0.5523	0.8245	June 22, William Dewar: ibid., 102
+0.5552	0.8046	*June 23, Bob Rines, Basil Cary: ibid., 185
+0.5538	0.7848	early Aug., B. Badger: Dinsdale, Loch Ness Monster, 144
+0.5538	0.7649	Aug. 4, F. Searle: Frankfurter Allgemeine Zeitschrift, 30 Oct. 1976
+0.5538	0.7430	Aug. 18, Katherine Robertson: Dinsdale, Story of the Loch Ness Mon-
+0.5538	0.7029	Sept. 6, Tim Dinsdale: Dinsdale, Loch Ness Monster, 146
+0.5551	0.6826	Oct. 13, Mrs. Turner: ibid., 148
+0.5552	0.6433	Op. 102 H. Henderson: ibid., 150; Witchell, Loch Ness Story, 1976,
+0.5552	0.6235	Oct. 14, Gregory Brusey: Witchell, Loch Ness Story, 1976, p. 102
+0.5552	0.6016	*Nov. 10, F. Searle: Frankfurter Allgemeine Zeitschrift, 30 Oct. 1976
+0.5535	0.5530	June, F. Searle: ibid.
+0.5552	0.5319	*July 27, F. Searle: photo 15 in Mackal, Monsters of Loch Ness; Witch-
+0.5668	0.5113	ell, Loch Ness Story, 1976, p. 185
+0.5538	0.4918	early Aug., E. Essex: Dinsdale, Story of the Loch Ness Monster, 69
+0.5552	0.4699	Aug. 1, Nick Witchell: Binns, Loch Ness Mystery Solved, 166
+0.5552	0.4501	*Aug. 8, Bob Rines: photo 16 in Mackal, Monsters of Loch Ness
+0.5537	0.4285	*Oct. 21, F. Searle: Frankfurter Allgemeine Zeitschrift, 30 Oct. 1976;
+0.5696	0.4097	Witchell, Loch Ness Story, 1976, p. 184
+0.5538	0.3904	?, Comdr. Bellars: Dinsdale, Project Water Horse, 203
+0.5552	0.3404	*Mar. 27, F. Searle: Witchell, Loch Ness Story, 1976, p. 185
+0.5552	0.3224	Spring: Nessletter, no. 1
+0.5551	0.2982	May, Ian McKenzie: ibid., no. 3
+0.5538	0.2807	June: Dinsdale, Project Water Horse, 190
+0.5538	0.2589	July 27, J. Shaw: Nessletter, no. 1; Witchell, Loch Ness Story, 1976, pp.
+0.5538	0.2171	July 27, Pugh: Nessletter, no. 2
+0.5551	0.1984	* Aug. 1, F. Searle: Witchell, Loch Ness Story, 1976, p. 185
+0.5552	0.1775	Aug. 5, Nick Witchell: Nessletter, no. 1
+0.5552	0.1592	Aug. 20, Graham Snape: ibid.
+0.5552	0.1393	Sept. 8/9, Ian Henderson: ibid.
+0.5567	0.1195	Nov. 10, R. Jenkyns: ibid., no. 3; Mackal, Monsters of Loch Ness, 265;
+0.5683	0.0996	Shields, They Saw Nessie, 41; Witchell, Loch Ness Story, 1976, p. 200
+0.5552	0.0757	?, Mme. Clerc: Jean-Jacques Barloy, Newsletter, published in Paris, no. 10
+0.5567	0.0279	*Jan. 8, F. Searle: Hall, Bestien, Scheusale und Monster, 83; Witchell,
+0.5712	0.0080	Loch Ness Story, 1976, p. 185
+===FILE 1974-to-1978.pdf
+---PAGE 1
+0.0260	0.9079	Feb. 8, A. Call: N. Blundell, The Greatest Mysteries, London: Octopus,
+0.0406	0.8884	1980, p. 68; Nessletter, no. 2
+0.0275	0.8696	Apr.: Nessletter, no. 3
+0.0274	0.8485	May, lan McKenzie: ibid.
+0.0260	0.8278	June 20, G. Siegel: ibid., no. 4
+0.0259	0.8089	June 22, D. Steward: ibid.
+0.0262	0.7864	July 5, D. Neal: ibid.
+0.0275	0.7658	* July 9, F. Searle: Frankfurter Allgemeine Zeitschrift, 30 Oct. 1976
+0.0275	0.7479	July ?, L. J. Prince: Nessletter, no. 26
+0.0289	0.7250	Sept. 30, Mr. & Mrs. Jenkyns: ibid., no. 6; Bord & Bord, Alien Animals,
+0.0434	0.7044	38, 42; Dinsdale, Project Water Horse, 204
+0.0290	0.6874	Oct. 6, John Keay: Nessletter, no. 5; Shields, They Saw Nessie, 42
+0.0290	0.6665	early Nov., K. Buggy: Nessletter, nos. 6-7
+0.0785	0.6417	1975
+0.0303	0.6146	Apr. 21, J. Berton: ibid., no. 9
+0.0304	0.5936	*June 20, R. Rines: photo 17 in Mackal, Monsters of Loch Ness; Witch-
+0.0434	0.5736	ell, Loch Ness Story, 1976, p. 207
+0.0289	0.5547	July 7: Nessletter, no. 10; Shields, They Saw Nessie, 43
+0.0288	0.5340	July 10, Sue Diamond: Nessletter, nos. 10-11
+0.0319	0.5123	*July 18, Alan Wilkins: ibid., no. 10
+0.0303	0.4921	July ?, Tim Dinsdale: Dinsdale, Loch Ness Monster, 163
+0.0318	0.4744	Aug. 4: Nessletter, no. 10
+0.0318	0.4515	Oct., R. Lipinski: ibid., no. 11
+0.0318	0.4334	?: Blundell, Greatest Mysteries, 68
+0.0318	0.3826	William S. Ellis, "Loch Ness-the Lake and the Legend," National Geo-
+0.0463	0.3610	graphic, June 1977, pp. 758-79
+0.0333	0.3437	early: Weltwoche (Zurich), 23 June 1976
+0.0318	0.3207	Jan. 10, F. Searle: Frank Searle, Quarterly Newsletter, Loch Ness Inves-
+0.0450	0.3032	tigation, Lower Foyers, Inverness, Apr. 1977
+0.0333	0.2803	*Feb. 26, F. Searle: ibid.
+0.0333	0.2585	Feb. 28, Rainford: ibid.
+0.0346	0.2399	Mar. 19, Downie: ibid.
+0.0347	0.2178	Apr. 13, D. Nicholson: Inverness Courier, 16 Apr. 1976; Nessletter,
+0.0347	0.1781	May 4, Mr. & Mrs. Ely: Searle, Quarterly Newsletter, Apr. 1977
+0.0346	0.1593	May 4, Tom Skinner: ibid.
+0.0347	0.1393	May ?, Roger Parker: Witchell, Loch Ness Story, 1982, p. 200
+0.0347	0.1180	June 7, Tolchard: Searle, Quarterly Newsletter, Apr. 1977
+0.0343	0.0964	July 1, A. McKenzie: ibid.
+0.0362	0.0797	*July 4, Alan Landsburg: Alan Landsburg, In Search of Myths and Mon-
+0.0360	0.0377	mideyea, B. Kenkedy, Nehis, "17Ze and the Legend," 758-79; Nessletter,
+0.5552	0.9135	Aug. 1, Nick Asby: Nessletter, no. 17
+0.5567	0.8913	Aug. 21, Anthony Luke: ibid.; Inverness Courier, 24 Aug. 1976; Searle,
+0.5712	0.8729	Quarterly Newsletter, Apr. 1977
+0.5566	0.8507	*Aug. 22; F. Searle: Searle, Quarterly Newsletter, Apr. 1977
+0.5566	0.8293	*Aug. 25, Rev. MacNaughton: Nessletter, no. 18
+0.5551	0.8110	*Aug. ?, B. & L. Green: ibid.
+0.5567	0.7905	Aug. ?, Ph. Marlow: ibid., no. 20
+0.5552	0.7706	Sept. 7, Sampson: ibid., nos. 18, 21
+0.5567	0.7505	Oct. 11, Brian Cosens: ibid., no. 18; Inverness Courier, 15 Oct. 1976
+0.5580	0.7273	Nov. 6, F. Searle: Searle, Quarterly Newsletter, Apr. 1977
+0.5580	0.7116	Dec. 2, Mrs. Mclntosh: ibid.
+0.5552	0.6600	Jan. 4, J. Bradley: ibid.
+0.5552	0.6398	Jan. 22, Sheila Ward: ibid.
+0.5552	0.6195	Jan. 31-Feb. 2: Bord & Bord, Alien Animals, 195
+0.5567	0.5975	Mar. 24, Mr. & Mrs. Watkins: Searle, Quarterly Newsletter, Apr. 1977
+0.5552	0.5795	Spring: Barloy, Newsletter, no. 1
+0.5567	0.5570	Apr. 27, McGrew: Nessletter, no. 22; Searle, Quarterly Newsletter, Apr.
+0.5581	0.5171	Apr. 30, Mr. & Mrs. Walne: Searle, Quarterly Newsletter, June 1977
+0.5567	0.4990	*May 21, Mr. & Mrs. T. Shields: Bord & Bord, Alien Animals, 26-27;
+0.5698	0.4766	Dinsdale, Loch Ness Monster, 184
+0.5552	0.4567	June 21, Fallon: Searle, Quarterly Newsletter, Sept. 1977
+0.5567	0.4366	Aug. 8, F. Searle: ibid.
+0.5552	0.4139	*Aug. 22, Peter Smith: Dinsdale, Loch Ness Monster, 190; Nessletter,
+0.5712	0.3963	no. 23; Witchell, Loch Ness Story, 1982, p. 204
+0.5567	0.3742	early Sept., P. McFarlane: Dinsdale, Loch Ness Monster, 190; Nessletter,
+0.5566	0.3335	Sept. 8, Mrs. Perry: Searle, Quarterly Newsletter, Dec. 1977
+0.5552	0.3139	Sept. 15, C.E. Moore: ibid.
+0.5566	0.2933	Oct. 29, J. Murray: Nessletter, no. 25
+0.5567	0.2734	Nov., Caroline: ibid., no. 30
+0.5552	0.2534	?, H. Hepple: ibid., no. 26
+0.6046	0.2271	1978
+0.5567	0.2032	Mar. 6: Searle, Quarterly Newsletter, Mar. 1978
+0.5567	0.1831	Apr. 19, J. Cameron: ibid., June 1978
+0.5567	0.1628	early May, Susan Russell: Nessletter, no. 28
+0.5565	0.1378	May 26, G. Hall: Searle, Quarterly Newsletter, June 1978
+0.5552	0.1227	June 9, F. Searle: ibid
+0.5552	0.1023	June 15, A. McMillan: ibid.
+0.5552	0.0804	June 17, Bill Wright: ibid., Sept. 1978; Bord & Bord, Alien Animals, 23;
+0.5712	0.0624	Nessletter, no. 28; Shields, They Saw Nessie, 43
+0.5552	0.0402	July 9, Mrs. Gibson: Searle, Quarterly Newsletter, Sept. 1978
+0.5552	0.0199	July 24, Miss Page: Nessletter, no. 15
+===FILE 1978-to-1982.pdf
+---PAGE 1
+0.0230	0.9004	July 25, Painten: Searle, Quarterly Newsletter, Sept. 1978
+0.0231	0.8790	July 27, Mark Lawson: ibid.
+0.0258	0.8603	Aug. 3, P. Locas: ibid.
+0.0260	0.8398	Aug. 5, Mr. & Mrs. Chisholm: Blundell, Greatest Mysteries, 68; Nesslet-
+0.0391	0.8198	ter, no. 29; Shields, They Saw Nessie, 44
+0.0260	0.8004	Aug. 8, Richardson: Searle, Quarterly Newsletter, Sept. 1978
+0.0274	0.7784	*Sept. 3, Jeoff Watson: Dinsdale, Loch Ness Monster, 175
+0.0260	0.7591	Sept. 7, Mrs. Rorvik: Searle, Quarterly Newsletter, Dec. 1978
+0.0274	0.7384	Oct. 31, Mrs. Legdon: ibid.
+0.0273	0.7191	Dec., F. Searle: ibid.
+0.0274	0.6992	?: Nessletter, no. 28
+0.0770	0.6750	1979
+0.0289	0.6513	Lord Lovat: Zweites Deutsches Fernsehen (Mainz), 28 Sept. 1979
+0.0274	0.6292	Jan. 3, J. Bennet: Searle, Quarterly Newsletter, Mar. 1979
+0.0289	0.6094	Feb. 20, F. Searle: ibid.
+0.0289	0.5887	Mar. 25: ibid., June 1979
+0.0303	0.5686	Mar. 28, Hepworth: ibid.
+0.0304	0.5483	*Apr. 2, B. Hamilton: Daily Telegraph, 1 Apr. 1972, p. 15
+0.0303	0.5265	Apr. 5, R. Poyner: Searle, Quarterly Newsletter, June 1979
+0.0303	0.5088	Apr. 18, Alec Welch: ibid.
+0.0303	0.4870	May 8, G. Hamilton: ibid.
+0.0291	0.4685	June 6, Ken Nash: ibid., Sept. 1979
+0.0289	0.4461	June 12, C. Kennedy: Dinsdale, Loch Ness Monster, 178
+0.0289	0.4267	July 7, J. Alderdice: Searle, Quarterly Newsletter, Sept 1979
+0.0288	0.4058	July 14, G. Millar: ibid.
+0.0289	0.3845	July 26, Mr. & Mrs. Ryan: ibid.
+0.0305	0.3678	July 27: Nessletter, no. 36
+0.0303	0.3455	July 30, Alastair Boyd: ibid., nos. 59-64
+0.0318	0.3249	Aug. 6, R. Acraman: ibid., no. 36; Barloy, Newsletter, 13
+0.0319	0.3068	Aug. 12: Sunday Post (Glasgow), 12 Aug. 1979
+0.0333	0.2850	Aug. 22, F. Knight: Searle, Quarterly Newsletter, Sept. 1979
+0.0333	0.2647	Aug. 24, Cresswell: ibid.
+0.0332	0.2427	Aug. 31, Mrs. Mcleod: Nessletter, no. 36
+0.0333	0.2236	Sept. 6, Mrs. McNish: ibid., nos. 36, 50
+0.0331	0.2030	Sept. 9, A. Kennedy: ibid., no. 37
+0.0333	0.1842	Sept. 21, Flint: Searle, Quarterly Newsletter, Dec. 1979
+0.0333	0.1644	Sept. 26, Miss Pat: ibid.
+0.0347	0.1442	Nov. 10, Mr. & Mrs. Kirkup: ibid.
+0.0348	0.1238	?, Ray Greenfield: Nessletter, no. 53
+0.0333	0.0736	Jan. 25, Mr. & Mrs. Rhodes: Searle, Quarterly Newsletter, Mar. 1980
+0.0347	0.0541	Feb. 3, Mr. & Mrs. Wilkinson: ibid.
+0.0347	0.0321	Feb. 10, M. Hay: ibid.
+0.0362	0.0129	Feb. 21, Walton: ibid.
+0.5542	0.8925	Mar 27, Catowe ibid, Sept. 1980
+0.5552	0.8740	Apr. 7, Quinn: ibid., June 1980
+0.5538	0.8541	Apr. 23, Fowler: ibid.
+0.5538	0.8327	May 29, F. Searle: ibid., Sept. 1980
+0.5521	0.8116	June 17, Davies: ibid.
+0.5523	0.7932	June 27,J. Wagstaff: ibid.
+0.5552	0.7733	Aug. 2, Gibbs: ibid.
+0.5552	0.7539	Aug. 8, G. Prideaux: ibid.
+0.5552	0.7322	Aug. 23, Jim Green: Nessletter, no. 42
+0.5537	0.7108	Sept. 13, Aston: Searle, Quarterly Newsletter, Dec. 1980
+0.5538	0.6929	Nov. 16, F. Searle: ibid.
+0.5538	0.6712	Dec. 8, J. Cameron: Fortean Times, no. 34; Nessletter, no. 43
+0.6031	0.6453	1981
+0.5537	0.6189	Jan. 11, Mr. & Mrs. Davidson: Searle, Quarterly Newsletter, Mar. 1981
+0.5538	0.6021	Feb. 25, N. Wylie: ibid.
+0.5538	0.5827	Apr. 4, P. & H. Johnston: ibid., June 1981
+0.5552	0.5630	Apr. 14, Mr. & Mrs. Knight: ibid.
+0.5538	0.5411	Apr. 27, Dutton: ibid.
+0.5538	0.5217	May 15, Mr. & Mrs. Exley: ibid.
+0.5538	0.5020	June 23, F. Searle: ibid., Sept. 1981
+0.5523	0.4822	June 24, Mr. & Mrs. Cunningham: ibid.
+0.5523	0.4606	July: Nessletter, nos. 50, 52
+0.5538	0.4409	Aug. 6, Grimshaw: ibid., no. 64
+0.5537	0.4184	Aug. 6, Mrs. Metcalfe: Sunday Post, 6 Sept. 1981
+0.5538	0.3993	Aug. 9, Mr. & Mrs. Vargas: Searle, Quarterly Newsletter, Sept. 1981
+0.5538	0.3799	Aug. 15, F. Searle: ibid.
+0.5538	0.3602	late Aug.: Nessletter, no. 2
+0.5538	0.3384	Sept. 10, Alice Bjornstad: ibid., no. 49
+0.5537	0.3165	Sept. 21, Jill Donovan: Searle, Quarterly Newsletter, Dec. 1981
+0.5551	0.2974	*Sept. ?: Nessletter, no. 52
+0.5538	0.2774	Nov. 7, B. Dennison: Searle, Quarterly Newsletter, Dec. 1981
+0.5538	0.2575	*?, David Bead: Nessletter, no. 50
+0.5523	0.2061	Jan. 23, Christie: Searle, Quarterly Newsletter, Mar. 1982
+0.5538	0.1890	Feb. 27: ibid.; Nessletter, no. 52
+0.5537	0.1668	Apr. 4, F. Searle: Searle, Quarterly Newsletter, June 1982
+0.5536	0.1457	Apr. 30: ibid.; Nessletter, no. 52
+0.5538	0.1280	May 20, Rosen: ibid.
+0.5538	0.1062	May 23: Nessletter, nos. 52-53; Searle, Quarterly Newsletter, June 1982
+0.5523	0.0863	July 10, Ken Armstrong: Searle, Quarterly Newsletter, Sept. 1982
+0.5523	0.0669	July 16, G. Roby: ibid.; Daily Record, 16 July 1982
+0.5523	0.0452	July 20, Mr. & Mrs. Urmston: Searle, Quarterly Newsletter, Sept. 1982
+0.5522	0.0278	July 28: ibid.
+===FILE 1982-to-1985.pdf
+---PAGE 1
+0.0725	0.9060	late July, R. Acraman: Nessletter, no. 53
+0.0745	0.8840	Aug. 2, James Fisher: ibid.; Shields, They Saw Nessie, 46
+0.0745	0.8605	Aug. 14, Paul Marsdon: Searle, Quarterly Newsletter, Sept. 1982
+0.0764	0.8392	Aug. 26, Stan Morris: ibid.
+0.0745	0.8179	*Aug. ?, G. & J. Bruce: Nessletter, no. 54
+0.0766	0.7959	Oct. 16, Mr. & Mrs. Crosbie: Searle, Quarterly Newsletter, Dec. 1982
+0.0764	0.7746	Oct. 31, John Armstrong: ibid.
+0.0766	0.7562	Nov. 8: ibid.
+0.0765	0.7308	Nov. 20, Mr. & Mrs. Lees: ibid.
+0.0763	0.7082	Dec. 9, J. Davidson: on exhibit in Searle's caravan
+0.1758	0.6826	1983
+0.0723	0.6531	Jan. 28, Roper: Searle, Quarterly Newsletter, Mar. 1983
+0.0745	0.6344	Feb. 15, Ron Hyams: ibid.
+0.0766	0.6109	*Feb. 23, P. Gilliat: ibid.
+0.0766	0.5903	Mar. 24, F. Searle: ibid., June 1983
+0.0766	0.5698	Apr. 4, Herb Macdonald: Nessletter, no. 57
+0.0766	0.5463	Apr. 18, Mr. & Mrs. Lawton: Searle, Quarterly Newsletter, June 1983
+0.0762	0.5254	May 15: ibid.
+0.0764	0.5028	May 27, John Stansford: ibid.
+0.0745	0.4816	June 18, Roy Jamieson: ibid., Sept. 1983
+0.0745	0.4611	June 20, J. Nairn: Nessletter, no. 58
+0.0725	0.4391	July 7, Mr. & Mrs. Williamson: Searle, Quarterly Newsletter, Sept. 1983
+0.0725	0.4170	July 16: Nessletter, no. 60
+0.0723	0.3941	July 25: Searle, Quarterly Newsletter, Sept. 1983
+0.0766	0.3744	Aug. 6, James Newton: ibid., no. 60
+0.0766	0.3498	*Aug. 6, Erik Beckjord: ibid., nos. 59-60; Searle, Quarterly Newsletter,
+0.1073	0.3317	Sept. 1983
+0.0787	0.3084	Aug. 10, Mr. & Mrs. Downes: Searle, Quarterly Newsletter, Sept. 1983
+0.0806	0.2857	Aug. 22, Mr. & Mrs. Marshall: ibid.
+0.0806	0.2639	Aug. 24, Mrs. Jean Skelton: Nessletter, no. 60
+0.0761	0.2425	*mid-Sept.: ibid., no. 64
+0.0807	0.2217	Oct. 1, Hinley: Searle, Quarterly Newsletter, Dec. 1983
+0.0803	0.1983	Nov. 17, Mike Noble: ibid.
+0.0805	0.1768	Nov. 20, John Hall: ibid
+0.1819	0.1508	1984
+0.0787	0.1248	June 10, Jim Skelton: Nessletter, no. 64
+0.0806	0.0995	Dec., Dr. G. Williamson: ibid., no. 68
+0.1819	0.0757	1985
+0.0824	0.0492	Mr. Walker: ibid.
+0.0782	0.0237	Jan. 15, Jim Skelton: ibid.

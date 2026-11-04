@@ -1,0 +1,312 @@
+{
+ "id": "chupacabra_short",
+ "format": "short",
+ "title": [
+  "File404 · #015 추파카브라",
+  "생일을 아는 유일한 괴물"
+ ],
+ "root": 35.0,
+ "beats": [
+  {
+   "scene": "photo",
+   "lines": [
+    "세상에서 [생일]을 아는 괴물은 하나뿐입니다."
+   ],
+   "params": {
+    "key": "ch_yunque2",
+    "mode": "fill",
+    "zoom": [1.25, 1.45],
+    "grade": "cold",
+    "exposure": 0.45,
+    "glitch": [0.02]
+   },
+   "sfx": [
+    {"name": "static", "at": 0.02, "gain": 0.4},
+    {"name": "rumble", "at": 0.0, "gain": 0.3},
+    {"name": "thud", "at": 0.02, "gain": 0.8}
+   ],
+   "impact": [0.02],
+   "lead": 0.05,
+   "stamp": [
+    "PUERTO RICO",
+    "MARCH 1995"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "1995년 3월, 푸에르토리코 산골에서",
+    "양 [여덟 마리]가 죽은 채 발견됩니다."
+   ],
+   "params": {
+    "key": "ch_orocovis",
+    "mode": "fill",
+    "zoom": [1.0, 1.22],
+    "grade": "cold",
+    "exposure": 0.5,
+    "counter": [8, "마리"]
+   },
+   "sfx": [
+    {"name": "typewriter", "at": 0.25, "keys": 26, "gain": 0.28}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "피가 없었다고 했죠."
+   ],
+   "params": {
+    "key": "ch_orocovis2",
+    "mode": "fill",
+    "zoom": [1.2, 1.4],
+    "grade": "cold",
+    "exposure": 0.48,
+    "music": 0.25
+   },
+   "sfx": [
+    {"name": "sub", "at": "word:했죠", "gain": 0.5}
+   ],
+   "impact": ["word:했죠"],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "[5개월 뒤], 54킬로 떨어진 마을에서",
+    "한 여자가 [3분]간 그걸 봤다고 말합니다."
+   ],
+   "params": {
+    "key": "ch_aerial",
+    "mode": "fill",
+    "zoom": [1.05, 1.28],
+    "grade": "cold",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {"name": "pulse", "at": 0.0, "bpm": 58, "gain": 0.18},
+    {"name": "knock", "at": "word:3분간", "gain": 0.45}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "등에 가시, 캥거루처럼 뛰는 회색 생물."
+   ],
+   "params": {
+    "key": "ch_art",
+    "mode": "fit",
+    "zoom": [1.15, 1.35],
+    "grade": "cold",
+    "exposure": 0.7,
+    "label": "재현 · 목격담을 바탕으로 그린 그림"
+   },
+   "sfx": [
+    {"name": "screech", "at": "word:생물", "offset": 0.15, "gain": 0.16},
+    {"name": "stab", "at": "word:생물", "gain": 0.5}
+   ],
+   "impact": ["word:생물"],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "한 [코미디언]이 라디오에서 이름을 붙입니다.",
+    "추파카브라 — [염소를 빠는 것]."
+   ],
+   "params": {
+    "key": "ch_alcaldia",
+    "mode": "fill",
+    "zoom": [1.1, 1.3],
+    "grade": "cold",
+    "exposure": 0.55,
+    "music": 0.4
+   },
+   "sfx": [
+    {"name": "typewriter", "at": 0.2, "keys": 24, "gain": 0.28}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그런데요. 그 목격 [한 달 전],",
+    "영화 한 편이 개봉했습니다."
+   ],
+   "params": {
+    "key": "ch_cemetery",
+    "mode": "fill",
+    "zoom": [1.0, 1.25],
+    "grade": "cold",
+    "exposure": 0.5,
+    "glitch": ["word:한"],
+    "music": 0.15
+   },
+   "sfx": [
+    {"name": "static", "at": "word:한", "gain": 0.4},
+    {"name": "riser", "end_at": "word:개봉했습니다", "gain": 0.26}
+   ],
+   "impact": ["word:개봉했습니다"],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "등에 [가시 돋친] 외계 생물이 나오는,",
+    "푸에르토리코가 배경인 영화요."
+   ],
+   "params": {
+    "key": "ch_river",
+    "mode": "fill",
+    "zoom": [1.15, 1.35],
+    "grade": "cold",
+    "exposure": 0.5
+   },
+   "sfx": [
+    {"name": "thud", "at": "word:영화요", "gain": 0.5}
+   ],
+   "pad": 0.45
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "2000년대, 드디어 [사체]가 나옵니다."
+   ],
+   "params": {
+    "key": "ch_mangy",
+    "mode": "fill",
+    "zoom": [1.2, 1.4],
+    "grade": "cold",
+    "exposure": 0.6,
+    "label": "옴에 걸린 코요테"
+   },
+   "sfx": [
+    {"name": "heartbeat", "at": 0.0, "bpm": 54, "gain": 0.2},
+    {"name": "knock", "at": "word:사체가", "gain": 0.45}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "텍사스, 니카라과, 칠레.",
+    "DNA 결과는 [전부 같았습니다]."
+   ],
+   "params": {
+    "key": "ch_mite",
+    "mode": "fill",
+    "zoom": [1.1, 1.32],
+    "grade": "cold",
+    "exposure": 0.65,
+    "label": "옴진드기 (Sarcoptes scabiei)"
+   },
+   "sfx": [
+    {"name": "typewriter", "at": 0.2, "keys": 20, "gain": 0.26},
+    {"name": "sub", "at": "word:같았습니다", "gain": 0.45}
+   ],
+   "pad": 0.45
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "[코요테]였습니다. 진드기에 털이 다 빠진."
+   ],
+   "params": {
+    "key": "ch_coyote",
+    "mode": "fill",
+    "zoom": [1.3, 1.1],
+    "grade": "cold",
+    "exposure": 0.65,
+    "glitch": ["word:코요테였습니다"],
+    "music": 0.2
+   },
+   "sfx": [
+    {"name": "collapse", "at": "word:코요테였습니다", "gain": 0.28},
+    {"name": "stab", "at": "word:코요테였습니다", "gain": 0.55}
+   ],
+   "impact": ["word:코요테였습니다"],
+   "flash": ["word:코요테였습니다"],
+   "pad": 0.55
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "괴물은 [처음부터 없었습니다]."
+   ],
+   "params": {
+    "key": "ch_yunque",
+    "mode": "fill",
+    "zoom": [1.0, 1.25],
+    "grade": "cold",
+    "exposure": 0.5,
+    "music": 0.5
+   },
+   "sfx": [
+    {"name": "boom", "at": "word:없었습니다", "gain": 0.6}
+   ],
+   "impact": ["word:없었습니다"],
+   "pad": 0.8
+  },
+  {
+   "scene": "photo_end",
+   "lines": [],
+   "params": {
+    "key": "ch_cemetery",
+    "mode": "fill",
+    "zoom": [1.15, 1.25],
+    "grade": "cold",
+    "exposure": 0.55,
+    "next": "다음 파일 ▶ 준비 중"
+   },
+   "sfx": [
+    {"name": "static", "at": 0.0, "gain": 0.5},
+    {"name": "boom", "at": 0.05, "gain": 0.45},
+    {"name": "typewriter", "at": 0.3, "keys": 14, "gain": 0.3}
+   ],
+   "min": 3.2
+  }
+ ],
+ "upload": {
+  "titles": [
+   "생일을 아는 유일한 괴물, 추파카브라",
+   "목격 한 달 전에 개봉한 영화가 있었다 #추파카브라",
+   "DNA는 30년째 같은 대답을 한다 | 추파카브라의 정체"
+  ],
+  "description": [
+   "1995년 3월 푸에르토리코 산간 지역에서 양 여덟 마리가 죽은 채 발견됐습니다. 그리고 5개월 뒤, 54km 떨어진 카노바나스에서 목격담이 나옵니다.",
+   "'추파카브라(염소를 빠는 것)'라는 이름은 방송인 실베리오 페레스가 라디오에서 붙였습니다.",
+   "",
+   "📁 File404 · #015 추파카브라 (Chupacabra)",
+   "· 1995.03  오로코비스(섬 중앙 산간)에서 양 8마리 폐사 — 카노바나스와는 약 54km 거리이며 두 사건을 잇는 증거는 없다",
+   "· 1995.08  카노바나스 목격담 — 등에 가시, 뛰어다니는 회색 생물",
+   "· 1995.12  AP 보도: 푸에르토리코 정부 수의국장 엑토르 가르시아가 '들개 무리'로 결론. 목에 자국이 있는데도 살아남은 양 두 마리가 기록돼 있다",
+   "· 2007~  텍사스·니카라과·칠레 등에서 '추파카브라 사체' DNA 분석 → 옴에 걸린 코요테·개·너구리",
+   "· 미시간대 배리 오코너: 옴진드기(Sarcoptes scabiei)가 야생 개과 동물에 옮으면 털이 빠지고 피부가 두꺼워져 전혀 다른 동물처럼 보인다",
+   "",
+   "▶ 출처: AP / LA Times (1995-12-03) · Washington Post (1995-12-26) · Texas State University (2007) · University of Michigan (2010) · Benjamin Radford, Skeptical Inquirer (2025)",
+   "",
+   "※ 영화 『스피시즈』(1995-07-07)는 8월 목격보다 한 달 앞서지만, 3월의 가축 폐사는 영화보다 먼저입니다. 영화는 생김새를 설명할 뿐 사체를 설명하지는 않습니다.",
+   "※ 추파카브라 그림은 목격담을 바탕으로 그린 재현입니다. 내레이션은 AI 음성입니다."
+  ],
+  "hashtags": [
+   "#추파카브라",
+   "#괴생명체",
+   "#미스터리",
+   "#File404",
+   "#shorts",
+   "#미확인생물"
+  ],
+  "tags": [
+   "추파카브라",
+   "Chupacabra",
+   "푸에르토리코",
+   "흡혈 괴물",
+   "코요테",
+   "옴진드기",
+   "크립티드",
+   "미확인생물",
+   "미스터리",
+   "File404",
+   "파일404"
+  ],
+  "pinned": "1995년 12월에 이미 답이 나와 있었습니다. 정부 수의국장은 '들개 무리'라고 했고, 목에 자국이 있는데도 살아남은 양 두 마리가 기록에 남아 있죠.\n👇 다음 파일도 곧 올라옵니다.",
+  "synthetic": false
+ }
+}

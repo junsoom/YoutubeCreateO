@@ -1,0 +1,17 @@
+# The Official Loch Ness Monster Sightings Register
+
+## Fakes, Jokes and Hoaxes
+
+It is inevitable that the Loch Ness Monster phenomenon would attract its fair share of hoaxes and jokes throughout the years. Possibly the most famous hoax is the "Surgeon's photo" which as we saw earlier was taken by a Mr. Robert Wilson in 1934. This photo became the most enduring image of the Loch Ness Monster showing what appeared to be a head and neck rising from the water. In fairness to Mr. Wilson, at the time he stated that he had only photographed "an object moving in Loch Ness". What he failed to disclose until the mid 1990's was that the object was placed by a Mr. Christian Spurling in such a way so as to look like a monster. This created the most infamous, and what has to be said life like, hoax of all time.
+
+Many other hoax photographs have come and gone and others, as we have already seen, remain inconclusive. As an example of this, some of the photographs available on the "Nessie on the Net" web site do in fact have everyday explanations but still look like a monster breaking the surface.
+
+One interesting fake was that carried out by Mirisch Films Ltd. in 1969. They were making the film "The Private Life of Sherlock Holmes" which called for a monster to be in some scenes. The monster, a mock up plesiosaur, was constructed in plastic at Temple Pier, Drumnadrochit and was towed by a submarine around the Urquhart Bay area for filming purposes. On 22 July it sank in around 180m of water never to be seen again. It is said that some of the underwater photographs are actually of this life size model sitting on the bottom of the loch!
+
+A similar stunt was carried out in the early 1990's by a whisky company for promotional purposes. They attached a head and neck model of a monster to a submarine and sailed it through the water in front of The Clansman Hotel. Those who were invited were told that it was a life like hoax but it is said that at least two bus loads of tourists stopped to take photos. No doubt to this day these people are convinced that they saw and photographed the Loch Ness Monster.
+
+In April 1996 Union Commercials of London made a TV advertisement for Vodaphone that included footage of a monster on Loch Ness - again this was just testimony to the technical expertise of their special effects department. In a similar vein, the "monster" which appeared in the 1995 film "Loch Ness" starring Ted Danson owed more to Jurassic Park than scientific evidence.
+
+Even today, fakes are still being created. In 2013, George Edwards, the local skipper who located 'Edward's Deep', the deepest part of the loch, admitted faking a Nessie photograph. “It was just a bit of fun,” said the Loch Ness cruise ship captain, whose fake picture was seen around the world. “I’m now happy to join the rogues’ gallery with the surgeon who produced the best-known Nessie image.”
+
+ In conclusion, jokes and hoaxes will always be part of the Loch Ness Monster phenomenon as attention seekers or pranksters look for publicity for themselves. The more elaborate fakes such as those created by film companies will only help to perpetuate what some see as the myth that a monster exists deep down in Loch Ness.

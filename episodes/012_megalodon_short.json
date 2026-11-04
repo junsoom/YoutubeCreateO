@@ -1,0 +1,278 @@
+{
+ "id": "megalodon_short",
+ "format": "short",
+ "title": [
+  "File404 · #012 메갈로돈",
+  "몸이 하나도 안 남은 상어"
+ ],
+ "root": 37.0,
+ "beats": [
+  {
+   "scene": "photo",
+   "lines": [
+    "손바닥만 한 이 [이빨] 하나가,",
+    "이 동물에 대해 우리가 가진 [전부]입니다."
+   ],
+   "params": {
+    "key": "mg_tooth",
+    "mode": "fill",
+    "zoom": [1.5, 1.2],
+    "grade": "cold",
+    "exposure": 0.6,
+    "glitch": [0.02]
+   },
+   "sfx": [
+    {"name": "static", "at": 0.02, "gain": 0.45},
+    {"name": "thud", "at": 0.02, "gain": 0.85},
+    {"name": "screech", "at": 0.3, "gain": 0.14}
+   ],
+   "impact": [0.02],
+   "lead": 0.05,
+   "stamp": [
+    "OTODUS MEGALODON",
+    "FOSSIL TOOTH"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "상어는 뼈가 아니라 [연골]이에요.",
+    "죽으면 거의 안 남습니다."
+   ],
+   "params": {
+    "key": "mg_amnh",
+    "mode": "fill",
+    "zoom": [1.35, 1.0],
+    "grade": "cold",
+    "exposure": 0.6
+   },
+   "sfx": [
+    {"name": "pulse", "at": 0.0, "bpm": 56, "gain": 0.16},
+    {"name": "typewriter", "at": 0.25, "keys": 22, "gain": 0.26}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "[완전한 골격은 단 한 구도 없습니다.]"
+   ],
+   "params": {
+    "key": "mg_skeletal",
+    "mode": "fit",
+    "zoom": [1.1, 1.3],
+    "grade": "cold",
+    "exposure": 0.65,
+    "label": "복원도 · 실제 발견 부위만 채색",
+    "music": 0.2
+   },
+   "sfx": [
+    {"name": "sub", "at": "word:없습니다", "gain": 0.5}
+   ],
+   "impact": ["word:없습니다"],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그래서 길이는 [계속 바뀝니다].",
+    "1909년엔 [30미터], 1973년엔 [13미터]."
+   ],
+   "params": {
+    "key": "mg_jaws",
+    "mode": "fill",
+    "zoom": [1.0, 1.25],
+    "grade": "cold",
+    "exposure": 0.6,
+    "counter": [30, "m"]
+   },
+   "sfx": [
+    {"name": "typewriter", "at": 0.2, "keys": 28, "gain": 0.28},
+    {"name": "knock", "at": "word:13미터", "gain": 0.45}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "2019년, 한 과학자가 [15미터]로 깎습니다.",
+    "그리고 2025년, [같은 사람]이 다시 계산합니다."
+   ],
+   "params": {
+    "key": "mg_chart",
+    "mode": "fit",
+    "zoom": [1.05, 1.25],
+    "grade": "cold",
+    "exposure": 0.7,
+    "label": "크기 추정 비교도"
+   },
+   "sfx": [
+    {"name": "riser", "end_at": "word:계산합니다", "gain": 0.28}
+   ],
+   "impact": ["word:계산합니다"],
+   "pad": 0.4
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "[24.3미터]. [94톤]."
+   ],
+   "params": {
+    "key": "mg_restore",
+    "mode": "fill",
+    "zoom": [1.3, 1.08],
+    "grade": "cold",
+    "exposure": 0.65,
+    "label": "상상도 · 복원 그림",
+    "music": 0.15
+   },
+   "sfx": [
+    {"name": "boom", "at": "word:미터", "gain": 0.6},
+    {"name": "static", "at": "word:미터", "gain": 0.35}
+   ],
+   "impact": ["word:미터"],
+   "flash": ["word:미터"],
+   "pad": 0.55
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그럼 아직 살아 있을까요?"
+   ],
+   "params": {
+    "key": "mg_map",
+    "mode": "fit",
+    "zoom": [1.1, 1.3],
+    "grade": "cold",
+    "exposure": 0.7,
+    "label": "화석 발견 분포"
+   },
+   "sfx": [
+    {"name": "whoosh", "at": 0.0, "gain": 0.28}
+   ],
+   "pad": 0.4
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "체온이 주변 바다보다 [7도] 높았고,",
+    "하루에 [10만 킬로칼로리]가 필요했습니다."
+   ],
+   "params": {
+    "key": "mg_vertebra",
+    "mode": "fill",
+    "zoom": [1.15, 1.35],
+    "grade": "cold",
+    "exposure": 0.6,
+    "label": "메갈로돈에게 물린 고래 척추뼈"
+   },
+   "sfx": [
+    {"name": "heartbeat", "at": 0.0, "bpm": 52, "gain": 0.2},
+    {"name": "thud", "at": "word:킬로칼로리가", "gain": 0.45}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "새끼는 [얕은 연안]에서 낳았고요."
+   ],
+   "params": {
+    "key": "mg_si",
+    "mode": "fit",
+    "zoom": [1.1, 1.3],
+    "grade": "cold",
+    "exposure": 0.7,
+    "label": "스미소니언 복원 그림"
+   },
+   "sfx": [
+    {"name": "knock", "at": "word:낳았고요", "gain": 0.4}
+   ],
+   "pad": 0.45
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "무엇보다,",
+    "[화석이 되지 않은 이빨]은 지금까지 [단 한 개도] 나온 적이 없습니다."
+   ],
+   "params": {
+    "key": "mg_fossil",
+    "mode": "fill",
+    "zoom": [1.0, 1.3],
+    "grade": "cold",
+    "exposure": 0.55,
+    "glitch": ["word:단"],
+    "music": 0.5
+   },
+   "sfx": [
+    {"name": "collapse", "at": "word:단", "gain": 0.28},
+    {"name": "boom", "at": "word:단", "gain": 0.55}
+   ],
+   "impact": ["word:단"],
+   "pad": 0.8
+  },
+  {
+   "scene": "photo_end",
+   "lines": [],
+   "params": {
+    "key": "mg_teeth_cmp",
+    "mode": "fit",
+    "zoom": [1.1, 1.2],
+    "grade": "cold",
+    "exposure": 0.75,
+    "next": "다음 파일 ▶ #013 크라켄"
+   },
+   "sfx": [
+    {"name": "static", "at": 0.0, "gain": 0.5},
+    {"name": "boom", "at": 0.05, "gain": 0.45},
+    {"name": "typewriter", "at": 0.3, "keys": 14, "gain": 0.3}
+   ],
+   "min": 3.2
+  }
+ ],
+ "upload": {
+  "titles": [
+   "몸이 하나도 안 남은 상어, 그래서 크기가 계속 바뀐다",
+   "1909년엔 30m, 1973년엔 13m, 2025년엔 24m",
+   "메갈로돈이 아직 살아 있을 수 없는 이유 네 가지"
+  ],
+  "description": [
+   "메갈로돈은 연골어류라 몸이 거의 남지 않았습니다. 완전한 골격은 단 한 구도 발견된 적이 없고, 우리가 가진 건 사실상 이빨과 척추뼈 일부뿐입니다.",
+   "그래서 몸길이 추정치는 100년 넘게 계속 바뀌어 왔습니다.",
+   "",
+   "📁 File404 · #012 메갈로돈 (Otodus megalodon)",
+   "· 1909  바슈포드 딘의 AMNH 턱 복원 — 약 30m (연골 두께를 과대평가)",
+   "· 1973  존 랜들 — 약 13m",
+   "· 2015  피미엔토 — 최빈값 약 10.5m",
+   "· 2019  시마다 — 약 15.3m",
+   "· 2022  쿠퍼 3D 복원 — 약 16m, 61.5t",
+   "· 2025  시마다 외 28인 (Palaeontologia Electronica 28(1):a12) — 24.3m, 94t",
+   "",
+   "▶ 살아 있을 수 없는 이유: 체온이 주변 수온보다 약 7℃ 높은 중온성(PNAS 2023) / 하루 약 98,175kcal 필요(Science Advances 2022) / 번식지가 전부 얕고 따뜻한 연안 / 화석화되지 않은 이빨이 단 한 개도 발견되지 않음",
+   "",
+   "▶ 출처: Shimada et al. (2025) · Cooper et al. (2022) · Griffiths et al., PNAS (2023) · Pimiento & Balk (2015) · Smithsonian NMNH",
+   "",
+   "※ 복원 그림은 모두 상상도입니다. 내레이션은 AI 음성입니다."
+  ],
+  "hashtags": [
+   "#메갈로돈",
+   "#상어",
+   "#고생물",
+   "#File404",
+   "#shorts",
+   "#미스터리"
+  ],
+  "tags": [
+   "메갈로돈",
+   "Megalodon",
+   "Otodus megalodon",
+   "고대 상어",
+   "백상아리",
+   "고생물학",
+   "심해",
+   "미확인생물",
+   "File404",
+   "파일404"
+  ],
+  "pinned": "화석이 되지 않은 메갈로돈 이빨은 지금까지 단 한 개도 나온 적이 없습니다. 상어는 평생 이빨을 수만 개 떨어뜨리는데도요.\n👇 다음 파일은 #013 크라켄입니다.",
+  "synthetic": false
+ }
+}

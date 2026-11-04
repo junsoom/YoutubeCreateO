@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+
+	<!-- Preload -->
+	<link rel="preload" fetchpriority="high" as="image" href="'https://web-cdn.org/s/1606/image/Banners/08.jpg?maxwidth=1280'" type="image/webp">
+
+	<!-- Page Tags -->
+	<meta charset="utf-8">
+	
+	<title>The Official Loch Ness Monster Sightings Register | Sightings 565 -1985</title>
+	<link rel="canonical" href="https://www.lochnesssightings.com/sightings-565-1985">
+
+	<!-- Meta Tags -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#395363">
+
+	<!-- RSS Feed -->
+	<link rel="alternate" type="application/rss+xml"  title="The Official Loch Ness Monster Sightings Register RSS Feed"  href="https://www.lochnesssightings.com/rss/" />
+
+	<!-- Favicon -->
+	<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>&#127758;</text></svg>">
+
+	<!-- Fonts -->
+   <!-- Chango-->
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Chango&display=swap">
+	<link href="https://fonts.googleapis.com/css2?family=Chango&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+
+	<!-- Styles -->
+	<link rel="stylesheet" href="https://web-cdn.org/css/combo.css?r=1850">
+	<link rel="stylesheet" href="https://www.lochnesssightings.com/site.css?r=26033810" title="site_styles">
+	<style>
+		#header_slide1{background-image:url('https://web-cdn.org/s/1606/image/Banners/08.jpg?maxwidth=1280');}
+		#header_slide2{background-image:url('https://web-cdn.org/s/1606/image/Banners/09.jpg?maxwidth=1280');}
+		
+		@media only screen and (max-width: 500px) {
+		#header_slide1{background-image:url('https://web-cdn.org/s/1606/image/Banners/08.jpg?maxwidth=500&cropxunits=100&cropyunits=100&crop=35,0,65,100');}
+		#header_slide2{background-image:url('https://web-cdn.org/s/1606/image/Banners/09.jpg?maxwidth=500&cropxunits=100&cropyunits=100&crop=35,0,65,100');}
+		}
+
+	</style>
+
+	<!-- jQuery -->
+	
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+	
+
+	<!-- jQuery plugins -->
+	
+	<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js" defer></script>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+	
+
+	<script src="https://web-cdn.org/js/fancybox/source/jquery.fancybox.pack.js" defer></script>
+	<script src="https://web-cdn.org/js/js.cookie.min.js" defer></script>
+	<script src="https://web-cdn.org/js/doubletaptogo.js" defer></script>
+	<script src="https://web-cdn.org/js/tablesorter.js"></script>
+	
+	<script src="https://web-cdn.org/js/site.js?r=1850" defer></script>
+
+	
+	<script>
+	$.fn.openMobileMenu = function () {
+		if ($(window).width() < 1025) {
+			$('nav>ul').slideToggle(300);
+			return false;
+		} else {
+			if ($('nav').css('right') != '0px') {
+				$('nav').animate({"right":"0"}, "300");
+			} else {
+				$('nav').animate({"right":-$('nav').width()}, "300");
+			}
+		}
+	};
+
+	$(document).ready( function() {
+		
+		if ($('#header_slideshow').children().length > 1) {
+			// Shuffle slides into random starting order
+			var slides = $('#header_slideshow > div').get();
+			for (var i = slides.length - 1; i > 0; i--) {
+				var j = Math.floor(Math.random() * (i + 1));
+				var temp = slides[i];
+				slides[i] = slides[j];
+				slides[j] = temp;
+			}
+			$.each(slides, function(i, slide) {
+				$('#header_slideshow').append(slide);
+			});
+
+			$('#header_slideshow > div:gt(0)').hide();
+			setInterval(function() {
+				$('#header_slideshow > div:first')
+					.fadeOut(2000)
+					.next()
+					.fadeIn(2000)
+					.end()
+					.appendTo('#header_slideshow');
+			}, 5000);
+		}
+		
+
+		$('table.tablesorter, section.tablesorter table').tablesorter({dateFormat:'ddmmyyyy'});
+
+		$(document).on('click', 'table.tablesorter tbody td', function () {
+			var $cell = $(this);
+			var $table = $cell.closest('table');
+			var columnIndex = $cell.index();
+			var value = $.trim($cell.text()); // full text, used for matching — hidden sort-helper spans are fine here
+
+			if ($cell.hasClass('filter-active')) {
+				clearFilter($table);
+				return;
+			}
+
+			$table.find('td.filter-active').removeClass('filter-active');
+			$cell.addClass('filter-active');
+
+			$table.find('tbody tr').each(function () {
+				var cellText = $.trim($(this).find('td').eq(columnIndex).text());
+				$(this).toggle(cellText === value);
+			});
+
+			setFilterCaption($table, getDisplayText($cell));
+		});
+
+		// Strips hidden elements (e.g. sort-helper spans) before reading text, for display purposes only
+		function getDisplayText($cell) {
+			var $clone = $cell.clone();
+			$clone.find('[hidden]').remove();
+			return $.trim($clone.text());
+		}
+
+		// Clicking the caption also clears the filter
+		$(document).on('click', 'table.tablesorter caption.filter-caption', function () {
+			clearFilter($(this).closest('table'));
+		});
+
+		function setFilterCaption($table, value) {
+			var $caption = $table.find('caption.filter-caption');
+			if ($caption.length === 0) {
+				$caption = $('<caption class="filter-caption"></caption>').prependTo($table);
+			}
+			$caption.text('Filtered to "' + value + '"').show();
+		}
+
+		function clearFilter($table) {
+			$table.find('tbody tr').show();
+			$table.find('td.filter-active').removeClass('filter-active');
+			$table.find('caption.filter-caption').hide().empty();
+		}
+		
+		if ($(window).width() > 1023) {
+			$('nav li:has(ul)').doubleTapToGo();
+		}
+
+		$('#menu_opener').click( function() {
+			$('nav').openMobileMenu();
+		});
+		$('#menu_opener').keypress(function (e) {
+			var key = e.which;
+			if(key == 13) {
+				$('nav').openMobileMenu();
+			}
+		});
+
+
+		$('nav a[href="/sightings-565-1985"]').addClass('on').attr('aria-current','page');
+		$('section.breadcrumb a:last-child').attr('aria-current','page');
+
+		$('nav li:has(ul)').addClass('has_children');
+		
+
+		$('#admin_class_toggle').click( function() {
+			$('body').toggleClass('loggedin loggedinoff');
+		});
+
+		$('section.meetings .paginator .prev').click( function() {
+			var blockId = $(this).attr('id').replace('prev_','');
+			$('#meetings_'+blockId).slideUp('slow', function(){
+				$('#meetings_'+blockId).load('/ajax/meetings/?blockid='+blockId, function(){
+					$('#meetings_'+blockId).slideDown('slow');
+				});
+			});
+		});
+
+		// mobile style 2 - child pages hidden
+		$('nav.mobile_nav_2 li.has_children').click( function() {
+			if ($(this).hasClass('open') == false) {
+				$('.sub_menu').not(this).slideUp(400);
+				$('.has_children').removeClass('open');
+				$(this).children('.sub_menu').slideDown(400);
+				$(this).toggleClass('open');
+			}
+		});
+
+	});
+
+	$(document).on('mousedown', '.bx-viewport a.fancybox', function(e) {
+		e.stopImmediatePropagation();
+		var href = $(this).attr('href');
+		$.fancybox.open({
+			href: href,
+			type: 'ajax'
+		});
+		return false;
+	});
+</script>
+	
+	<!-- Open Graph Data for Social Networks -->
+	<meta property="fb:app_id" content="163471835449">
+	<meta property="og:site_name" content="The Official Loch Ness Monster Sightings Register">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://www.lochnesssightings.com/sightings-565-1985">
+	<meta property="og:title" content="The Official Loch Ness Monster Sightings Register | Sighting">
+	<meta property="og:description" content="">
+	<meta property="og:image" content="">
+
+	<!-- Twitter Card Data -->
+	<meta name="twitter:card" content="summary_large_image">
+	
+	<meta name="twitter:domain" content="www.lochnesssightings.com">
+	<meta name="twitter:title" content="The Official Loch Ness Monster Sightings Register | Sighting">
+	<meta name="twitter:description" content="">
+	<meta name="twitter:image" content="">
+	<meta name="twitter:url" content="https://www.lochnesssightings.com/sightings-565-1985">
+
+</head>
+
+<body id="p25522" class="hyphenate margin_1 link_shadow Paid width_1280 no-aside sdf3 admin_format">
+	
+	<a href="#main_content_start" id="skip_link">Skip to Main Content</a>
+	<a href="/admin/" id="admin_tab" aria-label="Log in to Admin System" rel="nofollow"><img src="https://web-cdn.org/img/cog.png?r=14" width="22" height="23" alt="Cog Icon signifying link to Admin page"></a>
+	<a id="top" class="page_anchor"></a>
+	<main class="mobile_layout7 desktop_layout8">
+	<header class="header_layout0">
+		<div id="header_slideshow">
+<div id="header_slide1"></div>
+<div id="header_slide2"></div>
+		</div>
+		<div id="inner">
+			<h1 id="sitehead" class="header_heading">The Official Loch Ness Monster Sightings Register</h1>
+		</div>
+	</header>
+	<nav id="main_menu" class="mobile_nav_2 desktop_nav_2 nav_center" aria-label="Main Navigation">
+		<span id="menu_opener" tabindex="0"></span>
+
+		<!-- cached nav -->
+		<ul>
+			<li id="b25517">
+				<a href="/">Home</a>
+			</li>
+			<li id="b25518">
+				<a href="/sightings-from-2021-on">Sightings from 2021 on</a>
+			</li>
+			<li id="b25519">
+				<a href="/webcam-images-2021-on">Webcam images 2021 on</a>
+			</li>
+			<li id="b25520">
+				<a href="/sightings-from-2000-2020">Sightings from 2000 - 2020</a>
+			</li>
+			<li id="b25521">
+				<a href="/sightings-1986-1999">sightings 1986 -1999</a>
+			</li>
+			<li id="b25522">
+				<a href="/sightings-565-1985">Sightings 565 -1985</a>
+			</li>
+			<li id="b25523">
+				<a href="/loch-ness-essential-facts">Loch Ness - essential facts</a>
+			</li>
+			<li id="b25524">
+				<a href="/loch-ness-webcams">Loch Ness Webcams</a>
+			</li>
+			<li id="b25525">
+				<a href="/drive-the-monster-66-where-to-look-for-nessie">Drive the monster 66 - where to look for nessie</a>
+			</li>
+			<li id="b25527">
+				<a href="/monster-hunters/-researchers">Monster hunters/ researchers</a>
+			</li>
+			<li id="b25528">
+				<a href="/nessie-hunts-over-the-years">Nessie hunts over the years</a>
+			</li>
+			<li id="b25529">
+				<a href="/the-scientific-evidence">The Scientific Evidence</a>
+			</li>
+			<li id="b25530">
+				<a href="/pessie-a-prehistoric-nessie-fossil">Pessie - a Prehistoric Nessie Fossil</a>
+			</li>
+			<li id="b25531">
+				<a href="/the-best-and-worst-of-whats-been-seen">The best and worst of what's been seen</a>
+			</li>
+			<li id="b25532">
+				<a href="/fakes-jokes-and-hoaxes">Fakes, Jokes and Hoaxes</a>
+			</li>
+			<li id="b25533">
+				<a href="/nessie-in-the-news">Nessie in the news</a>
+			</li>
+			<li id="b25534">
+				<a href="/loch-morar">Loch Morar</a>
+			</li>
+			<li id="b25535">
+				<a href="/loch-lochy">Loch Lochy</a>
+			</li>
+			<li id="b25536">
+				<a href="/other-scottish-lochs">Other Scottish Lochs</a>
+			</li>
+			<li id="b25537">
+				<a href="/lake-monsters-worldwide">Lake Monsters Worldwide</a>
+			</li>
+			<li id="b25538">
+				<a href="/whats-not-a-sighting">what's not a sighting</a>
+			</li>
+			<li id="b25540">
+				<a href="/feedback">Contact Us</a>
+			</li>
+			<li id="b25541">
+				<a href="/links">Links</a>
+			</li>
+			<li id="b25542">
+				<a href="/map">Map</a>
+			</li>
+			<li id="b25543">
+				<a href="/report-a-sighting">Report a sighting</a>
+			</li>
+		</ul>
+
+	</nav>
+
+	<article>
+		<a id="main_content_start"></a>
+		<div>
+			<section id="block_56538" class="block text">
+				<div>
+				<div></div>
+					<h2>Sightings 565AD to 1985</h2>
+					<div> <p>The sightings in this section were complied by Professor Henry H Bauer in his book 'The Enigma of Loch Ness'. He has very kindly allowed us to reproduce what was the most comprehensive list ever produced at that time. His book was completed in the mid 1980s hence his list stopped in 1985. You can still purchase the book from <a href="https://www.amazon.co.uk/Enigma-Loch-Ness-Mystery-1986-09-01/dp/B012YSDZEI/ref=sr_1_1?crid=2KQOZEE02X6NJ&amp;keywords=henry+bauer+loch+ness&amp;qid=1689976607&amp;sprefix=henry+bauer+loch+ness%2Caps%2C78&amp;sr=8-1" target="_blank" rel="noopener">Amazon</a></p> <p>Over time, we hope to add to the list - <strong>you will see that at the end of the list, other sightings that weren't picked up by Prof. Bauer at the time are also listed.</strong></p> <p><strong>The very first sighting</strong> was noted in 565AD by St Columba who had travelled north to Inverness to convert what he considered to be heathen Picts to Christianity. It was recorded by his biographer St Adamnan in "The life of Saint Columba, (Columb-Kille), 521-597". This is the original latin description:</p> <p>&nbsp;</p> <p>&nbsp;</p> <p><img  src="https://web-cdn.org/s/1606/image/Old-Site/st-c-original-latin.jpg" alt=""></p> <p>The description above is from a reprint of the original written by St Adamnan. His was hand written and the oldest known copy is in Switzerland. This is the original hand written latin:</p> <p><img  src="https://web-cdn.org/s/1606/image/Old-Site/pg-1-st-adamnan-script.jpg" alt=""></p> <p><img  src="https://web-cdn.org/s/1606/image/Old-Site/page-2-st-adamnans-script.jpg" alt=""></p> <p>&nbsp;</p> <p>Click <a href="https://web-cdn.org/s/1606/file/565-to-1694.pdf" target="_blank" rel="noopener">here</a> for all the earliest sightings from 565 to 1694</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1726-to-1915.pdf" target="_blank" rel="noopener">here</a> for sightings from 1726 to 1915</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1916-to-1933.pdf" target="_blank" rel="noopener">here</a> for sightings from 1916 to 1933</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1933-to-1933.pdf" target="_blank" rel="noopener">here</a> for sightings from 1933 only</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1933-to-1934.pdf" target="_blank" rel="noopener">here</a> for sightings from 1933 to 1934</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1934-to-1934.pdf" target="_blank" rel="noopener">here</a> for sightings from 1934 only</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1934-to-1936.pdf" target="_blank" rel="noopener">here</a> for sightings from 1934 to 1936</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1936-to-1939.pdf" target="_blank" rel="noopener">here</a> for sightings from 1936 to 1939</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1939-to-1950.pdf" target="_blank" rel="noopener">here</a> for sightings from 1939 to 1950</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1951-to-1957.pdf" target="_blank" rel="noopener">here</a> for sightings from 1951 to 1957</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1957-to-1962.pdf" target="_blank" rel="noopener">here</a> for sightings from 1957 to 1962</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1962-to-1966.pdf" target="_blank" rel="noopener">here</a> for sightings from 1962 to 1966</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1966-to-1968.pdf" target="_blank" rel="noopener">here</a> for sightings from 1966 to 1968</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1968-to-1974.pdf" target="_blank" rel="noopener">here</a> for sightings from 1968 to 1974</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1974-to-1978.pdf" target="_blank" rel="noopener">here</a> for sightings from 1974 to 1978</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1978-to-1982.pdf" target="_blank" rel="noopener">here</a> for sightings from 1978 to 1982</p> <p>Click <a href="https://web-cdn.org/s/1606/file/1982-to-1985.pdf" target="_blank" rel="noopener">here</a> for sightings from 1982 to 1985</p> <p><strong>Other sightings reported for the period after Henry's book was published:</strong></p> <p><strong>1941</strong></p> <p>In December,&nbsp; Calum MacFarlane Barrow and his brother Patrick both saw a large creature in the loch near Fort Augustus. They saw the same creature twice in the same day by Calum explained in 2018 that such sightings were much more common amongst the local population at that time.</p> <p><strong>1961</strong></p> <p>May - George Coutts and three others were driving to Foyers on the south side of the loch at 8pm in the evening. They pulled into layby weh they saw waht looked like upturned boat in&nbsp; near Inverfarigaig about a quarter of the way out across the loch. It wasn;t moving but it had salmon jumping round it and it was like an elephant&rsquo;s back.&nbsp; 8pm on Foyers road. They tried to flag down a passing van but it didn&rsquo;t stop - after this they made their way to Foyers but decided not to tell anyone. Mr Coutts, of Inverness, finally told the story in September 2019.</p> <p><strong>1965</strong></p> <p>23rd July - Mr and Mrs Brand, Achilty, Contin, in company with Mrs Brand&rsquo;s father, Mr Andrew Walker, whilst motoring along the Dores side of Loch Ness , had a good view of the Loch Ness Monster, directly opposite Urquhart Castle. The object, they say of considerable size, surfaced quite close to the shore and immediately made for the centre of the loch at speed. The loch itself was as calm as a mill-pond at the time and the surprised party were fascinated for several minutes until &ldquo;Nessie&rdquo; submerged. All three had previously been sceptical about the existence of &ldquo;Nessie&rdquo; but since last Thursday have changed their views - source, Ross-shire Journal 30 July 1965.</p> <p><strong>1966</strong></p> <p>In July 2023, Mary Macintyre B.A. M.I. (Biol), Retired Science teacher, naturalist, botanist, birder and environmentalist reported:</p> <p>I was part of the Loch Ness Investigation Bureau team in the nineteen sixties. It was summer time, 1966, and I had left school but not started university. The volunteers were living in caravans on a site high above Loch Ness, (not quite opposite Foyers). When on duty, our job was to scan the loch constantly in the daylight hours using our eyes but supplemented with the Bureau&rsquo;s binoculars and telescopes. The site was chosen for its views of the loch both ways rather than because it was a Nessie hot spot.</p> <p>On one particular day (actual date unknown) as I was using the telescope to scan the mirror calm loch, and what I can only describe as a huge triangular lump suddenly popped up out of the water in mid loch about a mile north. I noted the massive ripples and how quickly they reached the opposite shores of the loch which are approximately a mile apart. This gave me a sense of the size and power of the animal, if indeed that is what it was. This lump then moved with incredible speed in a straight line diagonally south to the opposite shore. A young man whose name I cannot recall was with me and he too had a telescope. When I told him what I was seeing he managed to locate it and I will never forget his words: 'That's it', he said. As we both watched the fast moving creature a boat appeared from further north, beyond the creature, but chugging towards it. The young man said: &lsquo;I think the noise of that boat will reach the creature in about a minute and it will dive&rsquo;, and this is exactly what happened. The lump sank and the loch returned to flat calm as though it had never been.</p> <p>After it disappeared I jumped into the Bureau's van and raced up to Castle Urquhart where sightings are common and opposite where I reckoned this latest event had happened. I expected to find excited tourists in a group staring out onto the loch but disappointingly everyone was just wandering about the castle as usual. No-one had seen a thing.</p> <p>In a court of law I would have to say that to me as a naturalist it was the behaviour of a huge animal. It was not a cetacean because they don&rsquo;t torpedo on the surface. The rising and the sinking was not otter like and anyway no otter is that big. A giant seal? The shape did not suggest a streamlined seal.</p> <p>&nbsp;</p> <p><strong>1969</strong></p> <p>May 1969 - Fred Millwood of Inverness was travelling towards Inverness in late May when he saw a 10-12 foot long creature travelling across the loch at about 4mph. He said that it was like an upturned boat and there was no head visible. When it was about 200-300 m from the other side, it disappeared - he waited for about half an hour but nothing re-surfaced.</p> <p>On 13 October 1969, local boy Peter Mackenzie and his uncle Ian MacRae were fishing in a small boat at the north end of the loch. Their fishing log states they were "Going down past Aldourie Castle, 5.15pm about 100 yards out, wind S/W slight. Had been calm&rdquo;. They then saw what they first took to be the wake of a speedboat coming towards them from the direction of the Clansman Hotel. It then appeared that there was a shape that was not a boat at the head of the wake - which then disappeared.Tthe object then resurfaced and headed for the middle of the loch where they could see it in profile - Peter said it had the colour and shape of an elephant. It then disappeared under the water and their boat rocked in the waves caused by it - the whole episode took about 2 minutes.</p> <p><strong>1973</strong></p> <p>On 12th August 1973, Richard Haworth was standing alone on the front lawn of Temple Pier house, looking across a flat calm Urquhart Bay in glorious sunshine. As he looked across to the Enrick / Coiltie river-mouth and scanned left towards the castle, he noticed a wake of water. At the front of the wake was what looked like a black hockey stick standing vertically out the water, with the 'hook' at the top. Initially he thought it might have been a swan but as it moved (at considerable speed in the direction of Urquhart Castle, it passed by a moored yacht close to the shore, and the 'hook' or head was clearly higher than the deck, making it at least 5 feet in height. The sighting lasted a couple of minutes.</p> <p><strong>1974</strong></p> <p>In 1974, Mr J Gray and his friend, both of Inverness, saw what was looked like an upturned boat oveibg about in the water near Foyers one evening. Although deciding not to tell anyone, they had the sightingc onfirmed shortly afterwards when they met another person. He relayed these details to this website in 2019.</p> <p><strong>1976</strong></p> <p>RD and his family were on holiday in the summer of 1976. Along with his mother, father and brother, he saw an unknown creature about 10-15 feet long 'snaking' through the water about 50 yards from the shore. The sighting took place just south of Dores and lasted about 10 minutes.</p> <p>&nbsp;</p></div>
+					
+				</div>
+			</section>
+
+		</div>
+	</article>
+	<footer>
+		<div>
+			<section id="block_56562" class="block contact-details  noteditable">
+				<div>
+				
+					<div>
+						<i class="iconify" style="--svg:url(https://api.iconify.design/clarity/email-solid.svg);" title="Email"></i><a href="/cdn-cgi/l/email-protection#ddb1b2beb5b3b8aeaeaeb4bab5a9b4b3baae9dbab0bcb4b1f3beb2b0" class="site_contact_email"><span class="__cf_email__" data-cfemail="7a16151912141f090909131d120e13141d093a1d171b131654191517">[email&#160;protected]</span></a><br>
+					</div>
+				</div>
+			</section>
+
+		</div>
+
+		<div id="site_essentials">
+			<a href="/cookie-policy">Cookie Policy</a>
+			<a href="/sitemap">Sitemap</a>
+		</div>
+	
+	</footer>
+	</main>
+	
+	<a href="#top" class="back_up_page" aria-label="Scroll to Top of Page" title="Back to Top">^</a>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

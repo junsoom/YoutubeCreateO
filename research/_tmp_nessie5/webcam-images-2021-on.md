@@ -1,0 +1,109 @@
+# The Official Loch Ness Monster Sightings Register
+
+## Webcam images 2021 on
+
+Over the past few years, and especially during the Covid crisis, many images that we receive come from the Loch Ness Webcam. For reasons outwith the control of the camera operators, the resolution of some of the images from the camera has at times been less than ideal. As such, it has been more difficult to identify what some images submitted. Given they are still 'unexplained' though, we decided that from 2021 onwards, such images would be listed separately from those that are reported by people who saw something while physically at the loch. This we feel more properly gives 21st Century tech it's place in the history of Loch Ness.
+
+**2026**
+
+On 9 July 2026, Eoin Fagan reported the sighting of two large moving objects submerging which he captured on the VILN Shoreland Lodges Webcam at 15.26pm. He said that one large singular object emerged from the water of Loch Ness way out in the loch and at the same time a sailing boat was hugging the northern shore heading north. A second large object emerged from the water a minute later behind the first one. The first one lay motionless, then the second object moved towards it and passed by close to it heading north, then the motionless object moved north in the same direction. This is a still of what he saw:
+
+![](https://web-cdn.org/s/1606/image/Screenshot-2026-07-10-at-00.31.35-Eoin.png?maxwidth=800)
+
+On the 5th of March 2026 Eoin Fagan saw a mysterious movement and shape of an object on the VILN Clansman webcam at 17.20pm. He said that the unusual nature of the event, although brief, is the manner in which the object broke surface 4 times, rose and dipped while moving to the right against the current that was moving left and north. The weather was cloudy, with a slight ripple on the surface, and there was no surface vessels visible before or at the time of the sighting. It took place 200 yards out from the pier at the Clansman. It can be viewed on his youtube channel at @eoinfagan333
+
+**2025**
+
+29 August 2025 - Eoin Fagan captured an image on the VILN Clansman Webcam at 19.49pm. He explained that the sighting took place more than halfway across the loch on the right hand side of the screen. Initially 2 humps emerged together in a large disturbance out of the water, then submerged, then a large single hump emerged, and submerged, then the camera rotated, and when it came back to the area of sighting, 2 further humps appeared in a different direction, but still keeping the same distance apart, when first observed. e. Conditions were calmish at the time of sighting and I did not notice any surface vessels in the area before the sighting, or at the time of the sighting. thi ishat he captured:
+
+![](https://web-cdn.org/s/1606/image/Old-Site/webcam-eoin-aug-2025.jpg)
+
+7 June 2025 - Tim Campbell from Northern Ireland was watching the Nessie on the Net! webcam at 9.43 am when he saw something disturb the water for approximately 4 minutes. You can see what he saw [here](https://youtu.be/zJ-TYYBm_fw?si=8h9bkCO0OUp1JkpT).
+
+19 April 2025 - A cryptid enthusiast watching the webcams from Kosovo reported:
+
+I've been watching the Loch Ness Webcams online for quite a while. At around 08:00 hours as I was watching the webcams online, I got a glimpse of a 30 to 40 feet object moving through the loch. On camera this object even though far away, was very large and it immediately caught my attention. It was huge, dark, and moving. The object was close the shore line on the other side of the river.
+
+There was no boat, no trail being left by a boat. It's clearly something underwater, it is big and it is moving.
+
+This is what he captured:
+
+![](https://web-cdn.org/s/1606/image/Old-Site/webcam-anon-april-2025.jpg)
+
+15 March 2025 - Veteran camera watcher Eoin Fagan reported:
+
+At 11.01 hours at the Shorelands camera, I noticed a fast moving wake going across the middle of the loch, that had a large round black hump, at the front of the wake. I first thought it was the black rubber speed boat that zips around the loch out of Fort Augustus, carrying tourists, but the wake just fizzled out as if it was never there in the first place, needless to say it was no boat.
+
+The second sighting occurred 7 minutes later, an object like a next protrusion, came up out of the water, for a few seconds then plunged back from where it came from.
+
+Again, you might say that was wildfowl of some sort, but it looked quite unusual, and very striking. The neck, if it was a neck, was rather long lankey looking for a goose or a swan, kind of thick, and very straight looking, up like a 90 degree angle. While you take in the distance from the webcam to the object, it certainly is different looking. The surface conditions were calm and mirror like, weather dry and fine.
+
+A small white motor boat came into view from Cherry Island direction, as the second object plunged back into the water.
+
+This is an image of what he saw:
+
+![](https://web-cdn.org/s/1606/image/Old-Site/webcam-eoiin-jan-2025.jpg)
+
+**2024**
+
+23 July 2024** -** Matt Reddick was watching the Nessie of the Net Live Cam during the evening and for about 5 seconds something large appeared to splash around on the top right of the water on the far side of the loch. He noted that other than this this the water was very calm. You can see what he caught [here](https://www.youtube.com/watch?v=Lk3_OKLQgq8).
+
+9 July 2024. Again, long time Nessie watcher Eoin Fagan was watchng the VILN Clansman webcam at 07.50am. He saw two moving objects on the same line which kept the same distance apart through out the whole footage. He suggested that the two objects were both parts of the one object, which appeared to be in the region of 16 to 18 feet long. The sighting took place about 100 yards out from the shoreline. The weather conditions were slightly overcast with light disturbance of surface water, with light breeze north south. The objects were moving against the current. There were no boats visible except the parked Jacobite Cruiser that was parked overnight. Here's a screenshot of what he saw:
+
+![](https://web-cdn.org/s/1606/image/Old-Site/eoin-fagan-2024-07-09-webcam.png)
+
+**2023**
+
+4 July 2023 - veteran watcher Eoin Fagan captured a classic LNM sighting at Shoreland Lodges Webcam. He states that is not a seal, big fish or an otter. The creature is visibly seen, but it emerges, submerges, emerges swims, changes direction towards the middle of the Loch and submerges in a video over 4 minutes long. The surface was ideal for Nessie spotting. The moving target swam parallel to a trawler. Sighting took place at 07.55am and the video can be seen [here](https://youtu.be/qhYfKWpXJAE).
+
+**2021**
+
+**Webcam image count - 10**
+
+19 Octobe 2021 Veteran webcam watcher Eoin Fagan recorded a black object high out of the water moving down the Loch, on the northern side. As it moved down it went lower in the water on approach of a cruiser moving north, in its direction. By the time the cruiser became in view on the screen, the mysterious object submerged totally in the water, but still must have been touching the water, from underneath as it was leaving a straight line wake on the water, towards the oncoming cruiser. By the time the cruiser got to where the last position of the disturbance on the water , the object was completely gone. The object had to be a couple of feet or more out of the water when first sighted, especially to see it from that distance. The recording captures the moment of the object submerging perfectly. You can see the footage on Eoin's [Youtube Channel](https://www.youtube.com/channel/UCoxWoE_IYPFWfEEKw2cnv2Q/featured)
+
+6 September 2021 - Weiming.Jiang, watching from China, took the image below just after half past ten local time. She said that at first there was only one black dot, and then two black dots appeared, very close to the shore. The dots moved on the water for six minutes.
+
+![](https://web-cdn.org/s/1606/image/Old-Site/tannai-pic.jpg)
+
+22 August 2021 - veteran webcam watcher Eoin O'Fagan reported watching the webcam at 10.51 in the morning and seeing 2 solid black shapes that headed across the screen then completely disappeared. He said it began over to the right of the screen and heaeded towards a stationary boat on the left of the screen A small motor boat went through close to the shoreline a few minutes earlier and went by the stationary boat, shore side. He took this still image
+
+![](https://web-cdn.org/s/1606/image/Old-Site/fagan-22-8-21.jpg)
+
+11 August - Matt Reddick, watching online from Dallas, Texas caught an unidentified moving image on the water via the Nessie on the Net! webcam.
+
+He explained: "At 3:56:00 or just before, between the clearing in the trees just above the shore in the middle of the frame, something surfaces. It appears to surface and dive leaving wakes as it swims left. When I applied filters, I could see something else a ways to the left that I missed in original at the beginning of the sighting" In addition, at approximately 4:04:15, a boat is crossing from left to right. Something else surfaces well behind in its wake and seems to chase or catch up to it. You can view his video on [youtube](https://www.youtube.com/watch?v=p-O0BUkGrYA)
+
+26 March - Roslyn Casey from Leeds was watching the webcam at 17.46 and captured the image below. LIke many, although she has in the past visited the loch, Roslyn has been carrying out the search via the web since the beginning of lockdown and the travel restrictions that have been in place in the UK
+
+![](https://web-cdn.org/s/1606/image/Old-Site/r_casey_pic.jpg)
+
+17 March - Kalynn Wangle caught another glimpse of something unknown at the loch - she explained "On March 17th at 16:15 a very large dark shape appears to be swimming from left to right at the very front of the shore. It seems to be making a wave for a bit, and either surfaces for a second or is just under the surface. At 16:17 it goes behind the tree on the right, and doesn't pop back up".
+
+A video of what Kalynn captured online is on [YouTube](https://www.youtube.com/watch?v=EATINbx3dBQ)
+
+12 March 2021 - Eoin O'Fagan caught sight of something unexplained on the webcam. He said:
+
+"I captured some footage off the webcam at 17.08 today, 12/03/21. There was disturbance of water and a wake is also visible with a black shape is seen rising up and down, as it moves slowly across the screen and disappears under the letter h of the same word.
+
+2 smaller black shapes appeared, close together and I caught this odd looking image on a screenshot (below).I did not see any boats, at the time of sighting. There seemed to be a lot of action on the water around the object even though it moved slowly."
+
+Youcan see the video he took on [YouTube](https://www.youtube.com/watch?v=ntHCxxkVA7U)
+
+22 January 2021 - again Eoin O'Fagan caught sight of something unexplained on the webcam - it was very similar to the 19 January sighting. He explained:
+
+"I just went into the webcam at 2.11 pm and immediately saw what I could make out was 2 objects splashing around in the bay about 100 feet apart.They were 2 black objects throwing up a lot of water, and from the distance were large looking in the water. Then the one on the right submerged, and then came up again.The one on the left did the same thing intermittently. They were visible for up to 3 minutes, and then there was nothing.They could have been a couple of feet out of the water and maybe a dozen feet long."
+
+This is a still of what he saw:
+
+![](https://web-cdn.org/s/1606/image/Old-Site/eoin-22-1-21.png)
+
+4 mins after viewing the sighting he also briefly spotted a black shape a few hundred yards further up the loch from the area of interest and took a screenshot of this image. The result is shown below:
+
+![](https://web-cdn.org/s/1606/image/Old-Site/eoin-22-1-21_2.jpg)
+
+19 January 2021 - long time Nessie watcher Eoin O'Fagan caught sight of something unexplained on the webcam at 2.20pm local time. He said that it was visible for about 20 minutes but he managed to get a recording of it for 3 and a half minutes. He also explained that it was coming in and out of view for 20 minutes and watched the webcam till dark confirming that there was definitely no boat traffic in the area. This is a still of what he captured:
+
+![](https://web-cdn.org/s/1606/image/Old-Site/eoin-19-1-21.png)
+
+11 January 2021 - at 11.42am, regular webcam watcher Kalynn Wangle noticed a "V" shaped wake close to the left front side of the loch shore while watching the cam, and less than 10 seconds later, she saw something black surface for only about a second before it disappeared. She watched the footage a few times, and reported it as looking like black object is swimming out from behind the tree that cover the view of the shore. You can see more at https://youtu.be/n--ByFl_Gpo

@@ -1,0 +1,184 @@
+{{short description|Lake in Scotland}}
+{{other uses}}
+{{Use dmy dates|date=October 2021}}
+{{Use British English|date=March 2025}}
+{{Infobox body of water
+| name               = Loch Ness
+| image              = LochNessUrquhart.jpg
+| caption            = With [[Urquhart Castle]] in the foreground
+| alt                = A lake with a ruined castle in the foreground
+| image_bathymetry   = 
+| caption_bathymetry = 
+| pushpin_map        = Scotland
+| location           = [[Scottish Highlands]]
+| coordinates        = {{coord|57|18|N|4|27|W|region:GB_type:waterbody|display=inline,title}}
+| type               = freshwater [[loch]], [[Oligotrophic lake|oligotrophic]], [[dimictic]]<ref>Dill, W.A. (1993). ''Inland Fisheries of Europe'', p. 227. EIFAC [[FAO]] Technical Report 52 suppl.</ref>
+| inflow             = [[River Oich]]/[[Caledonian Canal]], [[River Moriston]], [[River Foyers]], [[River Enrick]], River Coiltie
+| outflow            = [[River Ness]]/[[Caledonian Canal]]
+| catchment          = {{convert|685|sqmi|abbr=on|order=flip}}
+| countries          = Scotland
+| length             = {{convert|22.5|mi|abbr=on|order=flip}}
+| width              = {{convert|1.7|mi|abbr=on|order=flip}}
+| area               = {{convert|21.8|sqmi|abbr=on|order=flip}}
+| depth              = {{convert|433|ft|m|abbr=on|order=flip}}
+| max_depth          = {{convert|754|ft|m|1|abbr=on|order=flip}}
+| volume             = {{convert|1.8|cumi|abbr=on|order=flip}}
+| residence_time     = 
+| shore              = 
+| elevation          = {{convert|15.8|m|abbr=on}}
+| islands            = 1 (Cherry Island)
+| settlements        = [[Fort Augustus]], [[Invermoriston]], [[Drumnadrochit]], [[Abriachan]], [[Lochend (Loch Ness)|Lochend]]; [[Whitebridge, Scotland|Whitebridge]], [[Foyers, Highland|Foyers]], [[Inverfarigaig]], [[Dores, Highland|Dores]]
+}}
+'''Loch Ness''' ({{IPAc-en|ˌ|l|ɒ|x|_|ˈ|n|ɛ|s}}; {{langx|gd|Loch Nis}} {{IPA|gd|l̪ˠɔx ˈniʃ|}}) is a large freshwater [[loch]] in the [[Scottish Highlands]]. It takes its name from the [[River Ness]], which flows from the northern end. Loch Ness is best known for claimed sightings of the [[cryptozoology|cryptozoological]] [[Loch Ness Monster]], also known affectionately as "Nessie" ({{langx|gd|Niseag}}).
+
+Loch Ness lies along the [[Great Glen Fault]], which forms a line of weakness in the rocks which has been excavated by glacial erosion, forming the [[Great Glen]] and the basins of [[Loch Lochy]], [[Loch Oich]] and Loch Ness.<ref>{{cite journal |last=Piccardi |first=Luigi |author-link=John Tuzo Wilson |title=Post-glacial activity and earthquakes of the Great Glen Fault (Scotland) |journal=Memorie Descrittive della Carta Geologica d'Italia |volume=96 |pages=431–446 |date=2014 |url=http://www.isprambiente.gov.it/it/pubblicazioni/periodici-tecnici/memorie-descrittive-della-carta-geologica-ditalia/memdes_96_piccardi2.pdf |access-date=6 April 2016 |archive-date=20 April 2016 |archive-url=https://web.archive.org/web/20160420050544/http://www.isprambiente.gov.it/it/pubblicazioni/periodici-tecnici/memorie-descrittive-della-carta-geologica-ditalia/memdes_96_piccardi2.pdf |url-status=live }}</ref> These lochs form part of the [[Caledonian Canal]], linking the [[Moray Firth]] and the North Sea to [[Loch Linnhe]] on the west coast.
+
+The northern end of Loch Ness is around {{convert|10|km|abbr=in|4=0}} south-west of [[Inverness]], with [[Fort Augustus]] located at the other end. The main [[A82 road]] between Inverness and [[Fort William, Scotland|Fort William]] roughly follows the western shore, passing through the villages of [[Drumnadrochit]] and [[Invermoriston]]. 
+
+Loch Ness is one of the largest in Scotland, and the whole of [[Great Britain]]. It has the greatest volume, and is the second-deepest and second-largest by surface area.
+
+==Geography==
+[[File:Loch Ness.jpg|thumb|left|Map of Loch Ness]]
+Loch Ness is an elongated [[loch]] located southwest of [[Inverness]], extending for approximately {{convert|37|km|abbr=off}} and flowing from southwest to northeast. At {{convert|56|km2|abbr=on}}, it is the second-largest [[List of lochs in Scotland|Scottish loch]] by surface area after [[Loch Lomond]], but due to its great depth it is the largest by volume in the British Isles, containing more water than all the lakes in England and Wales combined.<ref>{{Cite web |date=2023-10-23 |title=Freshwater lochs |url=https://www.nature.scot/landscapes-and-habitats/habitat-types/lochs-rivers-and-wetlands/freshwater-lochs |access-date=2025-06-14 |website=[[NatureScot]] |language=}}</ref> Its deepest point is {{convert|754|ft|m fathom|1|abbr=off}},<ref>{{cite web |title=Bathymetrical Survey of the Fresh-Water Lochs of Scotland, 1897–1909 |url=http://www.nls.uk/maps/early/bathymetric/main_info.html |publisher=[[National Library of Scotland]] |archive-url=https://web.archive.org/web/20070208122134/http://www.nls.uk/maps/early/bathymetric/main_info.html |archive-date=8 February 2007}}</ref><ref name=scotgaz>{{cite web |url=http://www.scottish-places.info/features/featurefirst2397.html |title=Ness, Loch |publisher=The Gazetteer for Scotland |access-date=9 February 2010 |archive-date=22 July 2011 |archive-url=https://web.archive.org/web/20110722032352/http://www.scottish-places.info/features/featurefirst2397.html |url-status=live }}</ref> making it the second deepest loch in Scotland after [[Loch Morar]]. A 2016 survey claimed to have discovered a crevice extending to a depth of {{convert|889|ft|m|0|order=flip|abbr=on}}, but further research determined this to be a [[sonar]] anomaly.<ref>{{cite news |url=https://www.telegraph.co.uk/news/newstopics/howaboutthat/12108324/A-new-hideaway-for-the-Loch-Ness-monster-Skipper-uncovers-900-feet-deep-crevice.html |title=A new hideaway for the Loch Ness monster? Skipper claims to have uncovered deepest crevice yet |newspaper=The Telegraph |access-date=4 March 2016 |archive-date=21 March 2016 |archive-url=https://web.archive.org/web/20160321093201/http://www.telegraph.co.uk/news/newstopics/howaboutthat/12108324/A-new-hideaway-for-the-Loch-Ness-monster-Skipper-uncovers-900-feet-deep-crevice.html |url-status=live }}</ref> Its surface is {{convert|52|ft|order=flip|abbr=off}} above [[sea level]], having been raised around {{convert|1.2|m|ft|order=|0|abbr=on}} during the construction of the Caledonian Canal.<ref>{{Cite web |title=Safeguarding Caledonian Canal’s 200-year-old Ness Weir |url=https://www.scottishcanals.co.uk/about-us/maintaining-and-developing-the-canals/our-projects/safeguarding-caledonian-canals-200-year-old-ness-weir |access-date=2025-06-14 |website=Scottish Canals |language=en}}</ref>
+
+The loch is one of a series of interconnected, murky bodies of water in Scotland; its water visibility is exceptionally low due to a high [[peat]] content in the surrounding soil. The southern end is fed by the [[River Oich]], which runs from Loch Oich. The northern end flows out through the Bona [[Narrows]] into [[Loch Dochfour]]; the ''Bathymetrical survey of the Scottish fresh-water lochs'' considered Loch Dochfour to be distinct from ''Loch Ness proper'', but capable of being regarded as forming part of Loch Ness.<ref name="Bathymetrical383">{{cite book |title=Bathymetrical survey of the Scottish fresh-water lochs |chapter=Lochs of the Ness Basin |page=383 |chapter-url=https://archive.org/details/bathymetricalsur21910murr/page/382/mode/2up?view=theater&q=dochfour |date=1910}}</ref> [[Dochgarroch]] [[weir]] at the downstream end of Loch Dochfour delineates the start of the [[River Ness]], which flows through Inverness to the [[North Sea]] via the [[Moray Firth]]. 
+
+Loch Ness forms part of the [[Caledonian Canal]], which comprises {{convert|60|mi|km|-1|abbr=off}} of waterways connecting the east coast of Scotland at Inverness with the west coast at [[Corpach]] near [[Fort William, Scotland|Fort William]]. Only one-third of the entire length is man-made, the rest being formed by Loch Dochfour, Loch Ness, Loch Oich, and Loch Lochy, with the man-made canals running parallel with rivers such as the River Oich.<ref name="BW-Cldn-Cnl-waterscape">{{cite web |title=Caledonian Canal |series=Canals and rivers – [[British Waterways#Waterscape|Waterscape]] |publisher=[[British Waterways]] |url=http://www.waterscape.com/canals-and-rivers/caledonian-canal |archive-url=https://web.archive.org/web/20120305135130/http://www.waterscape.com/canals-and-rivers/caledonian-canal |archive-date=5 March 2012}}</ref> The canal was constructed in the early nineteenth century by Scottish engineer [[Thomas Telford]].
+
+=== Cherry Island ===
+Loch Ness has one small island, Cherry Island ({{langx|gd|Eilean Muireach}}, meaning Murdoch's Island), at the southwestern end of the loch. It is an artificial island, known as a [[crannog]], and was likely constructed during the [[Iron Age]].<ref name="Blundell">{{citation |last=Blundell |first=O. |title=Proceedings of the Society of Antiquaries of Scotland |volume=43 |pages=159–164 |year=1909 |url=http://ads.ahds.ac.uk/catalogue/adsdata/PSAS_2002/pdf/vol_043/43_159_164.pdf |access-date=29 June 2008 |archive-url=https://web.archive.org/web/20081031121603/http://ads.ahds.ac.uk/catalogue/adsdata/PSAS_2002/pdf/vol_043/43_159_164.pdf |archive-date=31 October 2008 |url-status=live |mode=cs1}}</ref> The island was originally {{convert|160|ft|m}} by {{convert|168|ft|m}} across, but is now smaller as the water level was raised during the construction of the [[Caledonian Canal]] in the early nineteenth century.<ref name="Blundell" /> There was formerly a second, natural island nearby named Dog Island ({{langx|gd|Eilean Nan Con}}), but it was submerged when the water level rose.<ref name="Blundell" /><ref>{{cite web |title=EXAMINATION OF ARTIFICIAL ISLAND IN LOCH NESS |url=https://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-352-1/dissemination/pdf/vol_043/43_159_164.pdf |url-status=live |archive-url=https://web.archive.org/web/20220413213602/https://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-352-1/dissemination/pdf/vol_043/43_159_164.pdf |archive-date=2022-04-13 |access-date=2023-08-21}}</ref> A castle stood on Cherry Island during the 15th century; this was constructed of stone and oak wood and was likely used as a fortified refuge. Rev. Odo Blundell, writing in 1909, suggested that Eilean Muireach may have been a hunting lodge, with Eilean nan Con the home for the hunting dogs.<ref name="Blundell" />
+
+===Villages and places===
+There are nine villages around the loch, as well as [[Urquhart Castle]].
+{| class="wikitable"
+|+ {{sronly|Places on Loch Ness}}
+!scope=col| Shore
+!scope=col| Places
+|-
+!scope=row| Northern
+|
+* [[Lochend (Loch Ness)|Lochend]]
+|-
+!scope=row| Western
+|
+* [[Abriachan]]
+* [[Drumnadrochit]]
+* [[Urquhart Castle]]
+* [[Invermoriston]]
+|-
+!scope=row| Eastern
+|
+* [[Dores, Highland|Dores]]
+* [[Inverfarigaig]]
+* [[Foyers, Highland|Foyers]]
+* [[Whitebridge, Scotland|Whitebridge]]
+|-
+!scope=row| Southern
+|
+* [[Fort Augustus]]
+|}
+At [[Drumnadrochit]] is the "Loch Ness Centre and Exhibition"<ref>{{cite web |url=http://www.lochness.com |title=The Loch Ness Centre |access-date=28 October 2021 |archive-date=20 June 2010 |archive-url=https://web.archive.org/web/20100620220710/http://www.lochness.com/ |url-status=live}}</ref> which examines the natural history and legend of Loch Ness. Boat cruises operate from various locations on the loch shore, giving visitors the chance to look for the "[[Loch Ness Monster|monster]]".
+
+[[Urquhart Castle]] is located on the western shore, {{convert|2|km|mi|abbr=off|frac=4}} east of Drumnadrochit.
+
+[[Lighthouses in Scotland|Lighthouses]] are located at the northern and southern ends at Lochend (Bona Lighthouse) and Fort Augustus. There is an [[RNLI]] lifeboat station on the northern shore near Drumnadrochit, which has been operational since 2008 and was the first non-coastal RNLI station.<ref>{{cite news |title=RNLI is heading inland with Loch Ness Lifeboat |url=https://www.heraldscotland.com/news/12460810.rnli-is-heading-inland-with-loch-ness-lifeboat/ |date=28 March 2008 |access-date=12 August 2020 |newspaper=[[The Herald (Glasgow)|The Herald]] |location=Glasgow |archive-date=28 October 2021 |archive-url=https://web.archive.org/web/20211028120302/https://www.heraldscotland.com/default_content/12460810.rnli-heading-inland-loch-ness-lifeboat/ |url-status=live }}</ref> It is staffed by a volunteer crew and equipped with an inshore lifeboat (ILB).<ref>{{cite web |url=https://rnli.org/find-my-nearest/lifeboat-stations/loch-ness-lifeboat-station |title=Find my nearest > Lifeboat stations > Loch Ness Lifeboat Station |publisher=[[Royal National Lifeboat Institution]] |website=rnli.org |access-date=12 August 2020 |archive-date=6 September 2020 |archive-url=https://web.archive.org/web/20200906090823/https://rnli.org/find-my-nearest/lifeboat-stations/loch-ness-lifeboat-station |url-status=live }}</ref>
+
+==Etymology==
+Loch Ness takes its name from the River Ness which flows from the loch's northern end. The river's name probably derives from an old Celtic word meaning 'roaring one'.<ref>{{cite web |url=https://www.etymonline.com/word/loch |title=Online Etymology Dictionary |access-date=20 June 2020 |archive-date=22 June 2020 |archive-url=https://web.archive.org/web/20200622070423/https://www.etymonline.com/word/loch |url-status=live}}</ref> William Mackay in his 1893 book ''Urquhart and Glenmoriston: Olden times in a highland parish'' recounts two Scottish legends that have been reported as the source of the name. In the first, a spring in a valley had been enchanted by Daly the Druid for purity, with the admonition that the well opening must be covered by a stone whenever not in use, or else "desolation will overtake the land". One day a woman left the well uncovered when rushing to save her baby from a fire, and it overflowed and filled the vale, forming the loch. The inhabitants cried out "Tha loch 'nis ann, tha loch 'nis ann!" ("There's a loch now, there's a loch now!"), and so it was named "Loch Nis". A second legend, named "The Tales of the Sons of Uisneach" by Mackay and now considered part of the [[Ulster Cycle]] of [[Irish mythology]],<!-- it's usually called "The Tragic Tale of the Sons of Uisnech", or "Exiles of the Sons of Uisnech", in the Táin Bó Cúailnge --> recounts the Irish woman [[Deirdre]] or Dearduil, "the most beautiful woman of her age", who was courted by the king of [[Ulster]], [[Conchobar mac Nessa|Conachar MacNessa]]; she fell in love instead with his cousin [[Naoise|Noais]], son of Uisneach. They fled to Scotland and were married on the banks of the loch, but Noais was slain by MacNessa, and the Loch Naois, River Naois, and Iverness were named after him. Mackay claims that while these legends are not the "true" origin of the name, that many places in the district have names associated with "The Tales of the Sons of Uisneach", and that the same tales have Conachar MacNessa's mother as the river goddess Ness. He argued instead that the etymology of the Celtic "Ness" derived from earlier words for "river".<ref>{{cite book |title=Urquhart and Glenmoriston: Olden times in a highland parish |last=Mackay |first=William |year=1893 |publisher=Northern Counties Newspaper and Printing and Publishing Company |pages=5–7, 575}}</ref>
+
+==Monster==
+{{Main|Loch Ness Monster}}
+
+Loch Ness is known as the home of the mythical Loch Ness Monster (also known as "Nessie"), a [[cryptid]], reputedly a large unknown animal. It is similar to other supposed lake monsters in Scotland and elsewhere, though its description varies from one account to the next. Popular interest and belief in the animal's existence have varied since it was first brought to the world's attention in 1933.<ref>{{Cite web |url=http://www.nessie.co.uk/ |title=The Legend of Nessie the Ultimate Loch Ness Monster Site |last=Nessie |first=Legend of |website=www.nessie.co.uk |access-date=28 February 2016 |archive-date=21 May 2013 |archive-url=https://web.archive.org/web/20130521155250/http://nessie.co.uk/ |url-status=live}}</ref>
+
+Several scientific surveys have been conducted in the loch in search of the monster, some yielding unusual results. For example, a 2007 sonar survey found a [[common toad]]  at a depth of 98 metres which researchers described as a "[[Loch Ness Toad]]".<ref name="BBC2007">{{cite news |date=1 June 2007 |title=Toad found deep down in Loch Ness |url= http://news.bbc.co.uk/2/hi/uk_news/scotland/highlands_and_islands/6618995.stm |access-date=5 January 2026 |work=BBC News}}</ref>
+
+==Fish species==
+[[Image:Loch Ness from Urquhart Castle - kingsley - 30-JUN-09.jpg|thumb|Urquhart Bay and Loch Ness viewed from Grant's Tower at [[Urquhart Castle]]]]
+The following fish species are native to Loch Ness. A number of others such as [[European perch|perch]] and [[Common roach|roach]] have been [[Introduced species|introduced]] in the Loch or [[Caledonian Canal]] with various levels of success.<ref>Loch Ness Information site: ''[http://www.loch-ness.org/fishandothervertebrates.html The Fish and Invertebrates of Loch Ness.] {{Webarchive|url=https://web.archive.org/web/20150316033003/http://www.loch-ness.org/fishandothervertebrates.html |date=16 March 2015 }}'' Retrieved 24 March 2015.</ref>
+
+{| class="wikitable"
+|+Fish species native to Loch Ness
+!Common name!!Latin name
+|-
+| [[European eel]]  || ''Anguilla anguilla''
+|-
+| [[Northern pike]] || ''Esox lucius''
+|-
+| [[Three-spined stickleback]] || ''Gasterosteus aculeatus''. 
+|-
+| [[Brook lamprey]] || ''Lampetra planeri''
+|-
+| [[Eurasian minnow]] || ''Phoxinus phoxinus''
+|-
+| [[Atlantic salmon]] || ''Salmo salar''
+|-
+| [[Sea trout]]  || ''Salmo trutta''
+|-
+| [[Brown trout]] ([[ferox trout]]) || ''Salmo trutta'' (''Salmo ferox'')
+|-
+| [[Arctic char]] || ''Salvelinus alpinus''
+|}
+
+==Hydroelectricity==
+{{Main|Foyers hydropower schemes|Glendoe Hydro Scheme}}
+
+Loch Ness serves as the lower storage reservoir for the 300 [[watt|MW]] [[Foyers hydropower schemes|Foyers]] [[pumped-storage hydroelectricity|pumped-storage]] [[hydroelectricity|hydroelectric]] scheme, which opened in 1975.<ref name="cooperS">{{cite thesis |last=Cooper |first=Michael Colin |date=1999 |title=Laminated Sediments of Loch Ness, Scotland: Indicators of Holocene Environmental Change |type=PhD |chapter=Site description |publisher=University of Plymouth |chapter-url=https://pearl.plymouth.ac.uk/bitstream/handle/10026.1/2030/Michael%2520Colin%2520Cooper.pdf?sequence=1&isAllowed=y |access-date=31 October 2021}}</ref> A smaller (5 MW) power station nearby used to provide power for an [[aluminium]] [[smelting]] plant, but now [[electricity]] is generated and supplied to the [[National Grid (Great Britain)|National Grid]]. Another scheme, the 100 MW [[Glendoe Hydro Scheme]] near [[Fort Augustus]], began generation in June 2009.<ref>{{Cite web |url=http://www.glendoe.co.uk/ |title=Glendoe Hydro scheme |publisher=[[Scottish and Southern Energy]] |access-date=28 August 2007 |url-status=dead |archive-url= https://web.archive.org/web/20070828020540/http://www.glendoe.co.uk/ |archive-date=28 August 2007 }}</ref> It was out of service between August 2009 and April 2012 for repair of the tunnels connecting the reservoir to the turbines.<ref>{{Cite web |url= https://news.bbc.co.uk/2/hi/uk_news/scotland/highlands_and_islands/7591395.stm |title= Hydro-electric scheme's dam close |date= 1 September 2008 |publisher= [[BBC]] |access-date= 9 February 2010 |archive-date= 5 January 2009 |archive-url= https://web.archive.org/web/20090105014058/http://news.bbc.co.uk/2/hi/uk_news/scotland/highlands_and_islands/7591395.stm |url-status= live }}</ref><ref>{{cite web|url=http://www.sse.com/Glendoe/TheAsset/|title=SSE Glendoe}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> 
+
+There are proposals for three new pumped-storage hydropower schemes using Loch Ness as the lower reservoir. 
+
+The 450 MW / 2.8 GWh Loch na Cathrach (formerly called Red John) project<!-- Inverness IV2 6AW, 240m altitude, 6 hours --> was approved in 2021. If funded at £550 million, it would store 5 million cubic metres of water near [[Dores, Highland|Dores]].<ref>{{cite web |last1=Kajastie |first1=Nia |title=Hydro scheme at Loch Ness gains planning consent |url=https://www.geplus.co.uk/news/hydro-scheme-at-loch-ness-gains-planning-consent-17-06-2021/ |website=Ground Engineering (GE) |language=en |date=17 June 2021 }}</ref><ref>{{cite web |title=Red John Pumped Storage Hydro Project |url=https://www.power-technology.com/projects/red-john-pumped-storage-hydro-project/ |website=Power Technology |archive-url= https://web.archive.org/web/20210711162834/https://www.power-technology.com/projects/red-john-pumped-storage-hydro-project/ |archive-date=11 July 2021 |url-status=live}}</ref> This scheme was taken over by [[Statkraft]] in December 2023.<ref name=":0">{{Cite news |date=2024-01-04 |title=Loch Ness hydro power 'gold rush' branded a disaster |url=https://www.bbc.com/news/uk-scotland-67875061 |access-date=2025-06-14 |work=BBC News |language=en-GB}}</ref>
+
+Plans for the Loch Kemp Storage scheme were submitted in January 2024 by Statera Energy. This would use Loch Kemp near [[Whitebridge, Scotland|Whitebridge]] as the upper reservoir, with tunnels and a buried powerhouse on the shores of Loch Ness. The Ness District Salmon Fisheries Board have concerns about the impact of these schemes on the ecology of Loch Ness. In the worst case scenario, filling the three upper reservoirs from empty would reduce the level of Loch Ness by {{Convert|73|cm|ftin|abbr=on}}.<ref name=":0" /> Highland councillors objected to the scheme in June 2025, despite officials recommending that councillors do not object, however the final decision lies with the Scottish Government.<ref>{{Cite web |date=2025-06-11 |title=Loch Ness hydro project to go before Highland councillors |url=https://www.bbc.com/news/articles/c5yknm53zy1o |access-date=2025-06-14 |website=BBC News |language=en-GB}}</ref><ref>{{Cite web |date=2025-06-20 |title=Highland councillors oppose hydro project on Loch Ness |url=https://www.bbc.com/news/articles/cql0ryp4gx1o |access-date=2025-06-22 |website=BBC News |language=en-GB}}</ref>
+
+Glean Earrach Energy (GEE) is developing a 2&nbsp;GW scheme on the western shore, with the planning application submitted in May 2025. The upper reservoir would be formed at Loch nam Breac Dearga, about halfway between Drumnadrochit and Invermoriston. The [[hydraulic head]] of this scheme is almost {{Convert|500|m|ft|abbr=on}}, much larger than the schemes on the eastern side. This means it would be able to store 34&nbsp;GWh (around three-quarters of the total 46&nbsp;GWh proposed) using only half the total amount of water.<ref>{{Cite web |last=Menteth |first=Thames |date=2025-05-08 |title=Plans submitted for £3bn Loch Ness pumped storage hydro project |url=https://www.geplus.co.uk/news/plans-submitted-for-3bn-loch-ness-pumped-storage-hydro-project-08-05-2025/ |access-date=2025-06-14 |website=Ground Engineering |language=en}}</ref> Early development of this scheme was undertaken by SSE under the name Balmacaan Hydro, with a proposed capacity of 300–600&nbsp;MW.<ref>{{cite web |title=Balmacaan Hydro |url=http://www.sse.com/BalmacaanHydro/ |url-status=dead |archive-url=https://web.archive.org/web/20131012011653/http://www.sse.com/BalmacaanHydro/ |archive-date=2013-10-12 |access-date=2025-06-14 |publisher=SSE}}</ref>
+
+Statera Energy are also developing plans to modify the Thomas Telford designed weir where the River Ness flows out of Loch Dochfour, known both as Ness Weir and locally as Dochfour Weir. They propose to raise the existing weir height, and install a new [[tilting weir]] and [[Fish ladder|fish pass]]. Statera Energy say this will allow the water level in Loch Ness to be better controlled, and will provide resilience against future climate change. It would allow the proposed pumped storage schemes to operate more efficiently, while proving stable water levels for canal navigation. The first round of public consultation was held in November 2024.<ref>{{Cite web |date=2024-11-04 |title=Plan revealed to manage water levels in Loch Ness as it faces serious impact of climate change |url=https://www.inverness-courier.co.uk/news/plan-revealed-to-manage-water-levels-in-loch-ness-as-it-face-365388/ |access-date=2025-06-15 |website=Inverness Courier |language=en}}</ref><ref>{{Cite web |title=Public Consultation Event One |url=https://nessweir2.co.uk/consultation/phase-one |access-date=2025-06-15 |website=Ness Weir II |language=en}}</ref>
+
+==Gallery==
+<gallery mode="packed">
+File:Fort Augustus locks 2017.jpg|Locks on [[Caledonian Canal]] in [[Fort Augustus]], Loch Ness in the background
+File:Loch Ness 0406.JPG|Loch Ness looking south, taken in May 2006.
+File:Loch_Ness_Panorama.png|Sunrise over Loch Ness, taken at [[Urquhart Castle]]
+File:Loch_Ness_Panoramin_July_2008.JPG|Loch Ness panorama from a ship in 2008
+File:Cherry Island - geograph.org.uk - 648235.jpg|Cherry Island
+</gallery>
+==Modern history==
+===Wellington ditching and rediscovery===
+On New Year's Eve 1939, a [[Royal Air Force]] [[Vickers Wellington|Vickers Wellington Bomber]] (serial no. N2980) with 20 Operational Training Unit based at [[RAF Lossiemouth]], was forced to ditch on Loch Ness after running into engine trouble. Initially, the pilot, [[Squadron leader|Squadron Leader]] David Marwood-Elton, ordered the crew to bail out, before quickly cancelling the order upon spotting Loch Ness; this second order came too late for the rear gunner, Sergeant J.S. Fensome, aged 20, who bailed out before hearing it, and fell to his death after his parachute was destroyed after getting caught by the plane when he pulled the ripcord prematurely. The remaining seven crew survived the ditching. Fensome is buried at the [[Holy Trinity Churchyard, Biscot|Holy Trinity Churchyard]] in [[Biscot|Biscot, Bedfordshire]].<ref>{{Cite web |title=Wellington N2980 - Loch Ness |url=https://www.heligoland39.org/wellington-n2980-loch-ness |access-date=2025-10-20 |website=www.heligoland39.org |language=en}}</ref> The crash is memorialised on a plaque in a layby along the [[A82 road|A82]].<ref>{{Cite web |title=Wellington Bomber N2980 |url=https://www.iwm.org.uk/memorials/item/memorial/44525 |access-date=2025-10-20 |website=Imperial War Museums |language=en}}</ref><ref>{{Cite web |title=loch ness wellington bomber |url=https://www.bing.com/search?q=loch+ness+wellington+bomber&cvid=6de13b23badd4049911ae9349f464abf&gs_lcrp=EgRlZGdlKgYIAhBFGDsyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDzSAQg0OTk2ajBqMagCALACAA&FORM=ANAB01&PC=U531 |access-date=2025-10-20 |website=Bing |language=en}}</ref>
+
+In 1976, the aircraft was inadvertently rediscovered by two Americans, [[Martin Klein (engineer)|Martin Klein]] and Charles Finkelstein, who were using a [[Side-scan sonar|Klein side scan sonar]] whilst looking for the [[Loch Ness Monster]]. The pair initially thought that the aircraft was a [[Consolidated PBY Catalina|PBY Catalina 'Flying Boat']], before finding its true identity with a further scan in 1980, which revealed it had been further damaged after a fishing trawler had caught its net on the front gun turret. On 21 September 1985, the bomber saw sunlight again as it was raised out of the water at the [[Bona Lighthouse]].<ref>{{Cite web |date=2024-05-07 |title=BBC Archive 1984: Loch Ness Bomber |url=https://www.bbc.co.uk/videos/cljdp534w51o |access-date=2025-10-20 |website=BBC |language=en-GB}}</ref> As of 2025, the aircraft is currently on display at the [[Brooklands Museum]] in [[Weybridge|Weybridge, Surrey]], just down the road from the factory where the aircraft rolled off the assembly line.<ref>{{Cite web |title=Thirty-five years ago a ‘monster’ was hoisted from Loch Ness |url=https://www.brooklandsmuseum.com/discover/our-history/brooklands-stories/thirty-five-years-ago-today-21st-september-1985/ |access-date=2025-10-20 |website=www.brooklandsmuseum.com |language=en}}</ref>
+
+===Records and attempts===
+[[John Cobb (racing driver)|John Cobb]] died in an attempt at the [[water speed record]] in his boat ''[[Crusader (speedboat)|Crusader]]'' in 1952.<ref>{{cite news |title=Loch Ness could become testing ground for world water speed record 64 years after tragedy |url=https://www.express.co.uk/news/uk/656203/Loch-Ness-become-testing-ground-world-water-speed-record-year-after-tragedy |date=28 March 2016 |access-date=19 January 2018 |newspaper=[[Daily Express]] |archive-date=20 January 2018 |archive-url=https://web.archive.org/web/20180120070450/https://www.express.co.uk/news/uk/656203/Loch-Ness-become-testing-ground-world-water-speed-record-year-after-tragedy |url-status=live }}</ref>{{better|date=September 2024}} His accident was recorded by the BBC reporters on site at the time.<ref>{{cite web|last=Gallacher|first=Terry|title=Loch Ness 1966|date=8 April 2011|url=http://terencegallacher.wordpress.com/2011/04/08/loch-ness-1966/|access-date=24 May 2012|archive-date=9 September 2011|archive-url=https://web.archive.org/web/20110909081118/http://terencegallacher.wordpress.com/2011/04/08/loch-ness-1966/|url-status=live}}</ref> Nearby, there is a memorial to him erected by the people of [[Glenurquhart]].
+
+On 31 August 1974, David Scott Munro, of Ross-shire Caberfeidh Water Ski Club, became the first person in the world to [[water ski]] (mono ski) the length of Loch Ness. From Lochend to [[Fort Augustus]] and back, he covered the {{convert|48|miles|order=flip|abbr=in}} in 77 minutes at an average speed of {{convert|37|mph|km/h|abbr=on|order=flip}}.<ref>{{citation|title=Press & Journal newspaper|publisher=Inverness edition|date=2 September 1974|mode=cs1}}</ref>
+
+In July 1966, Brenda Sherratt became the first person to swim the length of the loch: it took her 31 hours and 27 minutes.<ref>{{cite news |url=https://news.google.com/newspapers?id=pn9AAAAAIBAJ&pg=5946%2C4059656 |title=Girl completes Loch Ness swim |work=The Glasgow Herald |date=28 July 1966 |page=1 |access-date=26 October 2025}}</ref><ref>{{Cite web|url=https://openwaterswimming.com/2014/06/a-birthday-swim-to-remember/|title=Brenda Sherratt's Birthday Swim To Remember|website=Open Water Swimming|date=8 June 2014|access-date=17 August 2020|archive-date=28 October 2021|archive-url=https://web.archive.org/web/20211028120314/https://www.openwaterswimming.com/wp-admin/admin-ajax.php|url-status=live}}</ref>
+
+On 23 September 2022, swimmer [[Ross Edgley]] attempted the world's longest open water non-stop swim in Loch Ness.
+After 52 hours and 39 minutes he was forced to end his swim early due to the onset of [[cellulitis]] and [[hypothermia]] and was taken to hospital. The swim was done in support of [[Parley for the Oceans]].<ref>{{cite news | url=https://www.bbc.co.uk/news/uk-england-lincolnshire-63144405 | title=Grantham's Ross Edgley recalls challenge of 50-hour Loch Ness swim | work=BBC News | date=5 October 2022 }}</ref>
+
+On 5 May 2026, Ewan McConachie gained the Guinness World Record for water skiing the length of Loch Ness from Fort Augustus to Loch End beach in 32 minutes and 15 seconds. Ewan is the son of William McConachie who drove the boat for David Munro's water ski run in 1974.<ref>{{cite web |title=Fastest crossing of Loch Ness by mono water ski (Fort Augustus to Lochend, male) |url=https://www.guinnessworldrecords.com/world-records/780812-fastest-crossing-of-loch-ness-by-mono-water-ski-fort-augustus-to-lochend-male |website=Guiness World Records |access-date=6 August 2026}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{wiktionary|Loch Ness}}
+{{portal|Lakes}}
+* {{Commons category-inline|Loch Ness}}
+* {{Commons category-inline|Cherry Island, Loch Ness|Cherry Island}}
+* {{Wikivoyage-inline|Loch Ness}}
+* Cherry Island {{gbmapping|NH385102}}
+* Cherry Island coordinates: {{coord|57.15417|-4.67153|type:landmark_region:GB_source:enwiki-osgb36(NH385102)|display=inline|name=Cherry Island}}
+* [http://contours.org.uk/bathymetry/ness/3d/ Virtual 3D model of Loch Ness]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ness}}
+[[Category:Loch Ness]]
+[[Category:Freshwater lochs of Scotland]]
+[[Category:Lochs of Highland (council area)]]
+[[Category:Ness basin|LNess]]
+[[Category:Oligotrophic lakes|Ness]]

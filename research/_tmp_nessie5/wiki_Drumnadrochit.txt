@@ -1,0 +1,93 @@
+{{Use dmy dates|date=February 2018}}
+{{Use British English|date=February 2018}}
+{{Infobox UK place
+| official_name                    = Drumnadrochit
+| gaelic_name                      = Druim na Drochaid
+| scots_name                       =
+| static_image_name                = J M Briscoe24 08 200713 43 5301519 1 DRUMNADROCHIT.jpg
+| static_image_caption             = Drumnadrochit in 2007
+| static_image_width               = 
+| country                          = Scotland
+| map_type                         = Inverness
+| population                       = {{Scottish locality population|name|POP=Drumnadrochit}}
+| population_ref                   = ({{Scottish settlement population citation|year}})<ref>{{Scottish settlement population citation}}</ref>
+| os_grid_reference                = NH508301
+| edinburgh_distance_mi            = 107
+| london_distance_mi               = 439
+| coordinates                      = {{coord|57.337|-4.480|type:city(500)_region:GB|display=inline,title}}
+| post_town                        = INVERNESS
+| postcode_area                    = IV
+| postcode_district                = IV63
+| dial_code                        = 01456
+| constituency_westminster         = [[Inverness, Skye and West Ross-shire (UK Parliament constituency)|Inverness, Skye and West Ross-shire]]
+| unitary_scotland                 = [[Highland (council area)|Highland]]
+| lieutenancy_scotland             = Inverness
+| constituency_scottish_parliament = [[Skye, Lochaber and Badenoch (Scottish Parliament constituency)|Skye, Lochaber and Badenoch]]
+| website                          = 
+}}
+'''Drumnadrochit''' ({{IPAc-en|d|r|ʌ|m|n|ə|ˈ|d|r|ɒ|x|ɪ|t}}; {{langx|gd|Druim na Drochaid}}) is a village in the [[Highland (council area)|Highland]] [[Local government in Scotland|local government]] [[Council areas of Scotland|council area]] of [[Scotland]], lying near the west shore of [[Loch Ness]] at the foot of [[Glen Urquhart]].<ref>{{Historic Environment Scotland|cat=PLA |num=104237 |num2=NH52NW 35 |desc=Drumnadrochit, General}}</ref> The village is close to the villages of [[Milton, Glenurquhart|Milton]] to the west, Kilmore to the east and [[Lewiston, Highland|Lewiston]] to the south. The villages act as a centre for regional tourism beside Loch Ness and a local economic hub for the nearby communities.
+
+==Geography==
+The village lies in Glen Urquhart on the [[A82 road]] to [[Inverness]], near a junction with the [[A831 road|A831]] and beside the river Enrick. The river Enrick runs the length of Glen Urquhart, meeting the river Coltie and then flowing into Loch Ness (the eastern edge of Drumnadrochit). The nearby local hill and tourist attraction is called Craigmonie.<ref>{{Cite web|url=http://www.craigmoniecentre.co.uk/index.asp?pageid=4530|title=Craigmonie Centre &#124; Natural History|website=www.craigmoniecentre.co.uk}}</ref> Glen Urquhart itself adjoins Loch Ness and the larger geographical area known as the [[Great Glen]].
+
+==History==
+The settlement grew up around a bridge over the [[River Enrick]], and the name Drumnadrochit derives from the [[Scottish Gaelic]] {{lang|gd|Druim na Drochaid}}, "the ridge of the bridge". The first stone bridge was completed between 1808 and 1811 as part of works led by [[Thomas Telford]].<ref name=HESBridge>{{Historic Environment Scotland|num=LB15005|desc=DRUMNADROCHIT, BRIDGE OVER RIVER ENRICK|access-date=26 May 2021}}</ref> The bridge was extensively damaged by flooding in 1818.<ref name=HESBridge/> It was later widened in 1933 to accommodate the expanded A82 road.<ref name=HESBridge/>
+
+Historically the village was within the local government [[county of Inverness]] (until 1975) and the [[Inverness (Scottish district)|Inverness district]] of the [[Highland (council area)|Highland local government region]] (from 1975 to 1996).
+
+The Drumnadrochit Hotel is a Category B listed three-storey hotel completed in 1882.<ref name=HESHotel>{{Historic Environment Scotland|num=LB15008|desc=DRUMNADROCHIT, DRUMNADROCHIT HOTEL|access-date=26 May 2021}}</ref> [[Walt Disney]] stayed at the Drumnadrochit Hotel in early July 1949, when visiting the Highlands with his family, after visiting Edinburgh and [[Norton Disney]] in [[Lincolnshire]].<ref>''Highland News'' Saturday 9 July 1949, page 1</ref><ref>''Inverness Courier'' Tuesday 12 July 1949</ref><ref>''Highland News'' Saturday 16 July 1949, page 7</ref>
+
+The former Caledonian Bank building is also a prominent structure in the village and was constructed in 1895, although it is no longer a bank.<ref>{{Historic Environment Scotland|cat=PLA |num=261301 |num2=NH53SW 83 |desc=Drumnadrochit, Caledonian Bank |access-date=19 June 2025}}</ref>
+
+Established after the [[First World War]], the Glen Urquhart war memorial is located in Drumnadrochit and is in the shape of a column, with a small ceremonial fenced garden.<ref>{{Historic Environment Scotland|cat=PLA |num=287385 |num2=NH53SW 91 |desc=Drumnadrochit, Drumnadrochit Bridge, War Memorial |access-date=19 June 2025}}</ref>
+
+In 2006, the village hall, originally funded by Bradley Martin of Balmacaan House, celebrated its centenary.<ref>{{cite web|author=Glen Urquhart Public Hall|title=Village Hall|url=http://www.glenurquhart.info}}</ref>
+
+===Balmacaan Estate===
+Much of Glenurquhart was historically part of the Balmacaan Estate (also known as the Glen Urquhart Estate), owned by the Grant family of Seafield between 1509 and 1946. The estate was rented to the wealthy American industrialist and local benefactor Bradley Martin in the late 19th and early 20th centuries and flourished in the 1880s and 1890s, but went into decline after the 1920s. The estate then changed hands so frequently that the issue was raised in parliament.<ref name="Hansard">{{Cite web|url=https://api.parliament.uk/historic-hansard/commons/1943/oct/26/balmacaan-estate|title=Balmacaan Estate (Hansard, 26 October 1943)|website=parliament.uk}}</ref> The best forestry wood had been felled during [[World War 2]] and the estate was dissolved in 1946. Balmacaan House, near Drumnadrochit, was abandoned soon afterwards.<ref name="architecturenotes">{{Historic Environment Scotland|cat=PLA|num=105117|num2=NH42NE 19|desc=Balmacaan House}}</ref> In 1946, Bunloit Farm was separated from Balmacaan Estate and Bunloit Estate was formed round it near the small settlement of Balbeg, located on the north west shore of Loch Ness, about 4 miles south of Drumnadrochit.<ref name="appendix">{{Cite web|url=http://theappendix.net/issues/2013/4/local-history-drumnadrochit-scotland|title=Local History: Drumnadrochit, Scotland—The Appendix|website=theappendix.net}}</ref><ref name="woodlandtrust">{{Cite web|url=https://www.woodlandtrust.org.uk/visiting-woods/woods/balmacaan/|title=Balmacaan - Visiting Woods|first=Woodland|last=Trust|website=Woodland Trust}}</ref><ref name="ambaile">{{Cite web|url=https://www.ambaile.org.uk/asset/21546/|title=On Balmacaan Estate|website=Am Baile}}</ref><ref name="Scottishfield">{{Cite web|url=https://www.scottishfield.co.uk/homes-gardens/property-2/loch-ness-and-mountain-views-from-a-highland-estate/|title=Loch Ness and mountains from a Highland estate|date=6 June 2019|access-date=12 December 2021|archive-date=12 December 2021|archive-url=https://web.archive.org/web/20211212182736/https://www.scottishfield.co.uk/homes-gardens/property-2/loch-ness-and-mountain-views-from-a-highland-estate/|url-status=dead}}</ref><ref name="Bunloitestate">{{Cite web| title=Bunloit estate | url=http://johnclegg.s3.amazonaws.com/bunloit-estate_360060312.pdf | archive-url=https://web.archive.org/web/20191018014800/http://johnclegg.s3.amazonaws.com/bunloit-estate_360060312.pdf | archive-date=2019-10-18}}</ref><ref>{{Historic Environment Scotland|cat=PLA |num=116736 |num2=NH52NW 10 |desc=Bunloit, Glenurquhart}}</ref>
+
+A small strip of the estate's land still exists to this day, mostly north of Balbeg that lies north of [[Balnain]].<ref>{{Cite web|url=http://www.whoownsscotland.org.uk/property.php?p=1620|title=Property Page: Balmacaan Estate|website=www.whoownsscotland.org.uk|access-date=12 December 2021|archive-date=12 December 2021|archive-url=https://web.archive.org/web/20211212182724/http://www.whoownsscotland.org.uk/property.php?p=1620|url-status=dead}}</ref> It is largely publicly accessible and is mostly used for grazing cattle in the summer.
+
+==Education==
+Drumnadrochit is served by the local [[Glen Urquhart High School]] which is also home to the community library.<ref>{{cite web|author=Redmond J|title=Glen Urquhart High School|url=http://www.glenurquharthigh.highland.sch.uk|url-status=dead|archive-url=https://web.archive.org/web/20130901215853/http://www.glenurquharthigh.highland.sch.uk/|archive-date=2013-09-01}}</ref>
+
+==Culture and community==
+The village's shops include a pharmacy, a Post Office and a supermarket. There are also several restaurants and cafés. There is a doctor's surgery under [[NHS Scotland]] and a team of local Community First Responders who cover nights and weekends in serious emergencies.
+
+The Loch Ness Hub is a community owned transport and visitor information centre.<ref name=Hub>{{cite web |url=https://lochnesshub.com/ |title=Home page |publisher= Loch Ness Hub |access-date=2021-05-26}}</ref>
+
+At Urquhart Bay Harbour in Drumnadrochit there is a [[Royal National Lifeboat Institution|RNLI]] inshore lifeboat station.<ref name=RNLI>{{cite web |url=https://rnli.org/find-my-nearest/lifeboat-stations/loch-ness-lifeboat-station |title=Loch Ness Lifeboat Station |publisher= RNLI |access-date=2021-05-26}}</ref> The lifeboat station was established in 2008 to respond to maritime emergencies on Loch Ness.<ref name=RNLI/>
+
+Balmacaan is an ancient woodland, managed by the [[Woodland Trust]], that overlooks the village.<ref name=Balmacaan>{{cite web |url=https://www.woodlandtrust.org.uk/visiting-woods/woods/balmacaan/ |title=Balmacaan |publisher=Woodland Trust |access-date=2021-05-26}}</ref> Formerly part of Balmacaan House, the Earl of Grant's estate, the woodland estate is now open to the public.<ref name=Balmacaan/>
+
+[[File:Drumnadrochit - geograph.org.uk - 1441662.jpg|thumb|right|Drumnadrochit from the car park, looking north past the village green towards the bridge over the River Enrick.]]
+
+==Transport==
+Several buses a day pass through Drumnadrochit, notably the 17 from Inverness bus station. Buses are less frequent outside the summer season, especially on a Sunday.
+
+==Economy==
+The village is popular with [[Tourism in Scotland|tourists]] and there are three larger hotels in (or close to) the village, two smaller inns (the Ben Leva Hotel and Fiddler's Rest) and a hostel (the Loch Ness Backpackers Lodge). Attractions include the nearby [[Urquhart Castle]], one of the most visited sites managed by [[Historic Scotland]], and [http://www.nessieland.co.uk/ Nessieland], and a "Nessie" themed exhibition about the [[Loch Ness Monster]], the Loch Ness Centre and Exhibition for those wanting a more serious interpretation. The village hosts the Glenurquhart Highland Games at the end of August each year. A winter event, "Drums and Rockets", has also taken place in recent years.<ref>{{cite web|author=Loch Ness Hogmanay Festival|title=Drums and Rockets|url=http://www.drumsandrockets.co.uk/|url-status=dead|archive-url=https://web.archive.org/web/20061215200252/http://www.drumsandrockets.co.uk/|archive-date=2006-12-15}}</ref> The community hosts a Bonfire Night fireworks display around 5 November.
+
+Two long-distance hiking routes pass through or start at the village. The [[Great Glen Way]] from [[Fort William, Highland|Fort William]] to Inverness; and the Affric-Kintail Way begins at the village, passing through Glen Affric and ending at [[Morvich, Highland|Morvich]] on the west coast.<ref>{{Cite web|url=http://www.walkhighlands.co.uk/lochness/affric-kintail-way.shtml|title=Affric Kintail Way (Walkhighlands)|website=Walkhighlands}}</ref>
+
+Agriculture and forestry are also major local employers. Drumnadrochit is the home of the Hanging Tree Brewery, a microbrewery launched in 2018. Drumnadrochit is also home to Cobbs Cakes traditionally made and distributed across the UK and Ireland. Cobbs is also the largest employer in the village, running the Drumnadrochit Hotel and the Clansman Visitor Centre, and recently bought the Loch Ness Beer brand after the brewery went into administration in 2016.
+
+==Sports==
+The village is home to [[shinty]] team [[Glenurquhart Shinty Club]]. Also, there is a Bowls Club and Badminton. [[File:GlenUrquhartShintyClubhouse.jpg|thumb|Glenurquhart Shinty Club House & Enclosure]]
+
+==In popular culture==
+Drumnadrochit is featured in the film ''[[Scooby-Doo! and the Loch Ness Monster]]'' as the closest town to Blake Castle, the home of [[Daphne Blake]]'s Scottish ancestors. When the main characters are first driving into the town, [[Fred Jones (Scooby-Doo)|Fred Jones]] has trouble pronouncing the town's name while [[Scooby-Doo (character)|Scooby-Doo]] pronounces it just fine.
+
+In [[Lawrence Block]]'s novel The Burglar in the Library, there is a fictional [[Scotch whisky|scotch]] enjoyed by [[Bernie Rhodenbarr|Bernie]] called Glen Drumnadrochit.
+
+In The Family Ness theme song, You'll Never Find A Nessie In The Zoo, the refrain states "You can go to [[Auchtermuchty]] and to Drumnadrochit too, but you'll never find a Nessie in the zoo".
+
+==See also==
+*[[Balnain]]
+
+== References ==
+{{wikivoyage}}
+{{Reflist}}
+
+[[Category:Populated places in Inverness committee area]]
+[[Category:Loch Ness]]

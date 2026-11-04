@@ -1,0 +1,205 @@
+{
+  "id": "mothman_short",
+  "format": "short",
+  "title": [
+    "UMA FILE #001 · 모스맨",
+    "붉은 눈의 나방인간"
+  ],
+  "root": 49.0,
+  "beats": [
+    {
+      "scene": "road",
+      "lines": [
+        "1966년, 미국의 한 시골길.",
+        "두 쌍의 부부가 시속 [160킬로]로 도망치고 있었습니다.",
+        "무언가가 [쫓아오고] 있었거든요."
+      ],
+      "sfx": [
+        {
+          "name": "screech",
+          "at": 0.9,
+          "gain": 0.28
+        },
+        {
+          "name": "whoosh",
+          "at": "word:쫓아오고",
+          "gain": 0.5
+        },
+        {
+          "name": "screech",
+          "at": "word:있었거든요",
+          "gain": 0.22
+        }
+      ]
+    },
+    {
+      "scene": "tnt",
+      "lines": [
+        "웨스트버지니아의 버려진 폭약 공장 지대,",
+        "사람들은 이곳을 [TNT 구역]이라 불렀죠."
+      ],
+      "stamp": [
+        "POINT PLEASANT, W.VA.",
+        "NOV. 15, 1966",
+        "TNT 구역 (옛 폭약 공장)"
+      ],
+      "params": {
+        "stamp_at": 0.3
+      },
+      "sfx": [
+        {
+          "name": "typewriter",
+          "at": 0.3,
+          "keys": 40,
+          "gain": 0.35
+        },
+        {
+          "name": "whoosh",
+          "at": 0,
+          "gain": 0.3
+        }
+      ]
+    },
+    {
+      "scene": "reveal",
+      "lines": [
+        "헤드라이트에 비친 건, 키 [2미터]의 사람 같은 형체.",
+        "등에는 [거대한 날개],",
+        "그리고... [붉게 빛나는 두 눈]."
+      ],
+      "events": {
+        "wings": "거대한",
+        "eyes": "붉게"
+      },
+      "pad": 0.9,
+      "sfx": [
+        {
+          "name": "heartbeat",
+          "at": 0,
+          "gain": 0.55,
+          "bpm": 66
+        },
+        {
+          "name": "whoosh",
+          "at": "word:거대한",
+          "gain": 0.6
+        },
+        {
+          "name": "boom",
+          "at": "word:붉게",
+          "gain": 0.9
+        },
+        {
+          "name": "screech",
+          "at": "word:붉게",
+          "offset": 0.4,
+          "gain": 0.3
+        }
+      ]
+    },
+    {
+      "scene": "news",
+      "lines": [
+        "다음 날 신문은, 그것을 이렇게 불렀습니다.",
+        "[모스맨]. 나방 인간."
+      ],
+      "events": {
+        "stamp": "모스맨"
+      },
+      "sfx": [
+        {
+          "name": "boom",
+          "at": "word:모스맨",
+          "gain": 0.7
+        }
+      ]
+    },
+    {
+      "scene": "sightings",
+      "lines": [
+        "이후 1년 동안, 그것을 봤다는 사람이 [백 명]을 넘었습니다."
+      ],
+      "pad": 0.6,
+      "sfx": [
+        {
+          "name": "whoosh",
+          "at": 0,
+          "gain": 0.3
+        }
+      ]
+    },
+    {
+      "scene": "bridge",
+      "lines": [
+        "그리고 1967년 12월.",
+        "퇴근길 차들로 가득 찬 [실버 브리지]가 순식간에 무너졌고,",
+        "[46명]이 목숨을 잃었습니다."
+      ],
+      "events": {
+        "collapse": "순식간에"
+      },
+      "flash": [
+        "word:순식간에"
+      ],
+      "pad": 0.7,
+      "params": {
+        "music": 0.8
+      },
+      "sfx": [
+        {
+          "name": "pulse",
+          "at": 0,
+          "bpm": 72,
+          "dur": 4.5,
+          "gain": 0.35
+        },
+        {
+          "name": "riser",
+          "end_at": "word:순식간에",
+          "gain": 0.35
+        },
+        {
+          "name": "collapse",
+          "at": "word:순식간에",
+          "gain": 1.0
+        }
+      ]
+    },
+    {
+      "scene": "aftermath",
+      "lines": [
+        "그런데 그날 이후, 모스맨은 [다시 나타나지 않았습니다].",
+        "그것은 재앙을 부른 걸까요?",
+        "아니면... [경고]였을까요?"
+      ],
+      "events": {
+        "gone": "경고"
+      },
+      "pad": 0.8,
+      "sfx": [
+        {
+          "name": "boom",
+          "at": "word:경고",
+          "gain": 0.45
+        }
+      ]
+    },
+    {
+      "scene": "end",
+      "lines": [
+        "구독하고, 다음 괴물을 만나 보세요."
+      ],
+      "params": {
+        "next": "다음 파일 ▶ 네스호의 괴물, 네시"
+      },
+      "pad": 1.2,
+      "sfx": [
+        {
+          "name": "boom",
+          "at": 0.1,
+          "gain": 0.4
+        }
+      ]
+    }
+  ]
+}

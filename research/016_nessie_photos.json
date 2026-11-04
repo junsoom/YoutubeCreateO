@@ -1,0 +1,1586 @@
+{
+ "n1_01": {
+  "file": "Page from the Vita Sanctae Columbae.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "6907×4592",
+  "desc": "『콜룸바 전기』 필사본 지면 (전시 \"Words on the…\" 출품작), 성인의 모습이 그려진 페이지. 이번 후보 중 1장의 핵심 컷",
+  "scene": "1, 2",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_02": {
+  "file": "Saint Columba converting the Picts.jpg",
+  "license": "CC BY-SA 3.0",
+  "size": "3365×2542",
+  "desc": "콜룸바가 픽트족을 개종시키는 장면 (벽화). 2장 \"픽트족 관객\" 대목에 정확히 맞는다",
+  "scene": "2",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_03": {
+  "file": "William McTaggart (1835-1910) - The Coming of Saint Columba - NG 1071 - National Galleries of Scotland.jpg",
+  "license": "Public domain",
+  "size": "800×510",
+  "desc": "스코틀랜드 국립미술관 소장 \"성 콜룸바의 도래\". 해상도가 낮아 작게/디졸브용",
+  "scene": "1 보조",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_04": {
+  "file": "Iona Abbey - general view from SW.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "4845×3230",
+  "desc": "아이오나 수도원 — 아돔난이 이 글을 쓴 곳",
+  "scene": "1, 2",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_05": {
+  "file": "The River Ness at Dochgarroch - geograph.org.uk - 8027644.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "5895×3841",
+  "desc": "네스 강 도흐가록 구간. \"호수가 아니라 강이다\" 대목의 메인 컷",
+  "scene": "1",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_06": {
+  "file": "Highland , River Ness Weir - geograph.org.uk - 5000010.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "6000×4000",
+  "desc": "네스 강 둑(weir) — 물살과 둑. 루그네가 뛰어든 장면의 배경",
+  "scene": "1",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_07": {
+  "file": "River Ness from A82 bridge - Río Ness desde el puente de la carretera A82 - panoramio.jpg",
+  "license": "CC BY 3.0",
+  "size": "4752×3168",
+  "desc": "네스 강 전경 (A82 다리 위에서)",
+  "scene": "1 보조",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_08": {
+  "file": "2019-05-17 09-32-34 Panoramic view of Loch Ness.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "13058×2440",
+  "desc": "초광각 파노라마. 가로로 극단적으로 길어서 1920×1080에 가로 패닝 연출이 가능하다. 오프닝·엔딩용 1순위",
+  "scene": "0, 9",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_09": {
+  "file": "P-SCO Urquhart Castle at Loch Ness Pano.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "13606×1950",
+  "desc": "어커트 성 포함 파노라마. 같은 작가, 같은 날",
+  "scene": "3, 9",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_10": {
+  "file": "Loch Ness - Fort Augustus, Scotland, UK - May 13, 1989 01.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "7500×5000",
+  "desc": "1989년 촬영 — 이번 후보 중 유일하게 시대감이 있는 호수 사진. 드론 시대 사진보다 톤이 낫다",
+  "scene": "4, 7",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_11": {
+  "file": "Loch Ness (42064602492).jpg",
+  "license": "CC BY 2.0",
+  "size": "5121×2899",
+  "desc": "호수 전경, 가로 16:9에 가까운 비율",
+  "scene": "0, 5",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_12": {
+  "file": "20210818 Loch Ness-9546.jpg",
+  "license": "CC BY-SA 3.0",
+  "size": "5482×3655",
+  "desc": "8월의 네스호, 수면 질감이 좋다",
+  "scene": "5",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_13": {
+  "file": "Early morning mist over Loch Ness - geograph.org.uk - 3192827.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "1600×1067",
+  "desc": "이른 아침 호수 위의 안개. 해상도는 작지만 7장 캠벨 편지(\"fairly thick haze on the water\")에 정확히 대응하는 유일한 컷 → 1600px면 1080p에 충분",
+  "scene": "7 (핵심)",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_14": {
+  "file": "Loch Ness from Dores Beach.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "4000×1848",
+  "desc": "도어스 해변에서 본 호수. 가로 비율 2.16:1",
+  "scene": "8",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_15": {
+  "file": "Loch Ness from Dores - Scotland - panoramio.jpg",
+  "license": "CC BY-SA 3.0",
+  "size": "3872×2592",
+  "desc": "도어스에서 본 호수 — 스파이서 부부의 출발점",
+  "scene": "8",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_16": {
+  "file": "Loch Ness from a footbridge at Foyers Bay - geograph.org.uk - 7606868.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "4608×3456",
+  "desc": "포이어스 만 — 스파이서 목격 구간의 종점",
+  "scene": "8",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_17": {
+  "file": "Meall Fuar-mhonaidh across Loch Ness from Upper Foyers - geograph.org.uk - 1734086.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "3264×2448",
+  "desc": "어퍼포이어스에서 호수 건너편 산을 본 컷. 3월 촬영이라 잎이 없어 황량하다",
+  "scene": "8",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_18": {
+  "file": "Abriachan from above Abriachan by Caiplich - geograph.org.uk - 2029107.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "2816×2112",
+  "desc": "아브리아칸 마을 원경 — 1868년 돌고래 사건과 1933년 매케이 목격의 현장",
+  "scene": "3, 5",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_19": {
+  "file": "Road descending from Abriachan - geograph.org.uk - 4109098.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "2850×1994",
+  "desc": "아브리아칸에서 호수로 내려가는 길",
+  "scene": "5",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_20": {
+  "file": "Aldourie Castle on Loch Ness-side Inverness Scotland (36654774136).jpg",
+  "license": "CC BY 2.0",
+  "size": "4192×3072",
+  "desc": "앨도리 성 — 매케이가 본 혹들이 향해 간 방향이 앨도리 부두 쪽이다. 1852년 '물말'의 정체였던 조랑말들도 앨도리 영지 소속",
+  "scene": "3, 5",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_21": {
+  "file": "Rocky slopes above the A82, by Loch Ness - geograph.org.uk - 6816038.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "3200×2469",
+  "desc": "A82 위쪽의 암반 사면. 1930년대에 깎아 낸 바위 면이 그대로 보인다 → \"발파\" 대목에 이것 하나면 충분하다",
+  "scene": "4 (핵심)",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_22": {
+  "file": "A82 alongside Loch Ness near Alltsigh - geograph.org.uk - 7225978.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "4032×3024",
+  "desc": "알트시 부근의 A82 — 1933년 9월 22일 프레이저 양 목격 지점(Half-Way House)이 알트시다",
+  "scene": "4, 10",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_23": {
+  "file": "A82 by Loch Ness - geograph.org.uk - 3038671.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "5184×3456",
+  "desc": "호수를 끼고 굽어 도는 A82",
+  "scene": "4",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_24": {
+  "file": "Loch Ness Centre and Drumnadrochit Hotel - geograph.org.uk - 5410628.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "5184×3456",
+  "desc": "드럼나드로킷 호텔 — 알디 매케이가 지배인이던 바로 그 건물(지금은 로흐네스 센터). 이 편에서 가장 '현장'인 사진",
+  "scene": "5 (핵심)",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_25": {
+  "file": "Plaque-20260829 111823, Drumnadrochit, The Highlands, Scotland.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "4080×3060",
+  "desc": "호숫가에 설치된 명판 — \"1933년 알디 매케이의 첫 목격\"을 명기하고 있다. 재현이 아니라 실제 기념물이라 6장 마무리에 강하다",
+  "scene": "5, 6 (핵심)",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_26": {
+  "file": "Locks on the Caledonian Canal at Fort Augustus - geograph.org.uk - 8244173.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "5184×3888",
+  "desc": "포트오거스터스의 칼레도니아 운하 갑문 — 캠벨의 근무지이자, 그가 \"운하에서 나오는 청어잡이 어선 두 척\"을 본 바로 그 지점",
+  "scene": "7",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_27": {
+  "file": "Swimming Cormorant.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "5152×3864",
+  "desc": "헤엄치는 민물가마우지(Phalacrocorax carbo). 7장 \"내가 괴물이라 여겼던 것은 가마우지였다\"의 메인 컷",
+  "scene": "7 (핵심)",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_28": {
+  "file": "Cormorán grande (Phalacrocorax carbo), Delta del Danubio, Rumanía, 2016-05-28, DD 14.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "7686×4784",
+  "desc": "물 위에 선 가마우지가 날개를 펼친 자세 — 캠벨이 \"머리로 보였다\"고 한 바로 그 동작",
+  "scene": "7 (핵심)",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_29": {
+  "file": "Grey Seal off Berry Head (2).jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "5152×3864",
+  "desc": "수면 위로 머리를 내민 회색물범(Halichoerus grypus). 1933년 기사의 \"물범이 들어온 적 없다\"는 단언을 깨는 화면",
+  "scene": "6 끝, 10",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_30": {
+  "file": "Red deer (Cervus elaphus) hind with juvenile.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "3092×2062",
+  "desc": "붉은사슴 암컷과 새끼, 하이랜드 글렌개리 촬영",
+  "scene": "9",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_31": {
+  "file": "Herd of red deer on the moorland slopes of Grey Hill - geograph.org.uk - 6156460.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "4000×3000",
+  "desc": "붉은사슴 무리 — 굴드의 \"huddle of deer\" 여백 메모에 대응",
+  "scene": "9 (핵심)",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_32": {
+  "file": "Eurasian River Otter (51841078633).jpg",
+  "license": "CC BY 2.0",
+  "size": "4157×2458",
+  "desc": "유라시아수달 — 1933년 8월 *Courier* 편집부가 붙인 \"새끼를 문 큰 수달\" 설명",
+  "scene": "8",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_33": {
+  "file": "Acipenser sturio 1879.jpg",
+  "license": "Public domain",
+  "size": "2000×1226",
+  "desc": "유럽철갑상어 채색 석판화(1879년) — 1871년 7피트, 1661년 12피트 포획 기록에 딱 맞는 동시대 판화. 사진보다 톤이 좋다",
+  "scene": "3 (핵심)",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_34": {
+  "file": "Anning plesiosaur 1823.jpg",
+  "license": "Public domain",
+  "size": "971×468",
+  "desc": "메리 애닝이 1823년 발견한 플레시오사우루스 골격 석판화. 가로 2:1 비율이라 띠 화면으로 쓰기 좋다. \"사람들이 상상한 모양은 어디서 왔나\" 대목",
+  "scene": "8",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_35": {
+  "file": "King Kong 1933 Danish movie poster.jpg",
+  "license": "Public domain",
+  "size": "2301×3166",
+  "desc": "1933년 덴마크판 포스터. 세로 구도 → 1920×1080에서는 좌우 여백을 두고 '자료 사진'처럼 띄운다",
+  "scene": "8",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_36": {
+  "file": "King-Kong-1933-RKO.jpg",
+  "license": "Public domain",
+  "size": "1517×3000",
+  "desc": "미국판 3시트 포스터(Morgan Litho Co., Cleveland 인쇄 표기)",
+  "scene": "8 보조",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n1_37": {
+  "file": "King Kong (1933), Brontosaur.jpeg",
+  "license": "Public domain",
+  "size": "1024×852",
+  "desc": "영화에 실제로 쓰인 용각류 애니메이션 모형 실물 사진(박물관 전시). 영화 스틸이 아니라 소품 사진이라 권리 문제가 가장 가볍다",
+  "scene": "8 (핵심)",
+  "note": "016_nessie_1_origins.md"
+ },
+ "n2_01": {
+  "file": "Loch Ness Monster Surgeon's photograph.jpg",
+  "license": "Public domain",
+  "size": "2384×2112",
+  "desc": "서전 포토 본체. 1934-04-21. 3장의 조건 아래 사용",
+  "scene": "콜드 오픈, 2-5, 2-8",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_02": {
+  "file": "Natural History Museum London front facade 2025 dllu.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "7752×7846",
+  "desc": "런던 자연사박물관 정면 2025 — 판정을 내린 그 건물. 해상도가 압도적이라 1920폭으로 어떤 크롭도 가능",
+  "scene": "2-3",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_03": {
+  "file": "Natural History Museum London Central Hall 2020 02.jpg",
+  "license": "CC BY 4.0",
+  "size": "5538×3807",
+  "desc": "박물관 중앙홀(힌체 홀), 저녁 빛 — 웅장하고 차갑다",
+  "scene": "2-3",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_04": {
+  "file": "HippopotamusNHMLondon.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "3456×4608",
+  "desc": "🔥 런던 자연사박물관 대형 포유류관의 하마 박제. \"그 박물관\"과 \"하마\"가 한 컷에 들어간다",
+  "scene": "2-3 (판정의 순간)",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_05": {
+  "file": "Bein eines Flußpferdes 2011.JPG",
+  "license": "CC BY-SA 3.0",
+  "size": "3648×2736",
+  "desc": "🔥 하마의 다리 단독 사진(Hippopotamus amphibius). 재떨이/우산꽂이의 원재료를 그대로 보여 준다",
+  "scene": "2-3",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_06": {
+  "file": "Hippo footprint (7513455490).jpg",
+  "license": "CC BY 2.0",
+  "size": "3264×2448",
+  "desc": "🔥 호숫가(나이바샤 호) 흙에 찍힌 실제 하마 발자국. 이 편에서 가장 중요한 '증거' 컷",
+  "scene": "2-2, 2-3",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_07": {
+  "file": "Les traces des Hippopotames dans le Parc national de la Rusizi.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "800×600",
+  "desc": "루지지 국립공원의 하마 발자국들 — 6번 보조. 1920폭엔 부족하니 작게/디졸브",
+  "scene": "2-2",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_08": {
+  "file": "An hippopotamus foot muddy mark in Queen Elizabeth National park, Uganda.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "810×1080",
+  "desc": "진흙에 찍힌 하마 발 자국 클로즈업. 세로라 롱폼엔 불리 → 좌우 블러 배경 + 중앙 배치",
+  "scene": "2-3 보조",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_09": {
+  "file": "Hippopotamus amphibius IMG 1115.jpg",
+  "license": "CC0",
+  "size": "6000×4000",
+  "desc": "스미스소니언 자연사박물관의 하마 박제(2018). CC0라 표기 부담 없음",
+  "scene": "2-3",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_10": {
+  "file": "Toy submarine (AM 1996.165.398-2).jpg",
+  "license": "CC BY 4.0",
+  "size": "8688×5792",
+  "desc": "🔥 20세기 주철 장난감 잠수함(U보트형), 회색. 해상도 최고. ⚠️ 울워스에서 산 '그' 잠수함이 아니다 → 화면에 \"같은 시대의 장난감 잠수함(예시)\" 자막 필수",
+  "scene": "2-4",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_11": {
+  "file": "Submarino de Harold Flory.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "1262×538",
+  "desc": "1945~1950년 영국제 장난감 잠수함(바다박물관). 영국제라는 점이 11번보다 낫다. 띠 모양이라 화면 중앙 띠 배치",
+  "scene": "2-4",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_12": {
+  "file": "Shingle beach at Alltsigh - geograph.org.uk - 569980.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "640×480",
+  "desc": "🔥 알트시(Alltsigh)의 자갈 해변 — 위키백과가 지목하는 촬영 장소. 유스호스텔 바로 아래. 해상도가 낮으니 그레인/블러로 덮고 짧게",
+  "scene": "2-4",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_13": {
+  "file": "Ros Crana moored off Alltsigh - geograph.org.uk - 3734622.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "4320×3240",
+  "desc": "알트시 앞바다(호수). 10월 촬영이라 색이 차갑다",
+  "scene": "2-4",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_14": {
+  "file": "Shoreline, Loch Ness near Alltsigh. - geograph.org.uk - 1105374.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "426×640",
+  "desc": "알트시 호숫가에서 남서쪽을 봄. 대안용",
+  "scene": "보조",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_15": {
+  "file": "Loch Ness south of Invermoriston - geograph.org.uk - 7473925.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "3504×2626",
+  "desc": "인버모리스턴 남쪽 호수 — 윌슨이 주장한 위치. 14번과 짝으로 \"두 사람의 말이 다르다\"를 보여 준다",
+  "scene": "2-4 (장소 불일치)",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_16": {
+  "file": "Loch Ness south of Invermoriston - geograph.org.uk - 7473933.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "3859×2895",
+  "desc": "같은 지점 다른 각도",
+  "scene": "2-4",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_17": {
+  "file": "Urquhart Bay, Loch Ness - geograph.org.uk - 5776061.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "5184×3456",
+  "desc": "어컹하트 만 — 보이드가 1979년에 목격했다고 말한 곳",
+  "scene": "2-9, 엔딩",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_18": {
+  "file": "Aerial view of Loch Ness.jpg",
+  "license": "CC BY 4.0",
+  "size": "2682×3576",
+  "desc": "남서쪽에서 본 네스호 항공 사진(2025). 세로라 상하 크롭해 띠로",
+  "scene": "오프닝",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_19": {
+  "file": "Loch Ness - geograph.org.uk - 957656.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "640×480",
+  "desc": "거친 하이랜드 날씨의 항공 컷 — 분위기용. 저해상",
+  "scene": "보조",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_20": {
+  "file": "Fotografie, 0001000095.jpg",
+  "license": "Public domain",
+  "size": "5955×3955",
+  "desc": "🔥 1935~1938년 네덜란드 사진기자의 암실. 연대가 사건과 거의 겹친다. 인버네스 약국 현상 장면 대역으로 최고. \"재현\" 아님 — 같은 시대의 암실이라고 적는다",
+  "scene": "2-4 (현상)",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_21": {
+  "file": "Photography during the Second World War H15325.jpg",
+  "license": "Public domain",
+  "size": "800×589",
+  "desc": "코닥 확대기가 늘어선 암실. 22번 보조",
+  "scene": "2-4",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_22": {
+  "file": "The Makings of a Modern Newspaper- the Production of 'The Daily Mail' in Wartime, London, UK, 1944 D20492.jpg",
+  "license": "Public domain",
+  "size": "800×548",
+  "desc": "🔥 실제 '데일리 메일' 제작 현장(1944). 저해상도지만 이 편에서 '데일리 메일'을 직접 보여 줄 수 있는 유일한 자유 라이선스 사진. 작게 쓰거나 그레인으로",
+  "scene": "2-2, 2-5",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_23": {
+  "file": "Henry Wood's printing press, 1934. (9663805408).jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "988×1250",
+  "desc": "1934년에 만들어진 인쇄기(뉴욕 제작, 과학박물관). 연도가 딱 맞는다. 세로라 중앙 배치",
+  "scene": "2-2, 2-5",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_24": {
+  "file": "Northcliffe House 2008 06 21.jpg",
+  "license": "CC BY-SA 3.0",
+  "size": "2456×1843",
+  "desc": "데일리 메일(DMGT) 사옥 노스클리프 하우스 — 현대 건물. \"그 신문사는 지금도 있습니다\" 용도",
+  "scene": "엔딩",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_25": {
+  "file": "Woolworths shop front in Staines - sadly without the merchandise inside - geograph.org.uk - 1891970.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "1024×768",
+  "desc": "영국 울워스 매장 외관(2010, 폐점 직후). ⚠️ 1930년대 아님 → \"지금은 사라진 영국 울워스\"로 쓰면 오히려 맞다",
+  "scene": "2-4",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_26": {
+  "file": "Old Woolworths detail, Church Street, Malvern - geograph.org.uk - 1363000.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "640×466",
+  "desc": "20세기 초 울워스 건물의 장식 프리즈 — 당대 느낌이 가장 가깝다",
+  "scene": "2-4",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_27": {
+  "file": "Plesiosaur exhibit.jpg",
+  "license": "CC BY 2.0",
+  "size": "3456×2592",
+  "desc": "박물관의 수장룡 전시 — \"이 사진이 심어 놓은 모양\"",
+  "scene": "2-5, 2-8",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_28": {
+  "file": "Drumnadrochit , The Loch Ness Centre - geograph.org.uk - 4995589.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "6000×4000",
+  "desc": "드럼나드로킷 로크 네스 센터 외관 — 서전 포토 실루엣이 로고 템플릿이 된 바로 그 산업",
+  "scene": "엔딩",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_29": {
+  "file": "Nessie^ - geograph.org.uk - 185226.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "640×480",
+  "desc": "전시센터 옆 연못의 네시 모형 — \"관광용 괴물\". 저해상",
+  "scene": "엔딩",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_30": {
+  "file": "Lutra lutra ^explorer - Flickr - Carlos Eduardo Joos.jpg",
+  "license": "CC BY 2.0",
+  "size": "5217×3478",
+  "desc": "유라시아 수달 — 캠벨의 \"잠수하는 수달 꼬리\" 가설",
+  "scene": "2-8",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_31": {
+  "file": "Otter - Eurasian otter - Lutra lutra.jpg",
+  "license": "CC BY 4.0",
+  "size": "4086×2724",
+  "desc": "호수에서 헤엄치는 유라시아 수달(헝가리). 32번 대안",
+  "scene": "2-8",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_32": {
+  "file": "Great Crested Grebe (13647860323).jpg",
+  "license": "CC BY 2.0",
+  "size": "5328×3258",
+  "desc": "뿔논병아리 — \"잠수하는 물새\" 가설. 목이 길어 실루엣이 네시와 닮았다",
+  "scene": "2-7, 2-8",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_33": {
+  "file": "Great crested grebe diving, Coate Water Country Park, Swindon - geograph.org.uk - 7492156.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "1024×718",
+  "desc": "잠수하는 순간의 뿔논병아리 — 두 번째 사진 설명에 딱 맞는다",
+  "scene": "2-7",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_34": {
+  "file": "Harley Street 2011.jpg",
+  "license": "CC BY-SA 3.0",
+  "size": "2592×1944",
+  "desc": "할리 스트리트 거리 — 윌슨의 퀸 앤 스트리트와 맞닿은 '개업 전문의의 거리'",
+  "scene": "2-5, 2-6",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_35": {
+  "file": "37 Harley Street, 2021.jpg",
+  "license": "CC0",
+  "size": "2580×2673",
+  "desc": "할리 스트리트 건물 정면. CC0라 표기 부담 0",
+  "scene": "2-6",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n2_36": {
+  "file": "Ministry of Information Second World War Official Collection D70.jpg",
+  "license": "Public domain",
+  "size": "800×562",
+  "desc": "전시(戰時) 울워스 매장 판매대 내부 사진. 27·28번 보조",
+  "scene": "2-4",
+  "note": "016_nessie_2_surgeon.md"
+ },
+ "n3_01": {
+  "file": "US Navy 040822-N-7676W-133 Chief Scientist, National Oceanic and Atmospheric Administration (NOAA) Mike Overfield, adjusts the display receiving data from the Towfish.jpg",
+  "license": "Public domain (미 해군)",
+  "size": "2464×1632",
+  "desc": "배 위에서 소나 화면을 들여다보는 과학자. 1972년 Narwhal 선실의 재현 컷으로 가장 적합",
+  "scene": "2, 5",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_02": {
+  "file": "US Navy 040827-N-7676W-145 Staff archeologist Frank Cantelas, left, and crew aboard the Office of Naval Research (ONR) vessel YP-679, Afloat Lab, retrieves the Towfish side scan sonar unit at the end of the day.jpg",
+  "license": "Public domain (미 해군)",
+  "size": "2000×1312",
+  "desc": "측면주사소나 towfish를 끌어올리는 장면",
+  "scene": "2, 5",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_03": {
+  "file": "US Navy 021113-N-4397B-002 Fleet Survey Team (FST).jpg",
+  "license": "Public domain (미 해군)",
+  "size": "1360×1024",
+  "desc": "소나를 물에 내리는 순간. 2002년 미시시피 앞바다",
+  "scene": "2",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_04": {
+  "file": "Fugro Discovery crew member reviews data gathered from the ocean floor by ‘Dragon Prince’, the EdgeTech DT-1 towfish.jpg",
+  "license": "CC BY 4.0",
+  "size": "3600×2304",
+  "desc": "어두운 선실에서 소나 라이브 피드를 응시하는 사람. MH370 수색 중. 이 편 전체의 톤에 가장 맞는 한 장",
+  "scene": "콜드 오픈, 2, 5",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_05": {
+  "file": "Wind Walker wreck mulitbeam sonar data NOAAS Fairweather (S 220) spring 2025.png",
+  "license": "Public domain (NOAA)",
+  "size": "909×631",
+  "desc": "멀티빔 소나가 잡아낸 침몰선 이미지. \"정체불명 접촉\"을 설명할 화면. 해상도 낮음 → 작게 쓰거나 전체화면 전 짧게",
+  "scene": "5",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_06": {
+  "file": "Echolot hg.jpg",
+  "license": "CC BY 4.0",
+  "size": "2928×3911",
+  "desc": "1982년식 ELAC 음향측심기 기록 화면. #002에서 이미 후보로 올린 파일. 세로라 롱폼에선 화면 분할·액자 모드로만",
+  "scene": "5",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_07": {
+  "file": "Launching a hydrophone node (13465945213).jpg",
+  "license": "CC BY 2.0",
+  "size": "4752×3168",
+  "desc": "하이드로폰 노드를 바다에 내리는 장면",
+  "scene": "9 (2023 Quest)",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_08": {
+  "file": "Underwater-microphone hg.jpg",
+  "license": "CC BY-SA 2.5",
+  "size": "366×1422",
+  "desc": "RESON TC4032 하이드로폰 단품 사진. 해상도가 낮고 극단적 세로 → 장비 설명용 작은 인서트로만",
+  "scene": "9",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_09": {
+  "file": "Mise en oeuvre de la CTD rosette ou bathysonde (Ifremer 00621-73314 - 29189).jpg",
+  "license": "CC BY 4.0",
+  "size": "3840×2160",
+  "desc": "CTD/채수기 운용. 크롭이 전혀 필요 없는 유일한 후보. 풀스크린 기본 컷",
+  "scene": "8",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_10": {
+  "file": "Campagne GHASS2 - La CTD à bord du Pourquoi pas ? (Ifremer 00737-84924 - 41465).jpg",
+  "license": "CC BY 4.0",
+  "size": "5464×3640",
+  "desc": "갑판에 올라온 CTD-로제트",
+  "scene": "8",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_11": {
+  "file": "École Bleu Outremer (LEG 1) - Mise à l'eau d'une CTD-Rosette (Ifremer 00806-91794 - 52812).jpg",
+  "license": "CC BY 4.0",
+  "size": "6000×4000",
+  "desc": "채수기를 물에 내리는 순간. 고해상도",
+  "scene": "8",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_12": {
+  "file": "Anguille d'Europe (Anguilla anguilla) (Ifremer 00673-78548).jpg",
+  "license": "CC BY 4.0",
+  "size": "5984×3376",
+  "desc": "NURSE 2019 조사에서 잡은 유럽뱀장어 표본. 설명문에 \"최대 1m까지 자란다\"고 적혀 있다 — 폭손 챕터에 그대로 쓸 수 있는 캡션",
+  "scene": "8",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_13": {
+  "file": "European Eel (Anguilla anguilla) (13532974394).jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "3352×2387",
+  "desc": "루아르 수족관의 유럽뱀장어. 몸통이 길게 드러난 구도",
+  "scene": "8",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_14": {
+  "file": "Anguilla anguilla Belgium 1.jpg",
+  "license": "CC BY 4.0",
+  "size": "1000×605",
+  "desc": "벨기에 에스뇌에서 잡힌 90cm 개체 — 설명문에 길이가 명시돼 있다. \"1m 넘는 건 5만 분의 1\" 대목의 비교 컷",
+  "scene": "8",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_15": {
+  "file": "Anguilla anguilla France 1.jpg",
+  "license": "CC BY 4.0",
+  "size": "2048×1536",
+  "desc": "프랑스 루 강의 유럽뱀장어(2024)",
+  "scene": "8",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_16": {
+  "file": "Plesiosaur Skeleton (35687172643).jpg",
+  "license": "CC0",
+  "size": "5184×3456",
+  "desc": "런던 자연사박물관의 수장룡 골격. CC0라 출처 표기 부담이 가장 적다. (같은 작가의 동일 전시 사진이 7장 더 있어 각도를 골라 쓸 수 있다)",
+  "scene": "4",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_17": {
+  "file": "Plesiosaur cast arp.jpg",
+  "license": "Public domain",
+  "size": "1848×1050",
+  "desc": "브리스틀 시립박물관의 *Thalassiodracon hawkinsi* 골격 캐스트. 크롭 거의 불필요",
+  "scene": "4",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_18": {
+  "file": "Caledonian Canal, Fort Augustus to Loch Ness.jpg",
+  "license": "CC0",
+  "size": "4000×2248",
+  "desc": "포트 오거스터스의 칼레도니아 운하 갑문. 젬멜이 \"Loch Ness 2.0\"에서 수동형 채집기를 달겠다고 한 바로 그 갑문",
+  "scene": "8 (엔딩 쪽)",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_19": {
+  "file": "Highland , Loch Ness - geograph.org.uk - 4996462.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "6000×4000",
+  "desc": "네스호 전경, 최고 해상도. 천천히 줌",
+  "scene": "전편 배경",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_20": {
+  "file": "Loch Ness from Foyers - geograph.org.uk - 3084033.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "2048×1536",
+  "desc": "포이어스에서 본 네스호. 22번의 다른 각도",
+  "scene": "1",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_21": {
+  "file": "Temple Pier, Urquart Bay. - geograph.org.uk - 250772.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "640×480",
+  "desc": "템플 피어. 1968년 터커의 소나 그물, 1972년 flipper 사진 — 두 사건의 현장. ⚠️ 해상도가 640px로 매우 낮다 → 1920 화면에서 전체화면 금지. 액자·그레인·지도 오버레이용으로만",
+  "scene": "2, 3 (장소 특정)",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_22": {
+  "file": "Urquhart Bay from Urquhart Castle - geograph.org.uk - 1441715.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "640×426",
+  "desc": "어컹하트 성에서 본 어컹하트 만. 설명문에 \"가운데 왼쪽 건물이 템플 피어 바로 옆\" 이라고 적혀 있다 → 위치 지시용. ⚠️ 저해상도",
+  "scene": "2, 3",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_23": {
+  "file": "Urquhart Castle on Loch Ness.jpg",
+  "license": "CC0",
+  "size": "3000×2000",
+  "desc": "어컹하트 성과 호수. 딥스캔의 세 접촉이 잡힌 '성 아래 깊은 물'",
+  "scene": "5",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_24": {
+  "file": "Vessel on Loch Ness (geograph 7180786).jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "3139×2049",
+  "desc": "네스호를 달리는 관광선(Jacobite Maverick). 딥스캔 함대와 2018년 MV Deepscan의 대역",
+  "scene": "5, 8",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_25": {
+  "file": "Bathymetrical survey of the lochs of Scotland, vol.II, figure 58 (Lochs of the Ness Basin).png",
+  "license": "Public domain",
+  "size": "1122×1000",
+  "desc": "1910년 『스코틀랜드 담수호 수심 측량』의 네스 유역 도판. 지도 인서트·타자기 스탬프 배경으로. 1차 자료 지면 인용",
+  "scene": "0, 5",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_26": {
+  "file": "Grey seal (Halichoerus grypus) poking its head out of the water, Maine Coastal Islands National Wildlife Refuge, Maine, US (PPL1-Corrected) julesvernex2-2.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "4181×2929",
+  "desc": "물 위로 머리만 내민 회색물범. 샤인·로런스가 \"아마 물개\" 라고 한 대목에 정확히 대응",
+  "scene": "5",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_27": {
+  "file": "Somniosus microcephalus okeanos.jpg",
+  "license": "Public domain (NOAA)",
+  "size": "1225×689",
+  "desc": "그린란드상어. 젬멜이 \"상어 DNA 없음\"으로 배제한 후보. 크롭 불필요",
+  "scene": "8",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_28": {
+  "file": "Hal - Silurus glanis - 4.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "3722×2792",
+  "desc": "유럽메기(wels catfish). 젬멜이 \"메기 DNA 없음\"으로 배제한 후보",
+  "scene": "8",
+  "note": "016_nessie_3_science.md"
+ },
+ "n3_29": {
+  "file": "Yellow submarine at the Loch Ness Exhibition Centre, Drumnadrochit - geograph.org.uk - 6210361.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "1600×1065",
+  "desc": "드럼나드로킷 전시관 앞의 노란 잠수정. \"장비로 괴물을 찾던 시대\"의 유물이 지금은 전시물이 돼 있다 — 엔딩의 아이러니 컷",
+  "scene": "9, 엔딩",
+  "note": "016_nessie_3_science.md"
+ },
+ "n4_01": {
+  "file": "Loch Ness with rainbow 20171001.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "5184×3456",
+  "desc": "네스호 전경, 무지개. 해상도 최고, 천천히 줌아웃용",
+  "scene": "0장, 1장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_02": {
+  "file": "Loch Ness - panoramio (16).jpg",
+  "license": "CC BY 3.0",
+  "size": "4420×3316",
+  "desc": "네스호. 고해상도",
+  "scene": "1장, 7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_03": {
+  "file": "The Loch Ness and Urquhart castle.jpg",
+  "license": "CC BY 3.0",
+  "size": "4185×2790",
+  "desc": "네스호 + 어컹하트 성. 7장 \"정상파가 성 앞에 가장 많은 이유\"에 정확히 맞는 그림",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_04": {
+  "file": "Urquhart Castle 2 20211024.jpg",
+  "license": "CC BY-SA 3.0",
+  "size": "4428×3343",
+  "desc": "10월의 어컹하트 성 폐허와 호수. 흐린 하늘",
+  "scene": "7장 보조",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_05": {
+  "file": "Shoreline at South End of Loch Ness, Scottish Highlands (geograph 5961492).jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "2800×1854",
+  "desc": "남쪽 끝 호안. 설명문에 길이·면적 정보가 같이 적혀 있다",
+  "scene": "1장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_06": {
+  "file": "Shore of Loch Ness - geograph.org.uk - 6816044.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "3200×2500",
+  "desc": "호안 근경. 검은 물빛 확인용",
+  "scene": "1장(이탄)",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_07": {
+  "file": "Trees by Loch Ness - geograph.org.uk - 6816041.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "3200×2311",
+  "desc": "호숫가 나무. 어두운 톤",
+  "scene": "전환",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_08": {
+  "file": "Loch Ness 1.JPG",
+  "license": "CC BY-SA 3.0",
+  "size": "2910×1940",
+  "desc": "호수 너머 서쪽. 3월 촬영이라 겨울 톤",
+  "scene": "2장(빙하기)",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_09": {
+  "file": "2002-06-Loch-Ness.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "2318×1570",
+  "desc": "네스호",
+  "scene": "보조",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_10": {
+  "file": "Great Glen Fault map.png",
+  "license": "CC BY-SA 4.0",
+  "size": "2455×2590",
+  "desc": "스코틀랜드 후기 칼레도니아 좌수향 주향이동 단층 지도. 세로 구도라 가로 화면에서는 오른쪽에 붙이고 왼쪽에 텍스트를 넣는 레이아웃으로",
+  "scene": "1장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_11": {
+  "file": "A peat bog below the top of Doune Hill, Luss Hills, Scotland.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "5472×3401",
+  "desc": "스코틀랜드 러스 힐스의 이탄 습지. 네스호는 아니지만 \"검은 물이 어디서 오는가\"를 보여 주는 유일한 적합 사진 → \"재현\" 표기 필수",
+  "scene": "1장(이탄)",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_12": {
+  "file": "SmokeCeilingInLochcarron (cropped).jpg",
+  "license": "CC BY-SA 3.0",
+  "size": "2048×828",
+  "desc": "스코틀랜드 로흐카론의 온도역전. 연기가 천장처럼 깔린다. 추운 밤 뒤 1월 오후. Lehn 1979 대목에 스코틀랜드 현지 사진을 쓸 수 있는 거의 유일한 기회",
+  "scene": "8장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_13": {
+  "file": "Rogue Valley Inversion 1.jpg",
+  "license": "CC BY-SA 3.0",
+  "size": "8814×2544",
+  "desc": "미국 로그 밸리의 온도역전. 해상도가 압도적이고 역전층 경계가 눈에 보인다",
+  "scene": "8장 보조",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_14": {
+  "file": "Fata Morgana of sun glitter IMG 0283a.jpg",
+  "license": "CC BY-SA 3.0",
+  "size": "1188×852",
+  "desc": "파타 모르가나(상위 신기루)로 일그러진 수면 반짝임. 설명문에 천문학자 Andy Young의 판정이 붙어 있다",
+  "scene": "8장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_15": {
+  "file": "Anguilla anguilla head.jpg",
+  "license": "CC BY 4.0",
+  "size": "2048×1536",
+  "desc": "장어 머리 클로즈업. 눈 강조 연출(`eyes`)에 쓸 컷",
+  "scene": "7장 마지막 프레임",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_16": {
+  "file": "Hal - Anguilla anguilla - 1.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "3351×1885",
+  "desc": "사우스엔드온시 수족관의 유럽뱀장어. #002에서 이미 후보로 올린 파일",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_17": {
+  "file": "Expl9984 (14318817140).jpg",
+  "license": "Public domain (NOAA)",
+  "size": "1920×1080",
+  "desc": "그린란드상어. 2013년 미 북동부 캐니언 탐사에서 만난 가장 큰 물고기. 픽셀 크기가 1920×1080 그 자체라 크롭이 필요 없다",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_18": {
+  "file": "Greenland shark profile.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "1500×1001",
+  "desc": "누나부트 애드미럴티 인렛 유빙 가장자리에서 찍은 그린란드상어 근접. 현장감",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_19": {
+  "file": "Juvenile Acipenser fulvescens black background.jpg",
+  "license": "Public domain (USFWS)",
+  "size": "4189×2810",
+  "desc": "철갑상어(호수철갑상어) 어린 개체, 검은 배경. 샤인이 말한 \"위로 들린 긴 주둥이, 뒤로 밀린 등지느러미\"가 선명하다. 검은 배경이라 이 편 톤에 가장 잘 맞는다",
+  "scene": "4장, 7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_20": {
+  "file": "Acipenser fulvescens 289676075.jpg",
+  "license": "CC BY 4.0",
+  "size": "2048×1368",
+  "desc": "캐나다의 호수철갑상어, 물속",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_21": {
+  "file": "Silurus glanis white1.JPG",
+  "license": "CC BY-SA 3.0",
+  "size": "3072×2304",
+  "desc": "알비노 웰스메기, 121 cm. 흰 개체라 어두운 화면에서 강하다",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_22": {
+  "file": "Swimming Otter (6115616372).jpg",
+  "license": "CC BY 2.0",
+  "size": "1799×963",
+  "desc": "영국 야생동물센터의 헤엄치는 수달. 비율이 16:9라 그대로 쓸 수 있다",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_23": {
+  "file": "Deer swimming in Lake Shasta.jpg",
+  "license": "CC BY 2.0",
+  "size": "1689×1112",
+  "desc": "호수를 헤엄치는 사슴 (캘리포니아 섀스타 호). 머리와 목만 물 위에 나오고 뒤로 항적이 생기는 바로 그 그림 → \"재현\" 표기",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_24": {
+  "file": "Deer swimming on the McKenzie.jpg",
+  "license": "CC BY 2.0",
+  "size": "1200×900",
+  "desc": "매켄지 강을 헤엄치는 검은꼬리사슴. 해상도 낮음 → 보조",
+  "scene": "7장 보조",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_25": {
+  "file": "White-tailed Deer Swimming (51276175217).jpg",
+  "license": "Public domain (USFWS)",
+  "size": "1440×1081",
+  "desc": "해 질 녘 체서피크만을 헤엄치는 흰꼬리사슴 수컷. 역광 실루엣이라 가장 '네시 같다'",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_26": {
+  "file": "Swimming stag, Upper Pen Pond, Richmond Park - geograph.org.uk - 2888042.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "754×1024",
+  "desc": "영국 리치먼드 파크에서 헤엄치는 붉은사슴 수컷. 유일하게 영국 붉은사슴이라는 점이 결정적이지만 세로 + 저해상도 → 가로 화면에서는 작은 삽입 프레임으로만",
+  "scene": "7장 삽입",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_27": {
+  "file": "Phalacrocorax carbo swimming, Greece.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "2000×1028",
+  "desc": "헤엄치는 민물가마우지. 목만 길게 물 위에 나온 구도 — \"긴 목 플레시오사우루스\"의 정체",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_28": {
+  "file": "Kormoran schwimmend P1280296.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "2022×1533",
+  "desc": "헤엄치는 가마우지, 근접",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_29": {
+  "file": "Mergus serrator in water 06.jpg",
+  "license": "CC BY 2.0",
+  "size": "3979×1873",
+  "desc": "비오리(red-breasted merganser) 물 위. 비율이 초광각이라 롱폼 상단 띠에 잘 맞는다",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_30": {
+  "file": "Mergus serrator in water 03.jpg",
+  "license": "CC BY 2.0",
+  "size": "2898×1318",
+  "desc": "비오리, 같은 시리즈 다른 컷",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_31": {
+  "file": "Elephant swimming, Botswana.jpg",
+  "license": "CC BY 2.0",
+  "size": "2400×1800",
+  "desc": "헤엄치는 코끼리. 클라크가 말한 \"코 하나와 혹 두 개\"를 확인할 수 있는 거의 유일한 자유 라이선스 사진 → \"아프리카, 재현\" 표기",
+  "scene": "7장(클라크)",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_32": {
+  "file": "Elephant swimming, Botswana (cropped).jpg",
+  "license": "CC BY 2.0",
+  "size": "1243×849",
+  "desc": "40번의 크롭판. 작지만 코와 혹만 남긴 구도라 설명에 더 맞을 수 있다",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_33": {
+  "file": "Wake waves on Åbyfjorden at Rågårdsdal 4.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "5472×2026",
+  "desc": "지나간 모터보트가 만든 항적 파도. 초광각 비율이라 \"여러 개의 혹\"을 화면 가득 보여 주기에 최적. 이 편 7장의 대표 컷",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_34": {
+  "file": "Wake waves on Åbyfjorden at Rågårdsdal 3.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "4925×3283",
+  "desc": "같은 장소·같은 날의 다른 컷",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_35": {
+  "file": "Fjordn surface wave boat.jpg",
+  "license": "CC BY-SA 3.0",
+  "size": "3328×1872",
+  "desc": "프레이케스톨렌 절벽 위에서 내려다본 리세피오르의 배와 항적. 39° V자 팔이 교과서처럼 보인다",
+  "scene": "7장(항적 각도 설명)",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_36": {
+  "file": "Water wake of a ferry boat in the sea (49586228073).jpg",
+  "license": "CC BY 2.0",
+  "size": "4928×3264",
+  "desc": "페리의 항적. 수면 가까운 낮은 시선",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_37": {
+  "file": "Bregenz-Wocherhafen-lake constance-driftwood-01ASD.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "4624×3468",
+  "desc": "보덴호의 유목(통나무). 호수 + 떠 있는 나무 조합이라 네스호 상황과 가장 비슷 → \"재현\" 표기",
+  "scene": "7장(통나무)",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_38": {
+  "file": "Bezau-Bregenzer Ache-driftwood-02ASD.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "4000×3000",
+  "desc": "브레겐처 아헤 강의 유목",
+  "scene": "7장 보조",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_39": {
+  "file": "Tronc d'arbre aux Aresquiers.jpg",
+  "license": "CC BY 4.0",
+  "size": "7348×4593",
+  "desc": "물가에 박힌 나무 줄기. 샤인이 말한 \"물가에 박혀 안 움직이는 나무도 지나가는 차에서는 움직이는 괴물로 신고된다\" 에 정확히 맞는다",
+  "scene": "7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_40": {
+  "file": "Plesiosaur (Hunterian museum).jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "5312×2988",
+  "desc": "글래스고대 헌터리언 박물관의 플레시오사우루스. 헌터리언은 닐 클라크가 큐레이터로 있던 바로 그 박물관이다 — 5장과 7장(코끼리 설)을 한 화면으로 잇는 장치",
+  "scene": "5장, 7장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_41": {
+  "file": "Cryptoclidus Hunterian.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "3008×2000",
+  "desc": "같은 박물관의 크립토클리두스. Noè 외 2017이 분석한 바로 그 속",
+  "scene": "5장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_42": {
+  "file": "Cryptoclidus eurymerus Tubingen.JPG",
+  "license": "CC BY-SA 3.0",
+  "size": "3876×1354",
+  "desc": "튀빙겐 고생물학박물관의 크립토클리두스 화석 전신. 초광각이라 긴 목을 화면 가득 가로로 보여 줄 수 있다. 5장의 대표 컷",
+  "scene": "5장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_43": {
+  "file": "Cryptoclidus skeleton.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "3479×1263",
+  "desc": "미국자연사박물관의 크립토클리두스 골격",
+  "scene": "5장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_44": {
+  "file": "Plesiosaur Skeleton (36098574860).jpg",
+  "license": "CC0",
+  "size": "5184×3456",
+  "desc": "런던 자연사박물관의 플레시오사우루스 골격. CC0라 표기 부담 최소. 같은 시리즈가 9장 더 있다(36099705970 / 36359462361 / 36359623341 / 36496591525 / 35687050783 / 35687172643 / 35687252753 / 36099767460 — 전부 ",
+  "scene": "5장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_45": {
+  "file": "Paleo Hall at HMNS plesiosaur.jpg",
+  "license": "CC BY 2.0",
+  "size": "2862×2075",
+  "desc": "휴스턴 자연과학박물관 전시. 조명이 어둡고 극적",
+  "scene": "5장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_46": {
+  "file": "Image from page 90 of \"Water reptiles of the past and present\" (1914) (14749987246).jpg",
+  "license": "Public domain",
+  "size": "2645×1663",
+  "desc": "1914년 윌리스턴의 복원도 — '백조처럼 목을 든 엘라스모사우루스'. Noè 외 2017이 Fig. 3D로 인용하며 기각한 바로 그 그림이다. 5장의 \"이 그림이 틀렸습니다\" 에 쓸 결정적 컷",
+  "scene": "5장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_47": {
+  "file": "Elasmosaurus platyurus paleobiology.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "1625×2431",
+  "desc": "최신 연구를 반영한 엘라스모사우루스 복원도 — 틸로사우루스 새끼를 잡아먹고 뒤로 헤스페로르니스가 지나간다. 56번(1914년 복원)과 나란히 놓아 \"그때는 이렇게, 지금은 이렇게\" 를 만든다. 세로 구도 → 분할 화면으로",
+  "scene": "5장",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n4_48": {
+  "file": "Cryptoclidus1DB.jpg",
+  "license": "CC BY-SA 3.0",
+  "size": "1549×1316",
+  "desc": "크립토클리두스 생체 복원 일러스트",
+  "scene": "5장 보조",
+  "note": "016_nessie_4_explain.md"
+ },
+ "n5_01": {
+  "file": "Urquhart Castle & Loch Ness (45744900215).jpg",
+  "license": "CC BY 2.0",
+  "size": "7858×3408",
+  "desc": "성과 호수의 초광각. 가로비가 2.3:1이라 1920×1080에 가장 잘 맞는다",
+  "scene": "오프닝, 챕터 전환",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_02": {
+  "file": "Urquhart Castle, on the shore of Loch Ness, Scotland (41389070730).jpg",
+  "license": "CC0",
+  "size": "7496×3265",
+  "desc": "호숫가 성. CC0라 표기 부담이 가장 적다",
+  "scene": "전편 배경",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_03": {
+  "file": "Urquhart Castle 2017-05-22.jpg",
+  "license": "CC BY 4.0",
+  "size": "7360×4912",
+  "desc": "호수를 내려다보는 중세 성. 최고 해상도급",
+  "scene": "목격 지점 설명",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_04": {
+  "file": "Urquhart Panorama.jpg",
+  "license": "Public domain",
+  "size": "6743×2734",
+  "desc": "성 파노라마",
+  "scene": "와이드 전환",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_05": {
+  "file": "Camping Knights (8800093211).jpg",
+  "license": "CC BY 2.0",
+  "size": "6809×4544",
+  "desc": "어커트 성",
+  "scene": "보조",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_06": {
+  "file": "Urquart Castle At Night - panoramio.jpg",
+  "license": "CC BY 3.0",
+  "size": "4320×3240",
+  "desc": "🔥 밤의 어커트 성. 공포 톤에 가장 강한 컷",
+  "scene": "콜드 오픈, 엔딩",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_07": {
+  "file": "Panorama Urquhart Castle.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "4389×2965",
+  "desc": "성 파노라마(여름)",
+  "scene": "관광 챕터",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_08": {
+  "file": "Urquhart Castle Scotland.jpg",
+  "license": "CC0",
+  "size": "4000×2248",
+  "desc": "16:9에 가까운 비율",
+  "scene": "자막 많은 장면",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_09": {
+  "file": "Urquhart Castle (Unsplash).jpg",
+  "license": "CC0",
+  "size": "4430×2941",
+  "desc": "성",
+  "scene": "보조",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_10": {
+  "file": "Urquhart Castle 2010.JPG",
+  "license": "Public domain",
+  "size": "3872×2592",
+  "desc": "성",
+  "scene": "보조",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_11": {
+  "file": "No Sign of the Monster (37418405351).jpg",
+  "license": "CC BY 2.0",
+  "size": "6000×4000",
+  "desc": "🔥 \"아주 황량한 날이라 흑백으로만 사진이 살았다\"는 설명이 붙은 네스호. 제목 자체가 'No Sign of the Monster'",
+  "scene": "회의론 챕터",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_12": {
+  "file": "Moody banks of Loch Ness (51311668393).jpg",
+  "license": "CC BY 2.0",
+  "size": "4338×2892",
+  "desc": "음산한 호숫가",
+  "scene": "전환",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_13": {
+  "file": "Loch Ness, Scotland (geograph 5957043).jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "2800×1855",
+  "desc": "🔥 \"춥고 분위기 있는 가을 아침, 호수 전체 길이를 똑바로 내려다본\" 구도 = \"길이 37km\"를 한 컷에",
+  "scene": "호수 소개",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_14": {
+  "file": "Winter sunshine on Loch Ness - geograph.org.uk - 1734109.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "3264×2448",
+  "desc": "겨울 햇빛. B852에서 포트 오거스터스 쪽 (※ #002에서도 후보였음 — 재활용 가능)",
+  "scene": "겨울",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_15": {
+  "file": "Cloud reflections in Loch Ness - geograph.org.uk - 1743111.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "3264×2448",
+  "desc": "구름이 수면에 비친 장면 — '구름 반사가 목격을 만든다'는 설명에 그대로 쓸 수 있다",
+  "scene": "회의론(광학)",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_16": {
+  "file": "Foyers hydro-electric station seen from the other bank of the lake.jpg",
+  "license": "CC BY-SA 4.0",
+  "size": "5724×3760",
+  "desc": "포이어스 — 1933년 휴 그레이 사진 지점, 1972년 플라밍고 파크 팀 숙소(포이어스 하우스)",
+  "scene": "1933·1972",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_17": {
+  "file": "A82 by Loch Ness - geograph.org.uk - 3038691.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "5184×3456",
+  "desc": "A82 호숫가 도로 — 모든 것의 시작",
+  "scene": "1933년 도입부",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_18": {
+  "file": "A82 road, by Loch Ness - geograph.org.uk - 6816036.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "3200×2425",
+  "desc": "A82 다른 구간",
+  "scene": "보조",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_19": {
+  "file": "Drumnadrochit , Nessie Shop - geograph.org.uk - 4995591.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "4608×3456",
+  "desc": "🔥 네시 기념품 가게 — '£41m'를 보여줄 가장 직관적인 컷",
+  "scene": "경제 챕터",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_20": {
+  "file": "A82 in Drumnadrochit - geograph.org.uk - 5410623.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "5184×3456",
+  "desc": "마을 중심을 지나는 A82",
+  "scene": "마을 소개",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_21": {
+  "file": "Drumnadrochit in the land of the Loch Ness Monster - geograph.org.uk - 7473531.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "3831×2873",
+  "desc": "🔥 제목 그대로 \"괴물의 땅 드럼나드로킷\"",
+  "scene": "경제 챕터",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_22": {
+  "file": "Loch Ness Exhibition Center (9816050276).jpg",
+  "license": "CC0",
+  "size": "3710×2504",
+  "desc": "🔥 2003년의 전시관 — 2023년 £1.5m 개편 전후 대비용",
+  "scene": "전시관 변천",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_23": {
+  "file": "Loch Ness Experience - geograph.org.uk - 7761351.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "1920×1440",
+  "desc": "🔥 2024년, 개편 후 'Loch Ness Experience' 간판",
+  "scene": "현재",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_24": {
+  "file": "Loch Ness research vehicles - geograph.org.uk - 7761283.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "1920×1440",
+  "desc": "🔥 전시된 네시 조사용 장비·차량(2024)",
+  "scene": "조사 역사",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_25": {
+  "file": "Loch Ness Monster Exhibition.jpg",
+  "license": "Public domain",
+  "size": "2560×1920",
+  "desc": "전시관 내부 네시 모형",
+  "scene": "전시관",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_26": {
+  "file": "View towards Urquhart Castle from the visitor centre - geograph.org.uk - 8067322.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "5895×3841",
+  "desc": "🔥 방문자센터에서 본 성 — 가장 최신 컷 중 하나",
+  "scene": "현재 상태",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_27": {
+  "file": "Visitor Centre, Urquhart Castle - geograph.org.uk - 7660640.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "3200×2214",
+  "desc": "어커트 성 방문자센터",
+  "scene": "관광 수치(47만 명)",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_28": {
+  "file": "Urquhart Castle visitor centre - geograph.org.uk - 7180787.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "4032×3024",
+  "desc": "방문자센터",
+  "scene": "보조",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_29": {
+  "file": "Urquhart Castle car park - geograph.org.uk - 3366556.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "1280×856",
+  "desc": "🔥 성 주차장 — \"기반시설이 압박받고 있다\"를 보여줄 컷. 해상도가 낮아 작게",
+  "scene": "관광 압력",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_30": {
+  "file": "Jacobite Warrior beside Urquhart Castle - geograph.org.uk - 8067338.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "5931×3894",
+  "desc": "🔥 Jacobite 크루즈선 — 2026-06-23 목격이 일어난 바로 그 회사 배",
+  "scene": "2026년 목격",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_31": {
+  "file": "Loch Ness 386 (48099652268).jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "5278×2788",
+  "desc": "🔥 'Spirit of Loch Ness' — 2020-09-30 대형 소나 접촉을 보고한 바로 그 배",
+  "scene": "소나 챕터",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_32": {
+  "file": "Fort Augustus 411 (48099564881).jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "5440×2789",
+  "desc": "🔥 유람선 'Legend of Loch Ness'가 다음 손님을 기다리는 장면",
+  "scene": "경제 챕터",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_33": {
+  "file": "Fort Augustus 380 (48099621061).jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "4774×3130",
+  "desc": "'Spirit of Loch Ness' 승선 대기",
+  "scene": "보조",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_34": {
+  "file": "Snap Happy (14137143909).jpg",
+  "license": "CC BY 2.0",
+  "size": "6016×4016",
+  "desc": "🔥 보트 위에서 카메라를 든 관광객들 — \"모두가 카메라를 들고 있는데 왜 좋은 사진이 없나\"에 쓸 컷",
+  "scene": "회의론 챕터",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_35": {
+  "file": "Sailing ship entering Caledonian Canal at Fort Augustus - geograph.org.uk - 8241495.jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "5184×3888",
+  "desc": "🔥 칼레도니아 운하 갑문 — 빈스의 '외로운 호수는 신화' 반박에 그대로 쓸 수 있다",
+  "scene": "1933 도입부",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_36": {
+  "file": "Fort Augustus 410 (48099672482).jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "5293×2798",
+  "desc": "포트 오거스터스 철도 선착장",
+  "scene": "보조",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_37": {
+  "file": "Nessie at Lochend (42399825345).jpg",
+  "license": "CC BY-SA 2.0",
+  "size": "4032×3024",
+  "desc": "🔥 호수 남단 로켄드의 네시 조형물 (\"실제 네시 사진\"이라는 농담 캡션)",
+  "scene": "관광 키치",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_38": {
+  "file": "Loch Ness Monster.jpg",
+  "license": "CC BY-SA 3.0",
+  "size": "3648×2736",
+  "desc": "🔥 포트 오거스터스 근처의 \"교묘하게 만든 가짜\" 네시 — 업로더가 직접 그렇게 적었다",
+  "scene": "조작 챕터",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_39": {
+  "file": "Arthur Grant Loch Ness monster.png",
+  "license": "Public domain (`PD-US-not renewed`)",
+  "size": "831×514",
+  "desc": "🔥 아서 그랜트 목격 삽화 — 1934-01-05 오토바이 목격을 보여줄 유일한 자유 라이선스 그림. 해상도가 낮으니 fit + 종이 질감으로",
+  "scene": "1934 그랜트",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_40": {
+  "file": "Arthur Grant loch ness sketch.png",
+  "license": "Public domain",
+  "size": "516×322",
+  "desc": "그랜트 목격 스케치. 미국 기준 PD이므로 \"당시 신문 스케치\"로 표기",
+  "scene": "1934 그랜트(대안)",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_41": {
+  "file": "Ordnance Survey One-Inch Sheet 42 Fort Augustus, Published 1947.jpg",
+  "license": "Public domain",
+  "size": "12235×9322",
+  "desc": "🔥 1947년 1인치 지도. 호수 전체·지명이 다 들어 있다. 극고해상도라 크게 확대해 지점 표시가 가능",
+  "scene": "목격 지점 지도",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_42": {
+  "file": "Ordnance Survey One-Inch Sheet 37 Inverness, Published 1947.jpg",
+  "license": "Public domain",
+  "size": "12255×9385",
+  "desc": "1947년 인버네스 도엽 — 호수 북단·드럼나드로킷",
+  "scene": "지도",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_43": {
+  "file": "Ordnance Survey One-inch Sheet 36 Fort Augustus, Published 1956.jpg",
+  "license": "Public domain",
+  "size": "8606×10682",
+  "desc": "1956년판 (그레이트 글렌 전체)",
+  "scene": "지도(대안)",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_44": {
+  "file": "Alfred de Bréanski sr Loch Ness.jpg",
+  "license": "Public domain",
+  "size": "3307×2160",
+  "desc": "유화 〈Loch Ness〉 — 1933년 이전의 호수 느낌",
+  "scene": "1930년대 이전",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_45": {
+  "file": "Follower of Samuel Bough - Loch Ness.jpg",
+  "license": "Public domain",
+  "size": "3176×1456",
+  "desc": "1877년경 유화. 가로 2.18:1",
+  "scene": "1879년 전사",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_46": {
+  "file": "Drumnadrochit Hotel.jpg",
+  "license": "Public domain",
+  "size": "2560×1920",
+  "desc": "🔥 드럼나드로킷 호텔 — 매케이의 호텔, 지금의 전시관 건물",
+  "scene": "1933 ↔ 현재",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_47": {
+  "file": "Loch Ness Exhibition Center (9815967025).jpg",
+  "license": "CC0",
+  "size": "1600×1180",
+  "desc": "2003년 전시관 슬라이드",
+  "scene": "보조",
+  "note": "016_nessie_5_social.md"
+ },
+ "n5_48": {
+  "file": "Cryptoclidus.JPG",
+  "license": "CC BY-SA 3.0",
+  "size": "2560×1920",
+  "desc": "옥스퍼드 자연사박물관 수장룡 모형 — 채널5 〈Loch Ness Monster: The Ultimate Experiment〉에 쓰인 것 (※ #002 후보와 동일)",
+  "scene": "'수장룡 네시'",
+  "note": "016_nessie_5_social.md"
+ }
+}

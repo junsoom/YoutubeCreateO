@@ -1,0 +1,358 @@
+{
+ "id": "gevaudan_short",
+ "format": "short",
+ "title": [
+  "File404 · #008 제보당의 야수",
+  "왕이 군대를 보낸 괴물"
+ ],
+ "root": 39.0,
+ "beats": [
+  {
+   "scene": "photo",
+   "lines": [
+    "1764년 6월 30일, 프랑스 제보당."
+   ],
+   "params": {
+    "key": "gv_monster",
+    "mode": "fill",
+    "zoom": [1.45, 1.25],
+    "focus": [[0.42, 0.42], [0.46, 0.45]],
+    "grade": "sepia",
+    "exposure": 0.55,
+    "eyes": [[0.40, 0.40, 0.016], [0.47, 0.40, 0.016]],
+    "glitch": [0.02]
+   },
+   "sfx": [
+    {"name": "static", "at": 0.02, "gain": 0.45},
+    {"name": "thud", "at": 0.02, "gain": 0.85},
+    {"name": "screech", "at": 0.3, "gain": 0.16}
+   ],
+   "events": {"eyes": "제보당"},
+   "impact": [0.02],
+   "lead": 0.05
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "교구 장부에 이렇게 적혀 있습니다.",
+    "'[그 사나운 짐승]에게 죽임을 당해.'"
+   ],
+   "params": {
+    "key": "gv_record",
+    "mode": "fit",
+    "zoom": [1.6, 2.0],
+    "focus": [[0.45, 0.5], [0.6, 0.5]],
+    "grade": "sepia",
+    "exposure": 0.58,
+    "label": "아르데슈 도립기록원 · 1764년 매장 기록"
+   },
+   "sfx": [
+    {"name": "typewriter", "at": 0.2, "keys": 24, "gain": 0.3},
+    {"name": "knock", "at": "word:짐승에게", "gain": 0.5}
+   ],
+   "stamp": [
+    "LES HUBACS",
+    "JUNE 30, 1764"
+   ],
+   "pad": 0.45
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "열네 살 잔 부레. [소를 보던 중]이었습니다."
+   ],
+   "params": {
+    "key": "gv_margeride2",
+    "mode": "fill",
+    "zoom": [1.1, 1.3],
+    "grade": "cold",
+    "exposure": 0.55,
+    "music": 0.4
+   },
+   "sfx": [
+    {"name": "sub", "at": "word:중이었습니다", "gain": 0.4}
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "3년 동안 같은 기록이 교구마다 쌓입니다.",
+    "적게 잡아 [80명], 많게는 120명."
+   ],
+   "params": {
+    "key": "gv_margeride",
+    "mode": "fill",
+    "zoom": [1.0, 1.22],
+    "grade": "cold",
+    "exposure": 0.55,
+    "counter": [120, "명"]
+   },
+   "sfx": [
+    {"name": "typewriter", "at": 0.3, "keys": 30, "gain": 0.26},
+    {"name": "thud", "at": "word:120명", "gain": 0.5}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "대부분 [여자와 아이]였습니다."
+   ],
+   "params": {
+    "key": "gv_fight",
+    "mode": "fit",
+    "zoom": [1.15, 1.35],
+    "grade": "sepia",
+    "exposure": 0.6,
+    "label": "18세기 판화",
+    "music": 0.15
+   },
+   "sfx": [
+    {"name": "stab", "at": "word:아이였습니다", "gain": 0.5}
+   ],
+   "pad": 0.6
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "왕이 나섰습니다. 농민 [2만 명]을 동원한 몰이."
+   ],
+   "params": {
+    "key": "gv_mandement",
+    "mode": "fit",
+    "zoom": [1.2, 1.45],
+    "grade": "sepia",
+    "exposure": 0.55,
+    "label": "망드 주교의 명령서 · 1764"
+   },
+   "sfx": [
+    {"name": "riser", "end_at": "word:몰이", "gain": 0.25},
+    {"name": "whoosh", "at": 0.0, "gain": 0.3}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "전부 실패했죠."
+   ],
+   "params": {
+    "key": "gv_estampe",
+    "mode": "fill",
+    "zoom": [1.3, 1.1],
+    "grade": "sepia",
+    "exposure": 0.5,
+    "music": 0.2
+   },
+   "sfx": [
+    {"name": "sub", "at": "word:실패했죠", "gain": 0.5}
+   ],
+   "impact": ["word:실패했죠"],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "1765년 9월, 국왕의 총기병이 거대한 늑대를 잡습니다.",
+    "박제로 [베르사유]에 전시됐죠."
+   ],
+   "params": {
+    "key": "gv_wolf",
+    "mode": "fit",
+    "zoom": [1.1, 1.3],
+    "grade": "sepia",
+    "exposure": 0.62,
+    "label": "'샤즈의 늑대' · 1765"
+   },
+   "sfx": [
+    {"name": "metal", "at": "word:잡습니다", "gain": 0.35},
+    {"name": "typewriter", "at": 0.3, "keys": 20, "gain": 0.26}
+   ],
+   "stamp": [
+    "VERSAILLES",
+    "SEPT. 21, 1765"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "왕은 끝났다고 선언했습니다."
+   ],
+   "params": {
+    "key": "gv_court",
+    "mode": "fit",
+    "zoom": [1.15, 1.3],
+    "grade": "sepia",
+    "exposure": 0.6
+   },
+   "sfx": [
+    {"name": "knock", "at": "word:선언했습니다", "gain": 0.45}
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "두 달 뒤, [공격이 다시] 시작됐습니다."
+   ],
+   "params": {
+    "key": "gv_auvers",
+    "mode": "fill",
+    "zoom": [1.0, 1.3],
+    "grade": "cold",
+    "exposure": 0.5,
+    "glitch": ["word:공격이"],
+    "music": 0.1
+   },
+   "sfx": [
+    {"name": "static", "at": "word:공격이", "gain": 0.4},
+    {"name": "stab", "at": "word:공격이", "gain": 0.65}
+   ],
+   "impact": ["word:공격이"],
+   "flash": ["word:공격이"],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그리고 신문은 더는 보도하지 않았습니다."
+   ],
+   "params": {
+    "key": "gv_london",
+    "mode": "fit",
+    "zoom": [1.1, 1.3],
+    "grade": "sepia",
+    "exposure": 0.6,
+    "label": "The London Magazine · 1765",
+    "music": 0.3
+   },
+   "sfx": [
+    {"name": "thud", "at": "word:않았습니다", "gain": 0.45}
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "1767년, 한 농부가 그것을 쏩니다. [은탄환]으로요?"
+   ],
+   "params": {
+    "key": "gv_forest",
+    "mode": "fill",
+    "zoom": [1.0, 1.25],
+    "grade": "cold",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {"name": "riser", "end_at": "word:쏩니다", "gain": 0.25},
+    {"name": "metal", "at": "word:쏩니다", "gain": 0.4}
+   ],
+   "impact": ["word:쏩니다"]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "아뇨. 은탄환 이야기는 [1946년 소설]이 지어낸 겁니다."
+   ],
+   "params": {
+    "key": "gv_stele",
+    "mode": "fill",
+    "zoom": [1.25, 1.05],
+    "grade": "cold",
+    "exposure": 0.6,
+    "glitch": ["word:1946년"],
+    "music": 0.15
+   },
+   "sfx": [
+    {"name": "static", "at": "word:1946년", "gain": 0.4},
+    {"name": "sub", "at": "word:1946년", "gain": 0.5}
+   ],
+   "impact": ["word:1946년"],
+   "pad": 0.55
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "남은 건 짐승이 아니라, [종이 한 장]이었습니다."
+   ],
+   "params": {
+    "key": "gv_record",
+    "mode": "fit",
+    "zoom": [2.2, 1.7],
+    "focus": [[0.3, 0.5], [0.5, 0.5]],
+    "grade": "sepia",
+    "exposure": 0.6,
+    "music": 0.5
+   },
+   "sfx": [
+    {"name": "boom", "at": "word:장이었습니다", "gain": 0.55}
+   ],
+   "impact": ["word:장이었습니다"],
+   "pad": 0.7
+  },
+  {
+   "scene": "photo_end",
+   "lines": [],
+   "params": {
+    "key": "gv_statue",
+    "mode": "fill",
+    "zoom": [1.1, 1.2],
+    "grade": "cold",
+    "exposure": 0.7,
+    "next": "다음 파일 ▶ #009 태즈메이니아 호랑이"
+   },
+   "sfx": [
+    {"name": "static", "at": 0.0, "gain": 0.5},
+    {"name": "boom", "at": 0.05, "gain": 0.45},
+    {"name": "typewriter", "at": 0.3, "keys": 14, "gain": 0.3}
+   ],
+   "min": 3.2
+  }
+ ],
+ "upload": {
+  "titles": [
+   "루이 15세가 괴물 한 마리를 잡으려고 군대를 보냈다",
+   "3년 동안 100명 가까이 죽인 짐승, 제보당의 야수",
+   "은탄환으로 죽였다고? 그 이야기는 1946년에 만들어졌다"
+  ],
+  "description": [
+   "1764년부터 1767년까지, 프랑스 제보당 지방에서 정체불명의 짐승이 사람들을 공격했습니다.",
+   "루이 15세가 전문 사냥꾼과 왕실 총기병을 보냈고, 농민 2만 명을 동원한 몰이가 있었지만 공격은 멈추지 않았습니다.",
+   "",
+   "📁 File404 · #008 제보당의 야수 (Bête du Gévaudan)",
+   "· 1764.06.30  첫 공식 희생자 잔 부레(14세) — 레 위바크의 매장 기록에 남아 있다",
+   "· 1764~1767  사망자 집계는 연구마다 다르다 (모리소 83명 / 프랑스 국립기록원 80명 / 다른 집계 113~124명)",
+   "· 1765.09.21  프랑수아 앙투안이 '샤즈의 늑대'를 사살, 박제로 베르사유에 전시",
+   "· 1765.12  공격 재개. 궁정은 이미 사건을 종결 처리한 뒤였다",
+   "· 1767.06.19  장 샤스텔이 라 소뉴 도베르에서 야수를 쏜다",
+   "· 1767.06.20  마랭 보고서(프랑스 국립문서보관소 AE/II/2927) — 치식 42개, 개과 동물",
+   "",
+   "▶ 출처: Archives nationales AE/II/2927 (마랭 보고서) · Archives départementales de l'Ardèche (1764년 매장 기록) · Jean-Marc Moriceau 연구 · Crouzet의 은탄환 전설 비판 · The London Magazine (1765)",
+   "",
+   "※ 은탄환과 '성모 메달' 이야기는 앙리 푸라의 1946년 소설에서 나온 창작입니다. 연쇄살인범 가설 역시 1936년 소설에서 시작됐습니다.",
+   "※ 화면의 판화는 모두 18세기 당대 인쇄물(퍼블릭 도메인)입니다. 내레이션은 AI 음성입니다."
+  ],
+  "hashtags": [
+   "#제보당의야수",
+   "#프랑스미스터리",
+   "#미스터리",
+   "#File404",
+   "#shorts",
+   "#실화"
+  ],
+  "tags": [
+   "제보당의 야수",
+   "Bete du Gevaudan",
+   "제보당",
+   "루이 15세",
+   "장 샤스텔",
+   "프랑스 괴물",
+   "실화 괴담",
+   "미스터리",
+   "미확인생물",
+   "File404",
+   "파일404"
+  ],
+  "pinned": "은탄환 이야기는 1946년 소설에서 나왔습니다. 실제 보고서에 남은 건 이빨 42개, 개과 동물이라는 기록뿐이었죠.\n👇 다음 파일은 #009 태즈메이니아 호랑이입니다.",
+  "synthetic": false
+ }
+}

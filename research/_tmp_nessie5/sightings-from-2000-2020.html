@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+
+	<!-- Preload -->
+	<link rel="preload" fetchpriority="high" as="image" href="'https://web-cdn.org/s/1606/image/Banners/08.jpg?maxwidth=1280'" type="image/webp">
+
+	<!-- Page Tags -->
+	<meta charset="utf-8">
+	
+	<title>The Official Loch Ness Monster Sightings Register | Sightings from 2000 - 2020</title>
+	<link rel="canonical" href="https://www.lochnesssightings.com/sightings-from-2000-2020">
+
+	<!-- Meta Tags -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#395363">
+
+	<!-- RSS Feed -->
+	<link rel="alternate" type="application/rss+xml"  title="The Official Loch Ness Monster Sightings Register RSS Feed"  href="https://www.lochnesssightings.com/rss/" />
+
+	<!-- Favicon -->
+	<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>&#127758;</text></svg>">
+
+	<!-- Fonts -->
+   <!-- Chango-->
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Chango&display=swap">
+	<link href="https://fonts.googleapis.com/css2?family=Chango&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+
+	<!-- Styles -->
+	<link rel="stylesheet" href="https://web-cdn.org/css/combo.css?r=1850">
+	<link rel="stylesheet" href="https://www.lochnesssightings.com/site.css?r=26033810" title="site_styles">
+	<style>
+		#header_slide1{background-image:url('https://web-cdn.org/s/1606/image/Banners/08.jpg?maxwidth=1280');}
+		#header_slide2{background-image:url('https://web-cdn.org/s/1606/image/Banners/09.jpg?maxwidth=1280');}
+		
+		@media only screen and (max-width: 500px) {
+		#header_slide1{background-image:url('https://web-cdn.org/s/1606/image/Banners/08.jpg?maxwidth=500&cropxunits=100&cropyunits=100&crop=35,0,65,100');}
+		#header_slide2{background-image:url('https://web-cdn.org/s/1606/image/Banners/09.jpg?maxwidth=500&cropxunits=100&cropyunits=100&crop=35,0,65,100');}
+		}
+
+	</style>
+
+	<!-- jQuery -->
+	
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+	
+
+	<!-- jQuery plugins -->
+	
+	<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js" defer></script>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+	
+
+	<script src="https://web-cdn.org/js/fancybox/source/jquery.fancybox.pack.js" defer></script>
+	<script src="https://web-cdn.org/js/js.cookie.min.js" defer></script>
+	<script src="https://web-cdn.org/js/doubletaptogo.js" defer></script>
+	<script src="https://web-cdn.org/js/tablesorter.js"></script>
+	
+	<script src="https://web-cdn.org/js/site.js?r=1850" defer></script>
+
+	
+	<script>
+	$.fn.openMobileMenu = function () {
+		if ($(window).width() < 1025) {
+			$('nav>ul').slideToggle(300);
+			return false;
+		} else {
+			if ($('nav').css('right') != '0px') {
+				$('nav').animate({"right":"0"}, "300");
+			} else {
+				$('nav').animate({"right":-$('nav').width()}, "300");
+			}
+		}
+	};
+
+	$(document).ready( function() {
+		
+		if ($('#header_slideshow').children().length > 1) {
+			// Shuffle slides into random starting order
+			var slides = $('#header_slideshow > div').get();
+			for (var i = slides.length - 1; i > 0; i--) {
+				var j = Math.floor(Math.random() * (i + 1));
+				var temp = slides[i];
+				slides[i] = slides[j];
+				slides[j] = temp;
+			}
+			$.each(slides, function(i, slide) {
+				$('#header_slideshow').append(slide);
+			});
+
+			$('#header_slideshow > div:gt(0)').hide();
+			setInterval(function() {
+				$('#header_slideshow > div:first')
+					.fadeOut(2000)
+					.next()
+					.fadeIn(2000)
+					.end()
+					.appendTo('#header_slideshow');
+			}, 5000);
+		}
+		
+
+		$('table.tablesorter, section.tablesorter table').tablesorter({dateFormat:'ddmmyyyy'});
+
+		$(document).on('click', 'table.tablesorter tbody td', function () {
+			var $cell = $(this);
+			var $table = $cell.closest('table');
+			var columnIndex = $cell.index();
+			var value = $.trim($cell.text()); // full text, used for matching — hidden sort-helper spans are fine here
+
+			if ($cell.hasClass('filter-active')) {
+				clearFilter($table);
+				return;
+			}
+
+			$table.find('td.filter-active').removeClass('filter-active');
+			$cell.addClass('filter-active');
+
+			$table.find('tbody tr').each(function () {
+				var cellText = $.trim($(this).find('td').eq(columnIndex).text());
+				$(this).toggle(cellText === value);
+			});
+
+			setFilterCaption($table, getDisplayText($cell));
+		});
+
+		// Strips hidden elements (e.g. sort-helper spans) before reading text, for display purposes only
+		function getDisplayText($cell) {
+			var $clone = $cell.clone();
+			$clone.find('[hidden]').remove();
+			return $.trim($clone.text());
+		}
+
+		// Clicking the caption also clears the filter
+		$(document).on('click', 'table.tablesorter caption.filter-caption', function () {
+			clearFilter($(this).closest('table'));
+		});
+
+		function setFilterCaption($table, value) {
+			var $caption = $table.find('caption.filter-caption');
+			if ($caption.length === 0) {
+				$caption = $('<caption class="filter-caption"></caption>').prependTo($table);
+			}
+			$caption.text('Filtered to "' + value + '"').show();
+		}
+
+		function clearFilter($table) {
+			$table.find('tbody tr').show();
+			$table.find('td.filter-active').removeClass('filter-active');
+			$table.find('caption.filter-caption').hide().empty();
+		}
+		
+		if ($(window).width() > 1023) {
+			$('nav li:has(ul)').doubleTapToGo();
+		}
+
+		$('#menu_opener').click( function() {
+			$('nav').openMobileMenu();
+		});
+		$('#menu_opener').keypress(function (e) {
+			var key = e.which;
+			if(key == 13) {
+				$('nav').openMobileMenu();
+			}
+		});
+
+
+		$('nav a[href="/sightings-from-2000-2020"]').addClass('on').attr('aria-current','page');
+		$('section.breadcrumb a:last-child').attr('aria-current','page');
+
+		$('nav li:has(ul)').addClass('has_children');
+		
+
+		$('#admin_class_toggle').click( function() {
+			$('body').toggleClass('loggedin loggedinoff');
+		});
+
+		$('section.meetings .paginator .prev').click( function() {
+			var blockId = $(this).attr('id').replace('prev_','');
+			$('#meetings_'+blockId).slideUp('slow', function(){
+				$('#meetings_'+blockId).load('/ajax/meetings/?blockid='+blockId, function(){
+					$('#meetings_'+blockId).slideDown('slow');
+				});
+			});
+		});
+
+		// mobile style 2 - child pages hidden
+		$('nav.mobile_nav_2 li.has_children').click( function() {
+			if ($(this).hasClass('open') == false) {
+				$('.sub_menu').not(this).slideUp(400);
+				$('.has_children').removeClass('open');
+				$(this).children('.sub_menu').slideDown(400);
+				$(this).toggleClass('open');
+			}
+		});
+
+	});
+
+	$(document).on('mousedown', '.bx-viewport a.fancybox', function(e) {
+		e.stopImmediatePropagation();
+		var href = $(this).attr('href');
+		$.fancybox.open({
+			href: href,
+			type: 'ajax'
+		});
+		return false;
+	});
+</script>
+	
+	<!-- Open Graph Data for Social Networks -->
+	<meta property="fb:app_id" content="163471835449">
+	<meta property="og:site_name" content="The Official Loch Ness Monster Sightings Register">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://www.lochnesssightings.com/sightings-from-2000-2020">
+	<meta property="og:title" content="The Official Loch Ness Monster Sightings Register | Sighting">
+	<meta property="og:description" content="">
+	<meta property="og:image" content="">
+
+	<!-- Twitter Card Data -->
+	<meta name="twitter:card" content="summary_large_image">
+	
+	<meta name="twitter:domain" content="www.lochnesssightings.com">
+	<meta name="twitter:title" content="The Official Loch Ness Monster Sightings Register | Sighting">
+	<meta name="twitter:description" content="">
+	<meta name="twitter:image" content="">
+	<meta name="twitter:url" content="https://www.lochnesssightings.com/sightings-from-2000-2020">
+
+</head>
+
+<body id="p25520" class="hyphenate margin_1 link_shadow Paid width_1280 no-aside sdf3 admin_format">
+	
+	<a href="#main_content_start" id="skip_link">Skip to Main Content</a>
+	<a href="/admin/" id="admin_tab" aria-label="Log in to Admin System" rel="nofollow"><img src="https://web-cdn.org/img/cog.png?r=14" width="22" height="23" alt="Cog Icon signifying link to Admin page"></a>
+	<a id="top" class="page_anchor"></a>
+	<main class="mobile_layout7 desktop_layout8">
+	<header class="header_layout0">
+		<div id="header_slideshow">
+<div id="header_slide1"></div>
+<div id="header_slide2"></div>
+		</div>
+		<div id="inner">
+			<h1 id="sitehead" class="header_heading">The Official Loch Ness Monster Sightings Register</h1>
+		</div>
+	</header>
+	<nav id="main_menu" class="mobile_nav_2 desktop_nav_2 nav_center" aria-label="Main Navigation">
+		<span id="menu_opener" tabindex="0"></span>
+
+		<!-- cached nav -->
+		<ul>
+			<li id="b25517">
+				<a href="/">Home</a>
+			</li>
+			<li id="b25518">
+				<a href="/sightings-from-2021-on">Sightings from 2021 on</a>
+			</li>
+			<li id="b25519">
+				<a href="/webcam-images-2021-on">Webcam images 2021 on</a>
+			</li>
+			<li id="b25520">
+				<a href="/sightings-from-2000-2020">Sightings from 2000 - 2020</a>
+			</li>
+			<li id="b25521">
+				<a href="/sightings-1986-1999">sightings 1986 -1999</a>
+			</li>
+			<li id="b25522">
+				<a href="/sightings-565-1985">Sightings 565 -1985</a>
+			</li>
+			<li id="b25523">
+				<a href="/loch-ness-essential-facts">Loch Ness - essential facts</a>
+			</li>
+			<li id="b25524">
+				<a href="/loch-ness-webcams">Loch Ness Webcams</a>
+			</li>
+			<li id="b25525">
+				<a href="/drive-the-monster-66-where-to-look-for-nessie">Drive the monster 66 - where to look for nessie</a>
+			</li>
+			<li id="b25527">
+				<a href="/monster-hunters/-researchers">Monster hunters/ researchers</a>
+			</li>
+			<li id="b25528">
+				<a href="/nessie-hunts-over-the-years">Nessie hunts over the years</a>
+			</li>
+			<li id="b25529">
+				<a href="/the-scientific-evidence">The Scientific Evidence</a>
+			</li>
+			<li id="b25530">
+				<a href="/pessie-a-prehistoric-nessie-fossil">Pessie - a Prehistoric Nessie Fossil</a>
+			</li>
+			<li id="b25531">
+				<a href="/the-best-and-worst-of-whats-been-seen">The best and worst of what's been seen</a>
+			</li>
+			<li id="b25532">
+				<a href="/fakes-jokes-and-hoaxes">Fakes, Jokes and Hoaxes</a>
+			</li>
+			<li id="b25533">
+				<a href="/nessie-in-the-news">Nessie in the news</a>
+			</li>
+			<li id="b25534">
+				<a href="/loch-morar">Loch Morar</a>
+			</li>
+			<li id="b25535">
+				<a href="/loch-lochy">Loch Lochy</a>
+			</li>
+			<li id="b25536">
+				<a href="/other-scottish-lochs">Other Scottish Lochs</a>
+			</li>
+			<li id="b25537">
+				<a href="/lake-monsters-worldwide">Lake Monsters Worldwide</a>
+			</li>
+			<li id="b25538">
+				<a href="/whats-not-a-sighting">what's not a sighting</a>
+			</li>
+			<li id="b25540">
+				<a href="/feedback">Contact Us</a>
+			</li>
+			<li id="b25541">
+				<a href="/links">Links</a>
+			</li>
+			<li id="b25542">
+				<a href="/map">Map</a>
+			</li>
+			<li id="b25543">
+				<a href="/report-a-sighting">Report a sighting</a>
+			</li>
+		</ul>
+
+	</nav>
+
+	<article>
+		<a id="main_content_start"></a>
+		<div>
+			<section id="block_56536" class="block text">
+				<div>
+				<div></div>
+					<h2>Sightings from the first 20 years of the<strong> 21st Century</strong></h2>
+					<div>  <p>Here are the sightings of something unexplained in Loch Ness reported from 2000 -&nbsp; 2020</p>  <p><strong>2020</strong></p>  <p><strong>Total for year - 13&nbsp; </strong></p>  <p>24 November 2020 - Karen Scott and her partner were visting from Aberdeen when they reported a creature in the water near Urquhart Castle at 14.30hrs. The creature surfaced, disappeared and then reappeared over a period of five minutes. This is what they caught on camera</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/ks_1.jpeg"  /></p>  <p>&nbsp;</p>  <p>15 November 2020 - Local resident Louise Power, and her mum Jennifer Macrae, said they saw &ldquo;something strange&rdquo; in the water less than half-a-mile away from where they had gone for&nbsp; a walk. She said &ldquo;There was a wake after it and during that time it did not disappear - it just kept moving slowly. Then it turned towards Dores with a big wave and just went under the water and disappeared.&quot; She added: &quot;I just couldn&#39;t believe it. It was quite big and whitish grey. I couldn&#39;t put an exact size on it - other than it was big. We have both lived here all our lives and we have never seen anything like that before.&nbsp; You can see more at <a href="https://www.thescottishsun.co.uk/news/6460029/scots-mum-daughter-loch-ness-monster/" target="_blank">The Sun website</a></p>  <p>11 October 2020 - again from Cruise Loch Ness, another large sonar contact was picked up 185m down in the loch. Long time Nessie hunter Steve Feltham said &quot;these latest images help put togther the most compelling case for a big creature swimming around in Loch Ness&quot;. You can see all the details as reported by the <a href="https://www.strathspey-herald.co.uk/news/another-sonar-sighting-leaves-nessie-experts-stunned-216443/" target="_blank">Strathspey and Badenoch Herald</a>.</p>  <p>&nbsp;</p>  <p>30 September 2020 - one of the best sonar contacts ever of a large unknown moving object deep in the loch was captured around 4.30pm near Invermoriston by the captain of the Loch Ness cruise boat &#39;The Spirit of Loch Ness&#39;. The object was 32 feet long and 500 feet down in the water. The whole story is in the <a href="https://www.inverness-courier.co.uk/news/nessie-hunters-excited-as-compelling-evidence-loch-ness-monster-exists-emerges-214223/" target="_blank">Inverness Courier</a></p>  <p>26 September - reported in the Inverness Courier and with a video to support it in the <a href="https://www.ross-shirejournal.co.uk/news/watch-loch-ness-monster-or-just-a-log-video-that-spooked-walkers-dog-released-213792/" target="_blank">Ross-shire Journal</a>, Trevor Ross of Inverness saw something unexplained in the loch near Dores at 4.15pm. He described it as a shape in the water but had no explanation as to what it was. It was close to where another local man, Corey Sturrock, saw what he called an eel &#39;the size of a bus&#39;&nbsp; a week before - more in the <a href="https://www.inverness-courier.co.uk/news/nessie-sceptic-saw-something-fishy-during-loch-ness-walk-213374/" target="_blank">Inverness Courier</a>.</p>  <p>15 September 2020 - Monika, on holiday from London at the Bunloit Farmhouse which is on the hill to the west of the loch, reported at 10.59am that she and her friend were &quot;sitting out in front of the farmhouse looking out into the pastures of sheep and the lake beyond and chatting when something caught the corner of our eye on the lake near the opposite shore. At first, we thought it was a boat passing by (a common occurrence around mid-day at the lake), but noted a dark shadow behind and off to the side from where the boat went by after the wake created by the boat subsided. The water around the shadow appeared to be disturbed before the shadow broke through the surface just slightly. It was too distant to make out the exact shape of the shadow, how large it was or what colour (appeared black from a distance),&nbsp;but it was large enough to catch our eye from the other shore of the lake. We both raced to get our phones out and take pictures, but the shadow had receded into the waters by the time either of us were able to snap&quot;. The disturbance that remained is highlighted in the picture she took:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/monika-sept-2020.jpg"  /></p>  <p>&nbsp;</p>  <p>29 August 2020- Mr <!--StartFragment -->Van-Schuerbeck<!--EndFragment -->, on holiday in the area with his family, spotted an unexplained phenonemon when he looksed back at his pictures. This was taken near Point Clair at 14.22 hours (it&#39;s in the distance to the left of the point of land):</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/c-van-s-29-8-2020.jpg"  /></p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/c-van-s-29-8-2020-2.jpg"  /></p>  <p>8 July 2020 - Forestry worker Ross MacAulay, who has lived all his life around Loch Ness and did not believe in Nessie, was driving just outside Fort Augustus when he glanced at the water, about 200ft below the road. He took a video and some pictures of something unexplained in the water. &nbsp;More details are at <a href="https://www.thescottishsun.co.uk/news/5857290/loch-ness-monster-sighting-hump-kayakers/" target="_blank">The Sun Newspaper</a></p>  <p>3 June 2020 - Kalynn Wangle, who was again watching the webcam from Oregon caught a ten minute sighting of something unexplained at 8.27am - you can see the footage on <a href="https://youtu.be/xdWZ0hJAHv0" target="_blank">youtube</a></p>  <p>22 April 2020 - Eoin Fagan caught his third sighting of the year early in the morning, again on the webcam. You can see more via <a href="https://www.thesun.co.uk/news/11489711/loch-ness-monster-biggest-ever-sighting/" target="_blank">The Sun Newspaper</a></p>  <p>13 April 2020 - Eoin Fagan again caught a video of something unexplained at 08.11am in the morning.&nbsp; He explained that it took a few seconds before the object appeared to show and that there was nothing on the surface of the water beforehand. It appears very low compared to the surface water, throwing up white foam, going in and out of the loch - all of which was captured on the <a href="https://lochness.co.uk/livecam/" target="_blank">Loch Ness Live Cam</a>. There are times in the video when it&#39;s completely submerged then it&#39;s back up again. The video footage lasted 1 minute 38 seconds - here is a still from it:<br /> <br /> <img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/eoin-300420.jpg"  /></p>  <p>&nbsp;</p>  <p>10 April 2020 - Kalynn Wangle, who was watching the webcam from the United States caught a seven minute sighting of something unexplained at 3pm - you can see the footage on <a href="https://youtu.be/ShhV1vNMDKA" target="_blank">youtube</a></p>  <p>18 January 2020- Long time webcam watcher Eoin Fagan once again caught something on video from the webcam at 1558 hours. The video shows an unknown moving object rising from the water and then a few seonds later disappearing again. He captured this still from the video:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/of-18-1-2020_2.jpg"  /></p>  <p>&nbsp;</p>  <p><strong>2019</strong></p>  <p><strong>Total for year - 18&nbsp; (a record number for the 21st Century and the most since 1983)</strong></p>  <p>29 October -&nbsp; Five year old Zachary White travelled to the loch and as a special gift, he was given a Nessie Hunting kit including binoculars, a compass, a magnifying glass and a hand-held torch. After an hour out on the water, he spotted the monster in the distance. Afterwards, he said &quot;Not many people get to see her, and I got to see her.&quot; - this was reported by the<a href="https://www.bbc.co.uk/news/uk-england-berkshire-50250969" target="_blank"> BBC</a></p>  <p>29 September - Mr &amp; Mrs Horsler, on holiday from Cambridgeshire saw a awake disturbance on the water at 18.23 hours. As can be seen in the picture below, the loch surface was very calm and the couiple reported that there were no ducks, birds, boats etc. The surface wake appeared mid loch and grew moving diagonally across the loch and the angle of incidence on the head of the wake much more acute than wakes produced by ducks etc. There was also much greater water disturbance with it being much larger than a typical duck wake. The sighting lasted two minutes.</p>  <p><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/horsler_2.jpg"  /></p>  <p>&nbsp;</p>  <p>&nbsp;</p>  <p>2 September 2019 - regular Loch Ness webcam watcher Eoin O Faodhagain reported an unexplained object moving close to the shore at 11.38 am. He reported that there was some boat traffic up to 5 minutes before sighting took place but the loch was calm at the time. He alos noted that there seemed to be<br /> something black popping up in the wave. This is a still from the video:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/eoin-2-sept-2019.jpg"  /></p>  <p>&nbsp;</p>  <p><br /> 15 August 2019 - Alena Horka, visiting from the Czech Republic took a video of something unexplained in the loch at 15.45 in the afternoon The object is visible in the video for only 3 seconds. This is a still from the video</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/horka-loch-ness-3.jpg"  /></p>  <p>&nbsp;</p>  <p>7 August 2019 - Michael Yuen of Hong Kong was watching the Nessie on the Net webcam at 1900 hours when he videoed an unknown object coming out of Urquhart Bay. The video lasts over 30 seconds and shows the object move south behind a tree before disappearing into the water. This is still from the video:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/yuen-7-8-19.png"  /></p>  <p>&nbsp;</p>  <p>3 August 2019 - Sean T, on holiday from Kent took a number of pictures of the loch while in the area with his family . On returning home, he saw an unknown object in the water in one of them - it was taken from the Change House parking spot on the eastern shore opposite Urquhart Bay at 21.20 hours. This is a close up from the picture:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/sean_t-closeup.jpg"  /></p>  <p>&nbsp;</p>  <p>25 July 2019 - Richard Cobb of Bradford was at a holiday lodge near the Craigdarroch Inn when at 9.30pm, something broke the calm surface and he stared at it for a about a minute before using his phone to take a photo of it as shown below. He said that whatever it was seemed to be moving but within a few seconds after the photo was taken, it disappeared back down and the waters were dead calm again. He thought it was about 20 feet in length and he took a second picture shortly afterwards showing the water calm again.</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/cobb-july-19.jpg"  /></p>  <p>&nbsp;</p>  <p>13 July 2019 - Tracy Power, on holiday from Northern Ireland, was on the Jacobite tourist boat as part of a Rabbie&rsquo;s tour. While she was on the deck taking photos she snapped the picture below at 9.53am but only noticed that there was someting unexplained in the picture when she looked at it after she went home.</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/power-1_130719.jpg"  /></p>  <p>&nbsp;</p>  <p>10 July 2019 - Regular webcam watcher Eoin O Faodhagain reported seeing two objects was on the 10th of July at 12.53 pm. They were viewed on the webcam moving in the direction of Urquhart Bay,&nbsp; with a cruiser in the distance heading north. He explained that he thought the manner and closesnes of the twomoving through the water was very strange.&nbsp; The shape of both objects were very unlike boats and were in the region of 20 feet long in comparison with known cruisers that operate around that area. This is a snap of what he saw:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/fagan-jul-19.jpg"  /></p>  <p>&nbsp;</p>  <p>6 July 2019 - Natalka and Tomek Iwaniuch were on holiday from Poland satying near Drumnadrochit when they took the picture below at 9.05am. They continued to watch with other family members and saw the same object at 10.25am</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/iwaniuch-picture-6-7-19.jpg"  /></p>  <p>&nbsp;</p>  <p>27 June - Mike Bell, skipper of the tour boat &#39;Nessie Hunter&#39;, caught the image below on sonar at 3pm near Urquhart Castle. He estimated that it would be about 20-25 feet long and when they tried to circle around and find it again, it had disappeared.</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/bell-sighting-jun-19.jpg"  /></p>  <p>11 June - Gloria &amp; Ian Davison, visiting from Corbridge in Northumberland took the picture below at 13.34 from a point overlooking Urquhart Bay. They said that the sighting lasted about a minute and although there was heavy drizzle there was also very good visibility and no boats in the area.</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/davison-11-6-19.jpg"  /><br /> &nbsp;</p>  <p>27 May - Mr Pycock and his son who were visiting the area reported seeing something that looked like water breaking over something such a rock or a log causing waves in the Urquhart bay area. This took place at 4pm and lasted about 2 minutes before it all disappeared and was calm again. They caught this on camera</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/pycock-may-19.jpg"  /></p>  <p>11 April - local businessman Rory Cameron filmed an unknown creature moving at high speed on the loch near Urquhart Castle. You can see what he caught on camera at the <a href="https://www.thescottishsun.co.uk/news/4134649/inverness-man-loch-ness-monster-grandad-sighting/" target="_blank">Scottish Sun</a></p>  <p>22 March - again, regular <a href="https://www.lochness.co.uk/livecam/" target="_blank">webcam</a> watcher Eoin O Faodhagain took 6 photos and 39 second video of something moving rapidly on the livecam at 16.53 on the surface then submerging, then gone for 5 seconds then up again on the surface going another direction turning about leaving a wake and splashes. It then then submerged and disappeared.</p>  <p>27 February - long time <a href="https://www.lochness.co.uk/livecam/" target="_blank">webcam</a> watcher Eoin O Faodhagain took the picture below at 15.02 on the 27 the February.&nbsp; Te said that it was only on the screen of the Live Cam for seconds and that he could not get any video this time. There were no boats until three minutes later when he noted a cruiser? coming from direction of the Clansman Hotel at 15.05. The loch was calm at the time of sighting</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/fagan-webcam-image.jpg"  /></p>  <p>&nbsp;</p>  <p>23 February - a visitor from Manchester took the picture below of something unexplained in Urquhart bay at 3.12pm . She said the dark coloured creature rose about 3 feet out of the water for about 10-15 seconds before disappearing back under the surface.</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/brennan-pic1.jpg"  /></p>  <p>&nbsp;</p>  <p>24 January - Jonas Detsch of Aberdeeen was visiting the loch with his brother when while hiking near the Clansman Hotel they saw a 50 metre long disturbance beng caused by something large just under the surface of the water. This occured about 60m out in the loch and sighting lasted 15 seconds - they confirmed that there was no boat traffic in the vicinity</p>  <p>&nbsp;</p>  <p>&nbsp;</p>  <p><strong>2018</strong></p>  <p><strong>Total for year - 15</strong></p>  <p>19 December - Caroline Barnett from the south west of England was watching the Loch Ness Webcam at 10.20 when she saw someting move slowly up the loch. Initially she thought it was a boat or similar but the object appeared animate and then disappeared into th water before reappearing. It was dark in colour and nearer the east shore of the loch.</p>  <p>&nbsp;</p>  <p>13 December - at 1440 hours Ricky D Phillips, a well known military historian, heard a curious noise while taking pictures where the River Oich flows into Loch Ness at Fort Augustus. He looked up from his phone and saw a long, straight neck, a head maybe the size of a rugby ball, all completely grey, and a narrow face, which was only about 20ft away - it then turned and disappeared. This is what he captured on film:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/phillips-5-12-18.jpg"  /></p>  <p>22 November - a visitor from the United States saw a dark green (almost appeared black) object protruding from the water, at about 4.5 feet in height, slowly moving farther from shore. There was no boat traffic and the sighting lasted about 30 seconds.</p>  <p>8 November - Steve Frame was travelling northbound on the A82 approximately 1 mile north of temple pier photo when he saw a disturbance that lasted about fiev minutes. He said that there was definitely something large below the surface which then disappeared beneath. There were no boats or wakes and the the water was calm all round.</p>  <p>13 September - Lisa Stout from Bellvue Ohio was checking out Google Earth when she spotted the image in the pictures below. She said &quot;I had been searching for Nessie on and off for the past few weeks, spending an hour or so a week on Google Earth as well as other places I like to visit in the app. I had seen some of the latest Nessie sightings and thought that I can definitely find a better image of her than that which I used for motivation to challenge myself to find her. On the 13th at 9.45am, I had got my daughter off to school and began to search for Nessie when I noticed a cluster of pictures taken by an Underwater Earth Contributor all in one area near the Loch Ness Highland Resort in Fort Augustus. I noticed what I believe may be the creature known as Nessie &ndash; or at the very least what makes up for most of the accounts of Nessie sightings that residents/tourists are seeing and reporting.&rdquo;</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/stout-image-1.jpg"  /></p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/stout-image-2.jpg"  /></p>  <p ><em>Note - although the images were taken by Google in 2015, they weren&#39;t spotted until 2018, hence the listing here</em></p>  <p>&nbsp;</p>  <p>5 September - Dipak Ram and Tom Smith on vacation from England saw a dark shadow in the water near Dores beach at 5.35pm. Initially they thought was just a wave but the shadow remained persistent for about 30-35 seconds with water moving around it. When they zoomed in using their camera phone, it became much more apparent that it was a stationary object . After 30-35 seconds, it disappeared downwards into the water. This is what they caught on camera:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/ram_1.jpeg"  /></p>  <p>&nbsp;</p>  <p>17 August - the Locke family, on holiday from Ontario in Canada, saw a &quot;solid dark shape&quot; appear about 50 yards offshore close to Urquhart Castle at 9.40am. The sighting lasted about one minute and this is what they captured on camera:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/locke-3.jpg"  /></p>  <p>&nbsp;</p>  <p>17 August - also, later on the same day, Charlotte Robinson, 12, from Leeds was staying at the Loch Ness Highland Lodges at Invermoriston with her parents when she spotted something unexplained just 50ft away on the first day of her holiday. She took some pictures on her iphone - you can see the full report <a href="https://www.thesun.co.uk/news/7069022/girl-pictures-loch-ness-monster-scotland/" target="_blank">here</a>. Veteran Nessie hunter Steve Feltham said that her picture was &#39;one of the best in years&#39;. (Source - The Sun and Press and Journal Newspapers). Here&#39;s what she captured:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/charlotte-nessie-02.jpg"  /></p>  <p>&nbsp;</p>  <p>16 August - A resident local to Loch Ness reported a possible sighting&nbsp; on Wednesday August 16th at about 2pm.&nbsp; The location was the woodlands walk behind the Dores beach and although the witness reckons the creature was forty feet from the shore, they were no less than 100 metres from the beach. The full report is on the <a href="https://lochnessmystery.blogspot.com/2018/08/loch-ness-monster-sighting-last-week.html" target="_blank">Loch Ness Monster Blog</a></p>  <p>&nbsp;</p>  <p>8 August - Ten year old Isla Ross was with travelling in the back of a car at 10.39am when she took this picture on her iphone of something unexplained near Urquhart Castle. Her family has confirmed that there was no boat traffic nearby</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/ross-1.jpg"  /></p>  <p>&nbsp;</p>  <p>5 August - At 9.38am Marylin and her family, regular visitors to the area, were on holiday from Leeds travelling from Drumnadrochit to Fort Augustus when they looked out at the loch and spotted a strange looking lump on the surface of the water, which was very still and quiet at the time. It looked dark brown in colour and &#39;sort of like an upturned boat&#39;. They revisited the area by boat in the afternoon and there was nothing like that in that area. Unfortunately because they were driving and couldn&rsquo;t pull in, they didn&rsquo;t manage to get any pictures.</p>  <p>&nbsp;</p>  <p>26 July - Miss Coghlan, visiting the area with her family from Norfolk, reportedseeing a greyish blue creature with a hump and head about half a mile out in the loch. The sighting took place from the A82 road near Bunloit at 3pm.</p>  <p>&nbsp;</p>  <p>1 June 2018 - Natalie Hodgson and her family, on holiday from Yorkshire, took this picture of the head of an unknown creature in the water at 10.30pm from the Highland Lodges holiday park where they were staying. The creature, photographed by her daughter, rermained for a few minutes caught in the moonlight before disappearing</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/1-june-18.jpg"  /></p>  <p>&nbsp;</p>  <p>28 May - Morag Connor and her friend were driving north out of Drumnadrochit between 11 and 11.30 am. They saw a creature with a long neck with some humps behind it sticking about 7-8 feet out of the water and about 50 m from the shore. The creature had an all dark body but with no discernible head. They were unable to stop as they were driving and there was no place to pull over.</p>  <p>&nbsp;</p>  <p>30 April 2018 - Eoin O&#39;Faodhagain from Co Donegal took a ten minute video from the <a href="http://www.lochness.co.uk/livecam/" target="_blank">Loch Ness webcam</a> at 1207 hours. The creature moves from right to left and there were no boats visible on the water when he first noticed it but as it swam towards Urquhart bay, two cruisers came down the middle of the loch from the north and it sank briefly the came up again, but seemed to be lower in the water than when it first appeared. As the cruisers got closer to the object it sank completely and never came back up. This is a still from the video:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/eoin-30_4_18.jpg"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>  <p>&nbsp;</p>  <p>26 March 2018 - Dakota Frandsen, on holiday from Idaho in the United States, reported&nbsp; seeing a large dark shape, roughly 40 feet in length, moving about in the water close to the Urquhart Castle jetty between 3 and 3.30pm. The shape seemed to purposely avoid the boat traffic in the area but Dakota also reported that as a black speedboat came by it seemed to attract the shape&#39;s attention which lead it to briefly surface. The &quot;skin&quot; of the object was grey in color, almost like that of a hippopotamus and then the the shape start swimming towards to shore opposite the castle before it finally disappeared. Other, similar shapes seemed to also appear but quickly vanished.</p>  <p><strong>2017</strong></p>  <p><strong>Total for year - 15</strong></p>  <p>2 November 2017 - Dr Knight and her son from the north of England pictured what appears to be a fin or similar at 11.25 am from a cruise boat on the loch. They didn&#39;t realise that they&#39;d snapped anything until they were going through their holiday pictures - here&#39;s the picture....let us know what you think</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/jo-knight-pic.jpg"  /></p>  <p>3 October 2017 - Megan Clarkson from Florida took a 1 minute, 48 second video from the Nessie on the Net webcam. It shows an animate object moving through the water close to the shore in Urquhart Bay. Here&#39;s a still from the video..and you can watch all the footage <a href="https://youtu.be/go85-co2XDI" target="_blank">here</a></p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/screenshot_2018-01-10-11-39-58.png"  /></p>  <p>&nbsp;</p>  <p>2 October 2017 - Mrs Stewart from Oldham was on honeymoon when she saw something moving in the water from the pier at Fort Augustus at 4pm. The creature disappeared when a boat came out from the canal to the loch. She managed to take this picture:</p>  <p><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/stewart3.png"  /></p>  <p>&nbsp;</p>  <p>29 September 2017 - Diana Turner from the USA was watching the Nessie on the Net webcam in the afternoon when she spotted a strange wake movement on the water. The sighting lasted about two minutes and other than the boat in the distance, she saw no other traffic on the loch. She snapped this picture of the wake</p>  <p><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/turner-sep17-pic.jpg"  /></p>  <p>&nbsp;</p>  <p>23 September 2017 - Peter Dewar, who as visiting from Lincolnshire reported that he saw the image taken by him (below) whilst editing images on subsequent examination. It was taken from the layby on A82&nbsp;north of Urquhart Castle and facing towards Urquhart Castle. he said that weather conditons were good and that the only boat traffic was a tour boat in the distance. The sighting took place at 1307 hours.</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/dewar-pic.jpg"  /></p>  <p>&nbsp;</p>  <p>&nbsp;</p>  <p>10 September 2017 - Jessica Bergman and her boyfriend had a 90 second sighting on the webcam at 10.09 hours. They had recently been visiting the loch and had checked in to see the web footage and snapped this (large creature to top left, disappeared into water in just over a minute):</p>  <p><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/bergman-100917.jpg"  /></p>  <p>&nbsp;</p>  <p>22 August 2017 - Mr Stuparich and three friends were out walking from the Dores Inn to Tor Point. As theycame to the shore on the point all four&nbsp; saw something huge in the water. They said it was an unusual shape - it arched out of the water then turned and went down underwater. The sighting, pictured below, took place at 3.41pm and lasted about 10 seconds.</p>  <p><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/leon-stuparich-22-august-2017.jpg"  /></p>  <p>&nbsp;</p>  <p>25 July - Eva Griswold wason holiday with her family from Los Angeles when she saw something in the water at approx 3.24pm. She said &ldquo;I saw a large hump in the water.&nbsp; It was blackish gray and shiny and it moved in an arch.&nbsp; It looked like a neck.&nbsp; It looked like it was swimming or diving when it arched forward under the water.&nbsp; It disappeared into the water as we passed by.&nbsp; Estimated size is about 7 feet for the hump.&nbsp; There was only one hump.&nbsp; It was close to the shore.&quot;&nbsp; Her encounter can be seen in a short documentary made by her dad Alan at https://wdrv.it/9129caa61/grid</p>  <p>&nbsp;</p>  <p>26th June 2017 - Paula from Canada took a video from the Loch Ness Webcam at 7pm. It shows an unknown object moving slowly north on the loch near Urquhart Castle. This is a screen shot of the video</p>  <p><img alt="" height="208" src="https://web-cdn.org/s/1606/image/Old-Site/260617screenshot.png"  width="550" /></p>  <p>24 June - Gemma Sandford was visiting from Wales with her girlfriend Amy when she took the photo below at 12.30 in the afternoon. She reported that there was no boat activity.</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/sandford_2-june_17.jpg"  /></p>  <p>22nd June - Mr Jackson and his wife, visiting from Australia snapped something in the loch four miles south of Urquhart Castle at 5.18pm in the afternoon. The sighting lasted about five minutes - this is what they saw.</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/jackson-image1-6-2017.jpg"  /></p>  <p>&nbsp;</p>  <p>12 June 2017 - Paula from Canada took a five minute video from the Loch Ness webcam at 11.20am. It shows an unknown object mving slowly down the middle of the loch towards Fort Augustus. This was similar to the further recoding she took on 26th June, above. You can see what she filmed <a href="https://youtu.be/sg8XWWmZS7U" target="_blank">here</a></p>  <p>19 May 2017 - Eoin Fagan of Ireland reported a webcam sighting (the report was submitted from his archives in June 2020.) He said that the sighting took place at 21.01 pm on the 19/05/17 when he spotted something moving down the middle of the loch throwing up a wash, on the Loch Ness Web Cam. It looked unusual compared to known traffic on the loch and it was nearly dark, and was only visible&nbsp;just before it went out of camera range on the video. He sent in still image of the object:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/fagan-19-5-17-image.jpg"  /></p>  <p>&nbsp;</p>  <p>1 May 2017 - Ms Johnson from Manchester was at Urquhart Bay taking pictures at dusk when she spotted&nbsp; a dark shape in the water, higher than the waves. This is what she saw</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/1-5-17-sighting-image2.jpg"  /></p>  <p>28 April - A Ms Cairney from Dunbartonshire was at the loch with three of her friends when they saw a 20m long series of waves move at about 5mph along the surface 500m out. It came out of nowhere and then disappeared the same way - they have confirmed that there was no boat traffic in the area. The sighting took place at 3pm from a layby on the A82 road between Drumnadrochit and Inverness. The video can be seen <a href="https://www.youtube.com/watch?v=ZOOo7mSMXfI" target="_blank">here</a></p>  <p>&nbsp;</p>  <p>&nbsp;</p>  <p><strong>2016</strong></p>  <p><strong>Total for year - 7</strong></p>  <p>21 August 2016 - Ian Campbell, a government worker from Argyll,&nbsp; was cycling along the west side of the loch near Drumnadrochit with his son and family friend when he pictured two creatures in the loch about 10m in length just out from the shore.</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/ian-campbell-picture-aug-2016.jpg"  /></p>  <p>21 August 2016<strong> </strong>- on the same day Mr Smith, visiting the area, also saw something very similar. He said that he and his son saw some dark or black shapes moving around in the water near to Urquhart castle. He estimated them to be about 800 yards away but they managed to take some pictures including the one below.</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/smith-picture-aug-16.jpg"  /></p>  <p>&nbsp;</p>  <p>21 June 2016 - Jim from Iowa took the pictures below from the &#39;Nessie on the Net&#39; webcam while watching it during his lunchtime in the USA. He said that the second picture shows the normal view without the object in it. The sighting lasted 10-12 seconds and he reported that there was no boat activity in the area at the time.</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/image-2-jim-winiski-210616.png"  /></p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/image-1-jim-winiski-210616.png"  /></p>  <p>&nbsp;</p>  <p>21 May 2016 - Jolene Lin, a visitor from London spotted &quot;a head emerging from the waters and having a large snake-like head&quot; It was reported as being relatively far away but she said she could see the head clearly and the &#39;monster&#39; appeared to be greyish-green or something along that lines. The sighting took place at 1.29pm from one of the cruise ships on the loch. She took this picture:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/loch-ness-monster-sighting-21-may-2016-1-29pm.jpg"  /></p>  <p>&nbsp;</p>  <p>1 May 2016 - a visitor from Texas took pictures of a dark creature just under the surface following the boat she was on. The sighting was at approximately 1330 hours and lasted 30 seconds. She said that she initially thought it was a shadow but then realised that there was nothing behind her that could cause such a reflection. This is what she snapped</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/1-may-2016-sighting.jpg"  /></p>  <p>&nbsp;</p>  <p>15 April 2016 - Mr Smith and his family from Aberdeenshire too a picture of a black shape seen low in the water whilst looking west from the beach at Dores at the north end of the loch. He said that the sighting lasted about a minute at midday. This is what he saw:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/a-smith-sighting-apr-2016-2.docx.jpg"  /></p>  <p>&nbsp;</p>  <p>24 March 2016 - Joaquin from the Canary Isles snapped the picture below on the Nessie on the net webcam. He said there were no birds or other debris around and when he refreshed the screen, the creature was gone:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/24-march-2106-sighting.jpg"  /></p>  <p><strong>2015</strong></p>  <p><strong>Total for year - 8</strong></p>  <p>15 September 2015 - local man Conor Mckenna was driving along the loch side one mile south of Urquhart Castle at approx 12.45 hrs when he saw a dark coloured 15-20ft long object in the water about 250m from the shore. he had a clear view for 6-7 seconds before the object submerged, leaving a small wave here it had been.</p>  <p>13 August 2015 - Mr &amp; Mrs Bates, who were staying at the Loch Ness Holiday Park, photographed a &#39;mass&#39; moving in an undulating fashion in the loch at 3.30pm. Five other people also witnessed the sighting which lasted for five minutes. Here&#39;s one of the pictures, taken on a smartphone</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/l-bates-13-8-15.png"  /></p>  <p>15 July 2015 - Anthony Kirkland, on holiday from the USA,&nbsp; saw a shadowy<br /> figure in the water near Urquhart castle. It looked it could be around 13 ft high, was about 20 ft long, and 5ft wide. The thing looked like it had a long neck and tail. The sighting lasted 4-5 seconds and the weather and water conditions were calm<br /> <br /> 1 July 2015 - Somewhere between 15.00 &amp; 15.30, Crystal Ardito of New York snapped an unexplained creature from a boat on the loch. She said that it was only a few seconds and weather conditions were about 10 degrees celsius and a little windy (source Daily Mail)</p>  <p>June 2015 - reported in 2020, veteran local skipper Rod Michie said that in June 2015, he had recorded a strange contact on his sonar. He thinks that as a result, what people are seeing is an eel. This was reported in the <a href="https://www.inverness-courier.co.uk/news/skipper-thinks-nessie-s-an-eel-217519/" target="_blank">Inverness Courier </a>newspaper on 6 November 2020</p>  <p>20 June 2015&nbsp; - William Jobes, a veteran Nessie hunter, was at the Fort Augustus Abbey boat house jetty in the evening of the 20th June 2015 taking some landscape shots. He was not aware of anything in the shots but when he viewed the SD card on his return home he noticed something unusual in one of the frames.&nbsp; The image was shot at 7.42pm with a Canon 550 and 18-55 Canon lens.&nbsp;The details of this sighting are in Malcolm Robinson&rsquo;s book &quot;The Monsters of Loch Ness The History and the Mystery&rdquo; published in 2016. In the book Malcolm Robinson describes the object as &quot; Nessie or a jumping eel&quot;. This is what was captured:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/jobes-2015.jpg"  /></p>  <p>&nbsp;</p>  <p>25 April 2015 - Dee Bruce of Elgin was driving to Skye with her partner Les Stuart when she saw a black creature come about three feet out of the water near the north end of the loch at 12.30pm. It happened so quickly, she was unable to get a camera out to take pictures (source - Inverness Courier)</p>  <p>22 April 2015 - a couple on visiting Urquhart Castle reported seeing a large dolphin sized shape emerging from the waters at 12.15pm. It came out 4-6 times and was confirmed by another unrelated person who saw the same thing.</p>  <p>&nbsp;</p>  <p><strong>2014</strong></p>  <p><strong>Total for year - 7</strong></p>  <p>6 November 2014 - a couple from Lancashire saw what looked like a giant fin coming out of the water. Although they didn&#39;t see any head or body. they said it was as though she was waving at you with a fin. The creature was&nbsp;heading towards&nbsp;the north side of the loch&nbsp;from the south &amp; was (approx) in the middle of the loch about a mile from Fort Augustus</p>  <p>1 July 2014 - Abhinav Bhardwaj from Aberdeen took a picture from the back of a boat in the loch. After looking at it again, he noticed what appears to be a large creature just under the water to the side of the boat</p>  <p>20 June 2014 - Terran Woolley from Kansas reported seeing a disturbance on the water to the north of Urquhart Castle at 3pm.There was no boat traffic nearby at all.</p>  <p>20 May 2014 - 9 members of staff and guests at the Loch Ness Lodge, a 5 star B&amp;B at Brackla on the north shore, saw an object move across the water away from them at 9.55am. The sighting lasted almost 15 minutes and the object created a wake as it moved. Pictures were taken with an iphone but the distance of approx 1.2km from the viewers to the object meant that even the binoculars they had could not focus on the object. It then disapppeared into the loch. Many of those present had been around the loch for years and could not explain what they had seen. Here&#39;s the best of the pictures:</p>  <p><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/20_may_2014.jpg"  /></p>  <p>2 May 2104 - a local gamekeeper reported seeing someting creating a 50 foot long wake at 8.30am going from the north to the south side of the loch near Dores - he saw it from the top of Dores hill. There were no boats in the vicinity and the sighting lasted about a minute. The man said it was &quot;an amazing sight. I travel this road to Whitebridge daily and have never seen anything like it&quot;</p>  <p>&nbsp;</p>  <p>April 2014 - Bjarne Sj&ouml;strand of Stockholm reported this image from Google Earth as a result of seeing the Apple images that were so widely publicised. Bjarne has done some analysis and has concluded that the object is around 31m long. This puts it at the same size as the Apple image but it doesn&rsquo;t appear to be moving at speed in this shot. The part of the loch the picture is taken at is known as Horse Shoe Scree and is on the opposite side from the main road running the length of the loch. The image (seen below) can be viewed on Google Earth and Google Maps at 57&deg;10&#39;25.30&quot;N, 4&deg;36&#39;53.53&quot;W. This image won the 2014 William Hill Award.</p>  <p><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/bjarne-7.jpg"  /></p>  <p>&nbsp;</p>  <p>12 January 2014. Andy Dixon of County Durham reported the same image as Peter Thain had captured in 2013. The snap was reviewed by an expert from Scottish Canals who have the navigation rights to Loch Ness and they have no idea what it is. Here&#39;s what they both saw....</p>  <p><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/p-thain-1.jpg"  /></p>  <p>And here&#39;s the so called debunking evidence - we think that instead of &#39;highlighting and adjusting&#39; &#39;doctoring&#39; is a better description of what these guys did to try to prove it was a boat....</p>  <p><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/debunking-picture.jpg"  /></p>  <p><strong>2013</strong></p>  <p><strong>Total for year - 1</strong></p>  <p>For a while we thought that for the first time since 1925 there had been no sightings (See a copy of the press coverage, first released by the Inverness Courier <a href="https://web-cdn.org/s/1606/file/loch-ness-monster-goes-missing-after-90-years.docx" target="_blank">here)</a> but then....</p>  <p>Peter Thain of Northumberland reported that on 7 September 2013, he&#39;d seen a large creature just below the surface on Apple&#39;s map app and in 2017, Matthew Clarke of Carmarthenshire reported this:</p>  <p>In early 2013, he took some video footage of a large disturbance in the water from a lay by beside the loch. It was a very short timeframe.</p>  <p><strong>2012</strong></p>  <p><strong>Total for year - 2</strong></p>  <p>25 Oct 2012. Ken Ross and his wife, both of Inverness, were travelling down to Fort William when they spotted something in the water near Inverfarigaig. He said &ldquo;From the pictures, it looks very like a boat wake but there not a boat to be seen for miles. The cause of the wake appeared to be travelling at fair speed before the wake ceased.&nbsp; This was witnessed by myself and my wife&rdquo;. This is what he snapped</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/kr-oct-2012.jpg"  /></p>  <p>25 August 2012 Joanne Assleman photographed a small &lsquo;whale like&rsquo; creature off a jetty near Drumnadrochit (source - Highland News)</p>  <p><strong>2011</strong></p>  <p><strong>Total for year - 5</strong></p>  <p>7 September 2011 Jon Rowe, a fish farm worker from Lewiston photographed a large dark shape in the water near Dores Fish Farm at 8.30am (source - Inverness Courier)</p>  <p>31 August 2011- William Jobes took a sequence of pictures on the 31st August 2011. He was at the Fort Augustus boat jetty near the old Abbey on the morning at 7:36am. He noticed a disturbance in the water about 400-500 yards out in Borlum Bay and began to take photos. The sequence began with a water disturbance and ended with an object on the surface in the first picture. All in all, the episode only lasted seconds before the object was gone. You can see more information and the pictures at the <a href="https://lochnessmystery.blogspot.com/2017/09/some-nessie-photos-from-william-jobes.html" target="_blank">Loch Ness Blogspot</a></p>  <p>24th August 2011 Marcus Atkinson, a local boat skipper with 18 years&rsquo; experience on the loch, captured an image of a 1.5m wide creature some 23m below the surface on his boat&rsquo;s sonar system. The contact took place in Urquhart Bay. (source - Daily Mail)</p>  <p>15th June 2011 Mr &amp; Mrs Hargreaves of Foyers reported seeing a creature with a long neck which appeared for 30-40 seconds near the village of Foyers (source - Inverness Courier)</p>  <p>24th May 2011 William&nbsp; &amp; Joan Jobes photographed a creature in the loch while walking along a path beside the loch at Fort Augustus (source - Inverness Courier)</p>  <p><strong>2010</strong></p>  <p><strong>Total for year - 1</strong></p>  <p>20th November 2010 Richard Preston of Yorkshire took pictures of mysterious humps near Aldourie Castle, where he was working as a landscape architect. (source - Inverness Courier)</p>  <p><strong>2009</strong></p>  <p><strong>Total for year -1</strong></p>  <p>6th June 2009 Douglas MacDougall spotted a hump in the water near the Clansman Hotel.</p>  <p><strong>2008</strong></p>  <p><strong>Total for year - 2</strong></p>  <p>22nd May 2008 Gordon Holmes from Yorkshire was undertaking his new expedition (Net Nessie 2008) when he recorded an unexplained sonar contact 60 feet down in the Loch. During his stay he went on to record a further two contacts at various points in the loch.</p>  <p>8 February 2008 Brenda Ellis from Foyers took four snaps on her mobile phone of a creature moving north in the water near Inverfarigaig on the south side of the loch.&nbsp; She said the creature was black/brown in colour and was spotted moving in the water for 10-15 minutes.</p>  <p><strong>2007</strong></p>  <p><strong>Total for year -2</strong></p>  <p>26 May 2007 Gordon Holmes of Shipley, Yorkshire, took a video of an unknown creature at 9.50pm&nbsp; from a layby at the north end of the loch. He described the creature as 4-6ft long , swimming at around 6mph.&nbsp;</p>  <p>27 March 2007 Sidney and Janet Wilson photographed a strange animal from the back of cruise boat near Urquhart Castle (source - Highland News)</p>  <p><strong>2006</strong></p>  <p><strong>Total for year -2</strong></p>  <p>In June 2020, a man from New Jersey, USA, reported seeing a creature on the webcam back in 2006. He said</p>  <p>&quot;For some time, I would regularly log onto the website and see anything of interest, capturing it thereafter. There was one day when I saw a peculiar object surface, headed towards the shore but that turned away several minutes after. It&#39;s hard to admit this to this day, but what I saw forever stayed with me. I did manage to snap images of it but was unsure if someone had set an object in the water as a hoax, etc., and so never took care to save them. A creature with neck frills and what appeared to have a nose horn began to slowly emerge its head from the water. No neck was visible as nor was the body, just the head. It was so striking in appearance and reminded me of ceratopsid dinosaurs like triceratops, as ridiculous as that may sound. From what I recall, the skin seemed to be white, black, and red, in striped patterns. After several minutes, the creature made its way to the center of the lake and disappeared shortly thereafter (submerged)&quot;.&nbsp;</p>  <p>This is a sketch of what he remembered:</p>  <p ><img alt="" src="https://web-cdn.org/s/1606/image/Old-Site/2006-sighting-sketch.jpg"  /></p>  <p>28 January 2006 Mrs Murphy from Inverness was driving south at 11.30am on the A82 near the youth hostel at Allt Sigh.&nbsp; She stopped as she saw a black cone shaped creature circle round in a whirlpool like motion about one quarter of the way across the loch.&nbsp; Familiar with the loch she said that she had never seen anything like it before.&nbsp; The sighting lasted 4 minutes and the weather conditions were clear with no wind.</p>  <p><strong>2005</strong></p>  <p><strong>Total for year - 5</strong></p>  <p>15th October 2005 Robbie Girvan, owner of the Loch Ness Caravan Park at Invermoriston, took five pictures of what he described as a 4 feet high head and neck at 6pm when he was walking his dogs by the loch shore. He said he saw a long neck come out of the water and had time to return to the house, get his camera, and return to take the pictures.&nbsp; Previously a non-believer, he said that the &lsquo;dark green and silvery&rsquo; creature could only have been Nessie</p>  <p>9th September 2005 A retired Master Mariner was cruising just south of Urquhart Bay in a Caley Cruisers boat at a speed of 9 knots when they were overtaken by an unknown object which was between them and the south shore. Unlike anything any of the three people on the boat had seen before, the sighting lasted several minutes with whatever it was only disappearing as they moved the boat towards it.&nbsp; A regular boat user on the loch, the captain said that there was no rational explanation for what they had seen.</p>  <p>28th August 2005 Kelly Yeats and Neil McKenzie from Bridge of Dee were staying at Foyers Bay House when they saw a &lsquo;long necked, curved headed&rsquo; creature in the loch at 8.30 in the morning. The sighting lasted 10 minutes.</p>  <p>11th August 2005 Mr Bell and his family from Newcastle watched what they described as the head of a large animal move through the loch at 6pm in the evening.&nbsp; The family, who were on the veranda of a holiday lodge at Foyers at the time, said that the head was larger than that of a cow and was about 1/3 of the way across the loch.&nbsp; Regular visitors to the area, they were convinced it was not a boat wake or wave movement that they had seen.</p>  <p>June 2005. Reported to us in 2021, Ed Kuijper visiting from the Netherlands reported seeing an unidentified creature near Urquhart Castle from a tourist boat. He said &quot;It was a dark black long fin about a half meter length and about 20 cm high that came suddenly out of the water between waves, with nearly the same height. The direction of the fin was in line with the waves. But I am sure that is was not a black coulored wave which was, after all, the first question in my mind. It appeared on a distance of about 10 to 15 m from the boat. It was on a windy day in the early summer.&quot; He said it was similar to the sighting reported by Deepak Ram in 2018.</p>  <p><strong>2004</strong></p>  <p><strong>Total for year - 3</strong></p>  <p>17 August 2004 At 4pm, Tom Clegg of Worcestershire saw three dark humps 150m out from the shore between Invermoriston and Fort Augustus.&nbsp; He said it was definitely animate and there was no boating activity in the area at the time. The sighting lasted for 5 seconds</p>  <p>11th April 2004 Two holidaymakers were walking along Dores beach at around 10.00 am when they noticed an object in the water. It was there for around 5 minutes moving very slowly from left to right. The object was around 200 to 300 feet away and was no more that 2 or 3 feet out of the water.</p>  <p>5 February 2004 Spotted on the Nessie on the Net webcam, a regular Nessie watcher snapped something come out of the water and disappear a few minutes later. This happened during the day close to Urquhart bay with all the normal explanations being discounted by experts</p>  <p><strong>2003</strong></p>  <p><strong>Total for year -2</strong></p>  <p>1 June 2003 The captain of local cruise boat &ldquo;The Royal Scot&rdquo; reported seeing a fast moving v-shaped wake on the surface of the loch at 2.10pm.&nbsp; The water was very calm at the time and the wake was said to be about 1000 ft long with the creature at the head of it travelling at about 35mph.</p>  <p>23 May 2003 Local coastguard skipper George Edwards saw a six foot long creature surface for about 2-3 minutes close to Urquhart Castle at around 1.00 in the afternoon.&nbsp; He said it was dark grey in colour and had a rough texture to its skin &ndash; it came out of the water about 18 inches.</p>  <p><strong>2002</strong></p>  <p><strong>Total for year - 5</strong></p>  <p>17 October 2002 - Ms Hilden had a nine second sighting of an unknown creature in the early morning.</p>  <p>10 August 2002 A man travelling on the A82 towards Fort Augustus saw an unknown object cross the water at speed.&nbsp; It created a substantial wake and was above the water for about 15-20 seconds.</p>  <p>17 July 2002 A Roybridge man watched a &lsquo;swirl of white water&rsquo; being pushed around in a semi-circle for about 4-5 minutes at 9.30 in the morning.&nbsp; He said that he had never before seen anything like it in Loch Ness or any other loch</p>  <p>13 April 2002 A local man and his daughter spotted something moving at the head of a wake across Urquhart Bay.&nbsp; They had a clear view on a calm surface for about 5-10 seconds of the object which was about 200 metres out from Urquhart Castle</p>  <p>27 February 2002 Two local residents of Dores at the north end of the loch saw something move quickly from Tor point to the Clansman Hotel. They said that it created a wake and there was definite splashing from the head of whatever the creature was.</p>  <p><strong>2001</strong></p>  <p><strong>Total for year - 4</strong></p>  <p>21 November 2001 At 2pm two local women saw a dark hump in the loch out from Urquhart castle.&nbsp; Dark grey in colour, the hump was stationary for 1-2 minutes before disappearing below the surface of the water.</p>  <p>12 August 2001 A man on holiday from Duns saw a black hump in the water near the Invermoriston Caravan and Camping Park.&nbsp; It appeared for 3-4 seconds and was also seen by his grandson.</p>  <p>5 August 2001 Andrew Bain from Aberdeen was watching the loch from Fort Augustus at around 9pm. He saw a large black form rise from the water and remain visible for around 5 seconds.&nbsp; A smaller black hump then appeared close to the first before disappearing.</p>  <p>10 January 2001 Dougie Barbour from Glasgow took pictures of a wake moving against the current from a layby near the Clansman Hotel during the mid-afternoon.</p>  <p><strong>2000</strong></p>  <p><strong>Total for year - 11</strong></p>  <p>4 September 2000 Fort Augustus man saw two humps in the water close to Cherry Island at the South end of the loch.</p>  <p>23 August 2000 Robert Pollock of Glasgow filmed a creature in the water for 18 minutes in Invermoriston Bay.&nbsp; It moved about and then disappeared below the surface.</p>  <p>3 August 2000&nbsp; 11.15.a.m. Two students touring the Highlands saw curious v-shaped wake moving through the water, off Boleskine and near Foyers.</p>  <p>13 July 2000 Melissa Bavister and Chris Rivett, on holiday in the area, took a picture of a large double humped object in the middle of the loch.</p>  <p>22 June 2000&nbsp; 1.00 p.m. David Myers saw a &#39;triangular shaped mound&#39; rise out of the water to a height of about two feet.. Sighting occurred from loch side close to Clansman Hotel.</p>  <p>20 June 2000 Gavin Joth, a Canadian watching the Loch Ness webcam, snapped a number of pictures of a head and neck type object crossing Urquhart Bay.</p>  <p>16 May 2000 Jonathan Whitehead, an ornithologist. While on a walking trip around the loch, at about 10.30 a.m. he saw what appeared to be a head and neck sticking out of the water as he looked across Urquhart Bay.,</p>  <p>17 February 2000 Allan White and family, from Australia were looking out over the loch from the A82 from Inverness. They saw a dark shape emerge on the water about &frac12; a mile away.</p>  <p>12 February 2000 James Dalton. While visiting the loch on a day trip from Aberdeen saw an unusual movement of water, as something broke the surface near Horseshoe Scree.</p>  <p>8 January 2000 John Catto, a former soldier saw a fifteen foot long object in the water as he made his way to Drumnadrochit.&nbsp; The object was about five feet tall.</p>  <p>3 January 2000&nbsp; Melvin Hughes, his wife and two children.. At a distance of about &frac12; a mile saw from above Foyers from picnic area a black neck and head emerge from the water mid-way across the loch and cause a water disturbance as it progressively moved in the water.</p> </div>
+					
+				</div>
+			</section>
+
+		</div>
+	</article>
+	<footer>
+		<div>
+			<section id="block_56562" class="block contact-details  noteditable">
+				<div>
+				
+					<div>
+						<i class="iconify" style="--svg:url(https://api.iconify.design/clarity/email-solid.svg);" title="Email"></i><a href="/cdn-cgi/l/email-protection#a9c5c6cac1c7ccdadadac0cec1ddc0c7cedae9cec4c8c0c587cac6c4" class="site_contact_email"><span class="__cf_email__" data-cfemail="4925262a21272c3a3a3a202e213d20272e3a092e24282025672a2624">[email&#160;protected]</span></a><br>
+					</div>
+				</div>
+			</section>
+
+		</div>
+
+		<div id="site_essentials">
+			<a href="/cookie-policy">Cookie Policy</a>
+			<a href="/sitemap">Sitemap</a>
+		</div>
+	
+	</footer>
+	</main>
+	
+	<a href="#top" class="back_up_page" aria-label="Scroll to Top of Page" title="Back to Top">^</a>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

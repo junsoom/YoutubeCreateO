@@ -1,0 +1,297 @@
+{
+ "id": "thylacine_short",
+ "format": "short",
+ "title": [
+  "File404 · #009 태즈메이니아 호랑이",
+  "멸종 선언 뒤에도 멈추지 않는 신고"
+ ],
+ "root": 44.0,
+ "beats": [
+  {
+   "scene": "photo",
+   "lines": [
+    "입이 [80도]까지 벌어집니다.",
+    "개가 아닙니다."
+   ],
+   "params": {
+    "key": "ty_yawn",
+    "mode": "fill",
+    "zoom": [1.5, 1.25],
+    "grade": "bw",
+    "exposure": 0.6,
+    "glitch": [0.02]
+   },
+   "sfx": [
+    {"name": "static", "at": 0.02, "gain": 0.45},
+    {"name": "thud", "at": 0.02, "gain": 0.8},
+    {"name": "screech", "at": 0.25, "gain": 0.2}
+   ],
+   "impact": [0.02],
+   "lead": 0.05
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "개처럼 생겼지만 [유대류]예요.",
+    "암컷도 수컷도 [주머니]가 있었습니다."
+   ],
+   "params": {
+    "key": "ty_pair",
+    "mode": "fill",
+    "zoom": [1.05, 1.25],
+    "grade": "bw",
+    "exposure": 0.58
+   },
+   "sfx": [
+    {"name": "typewriter", "at": 0.25, "keys": 24, "gain": 0.28},
+    {"name": "pulse", "at": 0.0, "bpm": 54, "gain": 0.16}
+   ],
+   "stamp": [
+    "THYLACINUS CYNOCEPHALUS",
+    "TASMANIA"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "양을 죽인다는 이유로,",
+    "[1888년]부터 정부가 [현상금]을 걸었습니다."
+   ],
+   "params": {
+    "key": "ty_batty",
+    "mode": "fill",
+    "zoom": [1.0, 1.2],
+    "grade": "bw",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {"name": "knock", "at": "word:현상금을", "gain": 0.5},
+    {"name": "typewriter", "at": 0.3, "keys": 22, "gain": 0.26}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "지급된 것만 [2천 건]이 넘습니다."
+   ],
+   "params": {
+    "key": "ty_medland",
+    "mode": "fill",
+    "zoom": [1.2, 1.4],
+    "grade": "bw",
+    "exposure": 0.55,
+    "counter": [2184, "건"]
+   },
+   "sfx": [
+    {"name": "thud", "at": "word:넘습니다", "gain": 0.55}
+   ],
+   "pad": 0.45
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그런데 나중에 밝혀집니다.",
+    "그 턱으로는 [양을 못 죽입니다]."
+   ],
+   "params": {
+    "key": "ty_skeleton",
+    "mode": "fill",
+    "zoom": [1.15, 1.35],
+    "grade": "cold",
+    "exposure": 0.6,
+    "glitch": ["word:양을"],
+    "music": 0.2
+   },
+   "sfx": [
+    {"name": "stab", "at": "word:양을", "gain": 0.65},
+    {"name": "static", "at": "word:양을", "gain": 0.35}
+   ],
+   "impact": ["word:양을"],
+   "flash": ["word:양을"],
+   "pad": 0.55
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "[1936년 7월], 드디어 보호종이 됩니다."
+   ],
+   "params": {
+    "key": "ty_hobart35",
+    "mode": "fill",
+    "zoom": [1.0, 1.2],
+    "grade": "bw",
+    "exposure": 0.5
+   },
+   "sfx": [
+    {"name": "typewriter", "at": 0.2, "keys": 20, "gain": 0.28}
+   ],
+   "stamp": [
+    "PROTECTED SPECIES",
+    "JULY 10, 1936"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그리고 [59일 뒤],",
+    "호바트 동물원에서 마지막 한 마리가 죽습니다."
+   ],
+   "params": {
+    "key": "ty_last",
+    "mode": "fill",
+    "zoom": [1.1, 1.32],
+    "grade": "bw",
+    "exposure": 0.62,
+    "music": 0.15
+   },
+   "sfx": [
+    {"name": "heartbeat", "at": 0.0, "bpm": 52, "gain": 0.2},
+    {"name": "sub", "at": "word:죽습니다", "gain": 0.5}
+   ],
+   "impact": ["word:죽습니다"],
+   "pad": 0.6
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "[1986년], 공식 멸종 선언."
+   ],
+   "params": {
+    "key": "ty_zootheque",
+    "mode": "fill",
+    "zoom": [1.25, 1.05],
+    "grade": "cold",
+    "exposure": 0.6,
+    "label": "프랑스 국립자연사박물관 수장고"
+   },
+   "sfx": [
+    {"name": "thud", "at": "word:선언", "gain": 0.5}
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그런데 그 뒤로도 신고가 [멈추지 않습니다]."
+   ],
+   "params": {
+    "key": "ty_rainforest",
+    "mode": "fill",
+    "zoom": [1.0, 1.28],
+    "grade": "cold",
+    "exposure": 0.5
+   },
+   "sfx": [
+    {"name": "riser", "end_at": "word:않습니다", "gain": 0.26},
+    {"name": "whoosh", "at": 0.0, "gain": 0.25}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "2018년, 관광객 두 명이 [12초]간 봤다고 신고했습니다."
+   ],
+   "params": {
+    "key": "ty_cave",
+    "mode": "fill",
+    "zoom": [1.1, 1.35],
+    "grade": "cold",
+    "exposure": 0.55,
+    "glitch": ["word:12초간"]
+   },
+   "sfx": [
+    {"name": "static", "at": "word:12초간", "gain": 0.4},
+    {"name": "knock", "at": "word:12초간", "gain": 0.45}
+   ],
+   "impact": ["word:12초간"]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "1910년부터 2019년까지 [1,223건].",
+    "목격 기록이 [하나도 없던 해는 없습니다]."
+   ],
+   "params": {
+    "key": "ty_rugby",
+    "mode": "fill",
+    "zoom": [1.0, 1.25],
+    "grade": "cold",
+    "exposure": 0.55,
+    "counter": [1223, "건"],
+    "music": 0.5
+   },
+   "sfx": [
+    {"name": "boom", "at": "word:없습니다", "gain": 0.6},
+    {"name": "rumble", "end_at": "word:없습니다", "gain": 0.22}
+   ],
+   "impact": ["word:없습니다"],
+   "pad": 0.8
+  },
+  {
+   "scene": "photo_end",
+   "lines": [],
+   "params": {
+    "key": "ty_gould",
+    "mode": "fit",
+    "zoom": [1.1, 1.2],
+    "grade": "sepia",
+    "exposure": 0.8,
+    "next": "다음 파일 ▶ #010 예티"
+   },
+   "sfx": [
+    {"name": "static", "at": 0.0, "gain": 0.5},
+    {"name": "boom", "at": 0.05, "gain": 0.45},
+    {"name": "typewriter", "at": 0.3, "keys": 14, "gain": 0.3}
+   ],
+   "min": 3.2
+  }
+ ],
+ "upload": {
+  "titles": [
+   "멸종 선언 90년, 그런데 목격 신고는 1,223건",
+   "정부가 죽이라고 돈을 줬던 동물, 태즈메이니아 호랑이",
+   "보호종이 된 지 59일 만에 마지막 한 마리가 죽었다"
+  ],
+  "description": [
+   "태즈메이니아 호랑이(틸라신)는 개처럼 생겼지만 유대류였고, 암수 모두에게 주머니가 있었습니다.",
+   "양을 죽인다는 이유로 1888년부터 현상금이 걸렸지만, 2011년 연구는 그 턱으로 양을 죽일 수 없었다는 결과를 내놓았습니다.",
+   "",
+   "📁 File404 · #009 태즈메이니아 호랑이 (Thylacine)",
+   "· 1888~1909  태즈메이니아 정부 현상금 제도, 지급 기록 2,184건",
+   "· 1930.05  윌프 배티가 야생에서 확인된 마지막 개체를 사살",
+   "· 1936.07.10  법적 보호종 지정",
+   "· 1936.09.07  호바트(보마리스) 동물원에서 마지막 개체 사망 — 보호 59일 뒤",
+   "· 1982 IUCN / 1986 주정부  공식 멸종 선언",
+   "· 2019  태즈메이니아 주정부 RTI 025-2019-20 문서로 2016~2019년 목격 신고 공개",
+   "· 2023  학술 데이터베이스 TTSRD 공개 — 1910~2019년 목격 기록 1,223건",
+   "",
+   "▶ 출처: Tasmanian Government RTI 025-2019-20 · TTSRD (2023) · Paddle, The Last Tasmanian Tiger (2000) · Linnard & Sleightholme (2023) · UNSW 두개골 하중 연구 (2011) · National Museum of Australia",
+   "",
+   "※ 마지막 개체의 이름 '벤저민'은 1968년에 만들어진 것으로, 당시 기록에는 없습니다. '문이 잠겨 얼어 죽었다'는 이야기도 2023년 연구에서 근거가 없다는 반박이 나왔습니다.",
+   "※ 내레이션은 AI 음성입니다."
+  ],
+  "hashtags": [
+   "#태즈메이니아호랑이",
+   "#틸라신",
+   "#멸종",
+   "#File404",
+   "#shorts",
+   "#미스터리"
+  ],
+  "tags": [
+   "태즈메이니아 호랑이",
+   "틸라신",
+   "Thylacine",
+   "Tasmanian tiger",
+   "멸종동물",
+   "탈멸종",
+   "콜로설",
+   "호주 미스터리",
+   "미확인생물",
+   "File404",
+   "파일404"
+  ],
+  "pinned": "현상금 지급 기록만 2,184건이었습니다. 그런데 그 턱으로는 양을 죽일 수 없었다는 게 2011년에 밝혀졌죠.\n👇 다음 파일은 #010 예티입니다.",
+  "synthetic": false
+ }
+}

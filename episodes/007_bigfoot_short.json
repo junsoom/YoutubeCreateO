@@ -1,0 +1,516 @@
+{
+ "id": "bigfoot_short",
+ "format": "short",
+ "title": [
+  "File404 · #007 빅풋",
+  "지하실에서 나온 나무 발"
+ ],
+ "root": 41.0,
+ "beats": [
+  {
+   "scene": "photo",
+   "lines": [
+    "2002년 11월, 한 남자가 죽었습니다.",
+    "아들이 [지하실 문]을 열었죠."
+   ],
+   "params": {
+    "key": "bf_fog",
+    "mode": "fill",
+    "zoom": [
+     1.2,
+     1.4
+    ],
+    "grade": "cold",
+    "exposure": 0.5,
+    "glitch": [
+     0.02
+    ]
+   },
+   "sfx": [
+    {
+     "name": "static",
+     "at": 0.02,
+     "gain": 0.45
+    },
+    {
+     "name": "thud",
+     "at": 0.02,
+     "gain": 0.8
+    },
+    {
+     "name": "knock",
+     "at": "word:열었죠",
+     "gain": 0.55
+    }
+   ],
+   "impact": [
+    0.02
+   ],
+   "lead": 0.05
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "안에는 직접 깎은 [나무 발]이 있었습니다."
+   ],
+   "params": {
+    "key": "bf_logging37",
+    "mode": "fill",
+    "zoom": [
+     1.15,
+     1.35
+    ],
+    "grade": "bw",
+    "exposure": 0.6,
+    "music": 0.4
+   },
+   "sfx": [
+    {
+     "name": "stab",
+     "at": "word:나무",
+     "gain": 0.7
+    },
+    {
+     "name": "static",
+     "at": "word:나무",
+     "gain": 0.35
+    }
+   ],
+   "impact": [
+    "word:나무"
+   ],
+   "pad": 0.45
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "1958년, 불도저 기사가 진흙에서 [16인치] 발자국을 찾았고",
+    "신문이 이름을 붙였습니다. [빅풋]."
+   ],
+   "params": {
+    "key": "bf_logging57",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "grade": "bw",
+    "exposure": 0.58
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.3,
+     "keys": 26,
+     "gain": 0.28
+    },
+    {
+     "name": "sub",
+     "at": "word:빅풋",
+     "gain": 0.45
+    }
+   ],
+   "stamp": [
+    "BLUFF CREEK, CALIF.",
+    "AUG. 1958"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "유족은 아버지가 [도둑]을 쫓으려고 찍은 거라고 했습니다."
+   ],
+   "params": {
+    "key": "bf_casts",
+    "mode": "fill",
+    "zoom": [
+     1.1,
+     1.3
+    ],
+    "grade": "bw",
+    "exposure": 0.55,
+    "label": "석고 캐스트 (그로버 크란츠)"
+   },
+   "sfx": [
+    {
+     "name": "thud",
+     "at": "word:도둑을",
+     "gain": 0.5
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그런데 '[사스콰치]'라는 말은 1929년부터 있었습니다."
+   ],
+   "params": {
+    "key": "bf_dzunukwa",
+    "mode": "fill",
+    "zoom": [
+     1.2,
+     1.4
+    ],
+    "grade": "cold",
+    "exposure": 0.6,
+    "label": "춘옥와 조각상 (콰콰카와크)",
+    "music": 0.45
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0.0,
+     "gain": 0.3
+    },
+    {
+     "name": "knock",
+     "at": "word:1929년부터",
+     "gain": 0.4
+    }
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "1967년, [59.5초]짜리 필름.",
+    "그것이 어깨 너머로 [돌아봅니다]."
+   ],
+   "params": {
+    "key": "bf_redwood",
+    "mode": "fill",
+    "zoom": [
+     1.05,
+     1.3
+    ],
+    "grade": "cold",
+    "exposure": 0.65,
+    "music": 0.5
+   },
+   "sfx": [
+    {
+     "name": "riser",
+     "end_at": "word:돌아봅니다",
+     "gain": 0.3
+    },
+    {
+     "name": "screech",
+     "at": "word:돌아봅니다",
+     "offset": 0.2,
+     "gain": 0.18
+    }
+   ],
+   "impact": [
+    "word:돌아봅니다"
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "이 필름은 저작권 때문에 보여 드릴 수 없습니다.",
+    "지금 보시는 건 [재현]입니다."
+   ],
+   "params": {
+    "key": "bf_model",
+    "mode": "fill",
+    "zoom": [
+     1.3,
+     1.1
+    ],
+    "grade": "cold",
+    "exposure": 0.6,
+    "label": "재현 · 박물관 전시 모형",
+    "music": 0.2
+   },
+   "sfx": [
+    {
+     "name": "static",
+     "at": 0.0,
+     "gain": 0.35
+    },
+    {
+     "name": "thud",
+     "at": "word:재현입니다",
+     "gain": 0.5
+    }
+   ],
+   "pad": 0.45
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "1976년, FBI가 털 [15가닥]을 받았습니다."
+   ],
+   "params": {
+    "key": "bf_fbi",
+    "mode": "fill",
+    "zoom": [
+     1.1,
+     1.3
+    ],
+    "grade": "bw",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.2,
+     "keys": 20,
+     "gain": 0.3
+    },
+    {
+     "name": "knock",
+     "at": "word:받았습니다",
+     "gain": 0.45
+    }
+   ],
+   "stamp": [
+    "FBI LAB · FILE 95-213402",
+    "DEC. 15, 1976"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "1977년 답장은 짧았습니다. [사슴과 동물의 털]."
+   ],
+   "params": {
+    "key": "bf_deerhair",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.25
+    ],
+    "grade": "cold",
+    "exposure": 0.6,
+    "glitch": [
+     "word:사슴과"
+    ],
+    "music": 0.25
+   },
+   "sfx": [
+    {
+     "name": "thud",
+     "at": "word:사슴과",
+     "gain": 0.65
+    },
+    {
+     "name": "static",
+     "at": "word:사슴과",
+     "gain": 0.35
+    }
+   ],
+   "impact": [
+    "word:사슴과"
+   ],
+   "flash": [
+    "word:사슴과"
+   ],
+   "pad": 0.45
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "2014년 옥스퍼드가 시료 30개를 읽었습니다.",
+    "곰, 개, 소, 말, 그리고 [사람]."
+   ],
+   "params": {
+    "key": "bf_bear_stand",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.22
+    ],
+    "grade": "cold",
+    "exposure": 0.7,
+    "counter": [
+     30,
+     "SAMPLES"
+    ]
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0.0,
+     "gain": 0.28
+    },
+    {
+     "name": "sub",
+     "at": "word:사람",
+     "gain": 0.4
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "미지의 영장류는 [0건]이었습니다."
+   ],
+   "params": {
+    "key": "bf_grizzly",
+    "mode": "fill",
+    "zoom": [
+     1.25,
+     1.45
+    ],
+    "grade": "cold",
+    "exposure": 0.65,
+    "music": 0.15
+   },
+   "sfx": [
+    {
+     "name": "stab",
+     "at": "word:0건이었습니다",
+     "gain": 0.6
+    }
+   ],
+   "impact": [
+    "word:0건이었습니다"
+   ],
+   "pad": 0.45
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그런데 신고는 줄지 않았습니다. 미국에서만 [1만 건]."
+   ],
+   "params": {
+    "key": "bf_moss",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.28
+    ],
+    "grade": "cold",
+    "exposure": 0.6,
+    "glitch": [
+     "word:1만"
+    ]
+   },
+   "sfx": [
+    {
+     "name": "static",
+     "at": "word:1만",
+     "gain": 0.4
+    },
+    {
+     "name": "rumble",
+     "end_at": "word:1만",
+     "gain": 0.25
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "\"빅풋이 거기 있다면, 그건 [아주 많은 곰]일 겁니다.\""
+   ],
+   "params": {
+    "key": "bf_bear_dump",
+    "mode": "fill",
+    "zoom": [
+     1.3,
+     1.08
+    ],
+    "grade": "cold",
+    "exposure": 0.6,
+    "music": 0.55
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:곰일",
+     "gain": 0.6
+    }
+   ],
+   "impact": [
+    "word:곰일"
+   ],
+   "pad": 0.45
+  },
+  {
+   "scene": "photo_end",
+   "lines": [],
+   "params": {
+    "key": "bf_statue",
+    "mode": "fill",
+    "zoom": [
+     1.1,
+     1.2
+    ],
+    "grade": "cold",
+    "exposure": 0.75,
+    "next": "다음 파일 ▶ #008 제보당의 야수"
+   },
+   "sfx": [
+    {
+     "name": "static",
+     "at": 0.0,
+     "gain": 0.5
+    },
+    {
+     "name": "boom",
+     "at": 0.05,
+     "gain": 0.45
+    },
+    {
+     "name": "typewriter",
+     "at": 0.3,
+     "keys": 14,
+     "gain": 0.3
+    }
+   ],
+   "min": 3.2
+  }
+ ],
+ "upload": {
+  "titles": [
+   "FBI가 빅풋 털을 분석했고, 답장은 일곱 단어였다",
+   "장례가 끝나고 아들이 지하실에서 꺼낸 것 #빅풋",
+   "빅풋 DNA 30개를 읽었더니 나온 결과 #미스터리"
+  ],
+  "description": [
+   "1958년 캘리포니아 북부의 벌목 현장에서 16인치 발자국이 발견되고, 신문이 '빅풋'이라는 이름을 붙입니다.",
+   "44년 뒤인 2002년, 한 남자의 장례가 끝나자 아들이 지하실에서 직접 깎은 나무 발을 꺼냈습니다.",
+   "",
+   "📁 File404 · #007 빅풋 (Bigfoot / Sasquatch)",
+   "· 1929  J.W. 번스가 Halq'eméylem 어 sasq'ets 에서 'Sasquatch' 를 만든다",
+   "· 1958.08  벌목 임도의 16인치 발자국 → 신문이 'Bigfoot' 이라 부른다",
+   "· 1967.10.20  블러프크릭에서 59.5초짜리 필름이 촬영된다",
+   "· 1976~77  FBI 과학수사연구소가 털 15가닥을 분석 → \"사슴과(deer family) 동물의 털\" (2019년 공개)",
+   "· 2002.11  레이 월리스 사망 후 유족이 나무 발을 공개",
+   "· 2005  맷 크롤리가 '피부 융선'을 인공적으로 재현",
+   "· 2014  옥스퍼드 브라이언 사이크스 연구팀, 시료 30개 분석 → 곰·개·소·말·너구리·사람. 미지의 영장류 0건",
+   "",
+   "▶ 출처: Sykes et al., Proc. R. Soc. B (2014) · FBI Vault, Bigfoot file (2019 공개) · Napier, Bigfoot (1972) · Lozier et al. (2009) · Wikipedia 'Bigfoot', 'Patterson–Gimlin film'",
+   "",
+   "※ 1967년 필름은 저작권 문제로 화면에 쓰지 않았습니다. 해당 장면은 모두 재현이며, 빅풋 형상 사진은 박물관 전시 모형입니다. 내레이션은 AI 음성입니다."
+  ],
+  "hashtags": [
+   "#빅풋",
+   "#사스콰치",
+   "#미스터리",
+   "#File404",
+   "#shorts",
+   "#미확인생물"
+  ],
+  "tags": [
+   "빅풋",
+   "Bigfoot",
+   "사스콰치",
+   "Sasquatch",
+   "패터슨 필름",
+   "레이 월리스",
+   "FBI 빅풋",
+   "미확인생물",
+   "UMA",
+   "크립티드",
+   "미스터리",
+   "File404",
+   "파일404"
+  ],
+  "pinned": "FBI 답장은 일곱 단어였습니다. \"The hairs are of deer family origin.\"\n👇 다음 파일은 #008 제보당의 야수입니다.",
+  "synthetic": true
+ }
+}

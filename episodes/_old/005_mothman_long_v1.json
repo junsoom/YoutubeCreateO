@@ -1,0 +1,2292 @@
+{
+ "id": "mothman_long",
+ "format": "long",
+ "fps": 24,
+ "beats": [
+  {
+   "scene": "photo",
+   "lines": [
+    "1967년 12월 15일, 금요일 오후 5시 무렵."
+   ],
+   "params": {
+    "key": "bridge_old",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.15
+    ],
+    "crop": [
+     0.012,
+     0,
+     0.988,
+     1
+    ],
+    "grade": "cold",
+    "exposure": 0.6
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.3,
+     "keys": 30,
+     "gain": 0.3
+    }
+   ],
+   "stamp": [
+    "POINT PLEASANT, W.VA.",
+    "DEC. 15, 1967"
+   ],
+   "lead": 0.3
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "크리스마스를 열흘 앞둔 퇴근길,",
+    "다리 위에는 차 [37대]가 서 있었습니다."
+   ],
+   "params": {
+    "key": "bridge_old_b",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.15
+    ],
+    "crop": [
+     0.012,
+     0,
+     0.988,
+     1
+    ],
+    "grade": "cold",
+    "exposure": 0.42
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 66,
+     "gain": 0.4
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그리고 [1분].",
+    "다리는 통째로 강물 속으로 사라집니다."
+   ],
+   "params": {
+    "key": "bridge_collapsed",
+    "mode": "fill",
+    "zoom": [
+     1.08,
+     1.0
+    ],
+    "crop": [
+     0.012,
+     0.2,
+     0.988,
+     0.985
+    ],
+    "grade": "bw",
+    "glitch": [
+     "word:1분"
+    ],
+    "shake": 8,
+    "exposure": 0.55
+   },
+   "sfx": [
+    {
+     "name": "collapse",
+     "at": "word:1분",
+     "gain": 1.0
+    },
+    {
+     "name": "static",
+     "at": "word:1분",
+     "gain": 0.4
+    }
+   ],
+   "impact": [
+    "word:1분"
+   ],
+   "flash": [
+    "word:1분"
+   ],
+   "cut": "hard",
+   "pad": 0.4
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "이 다리가 왜 무너졌는지는 밝혀졌습니다.",
+    "그런데 다리를 붙잡고 있던 [부품 하나]는,",
+    "세 번을 찾았는데도 끝내 나오지 않았죠."
+   ],
+   "params": {
+    "key": "bridge_collapsed_b",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "crop": [
+     0.012,
+     0.1,
+     0.988,
+     0.95
+    ],
+    "grade": "bw",
+    "exposure": 0.42
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0,
+     "gain": 0.25
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그리고 그보다 13개월 전,",
+    "이 마을 사람들은 [붉은 눈]을 봤다고 말했습니다."
+   ],
+   "params": {
+    "key": "scarberry_sketch",
+    "mode": "fit",
+    "zoom": [
+     1.0,
+     1.5
+    ],
+    "focus": [
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.52,
+      0.22
+     ]
+    ],
+    "exposure": 0.55,
+    "eyes": [
+     [
+      0.405,
+      0.19,
+      0.022
+     ],
+     [
+      0.632,
+      0.19,
+      0.022
+     ]
+    ],
+    "glitch": [
+     "word:붉은"
+    ]
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:붉은",
+     "gain": 0.7
+    },
+    {
+     "name": "screech",
+     "at": "word:붉은",
+     "offset": 0.3,
+     "gain": 0.2
+    }
+   ],
+   "events": {
+    "eyes": "붉은"
+   },
+   "pad": 0.4
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "사람들은 그것을 [모스맨]이라고 불렀습니다."
+   ],
+   "params": {
+    "key": "statue",
+    "mode": "fit",
+    "zoom": [
+     1.0,
+     1.15
+    ],
+    "exposure": 0.6,
+    "stamp_word": "MOTHMAN",
+    "stamp_sub": "모 스 맨"
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:모스맨",
+     "gain": 0.6
+    }
+   ],
+   "events": {
+    "stamp": "모스맨"
+   },
+   "pad": 0.6
+  },
+  {
+   "scene": "chapter",
+   "lines": [],
+   "min": 3.2,
+   "params": {
+    "key": "forest_moon",
+    "num": 1,
+    "title": "무덤 파는 사람들",
+    "sub": "1966년 11월 12일 · 클렌데닌"
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.15,
+     "keys": 22,
+     "gain": 0.3
+    },
+    {
+     "name": "boom",
+     "at": 0.05,
+     "gain": 0.35
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "1966년 11월 12일, 포인트 플레전트에서",
+    "80킬로쯤 떨어진 작은 마을, 클렌데닌."
+   ],
+   "params": {
+    "key": "clendenin",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.15
+    ],
+    "grade": "cold",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.3,
+     "keys": 24,
+     "gain": 0.25
+    }
+   ],
+   "stamp": [
+    "CLENDENIN, W.VA.",
+    "NOV. 12, 1966"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "남자 다섯 명이 공동묘지에서 무덤을 파고 있었습니다.",
+    "그중 한 명, 케네스 덩컨이 고개를 드는데요,"
+   ],
+   "params": {
+    "key": "forest_moon",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.15
+    ],
+    "focus": [
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.4
+     ]
+    ],
+    "exposure": 0.72
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 64,
+     "gain": 0.35
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "숲에서 [사람 같은 형체]가 날아오르더니,",
+    "나무 사이를 미끄러지듯 지나갔다고 합니다.",
+    "1분 가까이요."
+   ],
+   "params": {
+    "key": "forest_moon",
+    "mode": "fill",
+    "zoom": [
+     1.2,
+     1.4
+    ],
+    "focus": [
+     [
+      0.5,
+      0.35
+     ],
+     [
+      0.5,
+      0.3
+     ]
+    ],
+    "exposure": 0.72
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": "word:날아오르더니",
+     "gain": 0.45
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "덩컨은 몇몇 친구에게만 이 이야기를 했습니다.",
+    "그런데 사흘 뒤, 이번엔 [네 명]이 같은 걸 봅니다."
+   ],
+   "params": {
+    "key": "road_night",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "exposure": 1.45
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:네",
+     "gain": 0.4
+    }
+   ]
+  },
+  {
+   "scene": "chapter",
+   "lines": [],
+   "min": 3.2,
+   "params": {
+    "key": "wvow_aerial",
+    "num": 2,
+    "title": "TNT 구역",
+    "sub": "1966년 11월 15일 · 포인트 플레전트"
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.15,
+     "keys": 22,
+     "gain": 0.3
+    },
+    {
+     "name": "boom",
+     "at": 0.05,
+     "gain": 0.35
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "포인트 플레전트 북쪽,",
+    "2차 대전 때 폭약을 만들던 군수 공장 터.",
+    "사람들은 이곳을 [TNT 구역]이라고 불렀습니다."
+   ],
+   "params": {
+    "key": "wvow_aerial",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "grade": "bw",
+    "exposure": 0.75
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0,
+     "gain": 0.25
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "숲 곳곳엔 버려진 콘크리트 탄약고들이 흩어져 있었고,",
+    "밤이면 젊은이들이 차를 몰고 몰려드는 곳이었죠."
+   ],
+   "params": {
+    "key": "igloo",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "grade": "cold",
+    "exposure": 0.6
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 62,
+     "gain": 0.3
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "11월 15일 밤 11시 30분쯤,",
+    "두 쌍의 부부가 탄 차가 낡은 발전소 앞을 지나는데요,"
+   ],
+   "params": {
+    "key": "road_night",
+    "mode": "fill",
+    "zoom": [
+     1.05,
+     1.3
+    ],
+    "exposure": 1.45
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.2,
+     "keys": 20,
+     "gain": 0.25
+    }
+   ],
+   "stamp": [
+    "NOV. 15, 1966",
+    "11:30 P.M."
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "헤드라이트에 무언가가 걸립니다.",
+    "사람처럼 생겼지만, 사람보다 [훨씬 컸습니다]."
+   ],
+   "params": {
+    "key": "car_night",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.25
+    ],
+    "shake": 3
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 88,
+     "gain": 0.45
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "등에는 [접힌 날개],",
+    "그리고 자동차 반사판처럼 빛나는 [붉은 두 눈]."
+   ],
+   "params": {
+    "key": "scarberry_sketch",
+    "mode": "fit",
+    "zoom": [
+     1.2,
+     1.7
+    ],
+    "focus": [
+     [
+      0.52,
+      0.3
+     ],
+     [
+      0.52,
+      0.22
+     ]
+    ],
+    "exposure": 0.55,
+    "eyes": [
+     [
+      0.405,
+      0.19,
+      0.022
+     ],
+     [
+      0.632,
+      0.19,
+      0.022
+     ]
+    ],
+    "glitch": [
+     "word:붉은"
+    ]
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:붉은",
+     "gain": 0.9
+    },
+    {
+     "name": "static",
+     "at": "word:붉은",
+     "gain": 0.4
+    },
+    {
+     "name": "screech",
+     "at": "word:붉은",
+     "offset": 0.4,
+     "gain": 0.25
+    }
+   ],
+   "events": {
+    "eyes": "붉은"
+   },
+   "impact": [
+    "word:붉은"
+   ],
+   "pad": 0.4
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "운전대를 잡은 로저 스카베리는 그대로 액셀을 밟았습니다.",
+    "시속 [160킬로].",
+    "그런데 그것은 날갯짓도 없이 떠올라, 차를 따라왔다고 합니다."
+   ],
+   "params": {
+    "key": "car_night",
+    "mode": "fill",
+    "zoom": [
+     1.1,
+     1.35
+    ],
+    "shake": 6
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 110,
+     "gain": 0.5
+    },
+    {
+     "name": "whoosh",
+     "at": "word:떠올라",
+     "gain": 0.45
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "쥐처럼 [찍찍거리는] 소리를 냈다고 하죠.",
+    "마을 경계에 이르러서야, 그것은 사라졌습니다."
+   ],
+   "params": {
+    "key": "road_night",
+    "mode": "fill",
+    "zoom": [
+     1.3,
+     1.0
+    ],
+    "exposure": 1.45
+   },
+   "sfx": [
+    {
+     "name": "screech",
+     "at": "word:찍찍거리는",
+     "gain": 0.25
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "로저는 훗날 이렇게 말했습니다.",
+    "\"혼자 봤다면 아무 말도 안 했을 겁니다. 하지만 우리는 [네 명]이었어요.\""
+   ],
+   "params": {
+    "key": "scarberry_sketch",
+    "mode": "fit",
+    "zoom": [
+     1.0,
+     1.1
+    ],
+    "exposure": 0.5,
+    "label": "목격자 로저 스카베리의 스케치"
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 60,
+     "gain": 0.35
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "다음 날, 지역 신문들이 일제히 이 일을 보도합니다.",
+    "\"날개 달린 [붉은 눈의 무언가]가 부부를 쫓다.\""
+   ],
+   "params": {
+    "key": "wvow_lab",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "grade": "bw",
+    "exposure": 0.7
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.2,
+     "keys": 26,
+     "gain": 0.3
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "경찰과 함께 다시 가 보니, 그 자리엔 [이상한 먼지 더미]만 남아 있었다고 합니다.",
+    "그날부터 마을 남자들은 총을 들고 TNT 구역을 뒤지기 시작했죠."
+   ],
+   "params": {
+    "key": "igloo",
+    "mode": "fill",
+    "zoom": [
+     1.2,
+     1.0
+    ],
+    "grade": "bw",
+    "exposure": 0.6
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0,
+     "gain": 0.25
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그런데 그게 가장 이상한 부분은 아니었습니다.",
+    "바로 그 전날 밤, 한 남자의 개가 [사라졌거든요]."
+   ],
+   "params": {
+    "key": "forest_moon",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.3
+    ],
+    "focus": [
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.7
+     ]
+    ],
+    "exposure": 0.72
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:사라졌거든요",
+     "gain": 0.5
+    }
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "chapter",
+   "lines": [],
+   "min": 3.2,
+   "params": {
+    "key": "red_owl",
+    "num": 3,
+    "title": "목격자들",
+    "sub": "1966년 11월 · 메이슨 카운티"
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.15,
+     "keys": 22,
+     "gain": 0.3
+    },
+    {
+     "name": "boom",
+     "at": 0.05,
+     "gain": 0.35
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "건설업자 뉴웰 파트리지.",
+    "그날 밤, TV에서 갑자기 [이상한 소리]가 나기 시작했다고 합니다."
+   ],
+   "params": {
+    "key": "road_night",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.15
+    ],
+    "exposure": 1.45
+   },
+   "sfx": [
+    {
+     "name": "static",
+     "at": "word:이상한",
+     "gain": 0.3
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "밖에서 개 밴딧이 짖어 댔고,",
+    "손전등을 비추자 들판 너머에서",
+    "두 개의 눈이 [자전거 반사판]처럼 빛났습니다."
+   ],
+   "params": {
+    "key": "forest_moon",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.3
+    ],
+    "focus": [
+     [
+      0.5,
+      0.6
+     ],
+     [
+      0.5,
+      0.72
+     ]
+    ],
+    "eyes": [
+     [
+      0.475,
+      0.76,
+      0.009
+     ],
+     [
+      0.525,
+      0.76,
+      0.009
+     ]
+    ],
+    "exposure": 0.72
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:자전거",
+     "gain": 0.5
+    }
+   ],
+   "events": {
+    "eyes": "자전거"
+   }
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "밴딧은 그 빛을 향해 달려갔고, 다시는 [돌아오지 않았습니다].",
+    "작가 존 킬의 기록에 따르면, 발자국은 [원을 그리다] 끊겨 있었다고 하죠."
+   ],
+   "params": {
+    "key": "forest_moon",
+    "mode": "fill",
+    "zoom": [
+     1.3,
+     1.5
+    ],
+    "focus": [
+     [
+      0.5,
+      0.72
+     ],
+     [
+      0.5,
+      0.76
+     ]
+    ],
+    "eyes": [
+     [
+      0.475,
+      0.76,
+      0.009
+     ],
+     [
+      0.525,
+      0.76,
+      0.009
+     ]
+    ],
+    "exposure": 0.72
+   },
+   "sfx": [
+    {
+     "name": "screech",
+     "at": "word:돌아오지",
+     "offset": 0.3,
+     "gain": 0.15
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "사흘 뒤엔 자원 소방관 두 명이 붉은 눈을 봤는데요,",
+    "그들의 말은 달랐습니다.",
+    "\"그건 분명히 [새]였어요.\""
+   ],
+   "params": {
+    "key": "wvow_lab",
+    "mode": "fill",
+    "zoom": [
+     1.2,
+     1.0
+    ],
+    "grade": "bw",
+    "exposure": 0.7
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0,
+     "gain": 0.25
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "11월 16일 밤, 탄약고 사이의 집을 찾았던 마르셀라 베넷은,",
+    "땅에서 [천천히 일어서는] 회색 형체를 봤다고 합니다."
+   ],
+   "params": {
+    "key": "igloo",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.3
+    ],
+    "grade": "cold",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 80,
+     "gain": 0.4
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "놀라 품에 안고 있던 아기를 떨어뜨렸고,",
+    "가까스로 집 안으로 피했는데요,",
+    "그것이 현관까지 따라와 [창문 안을 들여다봤다고] 합니다."
+   ],
+   "params": {
+    "key": "window_sighting",
+    "mode": "fit",
+    "zoom": [
+     1.0,
+     1.4
+    ],
+    "focus": [
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.62,
+      0.45
+     ]
+    ],
+    "glitch": [
+     "word:창문"
+    ],
+    "label": "목격 사진으로 퍼진 이미지 · 진위 불명"
+   },
+   "sfx": [
+    {
+     "name": "screech",
+     "at": "word:창문",
+     "offset": 0.3,
+     "gain": 0.22
+    },
+    {
+     "name": "boom",
+     "at": "word:창문",
+     "gain": 0.5
+    }
+   ],
+   "pad": 0.4
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "보안관은 덩치 큰 왜가리일 거라고 했고,",
+    "대학의 한 생물학자는 길 잃은 [두루미]라고 발표합니다."
+   ],
+   "params": {
+    "key": "barred_owl",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.15
+    ],
+    "grade": "cold",
+    "exposure": 0.6
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0,
+     "gain": 0.25
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "사람만 한 키에, 날개는 2미터가 넘고, 눈 주위가 [붉은] 새였죠.",
+    "하지만 오하이오 대학은 곧바로 반박합니다.",
+    "이 지역에선 그 두루미가 목격된 [기록이 없다]고요."
+   ],
+   "params": {
+    "key": "sandhill",
+    "mode": "fit",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "grade": "color",
+    "exposure": 0.75,
+    "label": "샌드힐 두루미"
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": "word:하지만",
+     "gain": 0.25
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그 무렵 TV에선 [배트맨]이 한창 인기였습니다.",
+    "한 신문 편집자가 여기에 빗대 이름을 붙였다고 알려져 있죠.",
+    "[모스맨]."
+   ],
+   "params": {
+    "key": "statue2",
+    "mode": "fit",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "exposure": 0.6
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:모스맨",
+     "gain": 0.6
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "목격 신고는 1년 동안 이어졌습니다.",
+    "그런데 이 무렵, 마을을 찾아온 건 [괴물만이 아니었습니다]."
+   ],
+   "params": {
+    "key": "ptp_downtown",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.15
+    ],
+    "grade": "cold",
+    "exposure": 0.5
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 60,
+     "gain": 0.35
+    }
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "chapter",
+   "lines": [],
+   "min": 3.2,
+   "params": {
+    "key": "car_night",
+    "num": 4,
+    "title": "검은 옷의 남자들",
+    "sub": "1966~1967 · 존 킬의 기록"
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.15,
+     "keys": 22,
+     "gain": 0.3
+    },
+    {
+     "name": "boom",
+     "at": 0.05,
+     "gain": 0.35
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "뉴욕의 작가 [존 킬].",
+    "초자연 현상을 쫓던 그는 이 마을을 여러 차례 찾아와 목격자들을 만났습니다."
+   ],
+   "params": {
+    "key": "ptp_downtown",
+    "mode": "fill",
+    "zoom": [
+     1.2,
+     1.0
+    ],
+    "focus": [
+     [
+      0.4,
+      0.5
+     ],
+     [
+      0.5,
+      0.5
+     ]
+    ],
+    "grade": "bw",
+    "exposure": 0.5
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.2,
+     "keys": 16,
+     "gain": 0.25
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "킬은 모스맨이 나타나기 [13일 전]의 이야기에 주목합니다.",
+    "고속도로를 달리던 외판원 우드로 데렌버거 앞에,",
+    "낡은 램프 갓처럼 생긴 [비행 물체]가 내려앉았다는 겁니다."
+   ],
+   "params": {
+    "key": "road_night",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.3
+    ],
+    "exposure": 1.45
+   },
+   "sfx": [
+    {
+     "name": "pulse",
+     "at": 0,
+     "bpm": 70,
+     "dur": 8,
+     "gain": 0.3
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "안에서 내린 남자는 입을 열지 않고 [머릿속으로] 말했다고 합니다.",
+    "\"두려워하지 마라. 해칠 생각은 없다.\"",
+    "남자는 자신을 [콜드]라고 소개했죠."
+   ],
+   "params": {
+    "key": "car_night",
+    "mode": "fill",
+    "zoom": [
+     1.2,
+     1.0
+    ],
+    "grade": "bw"
+   },
+   "sfx": [
+    {
+     "name": "static",
+     "at": "word:머릿속으로",
+     "gain": 0.25
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "킬의 책에는 더 기묘한 이야기들이 이어집니다.",
+    "사람 같지 않은 [검은 옷의 남자들]이 목격자를 찾아와 위협했고,",
+    "주민들은 [다리가 무너지는] 꿈을 꿨다고요."
+   ],
+   "params": {
+    "key": "barker_ad",
+    "mode": "fit",
+    "zoom": [
+     1.0,
+     1.3
+    ],
+    "grade": "bw",
+    "exposure": 0.6,
+    "label": "1956년 비행접시 책 광고 · '검은 옷의 남자' 이야기의 원조"
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 70,
+     "gain": 0.35
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "'맨 인 블랙'이라는 말도 킬이 처음 쓴 표현입니다.",
+    "하지만 훗날 연구자들은, 킬이 당시 쓴 편지와 책 내용이 [크게 다르다]고 지적했죠."
+   ],
+   "params": {
+    "key": "barker_ad",
+    "mode": "fit",
+    "zoom": [
+     1.3,
+     1.0
+    ],
+    "grade": "bw",
+    "exposure": 0.5
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0,
+     "gain": 0.2
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그리고 1967년 12월 15일.",
+    "크리스마스를 열흘 앞둔 [금요일]이었습니다."
+   ],
+   "params": {
+    "key": "bridge_old",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.1
+    ],
+    "crop": [
+     0.012,
+     0,
+     0.988,
+     1
+    ],
+    "grade": "cold",
+    "exposure": 0.6
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:금요일",
+     "gain": 0.45
+    }
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "chapter",
+   "lines": [],
+   "min": 3.2,
+   "params": {
+    "key": "bridge_old_b",
+    "num": 5,
+    "title": "실버 브리지",
+    "sub": "1967년 12월 15일 · 오하이오강"
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.15,
+     "keys": 22,
+     "gain": 0.3
+    },
+    {
+     "name": "boom",
+     "at": 0.05,
+     "gain": 0.35
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "1928년에 세워진 [실버 브리지].",
+    "알루미늄 페인트로 은빛을 띠어 붙은 이름입니다."
+   ],
+   "params": {
+    "key": "bridge_old",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.25
+    ],
+    "focus": [
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.3,
+      0.4
+     ]
+    ],
+    "crop": [
+     0.012,
+     0,
+     0.988,
+     1
+    ],
+    "grade": "cold",
+    "exposure": 0.6
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0,
+     "gain": 0.2
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "이 다리는 [아이바]라는 긴 쇠막대를 사슬처럼 이어 매단 다리였습니다.",
+    "사진은 같은 방식으로 지어진 브라질의 다리인데요,"
+   ],
+   "params": {
+    "key": "hercilio",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "grade": "cold",
+    "exposure": 0.55,
+    "label": "같은 방식의 다리 · 브라질 에르실리우 루스"
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 60,
+     "gain": 0.3
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "실버 브리지는 연결 고리마다 아이바가 [단 두 개]뿐이었습니다.",
+    "하나가 끊어지면, 버틸 방법이 없었죠."
+   ],
+   "params": {
+    "key": "hercilio2",
+    "mode": "fill",
+    "zoom": [
+     1.1,
+     1.4
+    ],
+    "grade": "cold",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0,
+     "gain": 0.2
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "붕괴 직전, 이 다리 위에서 [그것]을 봤다는 이야기도 전해집니다."
+   ],
+   "params": {
+    "key": "bridge_old",
+    "mode": "fit",
+    "zoom": [
+     1.0,
+     2.3
+    ],
+    "focus": [
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.838,
+      0.22
+     ]
+    ],
+    "crop": [
+     0.012,
+     0,
+     0.988,
+     1
+    ],
+    "grade": "cold",
+    "label": "재현 이미지 · 진위 논란",
+    "label_ev": "figure",
+    "figure": {
+     "x": 0.838,
+     "y": 0.205,
+     "h": 0.09,
+     "spread": 0.35
+    },
+    "exposure": 0.6
+   },
+   "sfx": [
+    {
+     "name": "pulse",
+     "at": 0,
+     "bpm": 76,
+     "dur": 4,
+     "gain": 0.3
+    },
+    {
+     "name": "screech",
+     "at": "word:그것",
+     "offset": 0.3,
+     "gain": 0.22
+    }
+   ],
+   "events": {
+    "figure": "이",
+    "eyes": "그것"
+   },
+   "pad": 0.4
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "오후 5시 무렵, 다리는 퇴근길과 크리스마스 쇼핑 차량으로 꽉 막혀 있었습니다."
+   ],
+   "params": {
+    "key": "confluence",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "grade": "cold",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 72,
+     "gain": 0.4
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그때 오하이오 쪽에서 [총소리] 같은 굉음이 울립니다.",
+    "다리는 카드처럼 접히며, 1분도 안 돼 강물 속으로 무너졌습니다."
+   ],
+   "params": {
+    "key": "bridge_collapsed",
+    "mode": "fill",
+    "zoom": [
+     1.1,
+     1.0
+    ],
+    "crop": [
+     0.012,
+     0.2,
+     0.988,
+     0.985
+    ],
+    "grade": "bw",
+    "glitch": [
+     "word:총소리"
+    ],
+    "shake": 9,
+    "exposure": 0.55
+   },
+   "sfx": [
+    {
+     "name": "collapse",
+     "at": "word:총소리",
+     "gain": 1.0
+    },
+    {
+     "name": "static",
+     "at": "word:총소리",
+     "gain": 0.4
+    }
+   ],
+   "impact": [
+    "word:총소리"
+   ],
+   "flash": [
+    "word:총소리"
+   ],
+   "cut": "hard",
+   "pad": 0.4
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "다리 위 차 37대 중 [31대]가 추락했습니다.",
+    "[46명]이 숨졌고, 그중 두 명은 끝내 찾지 못했죠."
+   ],
+   "params": {
+    "key": "bridge_collapsed_b",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.15
+    ],
+    "crop": [
+     0.012,
+     0.1,
+     0.988,
+     0.95
+    ],
+    "grade": "bw",
+    "counter": [
+     46,
+     "사망"
+    ],
+    "exposure": 0.42
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 56,
+     "gain": 0.45
+    }
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "미국 교통안전위원회의 조사는 [3년]이 걸렸습니다."
+   ],
+   "params": {
+    "key": "bridge_sign",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "grade": "cold",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.2,
+     "keys": 14,
+     "gain": 0.25
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "범인은 [330번 아이바].",
+    "고리 아래쪽에, 깊이 3밀리 남짓한 [균열]이 있었습니다."
+   ],
+   "params": {
+    "key": "bridge_collapsed",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.3
+    ],
+    "crop": [
+     0.2,
+     0.3,
+     0.8,
+     0.9
+    ],
+    "grade": "bw",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:균열",
+     "gain": 0.45
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "40년 동안 녹과 하중이 쇠를 조금씩 갉아먹은 겁니다.",
+    "그리고 그 자리는, 사람 눈으로는 [검사할 수 없는] 곳이었습니다.",
+    "불과 9일 전에도 점검을 했었죠."
+   ],
+   "params": {
+    "key": "bridge_old_b",
+    "mode": "fill",
+    "zoom": [
+     1.2,
+     1.0
+    ],
+    "crop": [
+     0.012,
+     0,
+     0.988,
+     1
+    ],
+    "grade": "cold",
+    "exposure": 0.42
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 60,
+     "gain": 0.3
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "330번 아이바를 끼우고 있던 연결 핀.",
+    "조사팀은 강바닥을 [세 번]이나 뒤졌지만, 그 핀은 끝내 나오지 않았습니다."
+   ],
+   "params": {
+    "key": "nara_1973",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.25
+    ],
+    "grade": "cold",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:세",
+     "gain": 0.4
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "다리가 무너진 뒤, 모스맨 목격도 [끊겼다고] 합니다.",
+    "그래서 전설이 생겼죠. 모스맨이 [재앙을 경고하러] 왔다는."
+   ],
+   "params": {
+    "key": "forest_moon",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.25
+    ],
+    "focus": [
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.7
+     ]
+    ],
+    "eyes": [
+     [
+      0.475,
+      0.76,
+      0.009
+     ],
+     [
+      0.525,
+      0.76,
+      0.009
+     ]
+    ],
+    "exposure": 0.72
+   },
+   "sfx": [
+    {
+     "name": "screech",
+     "at": "word:재앙을",
+     "offset": 0.3,
+     "gain": 0.18
+    }
+   ],
+   "events": {
+    "eyes": "재앙을"
+   }
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그런데 사실 그보다 앞서,",
+    "한 남자가 이미 [그것]을 쏘았습니다."
+   ],
+   "params": {
+    "key": "red_owl",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.3
+    ]
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:그것을",
+     "gain": 0.6
+    }
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "chapter",
+   "lines": [],
+   "min": 3.2,
+   "params": {
+    "key": "barred_owl",
+    "num": 6,
+    "title": "해부",
+    "sub": "회의론자들의 설명"
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.15,
+     "keys": 22,
+     "gain": 0.3
+    },
+    {
+     "name": "boom",
+     "at": 0.05,
+     "gain": 0.35
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "1966년, 포인트 플레전트 근처에서 에이스 헨리라는 남자가 [흰올빼미] 한 마리를 쏩니다.",
+    "날개폭이 1.5미터나 돼서, 신문은 '거대 올빼미'라고 보도했죠."
+   ],
+   "params": {
+    "key": "snowy_owl",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "grade": "cold",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0,
+     "gain": 0.25
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "회의론자 조 니켈은 정체를 [올빼미]로 봅니다.",
+    "다리가 길고 목이 짧아 머리가 없는 것처럼 보이고, 소리 없이 [나방처럼] 날죠.",
+    "버려진 건물에 둥지를 트는 것까지 닮았습니다."
+   ],
+   "params": {
+    "key": "owl_night",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.25
+    ],
+    "grade": "cold",
+    "exposure": 0.9
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 58,
+     "gain": 0.3
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그럼 붉은 눈은요?",
+    "밤에 불빛을 받은 새의 눈은 [붉게 반사]됩니다.",
+    "눈 뒤쪽 혈관층의 색이 비치는 거죠."
+   ],
+   "params": {
+    "key": "red_owl",
+    "mode": "fill",
+    "zoom": [
+     1.2,
+     1.6
+    ]
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:붉게",
+     "gain": 0.4
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "날개폭 3미터의 사람만 한 생물은, 물리적으로 [날 수 없다]는 지적도 있습니다.",
+    "또 붉은 눈 증언 가운데 하나는 직접 본 게 아니라, [전해 들은] 이야기였죠."
+   ],
+   "params": {
+    "key": "barred_owl",
+    "mode": "fill",
+    "zoom": [
+     1.2,
+     1.0
+    ],
+    "grade": "cold",
+    "exposure": 0.6
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0,
+     "gain": 0.2
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그리고 공포는 [전염]됩니다.",
+    "한 번 소문이 돌면, 사람들은 어둠 속의 모든 것을 그것으로 보게 되죠."
+   ],
+   "params": {
+    "key": "ptp_downtown",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "grade": "bw",
+    "exposure": 0.45
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 62,
+     "gain": 0.3
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "하지만 목격자들은 하나같이,",
+    "그것이 사람처럼 [두 발로 서 있었다]고 말했습니다."
+   ],
+   "params": {
+    "key": "scarberry_sketch",
+    "mode": "fit",
+    "zoom": [
+     1.0,
+     1.25
+    ],
+    "focus": [
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.6
+     ]
+    ],
+    "exposure": 0.5
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:두",
+     "gain": 0.45
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "설명은 끝난 것처럼 보였습니다.",
+    "그런데 50년 뒤, 수백 킬로 떨어진 대도시에서..."
+   ],
+   "params": {
+    "key": "forest_moon",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "exposure": 0.72
+   },
+   "sfx": [
+    {
+     "name": "screech",
+     "at": "word:대도시에서",
+     "offset": 0.3,
+     "gain": 0.15
+    }
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "chapter",
+   "lines": [],
+   "min": 3.2,
+   "params": {
+    "key": "chicago_night",
+    "num": 7,
+    "title": "돌아온 날개",
+    "sub": "2002 ~ 2017"
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.15,
+     "keys": 22,
+     "gain": 0.3
+    },
+    {
+     "name": "boom",
+     "at": 0.05,
+     "gain": 0.35
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "1975년, 존 킬은 이 이야기를 책으로 냅니다.",
+    "2002년엔 리처드 기어 주연의 [할리우드 영화]가 되죠."
+   ],
+   "params": {
+    "key": "statue2",
+    "mode": "fit",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "exposure": 0.6
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0,
+     "gain": 0.2
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "같은 해 시작된 [모스맨 축제]엔,",
+    "인구 5천 명도 안 되는 마을에 해마다 [만 명] 넘는 사람이 몰립니다."
+   ],
+   "params": {
+    "key": "festival",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "grade": "cold",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0,
+     "gain": 0.2
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "4미터 가까운 [강철 조각상]이 세워지고,",
+    "2006년엔 박물관까지 문을 엽니다."
+   ],
+   "params": {
+    "key": "statue2025",
+    "mode": "fit",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "grade": "cold",
+    "exposure": 0.6
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0,
+     "gain": 0.2
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그리고 2017년, 미국 [시카고].",
+    "날개 달린 인간형 생물을 봤다는 제보가, 한 해에만 [55건]이나 쏟아집니다."
+   ],
+   "params": {
+    "key": "chicago_night",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.25
+    ],
+    "counter": [
+     55,
+     "제보"
+    ]
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:55건이나",
+     "gain": 0.5
+    },
+    {
+     "name": "pulse",
+     "at": 0,
+     "bpm": 72,
+     "dur": 6,
+     "gain": 0.25
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "목격담 속 눈은 빨갛고, 초록색이고, 노란색이었습니다.",
+    "시카고 대학의 심리학자는, 믿는 사람들이 [스스로 제보한] 숫자일 뿐이라고 선을 그었죠."
+   ],
+   "params": {
+    "key": "chicago_river",
+    "mode": "fill",
+    "zoom": [
+     1.2,
+     1.0
+    ]
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0,
+     "gain": 0.2
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "1969년 12월 15일, 오하이오강에 새 다리가 열립니다.",
+    "무너진 날로부터 [정확히 2년] 뒤였죠."
+   ],
+   "params": {
+    "key": "bridges_aerial",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "grade": "cold",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {
+     "name": "heartbeat",
+     "at": 0,
+     "bpm": 56,
+     "gain": 0.35
+    }
+   ],
+   "lead": 0.4
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "모스맨은 [증언]만 남겼습니다.",
+    "하지만 다리는, 3밀리짜리 [균열]까지 기록으로 남겼습니다."
+   ],
+   "params": {
+    "key": "bridge_collapsed",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.15
+    ],
+    "crop": [
+     0.012,
+     0.2,
+     0.988,
+     0.985
+    ],
+    "grade": "bw",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:균열까지",
+     "gain": 0.4
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "어쩌면 진짜 경고는 날개가 아니라, [강철 속에] 있었는지도 모릅니다.",
+    "그날 밤 붉은 눈의 정체가 무엇이었는지는, 아무도 모릅니다."
+   ],
+   "params": {
+    "key": "forest_moon",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.4
+    ],
+    "focus": [
+     [
+      0.5,
+      0.5
+     ],
+     [
+      0.5,
+      0.74
+     ]
+    ],
+    "eyes": [
+     [
+      0.475,
+      0.76,
+      0.009
+     ],
+     [
+      0.525,
+      0.76,
+      0.009
+     ]
+    ],
+    "glitch": [
+     "word:정체가"
+    ],
+    "exposure": 0.72
+   },
+   "sfx": [
+    {
+     "name": "boom",
+     "at": "word:정체가",
+     "gain": 0.7
+    },
+    {
+     "name": "screech",
+     "at": "word:정체가",
+     "offset": 0.4,
+     "gain": 0.2
+    }
+   ],
+   "events": {
+    "eyes": "정체가"
+   },
+   "impact": [
+    "word:정체가"
+   ],
+   "pad": 0.6
+  },
+  {
+   "scene": "photo_end",
+   "lines": [
+    "파일404, [기록을 닫습니다]."
+   ],
+   "params": {
+    "key": "statue",
+    "mode": "fill",
+    "zoom": [
+     1.1,
+     1.2
+    ],
+    "exposure": 0.6,
+    "next": "다음 파일 ▶ 네스호의 괴물"
+   },
+   "sfx": [
+    {
+     "name": "static",
+     "at": 0.0,
+     "gain": 0.5
+    },
+    {
+     "name": "boom",
+     "at": 0.05,
+     "gain": 0.45
+    },
+    {
+     "name": "typewriter",
+     "at": 0.6,
+     "keys": 14,
+     "gain": 0.3
+    }
+   ],
+   "pad": 2.5
+  }
+ ],
+ "upload": {
+  "titles": [
+   "다리가 무너지기 13개월 전부터 목격된 붉은 눈의 나방 인간 [미스터리]",
+   "46명이 숨진 다리, 그리고 그 위의 붉은 눈 | 모스맨 사건 전말",
+   "재앙을 예고한다는 정체불명의 나방 인간, 모스맨의 모든 기록 [미스터리]"
+  ],
+  "description": [
+   "1966년 11월, 미국 웨스트버지니아 포인트 플레전트. 사람보다 큰 날개 달린 '그것'이 붉은 눈으로 사람들을 쫓았습니다.",
+   "13개월 뒤, 46명이 숨진 실버 브리지 붕괴. 목격담과 참사는 어떻게 하나의 전설이 되었을까요.",
+   "",
+   "📁 File404 · 모스맨 (Mothman) 롱폼",
+   "00:00 콜드 오픈 · 다리 위의 37대",
+   "00:32 1장 · 무덤 파는 사람들",
+   "01:05 2장 · TNT 구역",
+   "02:33 3장 · 목격자들",
+   "04:01 4장 · 검은 옷의 남자들",
+   "04:58 5장 · 실버 브리지",
+   "06:36 6장 · 해부",
+   "07:43 7장 · 돌아온 날개",
+   "08:26 엔딩 · 정확히 2년 뒤",
+   "",
+   "▶ 확인된 사실의 출처",
+   "- NTSB 보고서 HAR-71-1 (1970) · Collapse of U.S. 35 Highway Bridge, Point Pleasant",
+   "- Smithsonian Folklife · An Ode to a Hometown Creature (2021)",
+   "- Joe Nickell, 'Mothman' Solved!, Skeptical Inquirer (2002)",
+   "- The Athens Messenger 1966년 기사 (메리 하이어)",
+   "",
+   "※ 목격담·예언·검은 옷의 남자 이야기는 전해지는 증언과 주장입니다. 다리 붕괴 원인은 NTSB 조사 결과입니다.",
+   "※ 다리 위 형체 장면은 재현 이미지입니다. 내레이션은 AI 음성입니다."
+  ],
+  "hashtags": [
+   "#모스맨",
+   "#미스터리",
+   "#File404",
+   "#실버브리지",
+   "#미확인생물"
+  ],
+  "tags": [
+   "모스맨",
+   "Mothman",
+   "모스맨 실화",
+   "실버브리지",
+   "실버 브리지 붕괴",
+   "포인트 플레전트",
+   "Point Pleasant",
+   "존 킬",
+   "맨 인 블랙",
+   "인드리드 콜드",
+   "미스터리",
+   "미스테리",
+   "미확인생물",
+   "UMA",
+   "크립티드",
+   "괴현상",
+   "미국 미스터리",
+   "공포 실화",
+   "File404",
+   "파일404"
+  ],
+  "pinned": "여러분 생각은? 🦉 길 잃은 올빼미였을까요, 아니면 정말 무언가가 경고하러 왔던 걸까요?\n👇 다음 파일은 네스호의 괴물입니다.",
+  "synthetic": true
+ }
+}

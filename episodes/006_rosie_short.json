@@ -1,0 +1,493 @@
+{
+ "id": "rosie_short",
+ "format": "short",
+ "title": [
+  "File404 · #006 로지",
+  "버려진 수족관의 백상아리"
+ ],
+ "root": 43.0,
+ "beats": [
+  {
+   "scene": "photo",
+   "lines": [
+    "한 남자가 [버려진 동물원]에 몰래 들어갑니다."
+   ],
+   "params": {
+    "key": "aband_hosp",
+    "mode": "fill",
+    "zoom": [
+     1.15,
+     1.35
+    ],
+    "grade": "cold",
+    "glitch": [
+     0.02
+    ]
+   },
+   "sfx": [
+    {
+     "name": "static",
+     "at": 0.02,
+     "gain": 0.45
+    },
+    {
+     "name": "thud",
+     "at": 0.02,
+     "gain": 0.8
+    },
+    {
+     "name": "whoosh",
+     "at": 0.1,
+     "gain": 0.3
+    }
+   ],
+   "impact": [
+    0.02
+   ],
+   "lead": 0.05
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "안쪽 창고 문을 열자,",
+    "5미터짜리 [백상아리]가 떠 있었습니다."
+   ],
+   "params": {
+    "key": "rosie",
+    "mode": "fit",
+    "zoom": [
+     1.05,
+     1.25
+    ],
+    "focus": [
+     [
+      0.5,
+      0.55
+     ],
+     [
+      0.5,
+      0.5
+     ]
+    ],
+    "glitch": [
+     "word:백상아리"
+    ],
+    "exposure": 1.05
+   },
+   "sfx": [
+    {
+     "name": "stab",
+     "at": "word:백상아리",
+     "gain": 0.75
+    },
+    {
+     "name": "static",
+     "at": "word:백상아리",
+     "gain": 0.4
+    }
+   ],
+   "impact": [
+    "word:백상아리"
+   ],
+   "stamp": [
+    "WILDLIFE WONDERLAND",
+    "BASS, VICTORIA — CLOSED 2012"
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "죽은 지 [20년] 된 상어가, 혼자서요."
+   ],
+   "params": {
+    "key": "gw_tank",
+    "mode": "fill",
+    "zoom": [
+     1.1,
+     1.3
+    ],
+    "grade": "cold",
+    "exposure": 0.9,
+    "music": 0.5
+   },
+   "sfx": [
+    {
+     "name": "sub",
+     "at": "word:혼자서요",
+     "gain": 0.4
+    }
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "1997년, 남호주.",
+    "참치 그물에 걸린 상어는 [사살]됐습니다."
+   ],
+   "params": {
+    "key": "seine",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.2
+    ],
+    "grade": "cold",
+    "exposure": 0.7
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.25,
+     "keys": 22,
+     "gain": 0.28
+    },
+    {
+     "name": "sub",
+     "at": "word:사살됐습니다",
+     "gain": 0.5
+    }
+   ],
+   "stamp": [
+    "SOUTH AUSTRALIA",
+    "1997"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그런데 옮겨지던 중, 트럭이 [압수]됩니다."
+   ],
+   "params": {
+    "key": "crane_truck",
+    "mode": "fill",
+    "zoom": [
+     1.05,
+     1.25
+    ],
+    "grade": "cold",
+    "exposure": 0.6
+   },
+   "sfx": [
+    {
+     "name": "knock",
+     "at": "word:압수됩니다",
+     "gain": 0.6
+    },
+    {
+     "name": "whoosh",
+     "at": 0.0,
+     "gain": 0.25
+    }
+   ],
+   "impact": [
+    "word:압수됩니다"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "같은 해변에서 [여자 한 명]이 실종됐거든요."
+   ],
+   "params": {
+    "key": "bass_coast",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.18
+    ],
+    "grade": "cold",
+    "exposure": 0.55,
+    "label": "이미지 · 호주 남부 해안",
+    "music": 0.15
+   },
+   "sfx": [
+    {
+     "name": "stab",
+     "at": "word:실종됐거든요",
+     "gain": 0.55
+    }
+   ],
+   "pad": 0.6
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "박물관에서 상어의 [배를 갈랐지만],",
+    "사람은 나오지 않았습니다."
+   ],
+   "params": {
+    "key": "jars",
+    "mode": "fill",
+    "zoom": [
+     1.1,
+     1.3
+    ],
+    "grade": "cold",
+    "exposure": 0.6,
+    "music": 0.35
+   },
+   "sfx": [
+    {
+     "name": "thud",
+     "at": "word:갈랐지만",
+     "gain": 0.6
+    }
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "[2012년], 공원이 문을 닫습니다.",
+    "동물들은 구조됐고, [죽은 상어]만 남았죠."
+   ],
+   "params": {
+    "key": "aband_flood",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.22
+    ],
+    "grade": "cold"
+   },
+   "sfx": [
+    {
+     "name": "typewriter",
+     "at": 0.2,
+     "keys": 18,
+     "gain": 0.26
+    },
+    {
+     "name": "sub",
+     "at": "word:남았죠",
+     "gain": 0.4
+    }
+   ],
+   "stamp": [
+    "LICENCE REVOKED",
+    "ANIMALS SURRENDERED — 2012"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "6년 뒤, 사람들이 [이빨]을 뽑으려고",
+    "수조를 내리쳤습니다."
+   ],
+   "params": {
+    "key": "glass_broken",
+    "mode": "fill",
+    "zoom": [
+     1.25,
+     1.05
+    ],
+    "grade": "cold",
+    "exposure": 0.55
+   },
+   "sfx": [
+    {
+     "name": "metal",
+     "at": "word:내리쳤습니다",
+     "gain": 0.45
+    },
+    {
+     "name": "knock",
+     "at": "word:이빨을",
+     "gain": 0.5
+    }
+   ],
+   "impact": [
+    "word:내리쳤습니다"
+   ],
+   "shake": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "유리가 갈라지고 [발암물질]이 새어 나왔죠."
+   ],
+   "params": {
+    "key": "glass_broken2",
+    "mode": "fill",
+    "zoom": [
+     1.3,
+     1.5
+    ],
+    "grade": "cold",
+    "exposure": 0.5,
+    "glitch": [
+     "word:발암물질"
+    ],
+    "music": 0.2
+   },
+   "sfx": [
+    {
+     "name": "static",
+     "at": "word:발암물질",
+     "gain": 0.4
+    },
+    {
+     "name": "thud",
+     "at": "word:발암물질",
+     "gain": 0.55
+    }
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "2019년, 한 남자가 [크레인]으로 로지를 꺼냈습니다."
+   ],
+   "params": {
+    "key": "rosie",
+    "mode": "fill",
+    "zoom": [
+     1.35,
+     1.15
+    ],
+    "focus": [
+     [
+      0.45,
+      0.45
+     ],
+     [
+      0.5,
+      0.5
+     ]
+    ],
+    "exposure": 0.95
+   },
+   "sfx": [
+    {
+     "name": "whoosh",
+     "at": 0.0,
+     "gain": 0.3
+    },
+    {
+     "name": "rumble",
+     "end_at": "word:꺼냈습니다",
+     "gain": 0.25
+    }
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "누가 괴물이었을까요.",
+    "지금도 어딘가엔, [아무도 데려가지 않은 것]이 남아 있습니다."
+   ],
+   "params": {
+    "key": "gw_dark",
+    "mode": "fill",
+    "zoom": [
+     1.0,
+     1.25
+    ],
+    "grade": "cold",
+    "exposure": 0.8,
+    "music": 0.6
+   },
+   "sfx": [
+    {
+     "name": "screech",
+     "at": "word:괴물이었을까요",
+     "offset": 0.3,
+     "gain": 0.18
+    },
+    {
+     "name": "boom",
+     "at": "word:않은",
+     "gain": 0.6
+    }
+   ],
+   "impact": [
+    "word:않은"
+   ],
+   "pad": 0.7
+  },
+  {
+   "scene": "photo_end",
+   "lines": [],
+   "params": {
+    "key": "gw_agulhas",
+    "mode": "fill",
+    "zoom": [
+     1.1,
+     1.2
+    ],
+    "exposure": 1.1,
+    "next": "다음 파일 ▶ #007 빅풋"
+   },
+   "sfx": [
+    {
+     "name": "static",
+     "at": 0.0,
+     "gain": 0.5
+    },
+    {
+     "name": "boom",
+     "at": 0.05,
+     "gain": 0.45
+    },
+    {
+     "name": "typewriter",
+     "at": 0.3,
+     "keys": 14,
+     "gain": 0.3
+    }
+   ],
+   "min": 3.2
+  }
+ ],
+ "upload": {
+  "titles": [
+   "버려진 동물원에 20년 동안 혼자 남겨진 백상아리",
+   "문 닫은 수족관, 수조 안에 5미터 상어가 그대로 있었다",
+   "사람들이 이빨을 뽑으려고 수조를 내리쳤다 #로지"
+  ],
+  "description": [
+   "2018년, 호주 빅토리아의 버려진 야생공원에서 5미터짜리 백상아리가 발견됩니다.",
+   "2012년 공원이 문을 닫을 때 살아 있는 동물들은 모두 구조됐지만, 포름알데히드 수조 속의 '로지'는 그대로 남겨졌습니다.",
+   "",
+   "📁 File404 · #006 로지 (Rosie the Shark)",
+   "· 1997  남호주, 참치 그물에 걸려 사살 (길이 5m, 약 2톤)",
+   "· 운반 중 남호주 정부가 압수 — 실종 여성 수색을 위해 해부, 유해는 없었다",
+   "· 2000년 무렵  빅토리아주 배스의 Wildlife Wonderland 에 전시",
+   "· 2012  무허가 운영·동물 복지 문제로 폐쇄, 동물 130마리 인계",
+   "· 2018.11  어반 익스플로러 영상이 퍼지며 무단침입·기물파손",
+   "· 2019.02.21  크리스털 월드가 인수, 포름알데히드 15,000L 제거 후 이송",
+   "",
+   "▶ 출처: Wikipedia 'Rosie (shark)', Crystal World Australia, Natural History Museum(AU), Phillip Island & San Remo Advertiser, Nine.com.au, Vice, Newsweek",
+   "",
+   "※ 폐공원 내부 장면은 같은 분위기의 다른 폐건물 사진으로 재현했습니다. 내레이션은 AI 음성입니다."
+  ],
+  "hashtags": [
+   "#로지",
+   "#백상아리",
+   "#미스터리",
+   "#File404",
+   "#shorts",
+   "#폐허"
+  ],
+  "tags": [
+   "로지",
+   "로지 상어",
+   "Rosie the shark",
+   "백상아리",
+   "버려진 동물원",
+   "폐수족관",
+   "Wildlife Wonderland",
+   "크리스털 월드",
+   "호주 미스터리",
+   "도시탐험",
+   "어반엑스플로러",
+   "File404",
+   "파일404"
+  ],
+  "pinned": "살아 있는 동물 130마리는 모두 구조됐습니다. 죽은 상어만 남았죠.\n👇 다음 파일은 빅풋입니다.",
+  "synthetic": false
+ }
+}

@@ -1,0 +1,281 @@
+{
+ "id": "flatwoods_short",
+ "format": "short",
+ "title": [
+  "File404 · #014 플랫우즈 몬스터",
+  "공군 문서에 '괴물'이라고 적혀 있다"
+ ],
+ "root": 40.0,
+ "beats": [
+  {
+   "scene": "photo",
+   "lines": [
+    "1952년 9월 12일, 저녁 일곱 시 십오 분.",
+    "손전등 하나가 [이걸] 비췄습니다."
+   ],
+   "params": {
+    "key": "fw_owl_front",
+    "mode": "fill",
+    "zoom": [1.7, 1.3],
+    "focus": [[0.5, 0.42], [0.5, 0.45]],
+    "grade": "cold",
+    "exposure": 0.6,
+    "glitch": [0.02]
+   },
+   "sfx": [
+    {"name": "static", "at": 0.02, "gain": 0.45},
+    {"name": "thud", "at": 0.02, "gain": 0.85},
+    {"name": "screech", "at": 0.3, "gain": 0.18}
+   ],
+   "impact": [0.02],
+   "lead": 0.05,
+   "stamp": [
+    "FLATWOODS, W.VA.",
+    "SEPT. 12, 1952 \u00b7 7:15 PM"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "웨스트버지니아 플랫우즈.",
+    "인구 [300명]이 안 되는 마을."
+   ],
+   "params": {
+    "key": "fw_sign",
+    "mode": "fill",
+    "zoom": [1.1, 1.3],
+    "grade": "cold",
+    "exposure": 0.65
+   },
+   "sfx": [
+    {"name": "pulse", "at": 0.0, "bpm": 56, "gain": 0.16},
+    {"name": "typewriter", "at": 0.25, "keys": 22, "gain": 0.28}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "아이들이 미식축구를 하다가",
+    "[불덩어리]가 떨어지는 걸 봤습니다."
+   ],
+   "params": {
+    "key": "fw_meteor2",
+    "mode": "fill",
+    "zoom": [1.0, 1.25],
+    "grade": "cold",
+    "exposure": 0.75
+   },
+   "sfx": [
+    {"name": "riser", "end_at": "word:불덩어리가", "gain": 0.26},
+    {"name": "whoosh", "at": "word:불덩어리가", "gain": 0.35}
+   ],
+   "impact": ["word:불덩어리가"]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "언덕 위, 참나무 아래.",
+    "키 [3미터]. 핏빛 얼굴."
+   ],
+   "params": {
+    "key": "fw_oak",
+    "mode": "fill",
+    "zoom": [1.15, 1.4],
+    "grade": "cold",
+    "exposure": 0.45,
+    "music": 0.3
+   },
+   "sfx": [
+    {"name": "sub", "at": "word:얼굴", "gain": 0.5},
+    {"name": "heartbeat", "at": 0.0, "bpm": 58, "gain": 0.18}
+   ],
+   "impact": ["word:얼굴"],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "머리는 [스페이드 에이스] 모양이었고,",
+    "쉿 소리를 내며 미끄러져 왔다고 합니다."
+   ],
+   "params": {
+    "key": "fw_chair",
+    "mode": "fill",
+    "zoom": [1.2, 1.0],
+    "grade": "cold",
+    "exposure": 0.6,
+    "label": "플랫우즈 시청 앞 조형물",
+    "glitch": ["word:쉿"]
+   },
+   "sfx": [
+    {"name": "static", "at": "word:쉿", "gain": 0.4},
+    {"name": "stab", "at": "word:쉿", "gain": 0.55}
+   ],
+   "impact": ["word:쉿"],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그리고 [미 공군 문서]가 남아 있습니다."
+   ],
+   "params": {
+    "key": "fw_bolide",
+    "mode": "fill",
+    "zoom": [1.1, 1.3],
+    "grade": "cold",
+    "exposure": 0.7
+   },
+   "sfx": [
+    {"name": "typewriter", "at": 0.1, "keys": 26, "gain": 0.32}
+   ],
+   "stamp": [
+    "PROJECT BLUE BOOK",
+    "NARA NAID 28950718"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "'이른바 웨스트버지니아 괴물.",
+    "실제로는 그날의 [유성]이었다.'"
+   ],
+   "params": {
+    "key": "fw_meteor",
+    "mode": "fill",
+    "zoom": [1.25, 1.05],
+    "grade": "cold",
+    "exposure": 0.7,
+    "music": 0.2
+   },
+   "sfx": [
+    {"name": "typewriter", "at": 0.1, "keys": 24, "gain": 0.3},
+    {"name": "thud", "at": "word:유성이었다", "gain": 0.55}
+   ],
+   "impact": ["word:유성이었다"],
+   "flash": ["word:유성이었다"],
+   "pad": 0.55
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "회의론자의 답은 [가면올빼미]입니다."
+   ],
+   "params": {
+    "key": "fw_owl_face",
+    "mode": "fill",
+    "zoom": [1.3, 1.1],
+    "grade": "cold",
+    "exposure": 0.65
+   },
+   "sfx": [
+    {"name": "knock", "at": "word:가면올빼미입니다", "gain": 0.45}
+   ],
+   "pad": 0.45
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "쉿 소리를 냅니다. 발톱이 앞으로 나옵니다.",
+    "허리 아래는 [나뭇가지에 가려] 안 보입니다."
+   ],
+   "params": {
+    "key": "fw_owl_claw",
+    "mode": "fill",
+    "zoom": [1.1, 1.32],
+    "grade": "cold",
+    "exposure": 0.62
+   },
+   "sfx": [
+    {"name": "whoosh", "at": 0.0, "gain": 0.3},
+    {"name": "screech", "at": "word:나뭇가지에", "offset": 0.2, "gain": 0.15}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그런데 그 공군 문서는,",
+    "괴물에 대해서는 [한 글자도] 쓰지 않았습니다."
+   ],
+   "params": {
+    "key": "fw_sutton",
+    "mode": "fill",
+    "zoom": [1.0, 1.28],
+    "grade": "cold",
+    "exposure": 0.5,
+    "glitch": ["word:한"],
+    "music": 0.5
+   },
+   "sfx": [
+    {"name": "boom", "at": "word:한", "gain": 0.6},
+    {"name": "rumble", "end_at": "word:한", "gain": 0.22}
+   ],
+   "impact": ["word:한"],
+   "pad": 0.8
+  },
+  {
+   "scene": "photo_end",
+   "lines": [],
+   "params": {
+    "key": "fw_village",
+    "mode": "fill",
+    "zoom": [1.1, 1.2],
+    "grade": "cold",
+    "exposure": 0.65,
+    "next": "다음 파일 ▶ #015 추파카브라"
+   },
+   "sfx": [
+    {"name": "static", "at": 0.0, "gain": 0.5},
+    {"name": "boom", "at": 0.05, "gain": 0.45},
+    {"name": "typewriter", "at": 0.3, "keys": 14, "gain": 0.3}
+   ],
+   "min": 3.2
+  }
+ ],
+ "upload": {
+  "titles": [
+   "미 공군 문서에 '웨스트버지니아 괴물'이라고 적혀 있다",
+   "일곱 명이 같은 걸 봤다 | 1952년 플랫우즈 몬스터",
+   "공군은 유성이라고 했다. 그런데 괴물 칸은 비어 있었다"
+  ],
+  "description": [
+   "1952년 9월 12일 저녁, 웨스트버지니아 플랫우즈에서 아이들이 불덩어리가 떨어지는 것을 봤습니다.",
+   "손전등을 들고 언덕에 올라간 일곱 명은 참나무 아래에서 무언가를 봤다고 말했습니다.",
+   "",
+   "📁 File404 · #014 플랫우즈 몬스터 (Flatwoods Monster)",
+   "· 1952.09.12 저녁 7시 15분경  브랙스턴 카운티 플랫우즈, 인구 300명 미만의 마을",
+   "· 목격자: 메이 형제와 어머니 캐슬린 메이, 닐 넌리, 진 레먼 등 일곱 명",
+   "· 미 공군 Project Blue Book 플랫우즈 기록 카드(NARA NAID 28950718)에는 \"이른바 웨스트버지니아 괴물… 실제로는 9월 12일 워싱턴 지역에서 관측된 유성\"이라고 적혀 있다",
+   "· 그러나 디지털화된 Blue Book 자료 어디에도 '괴물' 자체에 대한 조사 보고서는 없다",
+   "· 회의론: 조 니켈(Skeptical Inquirer, 2000)의 가면올빼미 설",
+   "",
+   "▶ 출처: Project Blue Book 기록(NARA) · Joe Nickell, Skeptical Inquirer (2000) · Braxton County 지역 기록",
+   "",
+   "※ 1952년 당시 현장 사진과 스케치는 저작권이 있어 사용하지 않았습니다. 목격 장면은 재현이며, 의자 조형물은 현재 플랫우즈 시청 앞에 있는 관광 조형물입니다.",
+   "※ 목격자들의 사후 증상에 대한 기록은 출처마다 달라 이 영상에서는 다루지 않았습니다. 내레이션은 AI 음성입니다."
+  ],
+  "hashtags": [
+   "#플랫우즈몬스터",
+   "#UFO",
+   "#미스터리",
+   "#File404",
+   "#shorts",
+   "#웨스트버지니아"
+  ],
+  "tags": [
+   "플랫우즈 몬스터",
+   "Flatwoods Monster",
+   "브랙스턴 카운티 괴물",
+   "프로젝트 블루북",
+   "UFO",
+   "웨스트버지니아",
+   "모스맨",
+   "미확인생물",
+   "미스터리",
+   "File404",
+   "파일404"
+  ],
+  "pinned": "공군 문서는 하늘에 대해서는 결론을 냈습니다. 괴물에 대해서는 한 글자도 쓰지 않았고요.\n👇 다음 파일은 #015 추파카브라입니다.",
+  "synthetic": false
+ }
+}

@@ -1,0 +1,298 @@
+{
+ "id": "yeti_short",
+ "format": "short",
+ "title": [
+  "File404 · #010 예티",
+  "이름부터 번역 실수였다"
+ ],
+ "root": 42.0,
+ "beats": [
+  {
+   "scene": "photo",
+   "lines": [
+    "1951년, 해발 5천 미터 멘룽 빙하."
+   ],
+   "params": {
+    "key": "yt_print",
+    "mode": "fill",
+    "zoom": [1.5, 1.15],
+    "grade": "bw",
+    "exposure": 0.62,
+    "glitch": [0.02]
+   },
+   "sfx": [
+    {"name": "static", "at": 0.02, "gain": 0.45},
+    {"name": "thud", "at": 0.02, "gain": 0.85}
+   ],
+   "impact": [0.02],
+   "lead": 0.05,
+   "stamp": [
+    "MENLUNG GLACIER",
+    "NOV. 8, 1951"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "영국 원정대가 찍은 [이 사진] 한 장이",
+    "70년 동안 사람들을 산으로 보냈습니다."
+   ],
+   "params": {
+    "key": "yt_print2",
+    "mode": "fit",
+    "zoom": [1.1, 1.35],
+    "grade": "bw",
+    "exposure": 0.65
+   },
+   "sfx": [
+    {"name": "typewriter", "at": 0.25, "keys": 26, "gain": 0.28},
+    {"name": "whoosh", "at": 0.0, "gain": 0.25}
+   ],
+   "pad": 0.45
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그런데 이 괴물은 [이름부터] 틀렸습니다."
+   ],
+   "params": {
+    "key": "yt_1921",
+    "mode": "fill",
+    "zoom": [1.05, 1.28],
+    "grade": "bw",
+    "exposure": 0.6,
+    "glitch": ["word:이름부터"],
+    "music": 0.3
+   },
+   "sfx": [
+    {"name": "stab", "at": "word:이름부터", "gain": 0.6},
+    {"name": "static", "at": "word:이름부터", "gain": 0.35}
+   ],
+   "impact": ["word:이름부터"],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "1921년, 셰르파들이 말한 건 [메토 캉미].",
+    "'사람 곰', '눈사람'이라는 뜻이었죠."
+   ],
+   "params": {
+    "key": "yt_passport",
+    "mode": "fit",
+    "zoom": [1.15, 1.35],
+    "grade": "sepia",
+    "exposure": 0.58,
+    "label": "1921년 원정대 티베트 통행증"
+   },
+   "sfx": [
+    {"name": "typewriter", "at": 0.2, "keys": 24, "gain": 0.28}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그걸 받아 적은 캘커타의 한 기자가",
+    "'메토'를 [더러운]으로 잘못 옮기고,",
+    "멋을 부려 [끔찍한]으로 고쳐 씁니다."
+   ],
+   "params": {
+    "key": "yt_portrait",
+    "mode": "fit",
+    "zoom": [1.1, 1.3],
+    "grade": "sepia",
+    "exposure": 0.6,
+    "label": "1961년 잡지에 실린 상상도",
+    "glitch": ["word:끔찍한으로"]
+   },
+   "sfx": [
+    {"name": "typewriter", "at": 0.1, "keys": 34, "gain": 0.32},
+    {"name": "knock", "at": "word:끔찍한으로", "gain": 0.5}
+   ],
+   "impact": ["word:끔찍한으로"]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그렇게 [끔찍한 설인]이 태어났습니다."
+   ],
+   "params": {
+    "key": "yt_khumbu",
+    "mode": "fill",
+    "zoom": [1.0, 1.25],
+    "grade": "cold",
+    "exposure": 0.5,
+    "music": 0.5
+   },
+   "sfx": [
+    {"name": "riser", "end_at": "word:태어났습니다", "gain": 0.28},
+    {"name": "sub", "at": "word:태어났습니다", "gain": 0.45}
+   ],
+   "impact": ["word:태어났습니다"],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "100년 동안 원정대가 올라갔고,",
+    "사원의 [두피]까지 뜯어 내려왔습니다."
+   ],
+   "params": {
+    "key": "yt_scalp",
+    "mode": "fill",
+    "zoom": [1.1, 1.32],
+    "grade": "cold",
+    "exposure": 0.62,
+    "label": "쿰중 사원의 '예티 두피' (1998)"
+   },
+   "sfx": [
+    {"name": "screech", "at": "word:두피까지", "offset": 0.2, "gain": 0.16},
+    {"name": "knock", "at": "word:두피까지", "gain": 0.5}
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "2017년, 유전자 분석.",
+    "예티 유물 [9점] 중—"
+   ],
+   "params": {
+    "key": "yt_map",
+    "mode": "fit",
+    "zoom": [1.05, 1.25],
+    "grade": "cold",
+    "exposure": 0.65,
+    "label": "Lan et al. (2017), Royal Society Open Science",
+    "counter": [9, "점"]
+   },
+   "sfx": [
+    {"name": "typewriter", "at": 0.2, "keys": 20, "gain": 0.28},
+    {"name": "riser", "end_at": 2.6, "gain": 0.22}
+   ],
+   "pad": 0.3
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "[8점은 곰], [1점은 개]였습니다."
+   ],
+   "params": {
+    "key": "yt_bear",
+    "mode": "fill",
+    "zoom": [1.3, 1.1],
+    "grade": "cold",
+    "exposure": 0.68,
+    "music": 0.15
+   },
+   "sfx": [
+    {"name": "collapse", "at": "word:곰", "gain": 0.3},
+    {"name": "stab", "at": "word:곰", "gain": 0.55}
+   ],
+   "impact": ["word:곰"],
+   "flash": ["word:곰"],
+   "pad": 0.6
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "티베트 말로 '예티'는 원래 [바위 곰]이라는 뜻입니다."
+   ],
+   "params": {
+    "key": "yt_rolwaling",
+    "mode": "fill",
+    "zoom": [1.0, 1.22],
+    "grade": "cold",
+    "exposure": 0.6
+   },
+   "sfx": [
+    {"name": "whoosh", "at": 0.0, "gain": 0.25},
+    {"name": "thud", "at": "word:곰이라는", "gain": 0.5}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그들은 처음부터 [곰이라고] 말하고 있었어요."
+   ],
+   "params": {
+    "key": "yt_beding",
+    "mode": "fill",
+    "zoom": [1.2, 1.0],
+    "grade": "cold",
+    "exposure": 0.6,
+    "music": 0.55
+   },
+   "sfx": [
+    {"name": "boom", "at": "word:곰이라고", "gain": 0.55}
+   ],
+   "impact": ["word:곰이라고"],
+   "pad": 0.8
+  },
+  {
+   "scene": "photo_end",
+   "lines": [],
+   "params": {
+    "key": "yt_namche",
+    "mode": "fill",
+    "zoom": [1.1, 1.2],
+    "grade": "cold",
+    "exposure": 0.7,
+    "next": "다음 파일 ▶ #011 저지 데빌"
+   },
+   "sfx": [
+    {"name": "static", "at": 0.0, "gain": 0.5},
+    {"name": "boom", "at": 0.05, "gain": 0.45},
+    {"name": "typewriter", "at": 0.3, "keys": 14, "gain": 0.3}
+   ],
+   "min": 3.2
+  }
+ ],
+ "upload": {
+  "titles": [
+   "세상에서 가장 유명한 괴물의 이름은 번역 실수였다",
+   "예티 유물 9점을 분석했더니 8점이 곰이었다",
+   "셰르파들은 처음부터 곰이라고 말하고 있었다 #예티"
+  ],
+  "description": [
+   "1951년 에릭 시프턴이 멘룽 빙하에서 찍은 발자국 사진 한 장이 70년 동안 사람들을 히말라야로 보냈습니다.",
+   "그런데 '끔찍한 설인(Abominable Snowman)'이라는 이름 자체가 1921년의 오역에서 나왔습니다.",
+   "",
+   "📁 File404 · #010 예티 (Yeti)",
+   "· 1921  하워드베리 원정대가 라크파 라에서 발자국 목격. 셰르파가 말한 단어는 'metoh-kangmi'(사람 곰 · 눈사람)",
+   "· 캘커타 The Statesman 기고가 Henry Newman이 metoh를 'filthy'로 옮긴 뒤 'abominable'로 고쳐 씀 — 본인이 훗날 The Times에 \"창작\"이라고 고백",
+   "· 1951.11.08  에릭 시프턴, 멘룽 빙하에서 발자국 촬영",
+   "· 1960~61  힐러리 원정대가 쿰중 사원의 '예티 두피'를 반출해 분석",
+   "· 2014  브라이언 사이크스 연구 → 2014년 말 반박 논문",
+   "· 2017  Lan et al. (Royal Society Open Science) — 예티 유물 9점 중 8점이 곰, 1점이 개",
+   "· 티베트어 g.ya' dred = '바위 곰'",
+   "",
+   "▶ 출처: Lan et al., Royal Society Open Science (2017) · Sykes et al., Proc. R. Soc. B (2014) · Stars and Stripes (1960-12-11) · Howard-Bury, Mount Everest: The Reconnaissance (1921)",
+   "",
+   "※ 히말라야불곰은 현재 IUCN 적색목록 '위급(CR)' 단계입니다. 내레이션은 AI 음성입니다."
+  ],
+  "hashtags": [
+   "#예티",
+   "#설인",
+   "#히말라야",
+   "#File404",
+   "#shorts",
+   "#미스터리"
+  ],
+  "tags": [
+   "예티",
+   "설인",
+   "Yeti",
+   "Abominable Snowman",
+   "시프턴 발자국",
+   "히말라야",
+   "쿰중 두피",
+   "히말라야불곰",
+   "미확인생물",
+   "File404",
+   "파일404"
+  ],
+  "pinned": "티베트 말로 '예티'는 '바위 곰'이라는 뜻입니다. 셰르파들은 처음부터 곰이라고 말하고 있었죠.\n👇 다음 파일은 #011 저지 데빌입니다.",
+  "synthetic": false
+ }
+}

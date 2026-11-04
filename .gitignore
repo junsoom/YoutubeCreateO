@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+cache/
+output/
+__pycache__/
+.secrets/
+.env
+업로드_기록.tmp

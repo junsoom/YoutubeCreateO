@@ -1,0 +1,287 @@
+{
+ "id": "kraken_short",
+ "format": "short",
+ "title": [
+  "File404 · #013 크라켄",
+  "전설이 욕조에 걸린 날"
+ ],
+ "root": 36.0,
+ "beats": [
+  {
+   "scene": "photo",
+   "lines": [
+    "지름 [27센티미터].",
+    "지구에서 가장 큰 눈 중 하나입니다."
+   ],
+   "params": {
+    "key": "kr_eye",
+    "mode": "fill",
+    "zoom": [1.55, 1.25],
+    "grade": "cold",
+    "exposure": 0.65,
+    "glitch": [0.02]
+   },
+   "sfx": [
+    {"name": "static", "at": 0.02, "gain": 0.45},
+    {"name": "sub", "at": 0.02, "gain": 0.6},
+    {"name": "pulse", "at": 0.0, "bpm": 50, "gain": 0.16}
+   ],
+   "impact": [0.02],
+   "lead": 0.05,
+   "stamp": [
+    "ARCHITEUTHIS DUX",
+    "EYE \u00b7 27 cm"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "[800년 전], 노르웨이 왕이 아들에게 말합니다.",
+    "'바다에 섬처럼 생긴 것이 있다.'"
+   ],
+   "params": {
+    "key": "kr_mirror",
+    "mode": "fit",
+    "zoom": [1.15, 1.35],
+    "grade": "sepia",
+    "exposure": 0.6,
+    "label": "『왕의 거울』 사본"
+   },
+   "sfx": [
+    {"name": "typewriter", "at": 0.2, "keys": 26, "gain": 0.3}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "사람들은 그걸 [크라켄]이라고 불렀습니다.",
+    "배를 끌어내리는 괴물. [전설]이었죠."
+   ],
+   "params": {
+    "key": "kr_nehlig",
+    "mode": "fit",
+    "zoom": [1.1, 1.35],
+    "grade": "sepia",
+    "exposure": 0.55,
+    "glitch": ["word:전설이었죠"],
+    "label": "1881년 삽화"
+   },
+   "sfx": [
+    {"name": "riser", "end_at": "word:전설이었죠", "gain": 0.26},
+    {"name": "stab", "at": "word:전설이었죠", "gain": 0.5}
+   ],
+   "impact": ["word:전설이었죠"],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "[1861년], 프랑스 군함이 그걸 잡으려 합니다."
+   ],
+   "params": {
+    "key": "kr_alecton",
+    "mode": "fit",
+    "zoom": [1.05, 1.28],
+    "grade": "sepia",
+    "exposure": 0.62,
+    "label": "알렉토호 사관들이 그린 수채화"
+   },
+   "sfx": [
+    {"name": "whoosh", "at": 0.0, "gain": 0.3},
+    {"name": "typewriter", "at": 0.25, "keys": 20, "gain": 0.26}
+   ],
+   "stamp": [
+    "CORVETTE ALECTON",
+    "NOV. 30, 1861"
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "총알이 그냥 통과했고,",
+    "밧줄이 몸을 [두 동강] 냈습니다."
+   ],
+   "params": {
+    "key": "kr_alecton2",
+    "mode": "fit",
+    "zoom": [1.2, 1.4],
+    "grade": "sepia",
+    "exposure": 0.58,
+    "music": 0.25
+   },
+   "sfx": [
+    {"name": "metal", "at": "word:동강", "gain": 0.4},
+    {"name": "screech", "at": "word:동강", "offset": 0.15, "gain": 0.16}
+   ],
+   "impact": ["word:동강"],
+   "flash": ["word:동강"],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "갑판에 남은 건 꼬리 [14킬로그램].",
+    "학계는 믿지 않았습니다."
+   ],
+   "params": {
+    "key": "kr_dingle",
+    "mode": "fit",
+    "zoom": [1.1, 1.3],
+    "grade": "sepia",
+    "exposure": 0.6,
+    "label": "1673년 아일랜드 좌초 기록화"
+   },
+   "sfx": [
+    {"name": "thud", "at": "word:않았습니다", "gain": 0.5}
+   ],
+   "pad": 0.5
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "[1873년], 뉴펀들랜드의 한 목사가",
+    "욕조에 그것을 걸고 사진을 찍습니다."
+   ],
+   "params": {
+    "key": "kr_bathtub",
+    "mode": "fit",
+    "zoom": [1.0, 1.25],
+    "grade": "bw",
+    "exposure": 0.65,
+    "label": "로지베이 대왕오징어 · 1873"
+   },
+   "sfx": [
+    {"name": "heartbeat", "at": 0.0, "bpm": 54, "gain": 0.2},
+    {"name": "typewriter", "at": 0.3, "keys": 22, "gain": 0.28}
+   ]
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "본인 말입니다.",
+    "'[사진은 거짓말을 못 한다.]'"
+   ],
+   "params": {
+    "key": "kr_harvey",
+    "mode": "fit",
+    "zoom": [1.15, 1.35],
+    "grade": "bw",
+    "exposure": 0.65,
+    "label": "모지스 하비 목사",
+    "music": 0.2
+   },
+   "sfx": [
+    {"name": "knock", "at": "word:못", "gain": 0.5}
+   ],
+   "impact": ["word:못"],
+   "pad": 0.55
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그렇게 전설은 [표본]이 됐습니다."
+   ],
+   "params": {
+    "key": "kr_verrill",
+    "mode": "fit",
+    "zoom": [1.1, 1.3],
+    "grade": "sepia",
+    "exposure": 0.62,
+    "label": "베릴의 1882년 학술 도판"
+   },
+   "sfx": [
+    {"name": "sub", "at": "word:표본이", "gain": 0.45}
+   ],
+   "pad": 0.45
+  },
+  {
+   "scene": "photo",
+   "lines": [
+    "그런데 살아 있는 모습을 바다에서 찍기까지,",
+    "[131년]이 더 걸렸습니다."
+   ],
+   "params": {
+    "key": "kr_tentacle",
+    "mode": "fill",
+    "zoom": [1.0, 1.3],
+    "grade": "cold",
+    "exposure": 0.55,
+    "counter": [131, "년"],
+    "glitch": ["word:131년이"],
+    "music": 0.5
+   },
+   "sfx": [
+    {"name": "boom", "at": "word:131년이", "gain": 0.6},
+    {"name": "rumble", "end_at": "word:131년이", "gain": 0.22}
+   ],
+   "impact": ["word:131년이"],
+   "pad": 0.8
+  },
+  {
+   "scene": "photo_end",
+   "lines": [],
+   "params": {
+    "key": "kr_size",
+    "mode": "fit",
+    "zoom": [1.1, 1.2],
+    "grade": "cold",
+    "exposure": 0.8,
+    "next": "다음 파일 ▶ #014 플랫우즈 몬스터"
+   },
+   "sfx": [
+    {"name": "static", "at": 0.0, "gain": 0.5},
+    {"name": "boom", "at": 0.05, "gain": 0.45},
+    {"name": "typewriter", "at": 0.3, "keys": 14, "gain": 0.3}
+   ],
+   "min": 3.2
+  }
+ ],
+ "upload": {
+  "titles": [
+   "전설이 욕조에 걸린 날 | 크라켄과 대왕오징어",
+   "800년 동안 전설이었던 괴물이 사진 한 장으로 사실이 됐다",
+   "총알이 통과했다 | 1861년 프랑스 군함이 만난 것"
+  ],
+  "description": [
+   "13세기 중반 노르웨이의 『왕의 거울』에는 바다에 섬처럼 생긴 거대한 생물이 있다는 기록이 남아 있습니다.",
+   "수백 년 동안 전설이던 그것은, 1873년 뉴펀들랜드에서 찍힌 사진 한 장으로 과학의 대상이 됐습니다.",
+   "",
+   "📁 File404 · #013 크라켄과 대왕오징어 (Architeuthis dux)",
+   "· 13세기 중반  『왕의 거울』(Konungs skuggsjá) — 바다의 거대 생물 기록",
+   "· 1861.11.30  프랑스 군함 알렉토호가 포획 시도, 꼬리 약 14kg만 회수",
+   "· 1873.11  뉴펀들랜드 로지베이. 모지스 하비 목사가 욕조에 걸어 촬영",
+   "· 1874  하비가 아가시에게 보낸 편지 — 촉완 실측 17피트, 전체 33~35피트",
+   "· 1882  베릴이 Architeuthis dux 로 학술 기재",
+   "· 2004.09  구보데라 쓰네미 팀이 야생 개체 첫 촬영 (수심 약 900m, 4시간 13분)",
+   "· 2019  멕시코만 759m에서 미국 연구팀 촬영",
+   "",
+   "▶ 출처: American Naturalist (1874) 하비의 편지 · Kubodera & Mori, Proc. R. Soc. B (2005) · Konungs skuggsjá 사본 · Verrill (1882)",
+   "",
+   "※ 대왕오징어(Architeuthis)와 콜로사어(Mesonychoteuthis)는 서로 다른 종입니다. 이 영상은 대왕오징어만 다룹니다.",
+   "※ 2004·2012·2019년 촬영 영상은 저작권이 있어 사용하지 않았습니다. 내레이션은 AI 음성입니다."
+  ],
+  "hashtags": [
+   "#크라켄",
+   "#대왕오징어",
+   "#심해",
+   "#File404",
+   "#shorts",
+   "#미스터리"
+  ],
+  "tags": [
+   "크라켄",
+   "Kraken",
+   "대왕오징어",
+   "Architeuthis",
+   "심해 괴물",
+   "왕의 거울",
+   "알렉토호",
+   "모지스 하비",
+   "미확인생물",
+   "File404",
+   "파일404"
+  ],
+  "pinned": "\"사진은 거짓말을 못 한다.\" 1873년, 모지스 하비 목사가 욕조에 대왕오징어를 걸고 한 말입니다.\n👇 다음 파일은 #014 플랫우즈 몬스터입니다.",
+  "synthetic": false
+ }
+}
