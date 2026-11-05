@@ -1,0 +1,19 @@
+:root { --ink:#1b1f27; --grey:#5f6470; --line:#e3e5ea; --red:#cc0000; --bg:#ffffff; --card:#f7f8fa; }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.65 -apple-system, "Segoe UI", Roboto, "Apple SD Gothic Neo", sans-serif; }
+header { border-bottom:1px solid var(--line); }
+.wrap { max-width:860px; margin:0 auto; padding:0 20px; }
+.top { display:flex; align-items:center; justify-content:space-between; gap:16px; padding:18px 0; flex-wrap:wrap; }
+.brand { font-weight:800; font-size:22px; letter-spacing:.5px; text-decoration:none; color:var(--ink); }
+.brand span { color:var(--red); }
+nav a { color:var(--grey); text-decoration:none; margin-left:18px; font-size:15px; }
+nav a:hover, footer a:hover { color:var(--ink); text-decoration:underline; }
+main { padding:40px 0 60px; }
+h1 { font-size:34px; line-height:1.25; margin:0 0 8px; }
+h2 { font-size:21px; margin:34px 0 8px; }
+.muted { color:var(--grey); }
+.card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:20px 22px; margin:24px 0; }
+ul { padding-left:22px; }
+code { background:#eef0f3; padding:1px 6px; border-radius:5px; font-size:15px; }
+footer { border-top:1px solid var(--line); padding:22px 0 40px; font-size:15px; color:var(--grey); }
+footer a { color:var(--grey); margin-right:18px; }

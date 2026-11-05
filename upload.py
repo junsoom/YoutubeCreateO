@@ -21,6 +21,8 @@ from pathlib import Path
 warnings.filterwarnings("ignore")   # 파이썬 3.9·LibreSSL 경고 (동작에는 문제없음)
 
 ROOT = Path(__file__).resolve().parent
+sys.path.insert(0, str(ROOT))
+from engine import paths  # noqa: E402
 SECRETS = ROOT / ".secrets"
 CLIENT = SECRETS / "client_secret.json"
 TOKEN = SECRETS / "youtube_token.json"
@@ -54,8 +56,8 @@ def videos():
             continue
         if not isinstance(spec, dict) or "upload" not in spec or "id" not in spec:
             continue
-        folder = ROOT / "output" / spec["id"]
-        mp4 = folder / f"{spec['id']}.mp4"
+        folder = paths.out_dir(spec)
+        mp4 = paths.video_path(spec)
         if not mp4.exists() or time.time() - mp4.stat().st_mtime < 120:
             continue
         out[spec["id"]] = dict(spec=spec, spec_file=f, video=mp4, folder=folder, long=spec.get("format") == "long")

@@ -1,0 +1,363 @@
+How did Flight 19 get lost?
+Introduction
+On 5th December 1945 a formation of US Navy Grumman Avenger torpedo bombers, on a training mission out of Fort Lauderdale, Florida went missing. This is an enduring mystery, but the explanation lies not in the paranormal or the geo-physical properties of the Bermuda Triangle but in the complexities of the human mind and how apparently rational people can lose the plot and allow themselves to be led to disaster. 
+To explain what happened to Flight 19 we must describe a sequence of events between two known points; from the bombing range at Hen and Chicken Shoals at about 15:00 to the only radio direction finding fix at 17:50 which was within a radius of 100 miles of 29N 79W. To do this we can take the various radio transcripts and testimonies from the Board of Enquiry to create a timeline of events and a plot of the headings and timings.
+The Weather
+The flying conditions were described as average, but undesirable in the showers and in the gusty conditions during take-off and landing. The weather was about 8 to 12 miles visibility with broken cloud at 3000 feet and 2 miles visibility with a 1500 feet cloud base in the showers.  The wind at height was quite strong from the Southwest. It was forecast as 241 degrees 31knots at 1000ft and 240 degrees 36kts at 3000ft.
+The Route
+The route of Navigation Problem No 1 was given in tabular form starting with a Lat Long fix which corresponded to Ft Lauderdale Naval Air Station and then four tracks as follows:
+026o 03’ N 80o 07’ W       (Position1: Ft Lauderdale NAS)
+091oT 56 nm                    (Pos 2: Hen & Chicken Shoals Bombing Range)
+091oT 67nm                     (Pos 3)
+346oT 73nm                     (Pos 4: Great Sale Cay)
+241oT 120nm                   (Pos 5: Ft Lauderdale NAS)
+
+In 1945 the magnetic variation in the Florida area was about zero so that True North and Magnetic North were about the same. The flying time for this route at the Avenger’s cruising speed of 187 knots was 1 hour 40 minutes.  With the forecast wind, the flight time was 1hr 44min with an additional 20 minutes allowed for the bombing exercise. The route was to be flown at an altitude of 700 to 1000 feet
+ 
+
+This is the basic flight plan plotted in Figure 1:
+From
+To
+Wind
+Trk
+Aspd
+Hdg
+G/s
+Dist
+Time
+S/c
+Eta
+Pos 1
+Pos2
+241/31
+91
+187
+96
+212
+56
+16
+14:10
+14:26
+Pos 2
+Pos 3
+241/31
+91
+187
+96
+212
+67
+19
+14:46
+15:05
+Pos 3
+Pos 4
+241/31
+346
+187
+337
+193
+73
+23
+15:05
+15:28
+Pos 4
+Pos 5
+241/31
+241
+187
+241
+156
+120
+46
+15:28
+16:14
+
+Figure 1
+Navigation Problem No 1
+ 
+Although there were four tracks this was regarded as a route with three legs, the route as drawn on a chart is a triangle. The first two tracks are the same direction, so they form the first side of the triangle, and the mid-point of that side was the location of the bombing range at Hen and Chicken Shoals. 
+The significance of this is connected to the fact that the Flight Instructor Lt Charles Taylor was observed walking out to his aircraft without his plotting board. The plotting board, along with a circular slide rule, enabled the pilot/navigator to calculate headings and timings in order to return to the aircraft carrier, using the forecast wind and the ship’s track and speed. Without the plotting board, Taylor would be relying on his memory and a mental picture of the route. The Board of Enquiry thought this detail was insignificant, thinking that the plotting board might already be on the aircraft. In any event the route information was correctly displayed on the blackboard in the briefing room when it was examined by the training staff after the event.
+The route is shown here with some topographical detail, but this topographical information was not depicted on the plotting board which was a purely dead-reckoning device. Whether the pilots had topographical charts as well I do not know.
+The Flight
+Taylor was late reporting for the flight, and they eventually took off at 14:08 probably forming up on the student flight Leader (probably Captain Powers USMC) with Taylor (FT28) in a shadowing position and setting course at 14:10. (All times are local)
+With a tailwind the first leg was quick, only 16 mins and they arrived at the bombing range at 14:26. Although 20 minutes was allowed for the bombing exercise, they were still there at 15:00 when one of the student pilots was heard on the radio asking for permission to drop his last bomb. If they set course on the second part of the first leg at 15:05 they would arrive at the first turning point (Pos 3) at 15:24 and estimating the second turning point (Pos 4) at 15:47.
+At around 15:40 Flight 19 was not in two-way communication with Ft Lauderdale but the radio messages between Taylor and the other pilots of Flight 19 were overheard by Lt Cox (FT74) who was airborne over Ft Lauderdale leading another flight.
+15:40-15:45
+FT28‘... don’t know where we are. We must have got lost after that last turn.’
+FT74‘This is FT74, plane or boat calling Powers identify yourself so that someone can help you.’
+FT28‘Both my compasses are out, and I am trying to find Ft Lauderdale Florida. I am over land, but it is broken. I'm sure I’m in the Keys but I don’t know how far down, and I don’t know how to get to Ft Lauderdale.’
+15:45
+FT28‘Am lost. At present time am over group of small islands believed to be the Florida Keys. My compass is out.’
+FT74‘Roger. Put the sun and the strip of islands on your port hand and you will be heading North. By doing this you should be able to reach the mainland. Continue flying North after you have passed over Miami as NAS Lauderdale is 20 miles North of Miami.’
+FT28‘Roger’
+FT28‘Can you have Miami or someone turn on their Radar gear and pick us up. We don’t seem to be getting far. We were out on a navigation hop and on the second leg I thought they were going wrong and took over and was flying them back to the right position, but I am sure now that neither one of my compasses are working.’
+Cox asked Taylor for his altitude. Taylor replied 2300 feet, later he reported at 3500 feet, well above or between the clouds. They could not be picked up on radar.
+Figure 2
+The timeline of Flight 19
+
+At that time around 15:45 Flight 19 was at the North end of the second track near to Great Sale Cay. Having taken the lead, Taylor should not be looking for Ft Lauderdale, he should be watching his timing and preparing to turn onto the third and final track which would take him to Ft Lauderdale. But Taylor seemed to have lost track of time and direction. Having been airborne for about 1hour 35minutes Taylor may have had the feeling that they were further along their course and close to the end point back at Ft Lauderdale. It is known that none of the aircraft in the flight had chronometers, but it was assumed that all the pilots would have their Navy issue wristwatch. So, did Taylor have a timepiece, or did he forget that too? And why did he think his compasses were out?
+ During the bombing exercise Taylor would have been circling overhead. When circling, a magnetic compass spins erratically due to acceleration errors, and does not settle down onto a steady heading until the aircraft has been flying straight for a few seconds. The directional gyro, synchronised with the compass, gives a steadier reading but these effects are well known to experienced pilots. After the bombing exercise, the second part of the first leg to the East was a continuation of track 091 but, rolling out of his holding pattern and flying behind the student flight leader, did Taylor get the uneasy feeling that they should be heading North? Or, with the December sun behind him, if he thought they were already heading North, did he begin to doubt his compasses which were correctly showing East?
+Taylor said he took over on the second leg. It seems likely that Taylor took over after the student flight leader had made the Northbound turn. However, if Taylor thought they were already flying North before the turn, he may have mistaken this left turn as the turn onto the South-westerly heading which would take them back to base. Without his plotting board Taylor would not know the ETA for his turning point. If he had somehow got mixed up as to which leg of the flight he was on and without his plotting board to remind him, he may have thought he was on the third and final leg of the flight which should be towards the Southwest. However, on the second leg with both of his compasses reading Northwest (about 337), he thought his compasses were wrong. 
+Having overflown Grand Bahama and the turning point at Great Sale Cay and, having glimpsed land and islands between the clouds, he thought he had overflown South Florida and was over the Florida Keys. He had previously been based at Miami so that his mental picture of the situation may have been biased in that direction. At this point Cox should have told Taylor that he cannot be over the Keys and to fly West which was the standard advice issued to pilots flying in the training area East of Florida. Instead, Cox compounded Taylor’s delusion by telling him to fly North.
+According to the weather forecast, the upper cloud was increasing towards the evening and obscuring the sun, removing that source of orientation. If Taylor thought he had passed the South tip of Florida and was over the Florida Keys and disregarding his compass, he would turn left thinking to follow the Keys back to the mainland. In reality, and still disregarding his compasses, a left turn to follow the Cays of the Little Bahamas Bank would take him to the Northwest of Grand Bahama. The Cays are oriented approximately 120T/300T.
+ As they flew Northwest the air-sea rescue organisation picked them up,
+ 
+
+16:28
+ASR 4‘Suggest you have another plane in your flight with a good compass take over the lead and guide you back over the mainland
+FT28‘Roger
+16:31
+ FT28‘One of the other planes in the flight thinks if we head 270 we could hit land
+ After about 23 minutes he probably turned 180 degrees and flew back along the Cays heading about 120. In testimony, Cox said that at about 16:40 he heard Taylor say, 
+FT28  ‘...We got lost after flying 120...’ 
+For about an hour Taylor must have flown up and down the Cays until 16:45 when he announced the flight will fly 030 for 30 (or 45) minutes. The various radio transcripts are inconsistent but either way they only flew Northeast for about 22 minutes before the next turn at 17:07.
+Meanwhile Cox was flying South to the Keys to look for Taylor. As they flew apart, they lost radio contact and Cox finally realised that Taylor must be going North over the Bahamian Cays and reported this to Ft Lauderdale,
+FT74 ‘...(my) Position about 40 miles South of Ft Lauderdale transmissions fading therefore FT28 must be going North over Biminis or Bahamas.’
+At about 17:00 the students of Flight 19 begin questioning Taylor’s route. Lt Commander Donald J Poole from Flight Training at NAS Ft Lauderdale testified that at about 17:00, he heard on the radio two of the Flight 19 students,
+‘...If we would just fly west, we would get home’... ‘Dammit, if we would just fly west, we would get home...’
+But at about 17:07 Taylor radioed that they would fly East for 10mins, then at 17:15,
+FT28: ‘...I receive you very weak.  We are now flying 270...’ 
+Then at 17:17 he says he is still flying West. And again at 17:19,
+FT28‘...This is FT28 I am flying 270 degrees until I reach field or run out of gas. Planes fly close formation. When one plane drops to 10 gallons of gas all planes will land together.’ 
+Sunset was at 17:28.
+All the while the Search and Rescue organisation was trying to get a radio direction finding fix, but the signals were weak with interference on the frequency. Finally, at 17:50 there was enough information for Search and Rescue to issue a fix at 29N 79W, but it was vague with a circle of uncertainty of 100miles radius. They never broadcasted this information to Flight 19 as they thought Flight 19 was heading West. Nevertheless, two PBM Mariner flying boats were despatched from Banana River NAS to search the area and contact Flight 19. According to our plot, at 17:50 Flight 19 was within about 50 miles of the 29N 79W radio fix, still heading West.
+Taylor refused to change to the emergency frequency, 
+17:55
+FT28‘...I cannot change frequency I have to keep my planes intact’
+18:02
+FT28‘...We may have to ditch any minute’
+18:04
+FT28‘...Negative... What course are we on? We are over the gulf we dint go far enough East... How long we been on course? Suggest we fly due East until we run out of fuel... we have a better chance of being picked up...’
+At 18:04 Flight 19 had been going West for about an hour with a strong headwind and with nothing in sight, they must have been in despair, but they were probably only about 45 nm off the coast. Taylor turned the flight East again.  If instead they had kept going West, they would have made it to the Florida coast. At 18:17 the final call from Flight 19 was heard,
+18:17
+FT28‘...What course are we on... Affirmative... Im pretty sure we are over the gulf... we dint go far enough East... Suggest we fly due East until we run out of fuel... we have a better chance of being picked up...’
+FT28: ‘...When first man gets down to 10 gallons of gas, we will all land in the water together does everyone understand that?’
+At about 18:22 they were out of gas and facing a difficult night ditching in rough seas. They were then about 130nm East of Florida. (A longer flight time was possible if they had earlier slowed down to max endurance airspeed, but I assume they continued at cruising speed for maximum range).
+They never broke formation; such was the power of naval discipline. After ditching, if they got into their life rafts and drifted Northeast, they were always at the Northern limit of the search area.
+At 19:50 a ship reported seeing an explosion. One of the Mariner flying boats which had been dispatched to the fix to search for Flight 19 had blown up. 
+The search went on for five days. Scores of aircraft were used but other than an oil slick, no trace of Flight 19 or the missing PBM were found. These charts, showing the search areas for each day, are based on those published in the Board of Enquiry report. The Gulfstream current sets to the Northeast at about 4 knots so in 12 hours the survivors would drift 48 nm or 96 nm per day. 
+
+Conclusions
+What conclusions can we draw from these events? Taylor had asked to be relieved from the mission but had been declined. He had asked to be relieved from previous assignments so we can conclude his heart was not in it. On the day he was late and forgetful, so his mind was not on the job either. If he was distracted and thinking about other things during the flight, his mental picture of the route and in particular the timing would be disrupted.
+Against that was the stress of overseeing the flight and not wanting to show weakness or confusion. He asked for help from the ‘higher power’, the radar, but he would not allow the student flight leader who probably knew what to do (fly West) to resume command. That said, flying in formation is a demanding task and probably precluded the other pilots using their plotting boards to maintain a dead-reckoning plot, that being the responsibility of the leader.
+When Taylor became confused as to the direction he was flying, he decided his compasses were faulty. He could have confirmed his heading by reference to the compasses in the other aircraft. Instead, he fell into the process of confirmation bias in which he looked for information which confirmed his delusion instead of determining the real situation by a rational analysis of the available facts. Thus, he saw land through gaps in the cloud and concluded they were over the Florida Keys. Without a topographical chart he had no information as to which ‘other’ islands he could be flying over. He then appeared to forget the imaginary ‘problem’ with his compasses and set off looking for the missing Florida mainland.
+The other members of the flight were subject to military discipline and were reluctant to question the leadership of the Flight Instructor until he turned them East at about 17:00.
+Taylor finally turned the flight Westward, and the rest of the flight must have relaxed thinking the crisis would soon be over. However, after an hour of flying West into a stiff headwind and still no sight of land they must have been quite demoralised. Taylor was still confused thinking they must be over the Gulf and determined to fly East again despite the fact that they would be retracing their track over open water. Finally, Taylor appealed to their survival instinct to stay in formation for the ditching.
+ 
+
+The Timeline
+This is the complete timeline as a flight plan:
+
+From
+To
+Wind
+Trk
+Aspd-kts
+Hdg
+G/s-kts
+Dist-nm
+Time-min
+S/c
+Eta
+Pos1
+Pos2
+240/31
+91
+187
+96
+212
+56
+16
+14:10
+14:26
+Practice
+
+
+
+
+
+
+121
+39
+14:26
+15:05
+Pos2
+Pos3
+240/31
+91
+187
+96
+212
+67
+19
+15:05
+15:24
+Pos3
+Pos4
+240/31
+346
+187
+337
+193
+80
+25
+15:24
+15:49
+Pos4
+Pos5
+240/31
+292
+187
+286
+168
+65
+23
+15:49
+16:12
+Pos5
+Pos6
+240/36
+112
+187
+120
+208
+65
+19
+16:12
+16:31
+Pos6
+Pos7
+240/36
+112
+187
+120
+208
+25
+7
+16:31
+16:38
+Pos7
+Pos8
+240/36
+292
+187
+286
+168
+20
+7
+16:38
+16:45
+Pos8
+Pos10
+240/36
+35
+187
+30
+219
+80
+22
+16:45
+17:07
+Pos9/10
+Pos11
+240/36
+85
+187
+90
+219
+29
+8
+17:07
+17:15
+Pos11
+Pos12
+240/36
+271
+187
+270
+155
+90
+35
+17:15
+17:50
+Pos12
+Pos13
+240/36
+271
+187
+270
+155
+36
+14
+17:50
+18:04
+Pos13
+Pos14
+240/36
+85
+187
+90
+219
+66
+18
+18:04
+18:22
+
+
+
+
+
+
+Totals
+800
+252
+
+
+
+
+
+
+
+
+Hours
+
+4.2
+
+
+Notes
+Up to position 4 the calculations are based on the tracks and distances and the 1000ft wind. Position 4 was initially the turning point ETA 15:47 but here it is the point at which Flight 19 reaches the Cays at 15:49. From position 4 to position 8 the route is assumed to follow the Cays North of Grand Bahama. Position 6 is a radio call and position 9 is the radio expletive. From position 8 to position 14 the plot is based on the reported headings and times and the wind is stronger due to the higher altitude. Total distance flown was approximately 800nm in 4hours 12mins.
+The Search
+Knowing the direction-finding fix, the Gulfstream current and the prevailing wind, the initial search area was spot-on, but night had fallen and the loss of the PBM disrupted the overnight search effort. The best chance of finding the downed airmen was during the daytime of the following day, the 6th. However, the search was not concentrated, the extensive resources were spread over a huge area reflecting the utter confusion in the search and rescue organisation.  With hindsight it is easy to criticise the search effort and wonder why they did not concentrate their resources Northeast of the D/F fix, but the fix was extremely imprecise because of the poor quality of the individual bearings. Clearly, they had no idea where Flight 19 had gone and were searching the whole of the training area East of Florida as well as West of Florida and individual reports over the mainland.
+So, Flight 19 did not disappear without a trace. They left a trail of clues in the radio messages to within 5 minutes of ditching. But it was dark, the sea-state was rough and the current and the wind took them away to oblivion.
+As they say, Aviation is not inherently dangerous but is unforgiving of carelessness and mistakes.
+The Search areas
+Figure 3
+ The initial search on 5th December 1945
+
+
+ 
+
+Figure 4
+ The search areas on 6th December 1945
+
+ 
+
+Figure 5
+ The search areas on 7th December 1945
+ 
+ 
+
+Figure 6
+ The search areas on 8th December 1945
+ 
+ 
+
+Figure7
+ The search areas on 9th December 1945
+
+ 
+
+Figure 8
+ The search areas on 10th December 1945
+
+

@@ -2,7 +2,7 @@
 # 틀 통일 재렌더: 006 로지 → 004 디아틀로프 → 005 모스맨 롱폼
 cd /Users/junhyunglee/Desktop/Ai/YoutubeCreateO || exit 1
 for spec in episodes/006_rosie_short.json episodes/004_dyatlov_short.json episodes/005_mothman_long.json; do
-  id=$(./.venv/bin/python -c "import json,sys;print(json.load(open(sys.argv[1]))['id'])" "$spec")
+  id=$(./.venv/bin/python -c "import json,sys;from engine import paths;print(paths.out_name(json.load(open(sys.argv[1]))))" "$spec")
   echo "=== $(date '+%H:%M:%S') $id 렌더 시작"
   caffeinate -i -s ./.venv/bin/python make_video.py "$spec" --workers 4 > "output/$id/render.log" 2>&1
   echo "=== $(date '+%H:%M:%S') $id 종료 코드 $?"

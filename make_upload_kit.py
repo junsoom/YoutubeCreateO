@@ -9,7 +9,7 @@ import re
 import sys
 from pathlib import Path
 
-from engine import render
+from engine import paths, render
 from engine.photo import credits
 
 LIC_URL = {"CC BY-SA 3.0": "https://creativecommons.org/licenses/by-sa/3.0/",
@@ -86,7 +86,7 @@ def main():
     spec = json.loads(Path(sys.argv[1]).read_text())
     up = spec["upload"]
     long_form = spec.get("format") == "long"
-    out_dir = Path("output") / spec["id"]
+    out_dir = paths.out_dir(spec)
     out_dir.mkdir(parents=True, exist_ok=True)
     desc = description(spec)
     if len(desc) > 5000:

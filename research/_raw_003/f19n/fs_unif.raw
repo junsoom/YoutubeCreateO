@@ -1,0 +1,1445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://fivesides2atriangle.com/xmlrpc.php">
+
+<title>FLIGHT-19, MILITARY UNIFICATION &amp; NATIONAL SECURITY &#8211; Five Sides 2aTriangle </title>
+<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Ubuntu:b:latin,latin-ext","Arimo:r,i,b,bi:latin,latin-ext"]},"api_url":"https:\/\/fonts-api.wp.com\/css"};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = '/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active body{font-family:"Arimo",sans-serif}.wf-active input[type="color"], .wf-active input[type="date"], .wf-active input[type="datetime"], .wf-active input[type="datetime-local"], .wf-active input[type="email"], .wf-active input[type="month"], .wf-active input[type="number"], .wf-active input[type="password"], .wf-active input[type="search"], .wf-active input[type="tel"], .wf-active input[type="text"], .wf-active input[type="time"], .wf-active input[type="url"], .wf-active input[type="week"], .wf-active textarea{font-family:"Arimo",sans-serif}.wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6{font-family:"Ubuntu",sans-serif;font-weight:700;font-style:normal}.wf-active h1 small, .wf-active h2 small, .wf-active h3 small, .wf-active h4 small, .wf-active h5 small, .wf-active h6 small{font-size:78%;font-style:normal;font-weight:700}.wf-active h1{font-size:36.4px;font-style:normal;font-weight:700}.wf-active h2{font-size:31.2px;font-style:normal;font-weight:700}.wf-active h3{font-size:23.4px;font-style:normal;font-weight:700}.wf-active h4{font-size:18.2px;font-style:normal;font-weight:700}.wf-active h5{font-size:15.6px;font-style:normal;font-weight:700}.wf-active h6{font-size:14.3px;font-style:normal;font-weight:700}.wf-active .subtitle{font-weight:700;font-style:normal}.wf-active .site-description{font-size:20.8px;font-style:normal;font-weight:700}.wf-active .hero-section .hero-title{font-weight:700;font-size:46.8px;font-style:normal}.wf-active .home-posts-titles h2{font-weight:700;font-style:normal}.wf-active .featured-posts .entry-title{font-size:28.6px;font-style:normal;font-weight:700}.wf-active .error-404 .page-title{font-size:54.6px;font-style:normal;font-weight:700}.wf-active .error-404 .widget-title, .wf-active .error-404 .widgettitle{font-size:23.4px;font-style:normal;font-weight:700}.wf-active .page-title{font-size:31.2px;font-style:normal;font-weight:700}.wf-active .comment-reply-title{font-size:31.2px;font-style:normal;font-weight:700}.wf-active .widget-title{font-size:20.8px;font-style:normal;font-weight:700}@media screen and (min-width: 50em){.wf-active h1{font-size:70.2px;font-style:normal;font-weight:700}}@media screen and (min-width: 50em){.wf-active h2{font-size:54.6px;font-style:normal;font-weight:700}}@media screen and (min-width: 50em){.wf-active h3{font-size:36.4px;font-style:normal;font-weight:700}}@media screen and (min-width: 50em){.wf-active h4{font-size:26px;font-style:normal;font-weight:700}}@media screen and (min-width: 50em){.wf-active h5{font-size:23.4px;font-style:normal;font-weight:700}}@media screen and (min-width: 50em){.wf-active h6{font-size:18.2px;font-style:normal;font-weight:700}}@media screen and (min-width: 50em){.wf-active .home-posts-titles h2{font-size:54.6px;font-style:normal;font-weight:700}}</style>
+<meta name='robots' content='max-image-preview:large' />
+<meta name="google-site-verification" content="Flight-19" />
+<meta name="msvalidate.01" content="Flight-19" />
+
+<!-- Async WordPress.com Remote Login -->
+<script id="wpcom_remote_login_js">
+var wpcom_remote_login_extra_auth = '';
+function wpcom_remote_login_remove_dom_node_id( element_id ) {
+	var dom_node = document.getElementById( element_id );
+	if ( dom_node ) { dom_node.parentNode.removeChild( dom_node ); }
+}
+function wpcom_remote_login_remove_dom_node_classes( class_name ) {
+	var dom_nodes = document.querySelectorAll( '.' + class_name );
+	for ( var i = 0; i < dom_nodes.length; i++ ) {
+		dom_nodes[ i ].parentNode.removeChild( dom_nodes[ i ] );
+	}
+}
+function wpcom_remote_login_final_cleanup() {
+	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
+}
+
+// Watch for messages back from the remote login
+window.addEventListener( "message", function( e ) {
+	if ( e.origin === "https://r-login.wordpress.com" ) {
+		var data = {};
+		try {
+			data = JSON.parse( e.data );
+		} catch( e ) {
+			wpcom_remote_login_final_cleanup();
+			return;
+		}
+
+		if ( data.msg === 'LOGIN' ) {
+			// Clean up the login check iframe
+			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+
+			var id_regex = new RegExp( /^[0-9]+$/ );
+			var token_regex = new RegExp( /^.*|.*|.*$/ );
+			if (
+				token_regex.test( data.token )
+				&& id_regex.test( data.wpcomid )
+			) {
+				// We have everything we need to ask for a login
+				var script = document.createElement( "script" );
+				script.setAttribute( "id", "wpcom_remote_login_validate" );
+				script.src = '/remote-login.php?wpcom_remote_login=validate'
+					+ '&wpcomid=' + data.wpcomid
+					+ '&token=' + encodeURIComponent( data.token )
+					+ '&host=' + window.location.protocol
+					+ '//' + window.location.hostname
+					+ '&postid=3787'
+					+ '&is_singular=1';
+				document.body.appendChild( script );
+			}
+
+			return;
+		}
+
+		// Safari ITP, not logged in, so redirect
+		if ( data.msg === 'LOGIN-REDIRECT' ) {
+			window.location = 'https://wordpress.com/log-in?redirect_to=' + window.location.href;
+			return;
+		}
+
+		// Safari ITP, storage access failed, remove the request
+		if ( data.msg === 'LOGIN-REMOVE' ) {
+			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
+			var style_zap = document.createElement( 'style' );
+			style_zap.type = 'text/css';
+			style_zap.appendChild( document.createTextNode( css_zap ) );
+			document.body.appendChild( style_zap );
+
+			var e = document.getElementById( 'wpcom_request_access_iframe' );
+			e.parentNode.removeChild( e );
+
+			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
+
+			return;
+		}
+
+		// Safari ITP
+		if ( data.msg === 'REQUEST_ACCESS' ) {
+			console.log( 'request access: safari' );
+
+			// Check ITP iframe enable/disable knob
+			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
+				return;
+			}
+
+			// If we are in a "private window" there is no ITP.
+			var private_window = false;
+			try {
+				var opendb = window.openDatabase( null, null, null, null );
+			} catch( e ) {
+				private_window = true;
+			}
+
+			if ( private_window ) {
+				console.log( 'private window' );
+				return;
+			}
+
+			var iframe = document.createElement( 'iframe' );
+			iframe.id = 'wpcom_request_access_iframe';
+			iframe.setAttribute( 'scrolling', 'no' );
+			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
+			iframe.src = 'https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
+
+			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
+
+			var style = document.createElement( 'style' );
+			style.type = 'text/css';
+			style.id = 'wpcom_request_access_styles';
+			style.appendChild( document.createTextNode( css ) );
+			document.body.appendChild( style );
+
+			document.body.appendChild( iframe );
+		}
+
+		if ( data.msg === 'DONE' ) {
+			wpcom_remote_login_final_cleanup();
+		}
+	}
+}, false );
+
+// Inject the remote login iframe after the page has had a chance to load
+// more critical resources
+window.addEventListener( "DOMContentLoaded", function( e ) {
+	var iframe = document.createElement( "iframe" );
+	iframe.style.display = "none";
+	iframe.setAttribute( "scrolling", "no" );
+	iframe.setAttribute( "id", "wpcom_remote_login_key" );
+	iframe.src = "https://r-login.wordpress.com/remote-login.php"
+		+ "?wpcom_remote_login=key"
+		+ "&origin=aHR0cHM6Ly9maXZlc2lkZXMyYXRyaWFuZ2xlLmNvbQ%3D%3D"
+		+ "&wpcomid=97060865"
+		+ "&time=" + Math.floor( Date.now() / 1000 );
+	document.body.appendChild( iframe );
+}, false );
+</script>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//wordpress.com' />
+<link rel='dns-prefetch' href='//fonts-api.wp.com' />
+<link rel='dns-prefetch' href='//af.pubmine.com' />
+<link rel="alternate" type="application/rss+xml" title="Five Sides 2aTriangle  &raquo; Feed" href="https://fivesides2atriangle.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Five Sides 2aTriangle  &raquo; Comments Feed" href="https://fivesides2atriangle.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Five Sides 2aTriangle  &raquo; FLIGHT-19, MILITARY UNIFICATION &amp; NATIONAL&nbsp;SECURITY Comments Feed" href="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-2-1' href='/_static/??-eJx9zFEKAjEMRdENWaMiVD/EtZQ2DJ2mbTAJZXbvjAiCiJ+X5B0Y7GJvik2hmmOyKTeBkdOEKoC2XnvJ6CgMUKxMQVFAdCHcR5Ed/AZmVA6xvBvEGtSejNbtAzcjOe6iX/VPpFzw475qe7/X29FfT/7sDxc/PwEZm01H&cssminify=yes' type='text/css' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#3858e9;--wp-admin-theme-color--rgb:56,88,233;--wp-admin-theme-color-darker-10:#2145e6;--wp-admin-theme-color-darker-10--rgb:33.0384615385,68.7307692308,230.4615384615;--wp-admin-theme-color-darker-20:#183ad6;--wp-admin-theme-color-darker-20--rgb:23.6923076923,58.1538461538,214.3076923077;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}body.admin-color-fresh{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){body.admin-color-fresh{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}:root .has-inline-color,:root .has-link-color a,:root .has-text-color{-webkit-text-fill-color:currentColor}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;overflow-wrap:normal!important;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}@supports (not (-webkit-backdrop-filter:blur(1px))) and (not (-moz-appearance:none)){mtd[columnalign=right]{text-align:-webkit-right}mtd[columnalign=left]{text-align:-webkit-left}menclose[notation~=top]{border-top:.065em solid;padding-top:.1em}menclose[notation~=bottom]{border-bottom:.065em solid;padding-bottom:.1em}}
+
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/common.min.css */
+</style>
+<style id="wp-block-columns-inline-css">
+.wp-block-columns{box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns{align-items:normal!important}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:var(--wp--style--block-background-padding,1.25em 2.375em)}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:normal}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/columns/style.min.css */
+</style>
+<style id="wp-block-cover-inline-css">
+.wp-block-cover,.wp-block-cover-image{align-items:center;background-position:50%;box-sizing:border-box;display:flex;justify-content:center;min-height:430px;overflow:hidden;overflow:clip;padding:1em;position:relative}.wp-block-cover .has-background-dim:not([class*=-background-color]),.wp-block-cover-image .has-background-dim:not([class*=-background-color]),.wp-block-cover-image.has-background-dim:not([class*=-background-color]),.wp-block-cover.has-background-dim:not([class*=-background-color]){background-color:#000}.wp-block-cover .has-background-dim.has-background-gradient,.wp-block-cover-image .has-background-dim.has-background-gradient{background-color:transparent}.wp-block-cover-image.has-background-dim:before,.wp-block-cover.has-background-dim:before{background-color:inherit;content:""}.wp-block-cover .wp-block-cover__background,.wp-block-cover .wp-block-cover__gradient-background,.wp-block-cover-image .wp-block-cover__background,.wp-block-cover-image .wp-block-cover__gradient-background,.wp-block-cover-image.has-background-dim:not(.has-background-gradient):before,.wp-block-cover.has-background-dim:not(.has-background-gradient):before{bottom:0;left:0;opacity:.5;position:absolute;right:0;top:0}.wp-block-cover-image.has-background-dim.has-background-dim-10 .wp-block-cover__background,.wp-block-cover-image.has-background-dim.has-background-dim-10 .wp-block-cover__gradient-background,.wp-block-cover-image.has-background-dim.has-background-dim-10:not(.has-background-gradient):before,.wp-block-cover.has-background-dim.has-background-dim-10 .wp-block-cover__background,.wp-block-cover.has-background-dim.has-background-dim-10 .wp-block-cover__gradient-background,.wp-block-cover.has-background-dim.has-background-dim-10:not(.has-background-gradient):before{opacity:.1}.wp-block-cover-image.has-background-dim.has-background-dim-20 .wp-block-cover__background,.wp-block-cover-image.has-background-dim.has-background-dim-20 .wp-block-cover__gradient-background,.wp-block-cover-image.has-background-dim.has-background-dim-20:not(.has-background-gradient):before,.wp-block-cover.has-background-dim.has-background-dim-20 .wp-block-cover__background,.wp-block-cover.has-background-dim.has-background-dim-20 .wp-block-cover__gradient-background,.wp-block-cover.has-background-dim.has-background-dim-20:not(.has-background-gradient):before{opacity:.2}.wp-block-cover-image.has-background-dim.has-background-dim-30 .wp-block-cover__background,.wp-block-cover-image.has-background-dim.has-background-dim-30 .wp-block-cover__gradient-background,.wp-block-cover-image.has-background-dim.has-background-dim-30:not(.has-background-gradient):before,.wp-block-cover.has-background-dim.has-background-dim-30 .wp-block-cover__background,.wp-block-cover.has-background-dim.has-background-dim-30 .wp-block-cover__gradient-background,.wp-block-cover.has-background-dim.has-background-dim-30:not(.has-background-gradient):before{opacity:.3}.wp-block-cover-image.has-background-dim.has-background-dim-40 .wp-block-cover__background,.wp-block-cover-image.has-background-dim.has-background-dim-40 .wp-block-cover__gradient-background,.wp-block-cover-image.has-background-dim.has-background-dim-40:not(.has-background-gradient):before,.wp-block-cover.has-background-dim.has-background-dim-40 .wp-block-cover__background,.wp-block-cover.has-background-dim.has-background-dim-40 .wp-block-cover__gradient-background,.wp-block-cover.has-background-dim.has-background-dim-40:not(.has-background-gradient):before{opacity:.4}.wp-block-cover-image.has-background-dim.has-background-dim-50 .wp-block-cover__background,.wp-block-cover-image.has-background-dim.has-background-dim-50 .wp-block-cover__gradient-background,.wp-block-cover-image.has-background-dim.has-background-dim-50:not(.has-background-gradient):before,.wp-block-cover.has-background-dim.has-background-dim-50 .wp-block-cover__background,.wp-block-cover.has-background-dim.has-background-dim-50 .wp-block-cover__gradient-background,.wp-block-cover.has-background-dim.has-background-dim-50:not(.has-background-gradient):before{opacity:.5}.wp-block-cover-image.has-background-dim.has-background-dim-60 .wp-block-cover__background,.wp-block-cover-image.has-background-dim.has-background-dim-60 .wp-block-cover__gradient-background,.wp-block-cover-image.has-background-dim.has-background-dim-60:not(.has-background-gradient):before,.wp-block-cover.has-background-dim.has-background-dim-60 .wp-block-cover__background,.wp-block-cover.has-background-dim.has-background-dim-60 .wp-block-cover__gradient-background,.wp-block-cover.has-background-dim.has-background-dim-60:not(.has-background-gradient):before{opacity:.6}.wp-block-cover-image.has-background-dim.has-background-dim-70 .wp-block-cover__background,.wp-block-cover-image.has-background-dim.has-background-dim-70 .wp-block-cover__gradient-background,.wp-block-cover-image.has-background-dim.has-background-dim-70:not(.has-background-gradient):before,.wp-block-cover.has-background-dim.has-background-dim-70 .wp-block-cover__background,.wp-block-cover.has-background-dim.has-background-dim-70 .wp-block-cover__gradient-background,.wp-block-cover.has-background-dim.has-background-dim-70:not(.has-background-gradient):before{opacity:.7}.wp-block-cover-image.has-background-dim.has-background-dim-80 .wp-block-cover__background,.wp-block-cover-image.has-background-dim.has-background-dim-80 .wp-block-cover__gradient-background,.wp-block-cover-image.has-background-dim.has-background-dim-80:not(.has-background-gradient):before,.wp-block-cover.has-background-dim.has-background-dim-80 .wp-block-cover__background,.wp-block-cover.has-background-dim.has-background-dim-80 .wp-block-cover__gradient-background,.wp-block-cover.has-background-dim.has-background-dim-80:not(.has-background-gradient):before{opacity:.8}.wp-block-cover-image.has-background-dim.has-background-dim-90 .wp-block-cover__background,.wp-block-cover-image.has-background-dim.has-background-dim-90 .wp-block-cover__gradient-background,.wp-block-cover-image.has-background-dim.has-background-dim-90:not(.has-background-gradient):before,.wp-block-cover.has-background-dim.has-background-dim-90 .wp-block-cover__background,.wp-block-cover.has-background-dim.has-background-dim-90 .wp-block-cover__gradient-background,.wp-block-cover.has-background-dim.has-background-dim-90:not(.has-background-gradient):before{opacity:.9}.wp-block-cover-image.has-background-dim.has-background-dim-100 .wp-block-cover__background,.wp-block-cover-image.has-background-dim.has-background-dim-100 .wp-block-cover__gradient-background,.wp-block-cover-image.has-background-dim.has-background-dim-100:not(.has-background-gradient):before,.wp-block-cover.has-background-dim.has-background-dim-100 .wp-block-cover__background,.wp-block-cover.has-background-dim.has-background-dim-100 .wp-block-cover__gradient-background,.wp-block-cover.has-background-dim.has-background-dim-100:not(.has-background-gradient):before{opacity:1}.wp-block-cover .wp-block-cover__background.has-background-dim.has-background-dim-0,.wp-block-cover .wp-block-cover__gradient-background.has-background-dim.has-background-dim-0,.wp-block-cover-image .wp-block-cover__background.has-background-dim.has-background-dim-0,.wp-block-cover-image .wp-block-cover__gradient-background.has-background-dim.has-background-dim-0{opacity:0}.wp-block-cover .wp-block-cover__background.has-background-dim.has-background-dim-10,.wp-block-cover .wp-block-cover__gradient-background.has-background-dim.has-background-dim-10,.wp-block-cover-image .wp-block-cover__background.has-background-dim.has-background-dim-10,.wp-block-cover-image .wp-block-cover__gradient-background.has-background-dim.has-background-dim-10{opacity:.1}.wp-block-cover .wp-block-cover__background.has-background-dim.has-background-dim-20,.wp-block-cover .wp-block-cover__gradient-background.has-background-dim.has-background-dim-20,.wp-block-cover-image .wp-block-cover__background.has-background-dim.has-background-dim-20,.wp-block-cover-image .wp-block-cover__gradient-background.has-background-dim.has-background-dim-20{opacity:.2}.wp-block-cover .wp-block-cover__background.has-background-dim.has-background-dim-30,.wp-block-cover .wp-block-cover__gradient-background.has-background-dim.has-background-dim-30,.wp-block-cover-image .wp-block-cover__background.has-background-dim.has-background-dim-30,.wp-block-cover-image .wp-block-cover__gradient-background.has-background-dim.has-background-dim-30{opacity:.3}.wp-block-cover .wp-block-cover__background.has-background-dim.has-background-dim-40,.wp-block-cover .wp-block-cover__gradient-background.has-background-dim.has-background-dim-40,.wp-block-cover-image .wp-block-cover__background.has-background-dim.has-background-dim-40,.wp-block-cover-image .wp-block-cover__gradient-background.has-background-dim.has-background-dim-40{opacity:.4}.wp-block-cover .wp-block-cover__background.has-background-dim.has-background-dim-50,.wp-block-cover .wp-block-cover__gradient-background.has-background-dim.has-background-dim-50,.wp-block-cover-image .wp-block-cover__background.has-background-dim.has-background-dim-50,.wp-block-cover-image .wp-block-cover__gradient-background.has-background-dim.has-background-dim-50{opacity:.5}.wp-block-cover .wp-block-cover__background.has-background-dim.has-background-dim-60,.wp-block-cover .wp-block-cover__gradient-background.has-background-dim.has-background-dim-60,.wp-block-cover-image .wp-block-cover__background.has-background-dim.has-background-dim-60,.wp-block-cover-image .wp-block-cover__gradient-background.has-background-dim.has-background-dim-60{opacity:.6}.wp-block-cover .wp-block-cover__background.has-background-dim.has-background-dim-70,.wp-block-cover .wp-block-cover__gradient-background.has-background-dim.has-background-dim-70,.wp-block-cover-image .wp-block-cover__background.has-background-dim.has-background-dim-70,.wp-block-cover-image .wp-block-cover__gradient-background.has-background-dim.has-background-dim-70{opacity:.7}.wp-block-cover .wp-block-cover__background.has-background-dim.has-background-dim-80,.wp-block-cover .wp-block-cover__gradient-background.has-background-dim.has-background-dim-80,.wp-block-cover-image .wp-block-cover__background.has-background-dim.has-background-dim-80,.wp-block-cover-image .wp-block-cover__gradient-background.has-background-dim.has-background-dim-80{opacity:.8}.wp-block-cover .wp-block-cover__background.has-background-dim.has-background-dim-90,.wp-block-cover .wp-block-cover__gradient-background.has-background-dim.has-background-dim-90,.wp-block-cover-image .wp-block-cover__background.has-background-dim.has-background-dim-90,.wp-block-cover-image .wp-block-cover__gradient-background.has-background-dim.has-background-dim-90{opacity:.9}.wp-block-cover .wp-block-cover__background.has-background-dim.has-background-dim-100,.wp-block-cover .wp-block-cover__gradient-background.has-background-dim.has-background-dim-100,.wp-block-cover-image .wp-block-cover__background.has-background-dim.has-background-dim-100,.wp-block-cover-image .wp-block-cover__gradient-background.has-background-dim.has-background-dim-100{opacity:1}.wp-block-cover-image.alignleft,.wp-block-cover-image.alignright,.wp-block-cover.alignleft,.wp-block-cover.alignright{max-width:420px;width:100%}.wp-block-cover-image.aligncenter,.wp-block-cover-image.alignleft,.wp-block-cover-image.alignright,.wp-block-cover.aligncenter,.wp-block-cover.alignleft,.wp-block-cover.alignright{display:flex}.wp-block-cover .wp-block-cover__inner-container,.wp-block-cover-image .wp-block-cover__inner-container{color:inherit;position:relative;width:100%}.wp-block-cover-image.is-position-top-left,.wp-block-cover.is-position-top-left{align-items:flex-start;justify-content:flex-start}.wp-block-cover-image.is-position-top-center,.wp-block-cover.is-position-top-center{align-items:flex-start;justify-content:center}.wp-block-cover-image.is-position-top-right,.wp-block-cover.is-position-top-right{align-items:flex-start;justify-content:flex-end}.wp-block-cover-image.is-position-center-left,.wp-block-cover.is-position-center-left{align-items:center;justify-content:flex-start}.wp-block-cover-image.is-position-center-center,.wp-block-cover.is-position-center-center{align-items:center;justify-content:center}.wp-block-cover-image.is-position-center-right,.wp-block-cover.is-position-center-right{align-items:center;justify-content:flex-end}.wp-block-cover-image.is-position-bottom-left,.wp-block-cover.is-position-bottom-left{align-items:flex-end;justify-content:flex-start}.wp-block-cover-image.is-position-bottom-center,.wp-block-cover.is-position-bottom-center{align-items:flex-end;justify-content:center}.wp-block-cover-image.is-position-bottom-right,.wp-block-cover.is-position-bottom-right{align-items:flex-end;justify-content:flex-end}.wp-block-cover-image.has-custom-content-position.has-custom-content-position .wp-block-cover__inner-container,.wp-block-cover.has-custom-content-position.has-custom-content-position .wp-block-cover__inner-container{margin:0}.wp-block-cover-image.has-custom-content-position.has-custom-content-position.is-position-bottom-left .wp-block-cover__inner-container,.wp-block-cover-image.has-custom-content-position.has-custom-content-position.is-position-bottom-right .wp-block-cover__inner-container,.wp-block-cover-image.has-custom-content-position.has-custom-content-position.is-position-center-left .wp-block-cover__inner-container,.wp-block-cover-image.has-custom-content-position.has-custom-content-position.is-position-center-right .wp-block-cover__inner-container,.wp-block-cover-image.has-custom-content-position.has-custom-content-position.is-position-top-left .wp-block-cover__inner-container,.wp-block-cover-image.has-custom-content-position.has-custom-content-position.is-position-top-right .wp-block-cover__inner-container,.wp-block-cover.has-custom-content-position.has-custom-content-position.is-position-bottom-left .wp-block-cover__inner-container,.wp-block-cover.has-custom-content-position.has-custom-content-position.is-position-bottom-right .wp-block-cover__inner-container,.wp-block-cover.has-custom-content-position.has-custom-content-position.is-position-center-left .wp-block-cover__inner-container,.wp-block-cover.has-custom-content-position.has-custom-content-position.is-position-center-right .wp-block-cover__inner-container,.wp-block-cover.has-custom-content-position.has-custom-content-position.is-position-top-left .wp-block-cover__inner-container,.wp-block-cover.has-custom-content-position.has-custom-content-position.is-position-top-right .wp-block-cover__inner-container{margin:0;width:auto}.wp-block-cover .wp-block-cover__image-background,.wp-block-cover video.wp-block-cover__video-background,.wp-block-cover-image .wp-block-cover__image-background,.wp-block-cover-image video.wp-block-cover__video-background{border:none;bottom:0;box-shadow:none;height:100%;left:0;margin:0;max-height:none;max-width:none;object-fit:cover;outline:none;padding:0;position:absolute;right:0;top:0;width:100%}@supports (-webkit-hyphens:none){.wp-block-cover-image.has-aspect-ratio,.wp-block-cover.has-aspect-ratio{min-height:fit-content!important}}.wp-block-cover .wp-block-cover__embed-background,.wp-block-cover-image .wp-block-cover__embed-background{border:none;bottom:0;box-shadow:none;height:100%;left:0;margin:0;max-height:none;max-width:none;outline:none;padding:0;pointer-events:none;position:absolute;right:0;top:0;width:100%}.wp-block-cover .wp-block-cover__embed-background .wp-block-embed__wrapper,.wp-block-cover-image .wp-block-cover__embed-background .wp-block-embed__wrapper{bottom:0;height:100%;left:0;margin:0;padding:0;position:absolute;right:0;top:0;width:100%}.wp-block-cover .wp-block-cover__embed-background .wp-block-embed__wrapper iframe,.wp-block-cover .wp-block-cover__embed-background iframe,.wp-block-cover-image .wp-block-cover__embed-background .wp-block-embed__wrapper iframe,.wp-block-cover-image .wp-block-cover__embed-background iframe{height:100vh;left:50%;min-height:100%;min-width:100%;pointer-events:none;position:absolute;top:50%;transform:translate(-50%,-50%);width:100vw}.wp-block-cover-image.has-parallax,.wp-block-cover.has-parallax,.wp-block-cover__image-background.has-parallax,video.wp-block-cover__video-background.has-parallax{background-attachment:fixed;background-repeat:no-repeat;background-size:cover}@supports (-webkit-touch-callout:inherit){.wp-block-cover-image.has-parallax,.wp-block-cover.has-parallax,.wp-block-cover__image-background.has-parallax,video.wp-block-cover__video-background.has-parallax{background-attachment:scroll}}@media (prefers-reduced-motion:reduce){.wp-block-cover-image.has-parallax,.wp-block-cover.has-parallax,.wp-block-cover__image-background.has-parallax,video.wp-block-cover__video-background.has-parallax{background-attachment:scroll}}.wp-block-cover-image.is-repeated,.wp-block-cover.is-repeated,.wp-block-cover__image-background.is-repeated,video.wp-block-cover__video-background.is-repeated{background-repeat:repeat;background-size:auto}.wp-block-cover-image-text,.wp-block-cover-image-text a,.wp-block-cover-image-text a:active,.wp-block-cover-image-text a:focus,.wp-block-cover-image-text a:hover,.wp-block-cover-text,.wp-block-cover-text a,.wp-block-cover-text a:active,.wp-block-cover-text a:focus,.wp-block-cover-text a:hover,section.wp-block-cover-image h2,section.wp-block-cover-image h2 a,section.wp-block-cover-image h2 a:active,section.wp-block-cover-image h2 a:focus,section.wp-block-cover-image h2 a:hover{color:#fff}.wp-block-cover-image .wp-block-cover.has-left-content{justify-content:flex-start}.wp-block-cover-image .wp-block-cover.has-right-content{justify-content:flex-end}.wp-block-cover-image.has-left-content .wp-block-cover-image-text,.wp-block-cover.has-left-content .wp-block-cover-text,section.wp-block-cover-image.has-left-content>h2{margin-left:0;text-align:left}.wp-block-cover-image.has-right-content .wp-block-cover-image-text,.wp-block-cover.has-right-content .wp-block-cover-text,section.wp-block-cover-image.has-right-content>h2{margin-right:0;text-align:right}.wp-block-cover .wp-block-cover-text,.wp-block-cover-image .wp-block-cover-image-text,section.wp-block-cover-image>h2{font-size:2em;line-height:1.25;margin-bottom:0;max-width:840px;padding:.44em;text-align:center;z-index:1}:where(.wp-block-cover-image:not(.has-text-color)),:where(.wp-block-cover:not(.has-text-color)){color:#fff}:where(.wp-block-cover-image.is-light:not(.has-text-color)),:where(.wp-block-cover.is-light:not(.has-text-color)){color:#000}:root :where(.wp-block-cover h1:not(.has-text-color)),:root :where(.wp-block-cover h2:not(.has-text-color)),:root :where(.wp-block-cover h3:not(.has-text-color)),:root :where(.wp-block-cover h4:not(.has-text-color)),:root :where(.wp-block-cover h5:not(.has-text-color)),:root :where(.wp-block-cover h6:not(.has-text-color)),:root :where(.wp-block-cover p:not(.has-text-color)){color:inherit}body:not(.editor-styles-wrapper) .wp-block-cover:not(.wp-block-cover:has(.wp-block-cover__background+.wp-block-cover__inner-container)) .wp-block-cover__video-background{z-index:0}body:not(.editor-styles-wrapper) .wp-block-cover:not(.wp-block-cover:has(.wp-block-cover__background+.wp-block-cover__inner-container)) .wp-block-cover__embed-background{z-index:0}body:not(.editor-styles-wrapper) .wp-block-cover:not(.wp-block-cover:has(.wp-block-cover__background+.wp-block-cover__inner-container)) .wp-block-cover__image-background{z-index:0}body:not(.editor-styles-wrapper) .wp-block-cover:not(.wp-block-cover:has(.wp-block-cover__background+.wp-block-cover__inner-container)) .wp-block-cover__background,body:not(.editor-styles-wrapper) .wp-block-cover:not(.wp-block-cover:has(.wp-block-cover__background+.wp-block-cover__inner-container)) .wp-block-cover__gradient-background,body:not(.editor-styles-wrapper) .wp-block-cover:not(.wp-block-cover:has(.wp-block-cover__background+.wp-block-cover__inner-container)).has-background-dim:not(.has-background-gradient):before{z-index:1}body:not(.editor-styles-wrapper) .wp-block-cover:not(.wp-block-cover:has(.wp-block-cover__background+.wp-block-cover__inner-container)) .wp-block-cover__inner-container{z-index:1}.has-modal-open body:not(.editor-styles-wrapper) .wp-block-cover:not(.wp-block-cover:has(.wp-block-cover__background+.wp-block-cover__inner-container)) .wp-block-cover__inner-container{z-index:auto}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/cover/style.min.css */
+</style>
+<style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:var(--wp--style--block-background-padding,1.25em 2.375em)}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/heading/style.min.css */
+</style>
+<style id="wp-block-list-inline-css">
+ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:var(--wp--style--block-background-padding,1.25em 2.375em)}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/list/style.min.css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:var(--wp--style--block-background-padding,1.25em 2.375em)}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/paragraph/style.min.css */
+</style>
+<style id="wp-block-library-inline-css-extra">
+.has-text-align-justify {
+	text-align:justify;
+}
+.has-text-align-justify{text-align:justify;}
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+.wp-block-button__link{background-color:#32373c;border-radius:9999px;box-shadow:none;color:#fff;font-size:1.125em;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-file__button{background:#32373c;color:#fff}.wp-block-accordion-heading{margin:0}.wp-block-accordion-heading__toggle{background-color:inherit!important;color:inherit!important}.wp-block-accordion-heading__toggle:not(:focus-visible){outline:none}.wp-block-accordion-heading__toggle:focus,.wp-block-accordion-heading__toggle:hover{background-color:inherit!important;border:none;box-shadow:none;color:inherit;padding:var(--wp--preset--spacing--20,1em) 0;text-decoration:none}.wp-block-accordion-heading__toggle:focus-visible{outline:auto;outline-offset:0}.wp-block-tab:not(.has-text-color){color:inherit!important}.wp-block-tab:not(.has-background){background-color:inherit!important}.wp-block-tab:focus,.wp-block-tab:hover{text-decoration:none}.wp-block-tab:focus-visible{outline:auto;outline-offset:0}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/classic.min.css */
+</style>
+
+<style id="coblocks-inline-format-inline-css">
+.uppercase{text-transform:uppercase}
+/*# sourceURL=coblocks-inline-format-inline-css */
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-12-1' href='/_static/??-eJx9jEEOAiEQBD/kQECjeDC+ZWEnijIwYWA3/l72op689KFTVXplCCU3zE1z6reYRYfiUwlP0VYZpwxIJE4IFRd10HOU9iFA2iuhCiI7/ROiDt9WxfETT20jCOc4YUIa2D9t5eGA91xRBMZS7ATtPkTZvCtdzNEZt7f2fHq8Afl7R7w=&cssminify=yes' type='text/css' media='all' />
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--albert-sans: 'Albert Sans', sans-serif;--wp--preset--font-family--alegreya: Alegreya, serif;--wp--preset--font-family--arvo: Arvo, serif;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda', serif;--wp--preset--font-family--bricolage-grotesque: 'Bricolage Grotesque', sans-serif;--wp--preset--font-family--cabin: Cabin, sans-serif;--wp--preset--font-family--chivo: Chivo, sans-serif;--wp--preset--font-family--commissioner: Commissioner, sans-serif;--wp--preset--font-family--cormorant: Cormorant, serif;--wp--preset--font-family--courier-prime: 'Courier Prime', monospace;--wp--preset--font-family--crimson-pro: 'Crimson Pro', serif;--wp--preset--font-family--dm-mono: 'DM Mono', monospace;--wp--preset--font-family--dm-sans: 'DM Sans', sans-serif;--wp--preset--font-family--dm-serif-display: 'DM Serif Display', serif;--wp--preset--font-family--domine: Domine, serif;--wp--preset--font-family--eb-garamond: 'EB Garamond', serif;--wp--preset--font-family--epilogue: Epilogue, sans-serif;--wp--preset--font-family--fahkwang: Fahkwang, sans-serif;--wp--preset--font-family--figtree: Figtree, sans-serif;--wp--preset--font-family--fira-sans: 'Fira Sans', sans-serif;--wp--preset--font-family--fjalla-one: 'Fjalla One', sans-serif;--wp--preset--font-family--fraunces: Fraunces, serif;--wp--preset--font-family--gabarito: Gabarito, system-ui;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono', monospace;--wp--preset--font-family--ibm-plex-sans: 'IBM Plex Sans', sans-serif;--wp--preset--font-family--ibarra-real-nova: 'Ibarra Real Nova', serif;--wp--preset--font-family--instrument-serif: 'Instrument Serif', serif;--wp--preset--font-family--inter: Inter, sans-serif;--wp--preset--font-family--josefin-sans: 'Josefin Sans', sans-serif;--wp--preset--font-family--jost: Jost, sans-serif;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville', serif;--wp--preset--font-family--libre-franklin: 'Libre Franklin', sans-serif;--wp--preset--font-family--literata: Literata, serif;--wp--preset--font-family--lora: Lora, serif;--wp--preset--font-family--merriweather: Merriweather, serif;--wp--preset--font-family--montserrat: Montserrat, sans-serif;--wp--preset--font-family--newsreader: Newsreader, serif;--wp--preset--font-family--noto-sans-mono: 'Noto Sans Mono', sans-serif;--wp--preset--font-family--nunito: Nunito, sans-serif;--wp--preset--font-family--open-sans: 'Open Sans', sans-serif;--wp--preset--font-family--overpass: Overpass, sans-serif;--wp--preset--font-family--pt-serif: 'PT Serif', serif;--wp--preset--font-family--petrona: Petrona, serif;--wp--preset--font-family--piazzolla: Piazzolla, serif;--wp--preset--font-family--playfair-display: 'Playfair Display', serif;--wp--preset--font-family--plus-jakarta-sans: 'Plus Jakarta Sans', sans-serif;--wp--preset--font-family--poppins: Poppins, sans-serif;--wp--preset--font-family--raleway: Raleway, sans-serif;--wp--preset--font-family--roboto: Roboto, sans-serif;--wp--preset--font-family--roboto-slab: 'Roboto Slab', serif;--wp--preset--font-family--rubik: Rubik, sans-serif;--wp--preset--font-family--rufina: Rufina, serif;--wp--preset--font-family--sora: Sora, sans-serif;--wp--preset--font-family--source-sans-3: 'Source Sans 3', sans-serif;--wp--preset--font-family--source-serif-4: 'Source Serif 4', serif;--wp--preset--font-family--space-mono: 'Space Mono', monospace;--wp--preset--font-family--syne: Syne, sans-serif;--wp--preset--font-family--texturina: Texturina, serif;--wp--preset--font-family--urbanist: Urbanist, sans-serif;--wp--preset--font-family--work-sans: 'Work Sans', sans-serif;--wp--preset--text-shadow--light: 0.05em 0.05em 0.1em rgba(0, 0, 0, 0.3);--wp--preset--text-shadow--strong: 0.1em 0.1em 0.25em rgba(0, 0, 0, 0.5);--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-albert-sans-font-family{font-family: var(--wp--preset--font-family--albert-sans) !important;}.has-alegreya-font-family{font-family: var(--wp--preset--font-family--alegreya) !important;}.has-arvo-font-family{font-family: var(--wp--preset--font-family--arvo) !important;}.has-bodoni-moda-font-family{font-family: var(--wp--preset--font-family--bodoni-moda) !important;}.has-bricolage-grotesque-font-family{font-family: var(--wp--preset--font-family--bricolage-grotesque) !important;}.has-cabin-font-family{font-family: var(--wp--preset--font-family--cabin) !important;}.has-chivo-font-family{font-family: var(--wp--preset--font-family--chivo) !important;}.has-commissioner-font-family{font-family: var(--wp--preset--font-family--commissioner) !important;}.has-cormorant-font-family{font-family: var(--wp--preset--font-family--cormorant) !important;}.has-courier-prime-font-family{font-family: var(--wp--preset--font-family--courier-prime) !important;}.has-crimson-pro-font-family{font-family: var(--wp--preset--font-family--crimson-pro) !important;}.has-dm-mono-font-family{font-family: var(--wp--preset--font-family--dm-mono) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-dm-serif-display-font-family{font-family: var(--wp--preset--font-family--dm-serif-display) !important;}.has-domine-font-family{font-family: var(--wp--preset--font-family--domine) !important;}.has-eb-garamond-font-family{font-family: var(--wp--preset--font-family--eb-garamond) !important;}.has-epilogue-font-family{font-family: var(--wp--preset--font-family--epilogue) !important;}.has-fahkwang-font-family{font-family: var(--wp--preset--font-family--fahkwang) !important;}.has-figtree-font-family{font-family: var(--wp--preset--font-family--figtree) !important;}.has-fira-sans-font-family{font-family: var(--wp--preset--font-family--fira-sans) !important;}.has-fjalla-one-font-family{font-family: var(--wp--preset--font-family--fjalla-one) !important;}.has-fraunces-font-family{font-family: var(--wp--preset--font-family--fraunces) !important;}.has-gabarito-font-family{font-family: var(--wp--preset--font-family--gabarito) !important;}.has-ibm-plex-mono-font-family{font-family: var(--wp--preset--font-family--ibm-plex-mono) !important;}.has-ibm-plex-sans-font-family{font-family: var(--wp--preset--font-family--ibm-plex-sans) !important;}.has-ibarra-real-nova-font-family{font-family: var(--wp--preset--font-family--ibarra-real-nova) !important;}.has-instrument-serif-font-family{font-family: var(--wp--preset--font-family--instrument-serif) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-josefin-sans-font-family{font-family: var(--wp--preset--font-family--josefin-sans) !important;}.has-jost-font-family{font-family: var(--wp--preset--font-family--jost) !important;}.has-libre-baskerville-font-family{font-family: var(--wp--preset--font-family--libre-baskerville) !important;}.has-libre-franklin-font-family{font-family: var(--wp--preset--font-family--libre-franklin) !important;}.has-literata-font-family{font-family: var(--wp--preset--font-family--literata) !important;}.has-lora-font-family{font-family: var(--wp--preset--font-family--lora) !important;}.has-merriweather-font-family{font-family: var(--wp--preset--font-family--merriweather) !important;}.has-montserrat-font-family{font-family: var(--wp--preset--font-family--montserrat) !important;}.has-newsreader-font-family{font-family: var(--wp--preset--font-family--newsreader) !important;}.has-noto-sans-mono-font-family{font-family: var(--wp--preset--font-family--noto-sans-mono) !important;}.has-nunito-font-family{font-family: var(--wp--preset--font-family--nunito) !important;}.has-open-sans-font-family{font-family: var(--wp--preset--font-family--open-sans) !important;}.has-overpass-font-family{font-family: var(--wp--preset--font-family--overpass) !important;}.has-pt-serif-font-family{font-family: var(--wp--preset--font-family--pt-serif) !important;}.has-petrona-font-family{font-family: var(--wp--preset--font-family--petrona) !important;}.has-piazzolla-font-family{font-family: var(--wp--preset--font-family--piazzolla) !important;}.has-playfair-display-font-family{font-family: var(--wp--preset--font-family--playfair-display) !important;}.has-plus-jakarta-sans-font-family{font-family: var(--wp--preset--font-family--plus-jakarta-sans) !important;}.has-poppins-font-family{font-family: var(--wp--preset--font-family--poppins) !important;}.has-raleway-font-family{font-family: var(--wp--preset--font-family--raleway) !important;}.has-roboto-font-family{font-family: var(--wp--preset--font-family--roboto) !important;}.has-roboto-slab-font-family{font-family: var(--wp--preset--font-family--roboto-slab) !important;}.has-rubik-font-family{font-family: var(--wp--preset--font-family--rubik) !important;}.has-rufina-font-family{font-family: var(--wp--preset--font-family--rufina) !important;}.has-sora-font-family{font-family: var(--wp--preset--font-family--sora) !important;}.has-source-sans-3-font-family{font-family: var(--wp--preset--font-family--source-sans-3) !important;}.has-source-serif-4-font-family{font-family: var(--wp--preset--font-family--source-serif-4) !important;}.has-space-mono-font-family{font-family: var(--wp--preset--font-family--space-mono) !important;}.has-syne-font-family{font-family: var(--wp--preset--font-family--syne) !important;}.has-texturina-font-family{font-family: var(--wp--preset--font-family--texturina) !important;}.has-urbanist-font-family{font-family: var(--wp--preset--font-family--urbanist) !important;}.has-work-sans-font-family{font-family: var(--wp--preset--font-family--work-sans) !important;}.has-light-text-shadow{text-shadow: var(--wp--preset--text-shadow--light) !important;}.has-strong-text-shadow{text-shadow: var(--wp--preset--text-shadow--strong) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-14-1' href='/_static/??-eJxtTUsOgjAQvZB1FGPQhfEoppQJFvqLM6Xh9o6RulB37/+gJGViYAwMPqvk8mADwYictJmUSCWZ6FcDKIfq3WYMfXyAzhy9Zrbm05KCl0GCLlvXQ6VbQ7SB/4drRjk7oTD6Ut5VCyHKT5R8BT+bfEcvCyl3MGjGohcgXhy+gld/2bfn5rg7NYd2fAJzbV5Q&cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='gateway-fonts-css' href='https://fonts-api.wp.com/css?family=Quattrocento%3A400%2C700%7CFanwood+Text%3A400%2C400italic&#038;subset=latin%2Clatin-ext' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-16-1' href='/_static/??-eJx9j8EKAyEMRH+oNixY2h5Kv0Ul61qiEaOV/fu6eymlsLeZZB6TQM/KcaqYKtQFIwrkZsGbit2sMI+VgBPZlTIdhSOex+AEx2RIDqSuhKpnx/EPiU1laj4kAWlWXAm5Bk5bERH3o/zCbyzKNmtplO4lR/GCltgP6fdHvvYI8siK2Jntph+jZjKhbOgzPiZ9uWt9u0769QHFnnt/&cssminify=yes' type='text/css' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='print-css-17-1' href='/wp-content/mu-plugins/global-print/global-print.css?m=1465851035i&cssminify=yes' type='text/css' media='print' />
+<style id="jetpack-global-styles-frontend-style-inline-css">
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+/*# sourceURL=jetpack-global-styles-frontend-style-inline-css */
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-20-1' href='/_static/??-eJyNjtEKwjAMRX/ImA1l6oP4KdK1tctMm7G0DP/eKXtRQfZ2D+SeG5wGsJKyTxljgYFLoKTY+zwYe18YtSSM4gp7Re3M6J1x7vGOlMLWqm5wtehKyWJbiB2qWDIMLEH0A36UufNxHu/2GFhaw/82J3LBZ8X5ZMkQRnJgkgMmzWu67fyGAsFNmGX6wpfgEs/14bhrTk1VV/0TZSZ5rQ==&cssminify=yes' type='text/css' media='all' />
+<script id="jetpack_related-posts-js-extra">
+var related_posts_js_options = {"post_heading":"h4"};
+//# sourceURL=jetpack_related-posts-js-extra
+</script>
+<script id="wpcom-actionbar-placeholder-js-extra">
+var actionbardata = {"siteID":"97060865","postID":"3787","siteURL":"https://fivesides2atriangle.com","xhrURL":"https://fivesides2atriangle.com/wp-admin/admin-ajax.php","nonce":"19e6655c59","isLoggedIn":"","statusMessage":"","statusSubscribed":"","subsEmailDefault":"instantly","proxyScriptUrl":"https://s0.wp.com/wp-content/js/wpcom-proxy-request.js?m=1513050504i&amp;ver=20211021","shortlink":"https://wp.me/p6zfXP-Z5","i18n":{"followedText":"New posts from this site will now appear in your \u003Ca href=\"https://wordpress.com/reader\"\u003EReader\u003C/a\u003E","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","shortLinkCopied":"Copied to clipboard."}};
+//# sourceURL=wpcom-actionbar-placeholder-js-extra
+</script>
+<script id="jetpack-mu-wpcom-settings-js-before">
+var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s0.wp.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/"};
+//# sourceURL=jetpack-mu-wpcom-settings-js-before
+</script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJx9T1tuAyEMvFAcq1GkbD6qHiXaBYpMDTgYssntS17qVn18jUcznrFxFjA5VZcqxgbCzVNSDK7KaD4eHLUlPFAyODVii8XxWJ0FyVr1O1tHSuugK1zkhu7hClLy+fLUehg36/QqhmNz5fKAZcCfJojkSy/9rW3xhbZJTSGplDt7z8x5/sc+k/Wu3truI0wtCpzI/diaOPuvvVzsaBUMj6r3a00UPG2uACkn8FZKj3iLry+7Ydjtt/thGz4BmCyNfw=='></script>
+<script id="rlt-proxy-js-after">
+	rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
+//# sourceURL=rlt-proxy-js-after
+</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://fivesidestoatriangle.wordpress.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/" />
+<link rel='shortlink' href='https://wp.me/p6zfXP-Z5' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Ffivesides2atriangle.com%2F2024%2F01%2F19%2Fflight-19-military-unification-national-security%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Ffivesides2atriangle.com%2F2024%2F01%2F19%2Fflight-19-military-unification-national-security%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="FLIGHT-19, MILITARY UNIFICATION &amp; NATIONAL SECURITY" />
+<meta property="og:url" content="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/" />
+<meta property="og:description" content="This post is an attempt to show but one of the underlying forces that negatively effects our military today. The Competition for Funding. military branches. It;s not uncommon to find always been th…" />
+<meta property="article:published_time" content="2024-01-19T12:50:41+00:00" />
+<meta property="article:modified_time" content="2024-01-28T20:09:16+00:00" />
+<meta property="og:site_name" content="Five Sides 2aTriangle " />
+<meta property="og:image" content="https://fivesides2atriangle.com/wp-content/uploads/2023/09/000-0072_pentagon_vlr_4th_edition.jpg" />
+<meta property="og:image:width" content="748" />
+<meta property="og:image:height" content="585" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_US" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<meta name="twitter:creator" content="@Wingman710" />
+<meta name="twitter:site" content="@Wingman710" />
+<meta name="twitter:text:title" content="FLIGHT-19, MILITARY UNIFICATION &amp; NATIONAL&nbsp;SECURITY" />
+<meta name="twitter:image" content="https://fivesides2atriangle.com/wp-content/uploads/2023/09/000-0072_pentagon_vlr_4th_edition.jpg?w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="shortcut icon" type="image/x-icon" href="https://s0.wp.com/i/favicon.ico?m=1713425267i" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s0.wp.com/i/favicon.ico?m=1713425267i" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon" href="https://s0.wp.com/i/webclip.png?m=1713868326i" />
+<link rel='openid.server' href='https://fivesides2atriangle.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://fivesides2atriangle.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://fivesides2atriangle.com/osd.xml" title="Five Sides 2aTriangle " />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="theme-color" content="#88956a" />
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="description" content="This post is an attempt to show but one of the underlying forces that negatively effects our military today. The Competition for Funding. military branches. It;s not uncommon to find always been there from the mid twentieth century forward the competition for monetary support has created an even greater opportunity for subterfuge and conspiracy by&hellip;" />
+	<style type="text/css">
+			.site-title a,
+		.site-description {
+			color: #ffffff;
+		}
+	
+			.header-bg {
+			background-image: url( https://fivesides2atriangle.com/wp-content/uploads/2015/08/cropped-tbf_dropping_torpedo_nan2-2-443.jpg );
+			background-repeat: no-repeat;
+		}
+
+		@media screen and ( min-width: 50em ) {
+			.header-bg {
+				background-attachment: fixed;
+									background-size: 100%;
+					background-position: top center;
+											}
+		}
+	
+	</style>
+	<style id="custom-background-css">
+body.custom-background { background-color: #88956a; }
+</style>
+<script>
+var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 97060865, 'blog_language': 'en', 'is_wordads': false, 'hosting_type': 0, 'afp_account_id': null, 'afp_host_id': 5038568878849053, 'theme': 'pub/gateway', '_': { 'title': 'Advertisement', 'privacy_settings': 'Privacy Settings' }, 'formats': [ 'inline', 'belowpost', 'bottom_sticky', 'sidebar_sticky_right', 'sidebar', 'gutenberg_rectangle', 'gutenberg_leaderboard', 'gutenberg_mobile_leaderboard', 'gutenberg_skyscraper' ] };
+</script>
+		<script type="text/javascript">
+
+			window.doNotSellCallback = function() {
+
+				var linkElements = [
+					'a[href="https://wordpress.com/?ref=footer_blog"]',
+					'a[href="https://wordpress.com/?ref=footer_website"]',
+					'a[href="https://wordpress.com/?ref=vertical_footer"]',
+					'a[href^="https://wordpress.com/?ref=footer_segment_"]',
+				].join(',');
+
+				var dnsLink = document.createElement( 'a' );
+				dnsLink.href = 'https://wordpress.com/advertising-program-optout/';
+				dnsLink.classList.add( 'do-not-sell-link' );
+				dnsLink.rel = 'nofollow';
+				dnsLink.style.marginLeft = '0.5em';
+				dnsLink.textContent = 'Do Not Sell or Share My Personal Information';
+
+				var creditLinks = document.querySelectorAll( linkElements );
+
+				if ( 0 === creditLinks.length ) {
+					return false;
+				}
+
+				Array.prototype.forEach.call( creditLinks, function( el ) {
+					el.insertAdjacentElement( 'afterend', dnsLink );
+				});
+
+				return true;
+			};
+
+		</script>
+		<noscript><style>.jetpack-comments{visibility:visible!important}</style></noscript><style type="text/css" id="custom-colors-css">body, abbr, acronym, .comment-metadata, .comment-metadata a { color: #212121;}
+.site-footer { color: #A0A0A0;}
+.footer-widgets .jetpack_widget_social_icons a:hover { color: #8E8E8E;}
+.widget_wpcom_social_media_icons_widget a:before, button:hover, button:focus, .button:hover, .button:focus, .footer-widgets .widget_tag_cloud a, .footer-widgets .wp_widget_tag_cloud a, .widget_tag_cloud a, .wp_widget_tag_cloud a, .footer-widgets .widget_tag_cloud a:hover, .footer-widgets .wp_widget_tag_cloud a:hover, .widget_tag_cloud a:hover, .wp_widget_tag_cloud a:hover, .site-title a, .site-description, html input[type="button"], input[type="reset"], input[type="submit"], button, .button, #infinite-handle span { color: #2D2D2D;}
+.site-footer .search-form input[type="search"] { color: #FFFFFF;}
+.widget_wpcom_social_media_icons_widget a:hover before, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, #infinite-handle span:hover { color: #FFFFFF;}
+.entry-footer .left i { color: #212121;}
+abbr[title], .featured-image img, table, hr, .stick, .main-navigation ul ul { border-color: #dddddd;}
+abbr[title], .featured-image img, table, hr, .stick, .main-navigation ul ul { border-color: rgba( 221, 221, 221, 0.3 );}
+input[type="text"]:focus, input[type="password"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="week"]:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="time"]:focus, input[type="url"]:focus, input[type="color"]:focus, textarea:focus { border-color: #999999;}
+input[type="text"]:focus, input[type="password"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="week"]:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="time"]:focus, input[type="url"]:focus, input[type="color"]:focus, textarea:focus { border-color: rgba( 153, 153, 153, 0.3 );}
+blockquote, blockquote p { color: #212121;}
+table tr th, .comment-meta .fn a, .jetpack_widget_social_icons a:hover { color: #212121;}
+input[type="text"], input[type="password"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="week"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], input[type="color"], textarea { color: #212121;}
+table tr td { color: #212121;}
+.main-navigation a, .single .hentry .right, #infinite-footer .blog-info a, #infinite-footer .blog-credits a { color: #212121;}
+.main-navigation ul li.menu-item-has-children > a:after, .main-navigation ul li.page_item_has_children > a:after { border-top-color: #212121;}
+.main-navigation ul ul li.menu-item-has-children > a:after, .main-navigation ul ul li.page_item_has_children > a:after { border-left-color: #212121;}
+.widget_archive ul, .widget_categories ul, .widget_pages ul, .widget_links ul, .widget_meta ul, .widget_recent_comments ul, .widget_recent_entries ul { color: #212121;}
+.main-navigation ul ul a { color: #212121;}
+.menu-toggle { color: #D6D6D6;}
+code { color: #212121;}
+.hentry.sticky { background-color: #f7fbff;}
+.hentry.sticky { background-color: rgba( 247, 251, 255, 0.2 );}
+body, .stick, table, .main-navigation ul ul { background-color: #88956a;}
+#infinite-footer .container { background-color: #88956a;}
+#infinite-footer .container { background-color: rgba( 136, 149, 106, 0.9 );}
+input[type="text"]:focus, input[type="password"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="week"]:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="time"]:focus, input[type="url"]:focus, input[type="color"]:focus, textarea:focus { background-color: #859267;}
+input[type="text"], input[type="password"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="week"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], input[type="color"], textarea, pre, .comment-body, code, .entry-footer .left, blockquote, table tr.even, table tr.alt, table tr:nth-of-type(even) { background-color: #828F65;}
+code { border-color: #7F8C63;}
+blockquote { border-color: #a1a256;}
+.widget_wpcom_social_media_icons_widget a:before, .widget_tag_cloud a, .wp_widget_tag_cloud a, .header-bg, html input[type="button"], input[type="reset"], input[type="submit"], button, .button, #infinite-handle span { background-color: #a1a256;}
+button:hover, button:focus, .button:hover, .button:focus { background-color: #91924D;}
+#infinite-footer .blog-info a:hover, .main-navigation .current_page_item > a, .main-navigation .current-menu-item > a, .main-navigation .current_page_ancestor > a, .entry-footer .left i:hover, a, a:hover, a:focus, .main-navigation li:hover > a, .main-navigation li.focus > a { color: #21210C;}
+.site-info a, .site-info a:hover, .site-info a:focus, .footer-widgets a, .footer-widgets a:hover, .footer-widgets a:focus { color: #A5A757;}
+h1, h2, h3, h4, h5, h6 { color: #34181D;}
+.hentry h1 a, .hentry h2 a, .hentry h3 a, .hentry h4 a, .hentry h5 a { color: #34181D;}
+.site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5, .site-footer h6 { color: #C5959B;}
+</style>
+<script type="text/javascript">
+	window.google_analytics_uacct = "UA-52447-2";
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-5' href='/_static/??-eJyNjMEKgzAQBX9IfS0NqIfipxRdF4kmm+Bm8fdLwXr2OMMwOHJNSQpLQbQ6B1u8KFYueaTtZKgJPl4IU0i0KfTwmfeGVCvcHsQ0W2AFjXsy5XA1f/H7DfH9bPtH51z/cusXroE6rg==&cssminify=yes' type='text/css' media='all' />
+<style id="core-block-supports-inline-css">
+.wp-container-core-columns-is-layout-8f761849{flex-wrap:nowrap;}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+
+</head>
+
+<body class="wp-singular post-template-default single single-post postid-3787 single-format-image custom-background wp-theme-pubgateway customizer-styles-applied jetpack-reblog-enabled">
+
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<div class="header-bg">
+		<div class="site-branding">
+
+			
+			<h1 class="site-title"><a href="https://fivesides2atriangle.com/" rel="home">Five Sides 2aTriangle </a></h1>
+			<h2 class="site-description">Flight-19 Research Log /E-Mail: Fivesides2@yahoo.com</h2>
+
+		</div><!-- .site-branding -->
+
+	</div><!-- .header-bg -->
+
+	<header id="masthead" class="site-header" role="banner">
+
+		<div class="stick">
+
+			<nav id="site-navigation" class="main-navigation clear" role="navigation">
+				<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Menu</button>
+				<div class="menu-menu-1-2-container"><ul id="primary-menu" class="menu"><li id="menu-item-934" class="menu-item menu-item-type-post_type menu-item-object-jetpack-portfolio menu-item-934"><a href="https://fivesides2atriangle.com/portfolio/because-their-there/">ABOUT THIS SITE</a></li>
+<li id="menu-item-940" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-940"><a href="http://www.nasflmuseum.com/online-only-exhibits.html">NAS FT. LAUDERDALE MUSEUM</a></li>
+<li id="menu-item-939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-939"><a href="https://www.goodreads.com/book/show/19252908-discovery-of-flight-19?from_search=true">DISCOVERY OF FLIGHT-19 by Jon Myhre</a></li>
+<li id="menu-item-6505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6505"><a href="https://www.amazon.com/Flight-19-Depth-Perception-Version/dp/B09GX9VTT9/ref=sr_1_2?keywords=Flight-19+Depth+Perception&#038;qid=1639244608&#038;sr=8-2">Flight-19 Depth Perception 2 by Michelle Lemburg</a></li>
+<li id="menu-item-938" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-938"><a href="https://www.goodreads.com/book/show/17322113-they-flew-into-oblivion">THEY FLEW INTO OBLIVION by Gian Quasar</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+
+		</div><!-- .sticky -->
+
+	</header><!-- .row #masthead -->
+
+	<div id="content" class="site-content">
+
+<div id="primary" class="content-area">
+
+	<main id="main" class="site-main" role="main">
+
+		
+			
+<article id="post-3787" class="post-3787 post type-post status-publish format-image has-post-thumbnail hentry category-flight-19 tag-aviation tag-history tag-military tag-u-s-navy post_format-post-format-image">
+
+	<header class="entry-header">
+		<h3 class="entry-title">FLIGHT-19, MILITARY UNIFICATION &amp; NATIONAL&nbsp;SECURITY</h3>
+		<div class="entry-meta">
+			<span class="posted-on">Posted on <a href="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/" rel="bookmark"><time class="entry-date published" datetime="2024-01-19T07:50:41-05:00">19,January 2024</time><time class="updated" datetime="2024-01-28T15:09:16-05:00">28,January 2024</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://fivesides2atriangle.com/author/wingman710/">KJMacKenzie</a></span></span>		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		
+<h6 class="wp-block-heading">Did the Navy Intentionally Create a &#8216;Willful Blindness&#8217; in the case of flight-19?</h6>
+
+
+
+<div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img data-attachment-id="8056" data-permalink="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/000-0072_pentagon_vlr_4th_edition/" data-orig-file="https://fivesides2atriangle.com/wp-content/uploads/2023/09/000-0072_pentagon_vlr_4th_edition.jpg" data-orig-size="1200,939" data-comments-opened="1" data-image-title="000-0072_Pentagon_VLR_4th_edition" data-image-description="" data-image-caption="" data-large-file="https://fivesides2atriangle.com/wp-content/uploads/2023/09/000-0072_pentagon_vlr_4th_edition.jpg?w=748" width="748" height="585" class="wp-block-cover__image-background wp-image-8056" alt="" src="https://fivesides2atriangle.com/wp-content/uploads/2023/09/000-0072_pentagon_vlr_4th_edition.jpg?w=748" data-object-fit="cover" srcset="https://fivesides2atriangle.com/wp-content/uploads/2023/09/000-0072_pentagon_vlr_4th_edition.jpg?w=748 748w, https://fivesides2atriangle.com/wp-content/uploads/2023/09/000-0072_pentagon_vlr_4th_edition.jpg?w=150 150w, https://fivesides2atriangle.com/wp-content/uploads/2023/09/000-0072_pentagon_vlr_4th_edition.jpg?w=300 300w, https://fivesides2atriangle.com/wp-content/uploads/2023/09/000-0072_pentagon_vlr_4th_edition.jpg?w=768 768w, https://fivesides2atriangle.com/wp-content/uploads/2023/09/000-0072_pentagon_vlr_4th_edition.jpg?w=1024 1024w, https://fivesides2atriangle.com/wp-content/uploads/2023/09/000-0072_pentagon_vlr_4th_edition.jpg 1200w" sizes="(max-width: 748px) 100vw, 748px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<p class="has-text-align-center has-large-font-size wp-block-paragraph"><strong>US Pentagon (C.1945)-Public Domain</strong></p>
+</div></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:100%">
+<p class="has-medium-font-size"><strong>N</strong>ineteen Forty-Five was a particularly turbulent year in American History. Not only was it the end of the largest and most costly war in history, but it also marked the beginning of a series of events destined to impact and change the US Military stratagem, and the course of the Navy&#8217;s role in national defense forever. </p>
+<p class="has-medium-font-size">Technological gains in aviation were making it hard for the US Navy to justify the funding of a large Battleship-centrist fleet, especially in light of the dropping of the atomic bomb by the Army Air Corps late in the war.    </p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Furthermore: the discussions between the War Department and the Department of the Navy on the concept of military unification begun by President Franklin Delano Roosevelt, a staunch Navy supporter, under the War Powers Act of 1941, and propagated by his successor President Harry Truman, a stubborn Army advocate, were </span><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">turning problematic for the naval services. </span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">In the face of demobilization, drastic fleet reductions and reorganization, logistic stresses, and reduced manning tables, and with the military unification discussions leaning heavily in favor of the Army, the Navy faced the possibility of not only becoming inadequate but marginalized relative to any future national defense strategies. </span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">In addition, the Marine Corps, which had been faced with outright elimination several times in its history, was once again confronted with the possibility of total redundancy if not liquidation simply because of the precepts of what would turn out to be a false security created by atomic weapons.<br /></span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">To Secretary of the Navy James Forrestal&#8217;s chagrin, the influence of the Navy in government spheres was waning at a time when it could ill afford it.  Its recent hegemony was being threatened as the old political biases and rivalries between the Army and Navy were once again poking their heads causing animosity and vitriol between the branches<strong>.</strong></span></p>
+<p class="has-medium-font-size"><strong><span style="color: initial;font-size: var(--wp--preset--font-size--medium)"><em>&#8220;Simultaneously with the Atomic Bomb as a weapon of immense strategic power the new age of American influence was threatened internally by the imbalance of equity between the branches of service over air power especially as it pertained to strategic air power and that of the bomb specifically.&#8221; &#8211; James Forrestal Diaries </em></span></strong></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">This perceived loss of prominence, and shift in influence from the Navy in favor of the Army, and the additional competition for succor by the National Military Establishment, and the Navy&#8217;s need to retain an independent tactical if not strategic air force is what I believe to be the reason behind any Flight-19 conspiracy. The National Security Act of 1947 established a reorganization and reallocation of resources that was seen by many in the naval chain of command as a shift in the roles and missions of both the Navy and Marine Corps. <br /></span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Contextually speaking, any loss of prestige by the Navy especially any failures specifically revolving around naval aviation, meant that it would not only be bargaining from a weaker political position in military unification talks such as those at the Key West Agreements of 1948, but in late 1945 the mere suggestion of an inept naval air training system must have been seen by the navy as another reason, another threat, to the argument for a carrier based fleet.<strong><br /></strong></span></p>
+<p class="has-medium-font-size">Unfortunately, only weeks before December 5th, the Navy had found itself forced to deal with  the tragic loss of the <em>USS Indianapolis on </em>July 30th, 1945. The resulting court-martial of its captain, demanded by Admiral Ernest J. King, Chief of Naval Operations aided in damaging its reputation in the eyes of not only the public but perhaps more importantly, in Congress.</p>
+<p class="has-medium-font-size">Furthermore, downplayed by V-J Day and once again the dropping of the atomic bomb the terrible loss of life was evidently and perhaps with concealment in mind moved to the back or bottom page of the newspapers almost obscuring it from the public eye.</p>
+<p class="has-medium-font-size"><img data-attachment-id="8387" data-permalink="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/screenshot-2023-10-31-140333/" data-orig-file="https://fivesides2atriangle.com/wp-content/uploads/2023/10/screenshot-2023-10-31-140333.png" data-orig-size="670,842" data-comments-opened="1" data-image-title="NY Times USS Indianapolis" data-image-description="" data-image-caption="" data-large-file="https://fivesides2atriangle.com/wp-content/uploads/2023/10/screenshot-2023-10-31-140333.png?w=670" class="alignnone size-full wp-image-8387" src="https://fivesides2atriangle.com/wp-content/uploads/2023/10/screenshot-2023-10-31-140333.png" alt="" width="670" height="842" srcset="https://fivesides2atriangle.com/wp-content/uploads/2023/10/screenshot-2023-10-31-140333.png 670w, https://fivesides2atriangle.com/wp-content/uploads/2023/10/screenshot-2023-10-31-140333.png?w=119&amp;h=150 119w, https://fivesides2atriangle.com/wp-content/uploads/2023/10/screenshot-2023-10-31-140333.png?w=239&amp;h=300 239w" sizes="(max-width: 670px) 100vw, 670px" /></p>
+<p class="has-medium-font-size"><strong>CONDUCT UNBECOMING <br /></strong></p>
+<p class="has-medium-font-size">What was naturally considered by many a monumental failure of command by the ship Captain &#8211; a concept perpetuated by naval traditions and lore &#8211; leading to the death of hundreds of sailors and marines in the sinking of the &#8216;<em>Indy</em>&#8216;, turned out to not only be a case of scapegoating of the captain, but a smokescreen of the larger issue of incompetant and possibly criminal negligence of the navy as a whole, or at least in the Pacific Theater of operations. <strong>  <br /></strong></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Then to have six training aircraft inexplicably go missing off <em>the coast of Florida</em>, on December 5th overlapping the tail end of the scandalous and nationally captivating court martial of Captain Charles B. McVay III (December 3rd-19th. 1945), must have certainly been disconcerting to the naval chain of command, to say the least.  </span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Not to mention, the curious timing and speed of the first naval investigation of the Flight-19 disappearance, just five days into the search and rescue operations, and its conclusion on the 3rd of January 1946 suggests a possible malfeasance of its own.</span></p>
+<p><strong><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">BOARD VS COURT OF INQUIRY</span></strong></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">It took weeks if not months for the board of investigation and court-martial of Captain McVay but only days for the board of inquiry into Flight-19. Why?  Though the circumstances and scale of cases and the scope of the loss of life were much different, one case having actual survivors that could be questioned and the other not, the comparison of the two cannot be overlooked. </span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">The question is if it had the desire to do so, and in the case of Flight-19, it seems it might had, what could the Navy do to mitigate the potential impact of another such deleterious investigation? Was the Official Flight-19 report buried on purpose or just lost within the myriad of paperwork that would naturally be associated with a large government organization?</span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">With the newspaper headlines boldly announcing the additional disappearance of one of the PBM-5 Martin Mariners sent out as search and rescue of Flight-19, &#8211; just fanning the flames of the fire &#8211; is it unreasonable or unfair to assume that those in charge would not want to mitigate any further damage to naval stature, especially in the aviation community and if so create a willfull blindness feigning legitimate inquiry?</span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Either way<strong>,</strong> poor weather and faltering wills allowed leadership within the Naval Air Training Command as well as the 7th and, 8th Naval Districts, the Gulf and Eastern Sea Frontiers to take action curtailing a very expansive five-day search for survivors to be followed by a quick non-publicized investigation and rush to judgment against Lt. Charles C.Taylor, the flight leader.</span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)"> </span></p>
+<figure style="width: 590px" class="wp-caption alignnone"><img loading="lazy" src="https://fivesides2atriangle.com/wp-content/uploads/2021/11/board-of-proceedings.png" alt="" width="590" height="816" /><figcaption class="wp-caption-text"><em>The Cover Page for the Official Navy Board of Investigation December 10th, 1945</em></figcaption></figure>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">In 1945 the FAA, National Transportation Safety Board (NTSB), and Naval Investigative Services (NIS) were in their infancy. The Navy Inspector General&#8217;s Office (IG) was only a few years old and the Naval Judge Advocate General (JAG) had just recently been given a large enough presence to be made effective as an office.  </span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Before the UCMJ, (Uniformed Code of Military Justice) came into being the &#8220;Law of the Sea&#8221;, known as <em>Rocks and Shoals</em> stood as president to naval law.  See the </span><em style="color: initial;font-size: var(--wp--preset--font-size--medium)">Caine Mutiny </em><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">for an example of the ship-board legal system.   </span></p>
+<figure data-shortcode="caption" id="attachment_8876" aria-describedby="caption-attachment-8876" style="width: 657px" class="wp-caption alignnone"><img data-attachment-id="8876" data-permalink="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/board-letter-from-adm-davison/" data-orig-file="https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-letter-from-adm-davison-.jpg" data-orig-size="565,755" data-comments-opened="1" data-image-title="Board Letter from Adm Davison" data-image-description="&lt;p&gt;Orders from Admiral Davison to Commence the Investigation just Two Days into the Search &amp;amp; Rescue Efforts&lt;/p&gt;
+" data-image-caption="&lt;p&gt;Orders from Admiral Davison&lt;/p&gt;
+" data-large-file="https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-letter-from-adm-davison-.jpg?w=565" loading="lazy" class="wp-image-8876" src="https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-letter-from-adm-davison-.jpg" alt="Orders from Admiral Davison to Commence the Investigation" width="657" height="878" srcset="https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-letter-from-adm-davison-.jpg 565w, https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-letter-from-adm-davison-.jpg?w=112&amp;h=150 112w, https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-letter-from-adm-davison-.jpg?w=225&amp;h=300 225w" sizes="auto, (max-width: 657px) 100vw, 657px" /><figcaption id="caption-attachment-8876" class="wp-caption-text">Orders from Admiral Davison (CNAAT) to Create the 1st Board of Investigation: Note the Redactions due to the application of the Privacy Laws of 1974!<strong><br /></strong></figcaption></figure>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">The four-man board convened by Navy Captain Albert K. Morehouse, Commanding Officer of NAS, Miami (Opa Locka), included Lieutenant Commander Richard S. (Robbie) Roberts, Operations Officer at NAS, Ft. Lauderdale,  the board recorder, Commander<br />Joseph T. Yavorsky and Commander Howard S. Roberts both pilots, were directed to their task by Admiral Ralph E. Davison Advanced Naval Air Aviation Training Command Jacksonville, Florida, just two days into the Search and Rescue efforts.<br /></span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">It might be interesting for the reader to note that the investigation coincidentally occurred just before the holidays, and collectively at a time just before prominent naval line officer&#8217;s retirements or promotions? </span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Admirals Earnest King and William D Leahy for example were at the end of their tenure and about ready to retire from the active navy and Secretary James Forrestal and Admiral Chester Nimitz along with Admiral John H.Towers a prominent naval aviator and friend of Forrestals&#8217;, were being considered for advancements into key positions that would seemingly benefit the Navy after unification.</span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Just how critical then was it for the Navy to present a united front and prevent the case being made by Secretary Forrestal of the need for naval aviation amid the military unification talks from being scuttled?  </span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">In Jon Myhre&#8217;s book <em>The Discovery of Flight-19</em> Lieutenant Commander Richard Roberts, claimed that he personally experienced and felt the pressure and tension being placed on the board members from the admiralty, mainly by NAS Jacksonville &amp; NAS Pensacola for the proceedings to commence and conclude quickly.  No doubt, it makes sense that Admirals Wagner &amp; Davison recognized the significance of the proceedings and they too were feeling anxiety from the pressure above.</span></p>
+<p>                        NAVAL CHAIN OF COMMAND AT THE END OF 1945 INTO 1946</p>
+<p>                                 SECRETARY OF THE NAVY &#8211; JAMES FORRESTAL</p>
+<ol>
+<li class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Chief of Naval Operations (CNO) Ernest J. King (Aviator) &#8211; CNO Chester Nimitz <br /></span></li>
+<li class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Vice Chief of Naval Operations (VCNO) Admiral Richard Stanislaus Edwards </span></li>
+<li class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Deputy Chief of Naval Operations for (Air), (DCNO)Marc Andrew Mitscher &#8211;  Vice Adm. Arthur W. Radford,</span></li>
+<li class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Chief of Naval Air Training, (CNAT) &#8211; Admiral Frank.D.Wagner<br /></span></li>
+<li class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Chief of Advanced Naval Air Aviation Training Command (ANAATC) Admiral Ralph E. Davison</span></li>
+</ol>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">But was the pressure so great that demonstrative and documentary evidence of several discrepancies within testimonies, some major contradictions and conflicts within the report including scrivener errors within the exhibits themselves indicates that the mishap was a case of human error, a confluence of incomplete and unverified aircraft maintenance, the weather, and faulty leadership decisions within the training system at NAS Ft. Lauderdale and the naval aviation training command itself were accidentally or even purposely overlooked? </span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">According to Gian Quasar in his book, <em>They Flew into Oblivion, </em>and in my own research, one can&#8217;t help wondering why these errors were not noted and corrected or at least commented on by other reviewing agencies. They should have easily been caught had the board members or anyone reviewing the report done their due diligence.  <img data-attachment-id="936" data-permalink="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/tbm-3es_cvb-43/" data-orig-file="https://fivesides2atriangle.com/wp-content/uploads/2017/01/tbm-3es_cvb-43.jpg" data-orig-size="2104,864" data-comments-opened="1" data-image-title="Cvb-43" data-image-description="&lt;p&gt;Avengers passing the port side of the USS Coral Sea&lt;/p&gt;
+" data-image-caption="&lt;p&gt;On approach.&lt;/p&gt;
+" data-large-file="https://fivesides2atriangle.com/wp-content/uploads/2017/01/tbm-3es_cvb-43.jpg?w=748" loading="lazy" class="alignleft wp-image-936 size-gateway-home" src="https://fivesides2atriangle.com/wp-content/uploads/2017/01/tbm-3es_cvb-43.jpg?w=2104&amp;h=864&amp;crop=1" alt="TBF/M's fly by the USS Coral Sea" width="2104" height="864" srcset="https://fivesides2atriangle.com/wp-content/uploads/2017/01/tbm-3es_cvb-43.jpg 2104w, https://fivesides2atriangle.com/wp-content/uploads/2017/01/tbm-3es_cvb-43.jpg?w=150&amp;h=62&amp;crop=1 150w, https://fivesides2atriangle.com/wp-content/uploads/2017/01/tbm-3es_cvb-43.jpg?w=300&amp;h=123&amp;crop=1 300w, https://fivesides2atriangle.com/wp-content/uploads/2017/01/tbm-3es_cvb-43.jpg?w=768&amp;h=315&amp;crop=1 768w, https://fivesides2atriangle.com/wp-content/uploads/2017/01/tbm-3es_cvb-43.jpg?w=1024&amp;h=421&amp;crop=1 1024w, https://fivesides2atriangle.com/wp-content/uploads/2017/01/tbm-3es_cvb-43.jpg?w=1440&amp;h=591&amp;crop=1 1440w" sizes="auto, (max-width: 2104px) 100vw, 2104px" /></span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Three Divisions (or a flight) of TBF/M&#8217;s fly by the USS Coral Sea (US Navy)</span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">It&#8217;s almost unimaginable what the outcome of a court-martial of the Flight-19 trainer/evaluator, Lt. Charles C. Taylor would have been if the planes and crews of the ill-fated flight had survived.  Two Navy and three Marine Corps aircraft and crews were lost that day, lost during what may be considered an esoteric fact; that it was not just a training exercise, but a blind navigation<em> test!  </em>Furthermore: The Training-49 crew (Combat Air Crew 88G) the PBM-5 Martin Mariner that was one of the two search planes sent to search for the missing TBM&#8217;s were also mostly all trainees!</span></p>
+<pre class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)"><strong>THE BOARD OF CORRECTIONS</strong></span></pre>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Admittedly speculative but not unreasonable, based on the outcome of the McVay Court Martial, and the results of the Official Board of Investigation into the Flight-19 disappearance the charges of dereliction of duty and insubordination at minimum would likely have been considered by the members leading to some form of a trial of Lt. Taylor and perhaps others if they had survived. </span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">And yet though there was no opportunity to do so, that is in essence what happened, as the navy in the initial investigation assailed his stature in absentia, without him being able to defend himself, and with no conclusive evidence other than records of radio transmissions and interviews of ground personnel who were responsible for different aspects of the flight before it got off the ground. </span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">But like Captain McVay, simply because he was in charge Lt. Taylor became the patsy for the combined errors of the entire Naval air training command that day.</span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)"> <strong>&#8220;</strong><em><strong>The Navy has a unique tradition: to hold accountable the highest levels of leadership for any event that causes harm to sailors or U.S. national security. While <a href="https://www.usni.org/magazines/naval-history-magazine/2021/october/lessons-accountability-charles-mcvay-and-indianapolis">McVay’s</a> conviction was legally correct, the standard of accountability applied to him was never applied with the same rigor to anyone else, and was not, therefore, a “standard.” &#8211; US Navy Institute.</strong> </em></span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">In&#8230;Opinion #44 &amp;#45 read as such the loss of aircraft based on the state of mind of Lt. Taylor resulting from &#8220;Temporary Confusion&#8230;faulty judgment&#8230;..&#8221; and &#8220;That no offenses have been known to be committed &#8230;other than that which may be assigned&#8230;.to Lt . Charles C. Taylor.&#8221;&#8230;.etc. It&#8217;s only correct that he holds some form of culpability and in the end, Admiral Davison does mildly indicate other extenuating systemic factors for Taylor&#8217;s failure but only as a means to prevent future loss through training changes. <br /></span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">If not for the courage and fortitude of his Mother and Aunt to clear his name, a battle engaged with Rear Admiral Ralph E. Jennings, a highly respected Naval Aviator &amp; his aide Captain Ben Scott Custer a second investigation between 1946 and 1947 by the Navy&#8217;s Board of Corrections exonerating Taylor altogether would not have occurred.</span></p>
+<p><img data-attachment-id="8984" data-permalink="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/board-of-corrections-1947-pg-1/" data-orig-file="https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-of-corrections-1947-pg.-1.jpg" data-orig-size="655,842" data-comments-opened="1" data-image-title="Board of Corrections 1947 Pg. 1" data-image-description="" data-image-caption="" data-large-file="https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-of-corrections-1947-pg.-1.jpg?w=655" loading="lazy" class="alignnone size-full wp-image-8984" src="https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-of-corrections-1947-pg.-1.jpg" alt="" width="655" height="842" srcset="https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-of-corrections-1947-pg.-1.jpg 655w, https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-of-corrections-1947-pg.-1.jpg?w=117&amp;h=150 117w, https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-of-corrections-1947-pg.-1.jpg?w=233&amp;h=300 233w" sizes="auto, (max-width: 655px) 100vw, 655px" /></p>
+<figure data-shortcode="caption" id="attachment_8991" aria-describedby="caption-attachment-8991" style="width: 671px" class="wp-caption alignnone"><img data-attachment-id="8991" data-permalink="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/board-of-corrections-1947-pg-2/" data-orig-file="https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-of-corrections-1947-pg.-2.jpg" data-orig-size="671,869" data-comments-opened="1" data-image-title="Board of Corrections 1947 Pg. 2" data-image-description="" data-image-caption="" data-large-file="https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-of-corrections-1947-pg.-2.jpg?w=671" loading="lazy" class="wp-image-8991 size-full" src="https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-of-corrections-1947-pg.-2.jpg" alt="" width="671" height="869" srcset="https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-of-corrections-1947-pg.-2.jpg 671w, https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-of-corrections-1947-pg.-2.jpg?w=116&amp;h=150 116w, https://fivesides2atriangle.com/wp-content/uploads/2024/01/board-of-corrections-1947-pg.-2.jpg?w=232&amp;h=300 232w" sizes="auto, (max-width: 671px) 100vw, 671px" /><figcaption id="caption-attachment-8991" class="wp-caption-text">The Board of Corrections Results &#8211; Note the Secretary of the Navy had changed.</figcaption></figure>
+<p><strong>THE THIRD INVESTIGATION or REVIEW OF THE FIRST? </strong></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">I</span><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">f it hadn&#8217;t been for the dauntless efforts of these two women, and the initial spur to action among relatives of the crews and politicians such as </span><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">Senator David I Walsh (D) of  Massachusetts, Chairman of the Naval Affairs Committee, Congressman Milton West, (D) Texas 15th District, William Sterling Cole 37th-39th District NY (R) the story of Flight-19 might not have seen the light of day.   </span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">A possible third Investigation or perhaps a review of the first report, <span class="luna-runon bold">putatively</span> mounted by a surely &#8216;ole Marine Corps general, a former Marine aviator turned Congressman Melvin J. Maas Major General USMCR/and chief investigator for the House Naval Affairs Committee in 1945/46 said to have been prompted by a petition of 54 relatives of twelve of the missing men was asked of Secretary Forrestal to provide a congressional report. However, I have yet to find evidence of such an investigation.  <br /></span></p>
+<p class="has-medium-font-size"><span style="color: initial;font-size: var(--wp--preset--font-size--medium)">In the background of both of these investigations, Secretary of the Navy Forrestal was desperately seeking parity with two opposing viewpoints within the Navy itself, those for and those against military unification. He also had to deal with an almost belligerent Admiral King, and simultaneously placate the Army as well as President Truman.  All the while simultaneously lobbying for the strategic and tactical authority of naval aviation and the need for both in future unification plans and national defense was very burdensome. Now add the last apple to the apple cart. Flight-19.</span></p>
+<p class="has-medium-font-size"><strong>NATIONAL SECURITY</strong></p>
+<p class="has-medium-font-size">So one may ask, how the Navy would even begin to create a willful blindness of the events of December 5th? </p>
+<p class="has-medium-font-size">Though it was 1945 and the war was over, much of the equipment being used in the TBF/M Avenger was top-of-the-line. Operational security had been a sore spot in transferring equipment over to our allies even during the war.  Items such as the Norden bombsight and direction-finding and radio equipment made aircraft such as the TBM-1E (FT-36 ) itself having an updated electronic suite, the TBM-3(D?) (FT-28) had a special form of radar attached to its wing specifically for anti-submarine patrolling.  Operational security prevented the use of this equipment, by anyone not cleared to.</p>
+<p class="has-medium-font-size">According to  <a href="https://irp.fas.org/offdocs/eo/eo-8381.htm">Presidential Executive Order 8381</a>, certain vital military and naval installations and equipment dated 1940, as it pertains in regards to the National Security Classification Act from January 12th, 1938 just about every operational, technical, maintenance, part, and training manual, every memo, report, and communication could be potentially classified as Restricted or Confidential if it was determined by someone with the authority to have any information that could be used by an adversary against the US.  </p>
+<p class="has-medium-font-size">This capability gave the War Department (US Army) and the Department of the Navy, a wide latitude in defining what constitutes a threat to national security.</p>
+<p class="has-medium-font-size">Because of National Security, the Official Flight-19 Naval Proceedings report of 1946 was at least in part classified as RESTRICTED and, was placed in cabinets, vaults, and archives throughout the Navy Department until it was moved along with other declassified documents sometime in the 1970&#8217;s and given to the National Archives, long after the National Security Act of 1947. </p>
+<p class="has-medium-font-size">Today Flight-19 is still a sore spot on the Navy&#8217;s reputation and there is still rancor among the military establishment over unification. It is very likely that the risk of opening old wounds, the drain on money and time, potential lawsuits over jurisdictional differences as well as privacy concerns especially as it pertains to something as undefinable and embarrassing as losing aircraft in &#8220;the Bermuda Triangle&#8221; are what keep the Navy from willfully pursuing this issue any further. Though it cannot be conclusively proven at this time, the Navy likely buried the paperwork hoping it would never see the light of day again.</p>
+
+
+
+<p class="has-medium-font-size wp-block-paragraph">_______________________________________________________________________</p>
+
+
+
+<ol class="wp-block-list">
+<li><em>Admiral John H. Towers the struggle for naval air supremacy</em> by Clark G. Reynolds NIP 1991</li>
+
+
+
+<li><em>The Disappearance of Flight-19</em>, by Larry Kusche Harpercollins; 1980 ISBN 978-0-0601-2477-9</li>
+
+
+
+<li><em>The Discovery of Flight-19: A 30 year search for the lost patrol in the Bermuda Triangle</em>, by Jon F. Myhre, 2012 Paragon Agency Publishers Orange CA</li>
+
+
+
+<li>The <em>Forrestal Diaries</em> Edited by Walter Millis with the Collaboration of E S Duffield, The Viking Press, New York October 1951, Copyright New York Herald Tribune 1951.</li>
+
+
+
+<li><em>Indianapolis</em> by Lynn Vincent and Sara Vladic, Simon &amp; Schuster NY 2018, ISBN 978-1-5011-3594-1</li>
+
+
+
+<li><em>In Harms Way</em>: <em>The Sinking of the USS Indianapolis and the Extraordinary Story of Its Survivors</em>&nbsp;by Doug Stanton, Henry Holt and Company; 2001 ISBN 978-1-5673-1797-8</li>
+
+
+
+<li><em>NARA microfilm project # 1657</em>, roll#1. Specifically dated 12 March 2001, 2461-0598-013-01 reduction # 10/16 processed by Sieh Loreta. (Berkshire Athenaeum) Pittsfield MA.&nbsp;</li>
+
+
+
+<li><em>&nbsp;Nimitz</em>, Naval Institute Press, Annapolis, Maryland. E.B. Potter 1976, ISBN 0-8702-1492-6</li>
+
+
+
+<li><em>They Flew Into Oblivion: The Disappearance of Flight-19</em> by Gian J. Quasar 978-0-9888-5050-7 2013 Brodwyn-Moor &amp; Doane&nbsp;</li>
+</ol>
+</div>
+</div>
+<div id="atatags-370373-6aeb281e9d5e4">
+		<script type="text/javascript">
+			__ATA = window.__ATA || {};
+			__ATA.cmd = window.__ATA.cmd || [];
+			__ATA.cmd.push(function() {
+				__ATA.initVideoSlot('atatags-370373-6aeb281e9d5e4', {
+					sectionId: '370373',
+					format: 'inread'
+				});
+			});
+		</script>
+	</div><span id="wordads-inline-marker" style="display: none;"></span><div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/" data-text="FLIGHT-19, MILITARY UNIFICATION &amp; NATIONAL SECURITY" data-via="Wingman710" data-related="wordpressdotcom">Tweet</a></li><li class="share-facebook"><div class="fb-share-button" data-href="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/" data-layout="button_count"></div></li><li class="share-email"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-email-3787"
+				class="share-email sd-button"
+				href="mailto:?subject=%5BShared%20Post%5D%20FLIGHT-19%2C%20MILITARY%20UNIFICATION%20%26%20NATIONAL%20SECURITY&#038;body=https%3A%2F%2Ffivesides2atriangle.com%2F2024%2F01%2F19%2Fflight-19-military-unification-national-security%2F&#038;share=email"
+				target="_blank"
+				aria-labelledby="sharing-email-3787"
+				data-email-share-error-title="Do you have email set up?" data-email-share-error-text="If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself." data-email-share-nonce="cdbf0025cd" data-email-share-track-url="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/?share=email">
+				<span id="sharing-email-3787" hidden>Email a link to a friend (Opens in new window)</span>
+				<span>Email</span>
+			</a></li><li class="share-linkedin"><div class="linkedin_button"><script type="in/share" data-url="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/" data-counter="right"></script></div></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-reddit"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-reddit-3787"
+				class="share-reddit sd-button"
+				href="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/?share=reddit"
+				target="_blank"
+				aria-labelledby="sharing-reddit-3787"
+				>
+				<span id="sharing-reddit-3787" hidden>Share on Reddit (Opens in new window)</span>
+				<span>Reddit</span>
+			</a></li><li class="share-print"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-print-3787"
+				class="share-print sd-button"
+				href="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/#print?share=print"
+				target="_blank"
+				aria-labelledby="sharing-print-3787"
+				>
+				<span id="sharing-print-3787" hidden>Print (Opens in new window)</span>
+				<span>Print</span>
+			</a></li><li class="share-end"></li></ul></div></div></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-97060865-3787-6aeb281e9ef5d' data-src='//widgets.wp.com/likes/index.html?ver=20261104#blog_id=97060865&amp;post_id=3787&amp;origin=fivesidestoatriangle.wordpress.com&amp;obj_id=97060865-3787-6aeb281e9ef5d&amp;domain=fivesides2atriangle.com' data-name='like-post-frame-97060865-3787-6aeb281e9ef5d' data-title='Like or Reblog'><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class='loading'>Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div>			</div><!-- .entry-content -->
+
+	<footer class="entry-footer clear">
+
+		<span class="left">
+						<a href="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/"><i class="fa fa-link"></i></a>
+					</span>
+
+		<span class="right"><span class="cat-links">Posted in <a href="https://fivesides2atriangle.com/category/flight-19/" rel="category tag">Flight-19</a></span><span class="tags-links">Tagged <a href="https://fivesides2atriangle.com/tag/aviation/" rel="tag">aviation</a>, <a href="https://fivesides2atriangle.com/tag/history/" rel="tag">history</a>, <a href="https://fivesides2atriangle.com/tag/military/" rel="tag">military</a>, <a href="https://fivesides2atriangle.com/tag/u-s-navy/" rel="tag">u-s-navy</a></span></span>
+
+	</footer><!-- .entry-footer -->
+
+</article><!-- #post-## -->
+			
+	<nav class="navigation post-navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://fivesides2atriangle.com/2023/08/08/update-pin-the-tail-on-a-50-cal-tracking-a-machine-gun/" rel="prev">UPDATE – Pin the Tail on a .50 Cal | Tracking a machine&nbsp;gun.</a></div></div>
+	</nav>
+			<hr>
+
+			
+<div id="comments" class="comments-area">
+
+	
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2024/01/19/flight-19-military-unification-national-security/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://fivesides2atriangle.com/wp-comments-post.php" method="post" id="commentform" class="comment-form"><div class="jetpack-comments" data-jetpack-comments="{&quot;postId&quot;:3787,&quot;loginUrl&quot;:&quot;https://fivesidestoatriangle.wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Ffivesides2atriangle.com%2F2024%2F01%2F19%2Fflight-19-military-unification-national-security%2F&quot;,&quot;logoutUrl&quot;:&quot;&quot;,&quot;submit&quot;:{&quot;id&quot;:&quot;submit&quot;,&quot;name&quot;:&quot;submit&quot;,&quot;class&quot;:&quot;submit&quot;,&quot;wrapClass&quot;:&quot;&quot;,&quot;label&quot;:&quot;Comment&quot;},&quot;subscriptions&quot;:[{&quot;name&quot;:&quot;subscribe&quot;,&quot;label&quot;:&quot;Notify me of new comments by email.&quot;,&quot;checked&quot;:false},{&quot;name&quot;:&quot;subscribe_blog&quot;,&quot;label&quot;:&quot;Subscribe to keep up with Five Sides 2aTriangle .&quot;,&quot;checked&quot;:false}]}"><p class="comment-form-comment"><label for="comment">Comment</label><textarea id="comment" name="comment" rows="4" required></textarea></p><p class="comment-form-author"><label for="author">Name</label><input id="author" name="author" type="text" value="" required /></p><p class="comment-form-email"><label for="email">Email</label><input id="email" name="email" type="email" value="" required /></p><p class="comment-form-url"><label for="url">Website</label><input id="url" name="url" type="text" value="" maxlength="200" /></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Comment" /> </p></div><noscript><style>.jetpack-comments{display:none!important}</style><p>Turn on JavaScript to leave a comment.</p></noscript><input type='hidden' name='comment_post_ID' value='3787' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="6122816572" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="118"/><script>
+document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
+</script>
+</p></form>	</div><!-- #respond -->
+	<p class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed.</a></p>
+</div><!-- #comments -->
+
+		
+	</main><!-- #main -->
+
+</div><!-- #primary -->
+
+
+<div id="secondary" class="widget-area" role="complementary">
+
+	
+		<aside id="recent-posts-2" class="widget widget_recent_entries">
+		<h1 class="widget-title">Recent Posts</h1>
+		<ul>
+											<li>
+					<a href="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/" aria-current="page">FLIGHT-19, MILITARY UNIFICATION &amp; NATIONAL&nbsp;SECURITY</a>
+									</li>
+											<li>
+					<a href="https://fivesides2atriangle.com/2023/08/08/update-pin-the-tail-on-a-50-cal-tracking-a-machine-gun/">UPDATE – Pin the Tail on a .50 Cal | Tracking a machine&nbsp;gun.</a>
+									</li>
+											<li>
+					<a href="https://fivesides2atriangle.com/2022/03/30/flight-19-conspiracy-theory-part-1-context/">FLIGHT-19 &amp; THE SPECTRE OF CONSPIRACY&nbsp;THEORY</a>
+									</li>
+											<li>
+					<a href="https://fivesides2atriangle.com/2022/02/11/the-grumman-150se-2-turret/">The Grumman 150SE-2&nbsp;Turret</a>
+									</li>
+											<li>
+					<a href="https://fivesides2atriangle.com/2022/01/26/reference-the-us-naval-command-organization-october-1945/">REFERENCE: The US Naval Command Organization &#8211; October&nbsp;1945</a>
+									</li>
+					</ul>
+
+		</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h1 class="widget-title">Recent Comments</h1>				<table class="recentcommentsavatar" cellspacing="0" cellpadding="0" border="0">
+					<tr><td title="Barry Yodzis" class="recentcommentsavatartop" style="height:48px; width:48px;"><img referrerpolicy="no-referrer" alt='Barry Yodzis&#039;s avatar' src='https://1.gravatar.com/avatar/41af86cb2fbd8c1f5aff3de3f1dc636bcba7a87304ac34cfdf8196c9225445c6?s=48&#038;d=&#038;r=G' srcset='https://1.gravatar.com/avatar/41af86cb2fbd8c1f5aff3de3f1dc636bcba7a87304ac34cfdf8196c9225445c6?s=48&#038;d=&#038;r=G 1x, https://1.gravatar.com/avatar/41af86cb2fbd8c1f5aff3de3f1dc636bcba7a87304ac34cfdf8196c9225445c6?s=72&#038;d=&#038;r=G 1.5x, https://1.gravatar.com/avatar/41af86cb2fbd8c1f5aff3de3f1dc636bcba7a87304ac34cfdf8196c9225445c6?s=96&#038;d=&#038;r=G 2x, https://1.gravatar.com/avatar/41af86cb2fbd8c1f5aff3de3f1dc636bcba7a87304ac34cfdf8196c9225445c6?s=144&#038;d=&#038;r=G 3x, https://1.gravatar.com/avatar/41af86cb2fbd8c1f5aff3de3f1dc636bcba7a87304ac34cfdf8196c9225445c6?s=192&#038;d=&#038;r=G 4x' class='avatar avatar-48' height='48' width='48' loading='lazy' decoding='async' /></td><td class="recentcommentstexttop" style="">Barry Yodzis on <a href="https://fivesides2atriangle.com/2023/08/08/update-pin-the-tail-on-a-50-cal-tracking-a-machine-gun/comment-page-1/#comment-5262">UPDATE – Pin the Tail on a .50&hellip;</a></td></tr><tr><td title="Sidney F" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="https://www.sidneyfritz.com/" rel="nofollow"><img referrerpolicy="no-referrer" alt='Sidney F&#039;s avatar' src='https://2.gravatar.com/avatar/bde58b3df493392d7da12faaffe231c1baa081ec407e0a6715a59ddbfe006c6b?s=48&#038;d=&#038;r=G' srcset='https://2.gravatar.com/avatar/bde58b3df493392d7da12faaffe231c1baa081ec407e0a6715a59ddbfe006c6b?s=48&#038;d=&#038;r=G 1x, https://2.gravatar.com/avatar/bde58b3df493392d7da12faaffe231c1baa081ec407e0a6715a59ddbfe006c6b?s=72&#038;d=&#038;r=G 1.5x, https://2.gravatar.com/avatar/bde58b3df493392d7da12faaffe231c1baa081ec407e0a6715a59ddbfe006c6b?s=96&#038;d=&#038;r=G 2x, https://2.gravatar.com/avatar/bde58b3df493392d7da12faaffe231c1baa081ec407e0a6715a59ddbfe006c6b?s=144&#038;d=&#038;r=G 3x, https://2.gravatar.com/avatar/bde58b3df493392d7da12faaffe231c1baa081ec407e0a6715a59ddbfe006c6b?s=192&#038;d=&#038;r=G 4x' class='avatar avatar-48' height='48' width='48' loading='lazy' decoding='async' /></a></td><td class="recentcommentstextend" style=""><a href="https://www.sidneyfritz.com/" rel="nofollow">Sidney F</a> on <a href="https://fivesides2atriangle.com/2016/11/08/ship-deck-logs-radar/comment-page-1/#comment-5261">Ship Deck Logs &amp;&nbsp;Rada&hellip;</a></td></tr><tr><td title="Brian Whitehouse" class="recentcommentsavatarend" style="height:48px; width:48px;"><img referrerpolicy="no-referrer" alt='Brian Whitehouse&#039;s avatar' src='https://graph.facebook.com/v6.0/10229663585788085/picture?type=large' srcset='https://graph.facebook.com/v6.0/10229663585788085/picture?type=large 1x, https://graph.facebook.com/v6.0/10229663585788085/picture?type=large 1.5x, https://graph.facebook.com/v6.0/10229663585788085/picture?type=large 2x, https://graph.facebook.com/v6.0/10229663585788085/picture?type=large 3x, https://graph.facebook.com/v6.0/10229663585788085/picture?type=large 4x' class='avatar avatar-48' height='48' width='48' loading='lazy' decoding='async' /></td><td class="recentcommentstextend" style="">Brian Whitehouse on <a href="https://fivesides2atriangle.com/2017/12/04/december-5th-1945-memorial-a-day-that-lives-in-infamy/comment-page-1/#comment-5260">DECEMBER 5TH, 1945 MEMORIAL |&hellip;</a></td></tr><tr><td title="KJMacKenzie" class="recentcommentsavatarend" style="height:48px; width:48px;"><a href="https://fivesidestoatriangle.wordpress.com" rel="nofollow"><img referrerpolicy="no-referrer" alt='KJMacKenzie&#039;s avatar' src='https://2.gravatar.com/avatar/ef6e12e30abb0fb44f594d27ff4d4899ea7f04226fde5bfae6486a7d4c0684d7?s=48&#038;d=&#038;r=G' srcset='https://2.gravatar.com/avatar/ef6e12e30abb0fb44f594d27ff4d4899ea7f04226fde5bfae6486a7d4c0684d7?s=48&#038;d=&#038;r=G 1x, https://2.gravatar.com/avatar/ef6e12e30abb0fb44f594d27ff4d4899ea7f04226fde5bfae6486a7d4c0684d7?s=72&#038;d=&#038;r=G 1.5x, https://2.gravatar.com/avatar/ef6e12e30abb0fb44f594d27ff4d4899ea7f04226fde5bfae6486a7d4c0684d7?s=96&#038;d=&#038;r=G 2x, https://2.gravatar.com/avatar/ef6e12e30abb0fb44f594d27ff4d4899ea7f04226fde5bfae6486a7d4c0684d7?s=144&#038;d=&#038;r=G 3x, https://2.gravatar.com/avatar/ef6e12e30abb0fb44f594d27ff4d4899ea7f04226fde5bfae6486a7d4c0684d7?s=192&#038;d=&#038;r=G 4x' class='avatar avatar-48' height='48' width='48' loading='lazy' decoding='async' /></a></td><td class="recentcommentstextend" style=""><a href="https://fivesidestoatriangle.wordpress.com" rel="nofollow">KJMacKenzie</a> on <a href="https://fivesides2atriangle.com/2017/01/01/c-c-taylor-and-possible-ptsd/comment-page-1/#comment-5258">C.C. Taylor and Possible&nbsp;&hellip;</a></td></tr><tr><td title="Richard Kallio" class="recentcommentsavatarend" style="height:48px; width:48px;"><img referrerpolicy="no-referrer" alt='Richard Kallio&#039;s avatar' src='https://0.gravatar.com/avatar/03f206dece632cc6f293e15336ce1c52f7ade51a3d0a77a09e51b33cf081100d?s=48&#038;d=&#038;r=G' srcset='https://0.gravatar.com/avatar/03f206dece632cc6f293e15336ce1c52f7ade51a3d0a77a09e51b33cf081100d?s=48&#038;d=&#038;r=G 1x, https://0.gravatar.com/avatar/03f206dece632cc6f293e15336ce1c52f7ade51a3d0a77a09e51b33cf081100d?s=72&#038;d=&#038;r=G 1.5x, https://0.gravatar.com/avatar/03f206dece632cc6f293e15336ce1c52f7ade51a3d0a77a09e51b33cf081100d?s=96&#038;d=&#038;r=G 2x, https://0.gravatar.com/avatar/03f206dece632cc6f293e15336ce1c52f7ade51a3d0a77a09e51b33cf081100d?s=144&#038;d=&#038;r=G 3x, https://0.gravatar.com/avatar/03f206dece632cc6f293e15336ce1c52f7ade51a3d0a77a09e51b33cf081100d?s=192&#038;d=&#038;r=G 4x' class='avatar avatar-48' height='48' width='48' loading='lazy' decoding='async' /></td><td class="recentcommentstextend" style="">Richard Kallio on <a href="https://fivesides2atriangle.com/2017/01/01/c-c-taylor-and-possible-ptsd/comment-page-1/#comment-5257">C.C. Taylor and Possible&nbsp;&hellip;</a></td></tr>				</table>
+				</aside><aside id="archives-2" class="widget widget_archive"><h1 class="widget-title">Archives</h1>
+			<ul>
+					<li><a href='https://fivesides2atriangle.com/2024/01/'>January 2024</a></li>
+	<li><a href='https://fivesides2atriangle.com/2023/08/'>August 2023</a></li>
+	<li><a href='https://fivesides2atriangle.com/2022/03/'>March 2022</a></li>
+	<li><a href='https://fivesides2atriangle.com/2022/02/'>February 2022</a></li>
+	<li><a href='https://fivesides2atriangle.com/2022/01/'>January 2022</a></li>
+	<li><a href='https://fivesides2atriangle.com/2021/02/'>February 2021</a></li>
+	<li><a href='https://fivesides2atriangle.com/2020/02/'>February 2020</a></li>
+	<li><a href='https://fivesides2atriangle.com/2019/12/'>December 2019</a></li>
+	<li><a href='https://fivesides2atriangle.com/2018/07/'>July 2018</a></li>
+	<li><a href='https://fivesides2atriangle.com/2018/03/'>March 2018</a></li>
+	<li><a href='https://fivesides2atriangle.com/2017/12/'>December 2017</a></li>
+	<li><a href='https://fivesides2atriangle.com/2017/11/'>November 2017</a></li>
+	<li><a href='https://fivesides2atriangle.com/2017/10/'>October 2017</a></li>
+	<li><a href='https://fivesides2atriangle.com/2017/09/'>September 2017</a></li>
+	<li><a href='https://fivesides2atriangle.com/2017/01/'>January 2017</a></li>
+	<li><a href='https://fivesides2atriangle.com/2016/11/'>November 2016</a></li>
+	<li><a href='https://fivesides2atriangle.com/2016/09/'>September 2016</a></li>
+	<li><a href='https://fivesides2atriangle.com/2016/08/'>August 2016</a></li>
+	<li><a href='https://fivesides2atriangle.com/2016/06/'>June 2016</a></li>
+	<li><a href='https://fivesides2atriangle.com/2016/01/'>January 2016</a></li>
+	<li><a href='https://fivesides2atriangle.com/2015/12/'>December 2015</a></li>
+	<li><a href='https://fivesides2atriangle.com/2015/11/'>November 2015</a></li>
+	<li><a href='https://fivesides2atriangle.com/2015/10/'>October 2015</a></li>
+	<li><a href='https://fivesides2atriangle.com/2015/08/'>August 2015</a></li>
+			</ul>
+
+			</aside><aside id="follow_button_widget-3" class="widget widget_follow_button_widget">
+		<a class="wordpress-follow-button" href="https://fivesides2atriangle.com" data-blog="97060865" data-lang="en" data-show-follower-count="true">Follow Five Sides 2aTriangle  on WordPress.com</a>
+		<script type="text/javascript">(function(d){ window.wpcomPlatform = {"titles":{"timelines":"Embeddable Timelines","followButton":"Follow Button","wpEmbeds":"WordPress Embeds"}}; var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');p.type = 'text/javascript';p.async = true;p.src = '//widgets.wp.com/platform.js';f.parentNode.insertBefore(p,f);}(document));</script>
+
+		</aside>
+</div><!-- #secondary -->
+
+	</div><!-- #content -->
+
+	<div class="footer-wrap clear">
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			
+			<div class="site-info">
+				<a href="https://wordpress.com/?ref=footer_custom_acom" rel="nofollow">A WordPress.com Website</a>.
+				
+							</div><!-- .site-info -->
+
+		</footer><!-- #colophon -->
+
+	</div><!-- .footer-wrap -->
+
+</div><!-- #page -->
+
+<!--  -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/files/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/pub/gateway/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="grofiles-cards-js" src="//0.gravatar.com/js/hovercards/hovercards.min.js?ver=202645fffb5f6f8dc7a9c7ad08f16ba2e694fddff32cc1793b3fe3b32aaa232a52550e"></script>
+<script id="wpgroho-js-extra">
+var WPGroHo = {"my_hash":""};
+//# sourceURL=wpgroho-js-extra
+</script>
+<script crossorigin='anonymous' type='text/javascript'  src='/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240i'></script>
+
+	<script>
+		// Initialize and attach hovercards to all gravatars
+		( function() {
+			function init() {
+				if ( typeof Gravatar === 'undefined' ) {
+					return;
+				}
+
+				if ( typeof Gravatar.init !== 'function' ) {
+					return;
+				}
+
+				Gravatar.profile_cb = function ( hash, id ) {
+					WPGroHo.syncProfileData( hash, id );
+				};
+
+				Gravatar.my_hash = WPGroHo.my_hash;
+				Gravatar.init(
+					'body',
+					'#wp-admin-bar-my-account',
+					{
+						i18n: {
+							'Edit your profile →': 'Edit your profile →',
+							'View profile →': 'View profile →',
+							'Contact': 'Contact',
+							'Send money': 'Send money',
+							'Sorry, we are unable to load this Gravatar profile.': 'Sorry, we are unable to load this Gravatar profile.',
+							'Gravatar not found.': 'Gravatar not found.',
+							'Too Many Requests.': 'Too Many Requests.',
+							'Internal Server Error.': 'Internal Server Error.',
+							'Is this you?': 'Is this you?',
+							'Claim your free profile.': 'Claim your free profile.',
+							'Email': 'Email',
+							'Home Phone': 'Home Phone',
+							'Work Phone': 'Work Phone',
+							'Cell Phone': 'Cell Phone',
+							'Contact Form': 'Contact Form',
+							'Calendar': 'Calendar',
+						},
+					}
+				);
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-e7cfeee9030312964c9bd814b278870a">
+	</div>
+	<div class="grofile-hash-map-3b18be587d774497677d77f96fbdce1e">
+	</div>
+	<div class="grofile-hash-map-0f849553b374270aa0404efb703917ee">
+	</div>
+	<div class="grofile-hash-map-87249ea6e9f8a943d1aa9129a2137675">
+	</div>
+	<div class="grofile-hash-map-802f289361d85621f2973997688049d2">
+	</div>
+	</div>
+		<!-- CCPA [start] -->
+		<script type="text/javascript">
+			( function () {
+
+				var setupPrivacy = function() {
+
+					// Minimal Mozilla Cookie library
+					// https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie/Simple_document.cookie_framework
+					var cookieLib = window.cookieLib = {getItem:function(e){return e&&decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(e).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null},setItem:function(e,o,n,t,r,i){if(!e||/^(?:expires|max\-age|path|domain|secure)$/i.test(e))return!1;var c="";if(n)switch(n.constructor){case Number:c=n===1/0?"; expires=Fri, 31 Dec 9999 23:59:59 GMT":"; max-age="+n;break;case String:c="; expires="+n;break;case Date:c="; expires="+n.toUTCString()}return"rootDomain"!==r&&".rootDomain"!==r||(r=(".rootDomain"===r?".":"")+document.location.hostname.split(".").slice(-2).join(".")),document.cookie=encodeURIComponent(e)+"="+encodeURIComponent(o)+c+(r?"; domain="+r:"")+(t?"; path="+t:"")+(i?"; secure":""),!0}};
+
+					// Implement IAB USP API.
+					window.__uspapi = function( command, version, callback ) {
+
+						// Validate callback.
+						if ( typeof callback !== 'function' ) {
+							return;
+						}
+
+						// Validate the given command.
+						if ( command !== 'getUSPData' || version !== 1 ) {
+							callback( null, false );
+							return;
+						}
+
+						// Check for GPC. If set, override any stored cookie.
+						if ( navigator.globalPrivacyControl ) {
+							callback( { version: 1, uspString: '1YYN' }, true );
+							return;
+						}
+
+						// Check for cookie.
+						var consent = cookieLib.getItem( 'usprivacy' );
+
+						// Invalid cookie.
+						if ( null === consent ) {
+							callback( null, false );
+							return;
+						}
+
+						// Everything checks out. Fire the provided callback with the consent data.
+						callback( { version: 1, uspString: consent }, true );
+					};
+
+					// Initialization.
+					document.addEventListener( 'DOMContentLoaded', function() {
+
+						// Internal functions.
+						var setDefaultOptInCookie = function() {
+							var value = '1YNN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 365 * 24 * 60 * 60, '/', domain );
+						};
+
+						var setDefaultOptOutCookie = function() {
+							var value = '1YYN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 24 * 60 * 60, '/', domain );
+						};
+
+						var setDefaultNotApplicableCookie = function() {
+							var value = '1---';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 24 * 60 * 60, '/', domain );
+						};
+
+						var setCcpaAppliesCookie = function( applies ) {
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'ccpa_applies', applies, 24 * 60 * 60, '/', domain );
+						}
+
+						var maybeCallDoNotSellCallback = function() {
+							if ( 'function' === typeof window.doNotSellCallback ) {
+								return window.doNotSellCallback();
+							}
+
+							return false;
+						}
+
+						// Look for usprivacy cookie first.
+						var usprivacyCookie = cookieLib.getItem( 'usprivacy' );
+
+						// Found a usprivacy cookie.
+						if ( null !== usprivacyCookie ) {
+
+							// If the cookie indicates that CCPA does not apply, then bail.
+							if ( '1---' === usprivacyCookie ) {
+								return;
+							}
+
+							// CCPA applies, so call our callback to add Do Not Sell link to the page.
+							maybeCallDoNotSellCallback();
+
+							// We're all done, no more processing needed.
+							return;
+						}
+
+						// We don't have a usprivacy cookie, so check to see if we have a CCPA applies cookie.
+						var ccpaCookie = cookieLib.getItem( 'ccpa_applies' );
+
+						// No CCPA applies cookie found, so we'll need to geolocate if this visitor is from California.
+						// This needs to happen client side because we do not have region geo data in our $SERVER headers,
+						// only country data -- therefore we can't vary cache on the region.
+						if ( null === ccpaCookie ) {
+
+							var request = new XMLHttpRequest();
+							request.open( 'GET', 'https://public-api.wordpress.com/geo/', true );
+
+							request.onreadystatechange = function () {
+								if ( 4 === this.readyState ) {
+									if ( 200 === this.status ) {
+
+										// Got a geo response. Parse out the region data.
+										var data = JSON.parse( this.response );
+										var region      = data.region ? data.region.toLowerCase() : '';
+										var ccpa_applies = ['california', 'colorado', 'connecticut', 'delaware', 'indiana', 'iowa', 'montana', 'new jersey', 'oregon', 'tennessee', 'texas', 'utah', 'virginia'].indexOf( region ) > -1;
+										// Set CCPA applies cookie. This keeps us from having to make a geo request too frequently.
+										setCcpaAppliesCookie( ccpa_applies );
+
+										// Check if CCPA applies to set the proper usprivacy cookie.
+										if ( ccpa_applies ) {
+											if ( maybeCallDoNotSellCallback() ) {
+												// Do Not Sell link added, so set default opt-in.
+												setDefaultOptInCookie();
+											} else {
+												// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+												setDefaultOptOutCookie();
+											}
+										} else {
+											// CCPA does not apply.
+											setDefaultNotApplicableCookie();
+										}
+									} else {
+										// Could not geo, so let's assume for now that CCPA applies to be safe.
+										setCcpaAppliesCookie( true );
+										if ( maybeCallDoNotSellCallback() ) {
+											// Do Not Sell link added, so set default opt-in.
+											setDefaultOptInCookie();
+										} else {
+											// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+											setDefaultOptOutCookie();
+										}
+									}
+								}
+							};
+
+							// Send the geo request.
+							request.send();
+						} else {
+							// We found a CCPA applies cookie.
+							if ( ccpaCookie === 'true' ) {
+								if ( maybeCallDoNotSellCallback() ) {
+									// Do Not Sell link added, so set default opt-in.
+									setDefaultOptInCookie();
+								} else {
+									// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+									setDefaultOptOutCookie();
+								}
+							} else {
+								// CCPA does not apply.
+								setDefaultNotApplicableCookie();
+							}
+						}
+					} );
+				};
+
+				// Kickoff initialization.
+				if ( window.defQueue && defQueue.isLOHP && defQueue.isLOHP === 2020 ) {
+					defQueue.items.push( setupPrivacy );
+				} else {
+					setupPrivacy();
+				}
+
+			} )();
+		</script>
+
+		<!-- CCPA [end] -->
+		<div class="widget widget_eu_cookie_law_widget">
+<div
+	class="hide-on-button ads-active"
+	data-hide-timeout="30"
+	data-consent-expiration="180"
+	id="eu-cookie-law"
+	style="display: none"
+>
+	<form method="post">
+		<input type="submit" value="Close and accept" class="accept" />
+
+		Privacy &amp; Cookies: This site uses cookies. By continuing to use this website, you agree to their use. <br />
+To find out more, including how to control cookies, see here:
+				<a href="https://automattic.com/cookies/" rel="nofollow">
+			Cookie Policy		</a>
+ </form>
+</div>
+</div>			<div id="actionbar" dir="ltr" style="display: none;"
+				class="actnbr-pub-gateway" role="region" aria-label="Site actions">
+			<span class="actnbr-live" aria-live="polite"></span>
+			<ul>
+										<li class="actnbr-btn">
+							<a class="actnbr-action actnbr-actn-comment" href="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/#respond">
+								<svg class="actnbr-icon actnbr-icon-comment" width="20" height="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" fill="currentColor"><path d="M18 4H6c-1.1 0-2 .9-2 2v12.9c0 .6.5 1.1 1.1 1.1.3 0 .5-.1.8-.3L8.5 17H18c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm.5 11c0 .3-.2.5-.5.5H7.9l-2.4 2.4V6c0-.3.2-.5.5-.5h12c.3 0 .5.2.5.5v9z"/></svg>								<span>Comment							</span>
+							</a>
+						</li>
+											<li class="actnbr-btn">
+							<a class="actnbr-action actnbr-actn-reblog" href="" role="button">
+								<svg class="actnbr-icon actnbr-icon-reusable-block" width="20" height="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" fill="currentColor"><path d="M7 7.2h8.2L13.5 9l1.1 1.1 3.6-3.6-3.5-4-1.1 1 1.9 2.3H7c-.9 0-1.7.3-2.3.9-1.4 1.5-1.4 4.2-1.4 5.6v.2h1.5v-.3c0-1.1 0-3.5 1-4.5.3-.3.7-.5 1.2-.5zm13.8 4V11h-1.5v.3c0 1.1 0 3.5-1 4.5-.3.3-.7.5-1.3.5H8.8l1.7-1.7-1.1-1.1L5.9 17l3.5 4 1.1-1-1.9-2.3H17c.9 0 1.7-.3 2.3-.9 1.5-1.4 1.5-4.2 1.5-5.6z"/></svg><span>Reblog</span>
+							</a>
+						</li>
+											<li class="actnbr-btn actnbr-hidden">
+										<a class="actnbr-action actnbr-actn-follow " href="" role="button" aria-haspopup="dialog" aria-expanded="false">
+				<svg class="actnbr-icon actnbr-icon-bell" width="20" height="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M17 11.5c0 1.353.17 2.368.976 3 .266.209.602.376 1.024.5v1H5v-1c.422-.124.757-.291 1.024-.5.806-.632.976-1.647.976-3V9c0-2.8 2.2-5 5-5s5 2.2 5 5v2.5ZM15.5 9v2.5c0 .93.066 1.98.515 2.897l.053.103H7.932a4.018 4.018 0 0 0 .053-.103c.449-.917.515-1.967.515-2.897V9c0-1.972 1.528-3.5 3.5-3.5s3.5 1.528 3.5 3.5Zm-5.492 9.008c0-.176.023-.346.065-.508h3.854A1.996 1.996 0 0 1 12 20c-1.1 0-1.992-.892-1.992-1.992Z"/></svg>				<span>Subscribe</span>
+			</a>
+			<a class="actnbr-action actnbr-actn-following  no-display" href="" role="button">
+				<svg class="actnbr-icon actnbr-icon-check" width="20" height="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" style="fill: none" stroke="currentColor" stroke-width="1.5"><path d="M7 12L10 15L17 8" vector-effect="non-scaling-stroke"/></svg>				<span>Subscribed</span>
+			</a>
+									<div class="actnbr-popover actnbr-panel actnbr-notice" id="follow-bubble" role="dialog" aria-label="Subscribe to Five Sides 2aTriangle ">
+								<div class="actnbr-follow-bubble">
+								<div class="actnbr-panel__group"><a class="actnbr-menu__item actnbr-sitename" href="https://fivesides2atriangle.com"><img loading='lazy' alt='' src='https://s-ssl.wordpress.com/i/logo/wpcom-gray-white.png?m=1479929237i' srcset='https://s-ssl.wordpress.com/i/logo/wpcom-gray-white.png 1x' class='avatar avatar-50' height='50' width='50' /><span class="actnbr-menu__label">Five Sides 2aTriangle </span></a></div>																	<div class="actnbr-panel__group">
+										<div class="actnbr-message no-display" aria-live="polite"></div>
+										<form method="post" action="https://subscribe.wordpress.com" accept-charset="utf-8" class="no-display">
+																						<input type="email" name="email" placeholder="Want updates? Enter your email" class="actnbr-email-field" aria-label="Email address" />
+											<input type="hidden" name="action" value="subscribe" />
+											<input type="hidden" name="blog_id" value="97060865" />
+											<input type="hidden" name="source" value="https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/" />
+											<input type="hidden" name="sub-type" value="actionbar-follow" />
+											<input type="hidden" id="_wpnonce" name="_wpnonce" value="83deb81b1d" />											<button type="submit" class="actnbr-button">Sign me up</button>
+										</form>
+										<p class="actnbr-login-nudge">
+											Have a WordPress.com account? <a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Ffivesides2atriangle.com%252F2024%252F01%252F19%252Fflight-19-military-unification-national-security%252F">Log in now.</a>										</p>
+									</div>
+																	</div>
+							</div>
+						</li>
+									<li class="actnbr-ellipsis actnbr-hidden">
+					<button type="button" class="actnbr-more-toggle" aria-haspopup="true" aria-expanded="false" aria-label="More options">
+						<svg class="actnbr-icon actnbr-icon-more-horizontal" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" fill="currentColor"><path d="M11 13h2v-2h-2v2zm-6 0h2v-2H5v2zm12-2v2h2v-2h-2z"/></svg>					</button>
+					<div class="actnbr-popover actnbr-menu" role="menu" aria-label="Site options">
+						<div class="actnbr-menu__group" role="group"><a role="menuitem" class="actnbr-menu__item actnbr-sitename" href="https://fivesides2atriangle.com"><img loading='lazy' alt='' src='https://s-ssl.wordpress.com/i/logo/wpcom-gray-white.png?m=1479929237i' srcset='https://s-ssl.wordpress.com/i/logo/wpcom-gray-white.png 1x' class='avatar avatar-50' height='50' width='50' /><span class="actnbr-menu__label">Five Sides 2aTriangle </span></a></div><div class="actnbr-menu__group" role="group"><a role="menuitem" class="actnbr-menu__item actnbr-shortlink" href="https://wp.me/p6zfXP-Z5"><span class="actnbr-menu__label actnbr-shortlink__text">Copy shortlink</span><span class="actnbr-menu__icon actnbr-shortlink__icon"><svg class="actnbr-icon actnbr-icon-copy" width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M5 4.5h11a.5.5 0 0 1 .5.5v11a.5.5 0 0 1-.5.5H5a.5.5 0 0 1-.5-.5V5a.5.5 0 0 1 .5-.5ZM3 5a2 2 0 0 1 2-2h11a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5Zm17 3v10.75c0 .69-.56 1.25-1.25 1.25H6v1.5h12.75a2.75 2.75 0 0 0 2.75-2.75V8H20Z"/></svg></span><span class="actnbr-menu__icon actnbr-shortlink__icon-copied"><svg class="actnbr-icon actnbr-icon-check" width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" style="fill: none" stroke="currentColor" stroke-width="1.5"><path d="M7 12L10 15L17 8" vector-effect="non-scaling-stroke"/></svg></span></a><a role="menuitem" class="actnbr-menu__item actnbr-reader" href="https://wordpress.com/reader/blogs/97060865/posts/3787"><span class="actnbr-menu__label">View post in Reader</span></a></div><div class="actnbr-menu__group" role="group"><a role="menuitem" class="actnbr-menu__item actnbr-subs" href="https://subscribe.wordpress.com/"><span class="actnbr-menu__label">Manage subscriptions</span></a><a role="menuitem" class="actnbr-menu__item actnbr-signup" href="https://wordpress.com/start/"><span class="actnbr-menu__label">Sign up</span></a><a role="menuitem" class="actnbr-menu__item actnbr-login" href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Ffivesides2atriangle.com%252F2024%252F01%252F19%252Fflight-19-military-unification-national-security%252F"><span class="actnbr-menu__label">Log in</span></a></div><div class="actnbr-menu__group" role="group"><a role="menuitem" class="actnbr-menu__item flb-report" href="https://wordpress.com/abuse/?report_url=https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/" target="_blank" rel="noopener noreferrer"><span class="actnbr-menu__label">Report this content</span><span class="actnbr-menu__icon"><svg class="actnbr-icon actnbr-icon-external" width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" fill="currentColor"><path d="M19.5 4.5h-7V6h4.44l-5.97 5.97 1.06 1.06L18 7.06v4.44h1.5v-7Zm-13 1a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-3H17v3a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h3V5.5h-3Z"/></svg></span></a></div><div class="actnbr-menu__group" role="group"><a role="menuitem" class="actnbr-menu__item actnbr-fold" href=""><span class="actnbr-menu__label">Collapse this bar</span></a></div>					</div>
+				</li>
+			</ul>
+		</div>
+		<script>
+window.addEventListener( "DOMContentLoaded", function () {
+				var link = document.createElement( "link" );
+				link.href = "\/wp-content\/mu-plugins\/jetpack-plugin\/sun\/jetpack_vendor\/automattic\/jetpack-newsletter\/src\/..\/build\/action-bar.css?ver=35dd33285eb46dc308dd";
+				link.rel = "stylesheet";
+				document.head.appendChild( link );
+
+				var script = document.createElement( "script" );
+				script.src = "\/wp-content\/mu-plugins\/jetpack-plugin\/sun\/jetpack_vendor\/automattic\/jetpack-newsletter\/src\/..\/build\/action-bar.js?ver=35dd33285eb46dc308dd";
+				document.body.appendChild( script );
+			} );
+</script>
+<link rel="prefetch" href="/wp-content/mu-plugins/jetpack-plugin/sun/_inc/blocks/swiper.js" as="script" />
+		<div id="jp-carousel-loading-overlay" style="display: none;">
+			<div id="jp-carousel-loading-wrapper">
+				<span id="jp-carousel-library-loading"><svg class="jetpack-spinner" width="40" height="40" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><circle cx="50" cy="50" r="46" fill="none" stroke="#ddd" stroke-width="8"/><path d="M 50 4 A 46 46 0 0 1 96 50" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" dur="1.4s" from="0 50 50" to="360 50 50" repeatCount="indefinite"/></path></svg></span>
+			</div>
+		</div>
+		<div class="jp-carousel-overlay" style="display: none;">
+
+		<div class="jp-carousel-container">
+			<!-- The Carousel Swiper -->
+			<div
+				class="jp-carousel-wrap swiper jp-carousel-swiper-container jp-carousel-transitions"
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
+				<div class="jp-carousel swiper-wrapper"></div>
+				<div class="jp-swiper-button-prev swiper-button-prev">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
+							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskPrev)">
+							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+				<div class="jp-swiper-button-next swiper-button-next">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
+							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskNext)">
+							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<!-- The main close buton -->
+			<div class="jp-carousel-close-hint">
+				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
+						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
+					</mask>
+					<g mask="url(#maskClose)">
+						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
+					</g>
+				</svg>
+			</div>
+			<!-- Image info, comments and meta -->
+			<div class="jp-carousel-info">
+				<div class="jp-carousel-info-footer">
+					<div class="jp-carousel-pagination-container">
+						<div class="jp-swiper-pagination swiper-pagination"></div>
+						<div class="jp-carousel-pagination"></div>
+					</div>
+					<div class="jp-carousel-photo-title-container">
+						<div class="jp-carousel-photo-caption"></div>
+					</div>
+					<div class="jp-carousel-photo-icons-container">
+						<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Toggle photo metadata visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskInfo)">
+										<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+							</span>
+						</a>
+												<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Toggle photo comments visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskComments" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskComments)">
+										<rect x="0.34668" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+
+								<span class="jp-carousel-has-comments-indicator" aria-label="This image has comments."></span>
+							</span>
+						</a>
+											</div>
+				</div>
+				<div class="jp-carousel-info-extra">
+					<div class="jp-carousel-info-content-wrapper">
+						<div class="jp-carousel-photo-title-container">
+							<div class="jp-carousel-photo-title"></div>
+						</div>
+						<div class="jp-carousel-comments-wrapper">
+															<div id="jp-carousel-comments-loading">
+									<span>Loading Comments...</span>
+								</div>
+								<div class="jp-carousel-comments"></div>
+								<div id="jp-carousel-comment-form-container">
+									<span id="jp-carousel-comment-form-spinner"><svg class="jetpack-spinner" width="20" height="20" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><circle cx="50" cy="50" r="46" fill="none" stroke="#ddd" stroke-width="8"/><path d="M 50 4 A 46 46 0 0 1 96 50" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" dur="1.4s" from="0 50 50" to="360 50 50" repeatCount="indefinite"/></path></svg></span>
+									<div id="jp-carousel-comment-post-results"></div>
+																														<form id="jp-carousel-comment-form">
+												<label for="jp-carousel-comment-form-comment-field" class="screen-reader-text">Write a Comment...</label>
+												<textarea
+													name="comment"
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id="jp-carousel-comment-form-comment-field"
+													placeholder="Write a Comment..."
+												></textarea>
+												<div id="jp-carousel-comment-form-submit-and-info-wrapper">
+													<div id="jp-carousel-comment-form-commenting-as">
+																													<fieldset>
+																<label for="jp-carousel-comment-form-email-field">Email (Required)</label>
+																<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-author-field">Name (Required)</label>
+																<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-url-field">Website</label>
+																<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
+															</fieldset>
+																											</div>
+													<input
+														type="submit"
+														name="submit"
+														class="jp-carousel-comment-form-button"
+														id="jp-carousel-comment-form-button-submit"
+														value="Post Comment" />
+												</div>
+											</form>
+																											</div>
+													</div>
+						<div class="jp-carousel-image-meta">
+							<div class="jp-carousel-title-and-caption">
+								<div class="jp-carousel-photo-info">
+									<div class="jp-carousel-caption" itemprop="caption description"></div>
+								</div>
+
+								<div class="jp-carousel-photo-description"></div>
+							</div>
+							<a class="jp-carousel-image-download" href="#" aria-label="Download image" target="_blank" style="display: none;">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
+									</mask>
+									<g mask="url(#mask0)">
+										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+								<span class="jp-carousel-download-text"></span>
+							</a>
+							<div class="jp-carousel-image-map" style="display: none;"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+		
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https://fivesides2atriangle.com/2024/01/19/flight-19-military-unification-national-security/":3787};
+	</script>
+							<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+						<div id="fb-root"></div>
+			<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+			<script>
+			document.body.addEventListener( 'is.post-load', function() {
+				if ( 'undefined' !== typeof FB ) {
+					FB.XFBML.parse();
+				}
+			} );
+			</script>
+						<script type="text/javascript">
+				( function () {
+					var currentScript = document.currentScript;
+
+					// Helper function to load an external script.
+					function loadScript( url, cb ) {
+						var script = document.createElement( 'script' );
+						var prev = currentScript || document.getElementsByTagName( 'script' )[ 0 ];
+						script.setAttribute( 'async', true );
+						script.setAttribute( 'src', url );
+						prev.parentNode.insertBefore( script, prev );
+						script.addEventListener( 'load', cb );
+					}
+
+					function init() {
+						loadScript( 'https://platform.linkedin.com/in.js?async=true', function () {
+							if ( typeof IN !== 'undefined' ) {
+								IN.init();
+							}
+						} );
+					}
+
+					if ( document.readyState === 'loading' ) {
+						document.addEventListener( 'DOMContentLoaded', init );
+					} else {
+						init();
+					}
+
+					document.body.addEventListener( 'is.post-load', function() {
+						if ( typeof IN !== 'undefined' ) {
+							IN.parse();
+						}
+					} );
+				} )();
+			</script>
+			
+	<script type="text/javascript">
+		(function () {
+			var wpcom_reblog = {
+				source: 'toolbar',
+
+				toggle_reblog_box_flair: function (obj_id, post_id) {
+
+					// Go to site selector. This will redirect to their blog if they only have one.
+					const postEndpoint = `https://wordpress.com/post`;
+
+					// Ideally we would use the permalink here, but fortunately this will be replaced with the 
+					// post permalink in the editor.
+					const originalURL = `${ document.location.href }?page_id=${ post_id }`; 
+					
+					const url =
+						postEndpoint +
+						'?url=' +
+						encodeURIComponent( originalURL ) +
+						'&is_post_share=true' +
+						'&v=5';
+
+					const redirect = function () {
+						if (
+							! window.open( url, '_blank' )
+						) {
+							location.href = url;
+						}
+					};
+
+					if ( /Firefox/.test( navigator.userAgent ) ) {
+						setTimeout( redirect, 0 );
+					} else {
+						redirect();
+					}
+				},
+			};
+
+			window.wpcom_reblog = wpcom_reblog;
+		})();
+	</script>
+<script id="comment-like-js-extra">
+var comment_like_text = {"loading":"Loading...","swipeUrl":"https://s0.wp.com/wp-content/mu-plugins/comment-likes/js/lib/swipe.js?m=1382645497i&amp;ver=20131008"};
+//# sourceURL=comment-like-js-extra
+</script>
+<script id="jetpack-carousel-js-extra">
+var jetpackSwiperLibraryPath = {"url":"/wp-content/mu-plugins/jetpack-plugin/sun/_inc/blocks/swiper.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https://fivesides2atriangle.com/wp-admin/admin-ajax.php","nonce":"9f446f4518","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","image_label":"Open image in full-screen.","download_original":"View full size \u003Cspan class=\"photo-size\"\u003E{0}\u003Cspan class=\"photo-size-times\"\u003E\u00d7\u003C/span\u003E{1}\u003C/span\u003E","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https://fivesidestoatriangle.wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Ffivesides2atriangle.com%2F2024%2F01%2F19%2Fflight-19-military-unification-national-security%2F","blog_id":"97060865","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"loading_comments":"Loading Comments...","stats_query_args":"blog=97060865&v=wpcom&tz=-5&user_id=0&subd=fivesidestoatriangle","is_public":"1"};
+//# sourceURL=jetpack-carousel-js-extra
+</script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJyNkdtOwzAQRH8IdwVBRX1AfApy7G26yfpC1lvTv68rWi4BRTzOeM5otIaajUuxYCzQcxpMZh0oCtQ0e+vFOLYiKDA2yxY2x4fNKHfwDQv6BZEfsAigttc0ERq2FQqGzLbgwl/pYZpa+k1R8WCjZ5xXwi6F0CzzAY0LYwmWA4YWy9rD0DZVe7og0R6pSUrxf3mZKLf+OJl9cipmT+83kKJj9T+XzJj5tAn0q/2P211+QQy1YuZUF3KFH7Fk66arBtEIr20L9Erswdk5qSB/xm7GddVLeL5/2nXbXffYdeMZOwfHjg=='></script>
+<script id="jetpack-comments-js-before">
+window.JetpackComments = {"version":"0.8.3-alpha","styleUrl":"/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-comments/build/comments.css?m=1792508237i\u0026minify=false\u0026ver=bdbdd61e1110ad916985-1792508237","requireNameEmail":true,"mustLogIn":false,"site":{"name":"Five Sides 2aTriangle ","iconUrl":""},"manageSubscriptionsUrl":"https://subscribe.wordpress.com/?site=fivesides2atriangle.com","tracks":{"platform":"simple"},"strings":{"reply":"Reply","commentLabel":"Comment","replyLabel":"Reply","placeholder":"Write a comment...","replyPlaceholder":"Write a reply...","name":"Name","email":"Email","emailHint":"Address never made public","emailHasAccount":"That email belongs to a WordPress.com account. Log in with WordPress.com to use it, or enter a different email.","website":"Website (optional)","intro":"Enter your name and email to comment.","continueAsGuest":"Continue as a guest","postWithoutSaving":"No, thanks. I just want to post a comment","save":"Save","saveDetails":"Save my name, email, and website in this browser for the next time I comment.","close":"Close","manageSubscriptions":"Manage subscription","mustLogIn":"You must be logged in to post a comment.","logIn":"Log in","logInWithWordPress":"Log in with WordPress.com","logOut":"Log out","change":"Change","editProfile":"Edit profile","addYourName":"Add your name","cancel":"Cancel","signInFailed":"We could not sign you in. Please try again.","tooLong":"This comment is too long to post. Shorten it to send it.","signInRateLimited":"Too many sign-in attempts. Please wait a moment and try again."},"assetsUrl":"https://s0.wp.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-comments/build/","loaderUrl":"https://s0.wp.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-comments/build/editor-loader.js?m=1793391081i&amp;minify=false\u0026ver=b7a0f0fc3248173da3e0","maxLength":65525,"blocks":true,"editorLocale":{"block title\u0004Paragraph":["Paragraph"],"block title\u0004List":["List"],"block title\u0004List Item":["List Item"],"block title\u0004Quote":["Quote"],"block title\u0004Code":["Code"],"block title\u0004Embed":["Embed"],"block title\u0004Image":["Image"]},"editor":{"blockTools":"Block tools","addBlock":"Add block","embedUrl":"https://public-api.wordpress.com/wpcom/v2/sites/97060865/comments/embed","images":true,"imageError":"This image could not be loaded. Check its URL and try again."},"isLoggedIn":false,"avatarUrl":"https://0.gravatar.com/avatar/?s=80\u0026d=\u0026forcedefault=y\u0026r=G","commenter":{"author":"","email":"","url":""},"user":null,"identity":{"blogId":97060865,"canSignIn":true,"connect":{"url":"https://public-api.wordpress.com/connect/?comment_identity=1\u0026blog_id=97060865\u0026challenge=f0dRGHJY36CyH0YAGrmHMOXWi9LeJPjwsS6U5Zw7JfA\u0026origin=https%3A%2F%2Ffivesides2atriangle.com\u0026expires=1793799126\u0026signature=cbee31218bd345a80c6db18ed1e214a1c9e26db58e5ebdcfd4c80fdadea53958","expires":1793799126,"challenge":"f0dRGHJY36CyH0YAGrmHMOXWi9LeJPjwsS6U5Zw7JfA"},"connectUrl":"https://public-api.wordpress.com/wpcom/v2/sites/97060865/comments/identity/connect","emailUrl":"https://public-api.wordpress.com/wpcom/v2/sites/97060865/comments/identity/email","origin":"https://public-api.wordpress.com","codeField":"jetpack_comment_identity_code","passportField":"jetpack_comment_identity_passport","displayCookie":"jetpack_comment_identity_display","cookieHash":"653166773dc88127bd3afe0b6dfe5ea7","cookiePath":"/","cookieDomain":"","defaultAvatar":"https://0.gravatar.com/avatar/?s=80\u0026d=\u0026forcedefault=y\u0026r=G","logoutUrl":"/wp-admin/admin-ajax.php","logoutAction":"jetpack_comments_identity_logout"}};(function(){function n(){Array.prototype.forEach.call(document.forms,function(f){var i;if(f.querySelector(".jetpack-comments")&&!f.querySelector('[name="jetpack_comments_form_nonce"]')){i=document.createElement("input");i.type="hidden";i.name="jetpack_comments_form_nonce";i.value="4b96c95f62";f.appendChild(i);}});}n();document.addEventListener("DOMContentLoaded",n);})();window.addEventListener("load",function(){Array.prototype.forEach.call(document.querySelectorAll(".jetpack-comments"),function(e){if(!/\bis-(mounted|plain)\b/.test(e.className)){e.className+=" is-plain";}});});
+//# sourceURL=jetpack-comments-js-before
+</script>
+<script data-wp-strategy="defer" defer id="jetpack-comments-js" src="/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-comments/build/comments.js?m=1793651986i&#038;minify=false&#038;ver=bdbdd61e1110ad916985-1792508237"></script>
+<script id="sharing-js-js-extra">
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+//# sourceURL=sharing-js-js-extra
+</script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJx9TcsKwjAQ/CGTVSxUD+KnSMymddNkE7IJxb9vqeJBxMPAzDAPmLOyiavjCrGpHNpILGAmkuiqOuo93IjtxxjKFkbtZQe/u9aU1MQFNWeb4pf80/OuZmOntwZp/Lq+NwoI8jDFoUF8bpR41JF4nbvGy6E/9eeuW+EXxylMng=='></script>
+<script id="sharing-js-js-after">
+window.WPCOM_sharing_popups = window.WPCOM_sharing_popups || {};
+window.WPCOM_sharing_popups[ "facebook" ] = "menubar=1,resizable=1,width=600,height=400";
+//# sourceURL=sharing-js-js-after
+</script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/","ext":".png","svgUrl":"https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/","svgExt":".svg","source":{"concatemoji":"/wp-includes/js/wp-emoji-release.min.js?m=1783090810i&ver=7.1.4-alpha-64893"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\udec8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=/wp-includes/js/wp-emoji-loader.min.js
+</script>
+	<iframe src='https://widgets.wp.com/likes/master.html?ver=20261104#ver=20261104' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars' role="dialog" aria-hidden="true" tabindex="-1"><div class="likes-text"><span>%d</span></div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+	<script src="//stats.wp.com/w.js?71" defer></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'97060865','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+		// Prevent sending pageview tracking from WP-Admin pages.
+		_stq.push(['view', {'blog':'97060865','v':'wpcom','tz':'-5','user_id':'0','post':'3787','subd':'fivesidestoatriangle'}]);
+		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWtpP0NsWnVkPS9sL0ViLndld3BDQkpSVTRMYl1bdDRQSXFKZTlzVTg9YUIzN0VoelsyUmwuXVlfdkdKazRuLHdRT3FJbXU0bE9qck9+VUIsLXM1RWgmX2JjWltrV2NILyVxbWFEODFSb0F+ZWhOPW49OVI4emhCMzIsMENBQ2p+TzV8STFWRXYxTD84Y1VVXTFWUURZelBkSXBqeGR3Lmtfdzl8Nlc5NGlzMEF4Q0U4NGtjV1FSb3w4anx6QX5JU0c9NDVTX2s3XVEtbTFYJU4yOUxCeWxXUEpMaHlTfisrK3BLS3pBZ3BHLE5UbzVVOVdlMltVZGNIWXdyRz9QL0gzNmdUQWhqcElTayZ5dy5LLDdCaWNYMjF0Ml1fR11NW2hYRmsuQWM/b21hP2lQb3RlTDRvLHpLamlqP0xZWlBheDVyJWUzQitITi4xOUpOR1ctMlNlUz9dWUZMM3JEaTNYTHU0Z0ZtSHcuT1lkXy4xVj0='}]);
+_stq.push([ 'clickTrackerInit', '97060865', '3787' ]);
+</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
+<meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="America/New_York" data-custom-props="{&quot;enq_jquery&quot;:&quot;1&quot;,&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/gateway&quot;,&quot;wptheme_is_block&quot;:&quot;0&quot;}"   >
+		<script defer src="/wp-content/js/bilmur.min.js?i=19&amp;m=202645"></script> 	
+</body>
+</html>
+<!--
+	generated in 0.215 seconds
+	183207 bytes batcached for 300 seconds
+-->

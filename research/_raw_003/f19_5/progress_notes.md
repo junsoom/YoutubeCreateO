@@ -1,0 +1,14 @@
+# (작성 중) ⑤ 전설 형성 — 진행 메모
+- 확인: jones.txt(Miami Herald 1950-09-17 6F, AP), sand_ocr(Fate 1952-10 pp.11-17), eck.txt(ALM 1962-04 pp.12-13,39~), gaddis.txt(Argosy 1964-02 pp.28-29,116-118), ber.txt(Avon 1975 8쇄, ©1974), si15(Kusche SI 2015), p07(Smithsonian), p14(Spokesman "30 million")
+- 남음: 판매량 출처, Spencer 1969, Invisible Horizons 1965, CE3K 장면, 사진 30+
+- 발견: Keyhoe 1955 Flying Saucer Conspiracy ch.19 (nicap pdf → _raw_003/f19n/keyhoe55.txt, PDF 294-299쪽): 2:10/215mph/160-40 삼각/3:45 "off course"/4시 지휘 이양/4:25 "225 miles NE"/ "sea fairly calm"/ AP기자에게 기지장교 "as if they had flown to Mars"/ "Unless the saucers took them"
+- 발견: Eckert 1962 원문엔 'white water'·'Mars' 없음 (위키 주장 틀림). 'ocean doesn't look as it should' + 'unusually mild sea' + Captain Jimmy Drake 'hole in the sky'
+- Gaddis 1964: Mars를 'Naval Board of Inquiry officer'로 재귀속, 'hole in the sky', Project Magnet, Wilbert Smith
+- 'white water': McDonell, Naval Aviation News 1973-06 '대중판' 요약에 이미 등장, Berlitz 1974 p.29. 최초 출처 미상(Spencer 1969?)
+- Berlitz 1974 p.34-35 Art Ford 1974 TV → "they look like they are from outer space"; 실제 'Don't come after me'는 Cox 증언(지원 거절 문맥)
+- Cox 증언 Q13: "sea very rough... white caps and long white streamers" (white water 씨앗 가능성 — 추정)
+- 판매량: 위키 "nearly 20 million / 30 languages" ← 출처는 2006 아카이브 'The Bermuda Triangle Mystery' 페이지; LAT 2004 "more than 14 million"; WaPo 2003 "estimated 10 million"; PRH "over 10 million / 23 languages"; Lume "over 20 million / 30"; Spokesman 2025 "nearly 30 million"
+- Spencer 1969: Phillips Pub., Westfield MA, 160p; Bantam 1973(6쇄 1973-03); 저자 USAF 1952-62, NICAP 조사원; 'Limbo of the Lost'은 Jones 1950 문구; 결론 = 'taken away from our planet'; 'unprecedented peacetime loss... strangest ever' 인용(→Berlitz 재사용) [goodreads 리뷰 인용, kookscience]
+- Gaddis 1964 글 사진 = David Attie 촬영, Aurora 모형 비행기+Revell 모형 배 (연출 사진!) ; Jones 문장 거의 그대로 재사용
+- Invisible Horizons 1965 Chilton ch.13 'The Triangle of Death', Ace 문고; NGS 뉴스 불릿 1967-12-22 가 이를 바탕 (해군 FAQ)
+- Kusche75 p.293-297 연대순 참고문헌 = 전설 계보 뼈대

@@ -11,7 +11,7 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageEnhance
 
-from engine import render
+from engine import paths, render
 from engine.fonts import font
 
 TW, TH = 1280, 720
@@ -39,7 +39,7 @@ def main():
     ap.add_argument("--arrow", nargs=2, type=float)
     a = ap.parse_args()
     spec = json.loads(Path(a.spec).read_text())
-    out = Path("output") / spec["id"]
+    out = paths.out_dir(spec)
     tl = json.loads((out / "timeline.json").read_text())
     comp = render.Composer(tl, spec)
     fps = spec.get("fps", 30)

@@ -1,4 +1,4 @@
-"""#016 네스호의 괴물 롱폼 스펙 생성기 → episodes/016_nessie_long.json"""
+"""#002 네스호의 괴물 롱폼 스펙 생성기 → episodes/016_nessie_long.json"""
 import json
 from pathlib import Path
 
@@ -338,12 +338,12 @@ P("n5_26", ["오늘도 호숫가에는 카메라를 든 사람들이 서 있습�
             "그리고 수면은, 여전히 [검습니다]."], zoom=(1.0, 1.15), exp=0.45, music=0.4,
   sfx=[S("rumble", 0.3, 0.2)], pad=1.0)
 B.append(dict(scene="photo_end", lines=["파일404, [기록을 닫습니다]."],
-              params=dict(key="n4_01", mode="fill", zoom=[1.1, 1.2], exposure=0.6, next="다음 파일 ▶ #017 플라이트 19"),
+              params=dict(key="n4_01", mode="fill", zoom=[1.1, 1.2], exposure=0.6, next="다음 파일 ▶ #003 플라이트 19"),
               sfx=[S("static", 0.0, 0.5), S("boom", 0.05, 0.45), TW(0.6, 14, 0.3)], pad=2.5))
 
 spec = dict(
     id="nessie_long", format="long", fps=24,
-    title=["File404 · #016 네스호의 괴물", "괴물을 만든 사람들"],
+    title=["File404 · #002 네스호의 괴물 · FULL FILE", "괴물을 만든 사람들"],
     beats=B,
     upload=dict(
         titles=[

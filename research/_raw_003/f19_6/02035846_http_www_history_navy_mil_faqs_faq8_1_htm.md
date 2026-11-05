@@ -1,0 +1,14 @@
+# The Bermuda Triangle
+Bermuda Triangle Fact Sheet
+Prepared by the U.S. Coast Guard Headquarters and the Naval Historical Center
+The U. S. Board of Geographic Names does not recognize the Bermuda Triangle as an official name and does not maintain an official file on the area.
+The "Bermuda or Devil's Triangle" is an imaginary area located off the southeastern Atlantic coast of the United States, which is noted for a high incidence of unexplained losses of ships, small boats, and aircraft. The apexes of the triangle are generally accepted to be Bermuda, Miami, Fla., and San Juan, Puerto Rico.
+In the past, extensive, but futile Coast Guard searches prompted by search and rescue cases such as the disappearances of an entire squadron of TBM Avengers shortly after take off from Fort Lauderdale, Fla., or the traceless sinking of USS _Cyclops_ and _Marine Sulphur Queen_ have lent credence to the popular belief in the mystery and the supernatural qualities of the "Bermuda Triangle."
+Countless theories attempting to explain the many disappearances have been offered throughout the history of the area. The most practical seem to be environmental and those citing human error. The majority of disappearances can be attributed to the area's unique environmental features. First, the "Devil's Triangle" is one of the two places on earth that a magnetic compass does point towards true north. Normally it points toward magnetic north.
+
+...
+
+The Coast Guard is not impressed with supernatural explanations of disasters at sea. It has been their experience that the combined forces of nature and unpredictability of mankind outdo even the most far fetched science fiction many times each year.
+We know of no maps that delineate the boundaries of the Bermuda Triangle. However, there are general area maps available through the Distribution Control Department, U.S. Naval Oceanographic Office, Washington, D.C. 20390. Of particular interest to students if mysterious happenings may be the "Aeromagnetic Charts of the U.S. Coastal Region," H.O. Series 17507, 15 sheets. Numbers 9 through 15 cover the "Bermuda Triangle."
+Interest in the "Bermuda Triangle" can be traced to (1) the cover article in the August 1968 _Argosy_ , "The Spreading Mystery of the Bermuda Triangle", (2) the answer to a letter to the editor of the January 1969 _Playboy_ , and (3) an article in August 4, 1968 I, "Limbo of Lost Ships", by Leslie Lieber.
+Also, many newspapers carried a December 22, 1967 National Geographic Society news release which was derived largely from Vincent Gaddis' _Invisible Horizons: True Mysteries of the Sea_ (Chilton Books, Philadelphia, 1965. OCLC# 681276) Chapter 13, "The Triangle of Death", in Mr. Gaddis' book, presents the most comprehensive account of the mysteries of the Bermuda Triangle.

@@ -1,0 +1,16 @@
+# World's most dangerous waters, by the WWF and Allianz
+URL: https://www.sail-world.com/-115413/
+
+World's most dangerous waters, by the WWF and Allianz
+
+Please select your home edition
+
+Edition Sail-World Asia Sail-World Australia Sail-World Canada Sail-World Europe Sail-World New Zealand Sail-World United Kingdom Sail-World USA YachtsandYachting.com Cruising Northern Hemisphere Cruising Southern Hemisphere Marine Business Europe Marine Business North America Marine Business Oceania Powerboat.World Europe Powerboat.World North America Powerboat.World Oceania FishingBoating.World Australia FishingBoating.World New Zealand FishingBoating.World USA NZ Boating World
+
+## World's most dangerous waters, by the WWF and Allianz
+
+by Lee Mylchreest on 5 Oct 2013
+
+WWF dangerous oceans infographic SW
+
+For we who might want to sail away into the sunset, we need to know that the ocean varies widely on the other side of that horizon. Apart from all the other knowledge we need to take with us, we should be aware of which are the most dangerous ocean areas on earth, just this year identified by studies commissioned by insurance giant Allianz and the WWF (World Wide Fund for Nature or World Wildlife Fund, depending on where you are reading this). Although sailing boats didn't get a mention in the study, the WWF study pinpointed the planet’s most dangerous oceans and described how shipwrecks are likely to increase in the coming years because of expanding fleets and a warming climate. Scientists at Southampton Solent University, who carried out the research, said that while the number of accidents at sea has fallen by about 18 percent since 1980, many incidents occur in areas of environmental significance, such as the South China Sea and East Indies, eastern Mediterranean, North Sea, Black Sea and British Isles. The North Sea is one of the most intensively sailed seas in the world, with more than 120,000 ship movements each year, according to Simon Walmsley, marine manager at WWF. 'Shipping lanes around the U.K. are already some of the world’s busiest and will get busier as the global fleet expands,' he noted. 'The risk of accidents and environmental disaster is only going to increase, so efforts must be made to lower the risk.' Over in the South China Sea and East Indies, the world’s top accident area, concerns are even greater. 'Since 1999, there have been 293 shipping accidents in the South China Sea and East Indies, home of the Coral Triangle and 76 percent of the world’s coral species,' Walmsley said. 'As recently as April of this year, we’ve seen a Chinese fishing boat run aground on a protected coral reef in the Philippines that had already been damaged by a U.S. Navy ship in January.' The number of ships sailing the open oceans has increased dramatically over the past 15 years to about 105,000 from roughly 85,000. According to the WWF report, fishing vessels account for nearly one-quarter of the vessels lost at sea, while general cargo ships make up more than 40 percent. Cargo ships tend to operate on short shipping routes associated with tramp trading 'w

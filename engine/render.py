@@ -22,7 +22,7 @@ from pathlib import Path
 import numpy as np
 from PIL import Image, ImageDraw, ImageFilter
 
-from . import config, fx, sound, tts
+from . import config, fx, paths, sound, tts
 from .fonts import font
 from .scenes import SCENES
 from .photo import Chapter, Photo, PhotoEnd
@@ -31,7 +31,7 @@ SCENES = {**SCENES, "photo": Photo, "photo_end": PhotoEnd, "chapter": Chapter}
 
 FF = tts.FFMPEG
 SR = config.SR
-LEAD, GAP, PAD, XF = 0.1, 0.06, 0.2, 0.25
+LEAD, GAP, PAD, XF = 0.05, 0.06, 0.1, 0.25   # 2026-11-01 장면 사이 쉼 0.5→0.35초 (예전 LEAD 0.1, PAD 0.2)
 
 
 # ── 타임라인 ───────────────────────────────────────────
@@ -560,7 +560,7 @@ def render(spec, out_dir, workers=4, stills=None):
             print(f"  조각 {k + 1}/{len(jobs)} 완료", flush=True)
     lst = tmp / "list.txt"
     lst.write_text("".join(f"file '{j[4]}'\n" for j in jobs))
-    out = out_dir / f"{spec['id']}.mp4"
+    out = out_dir / f"{paths.out_name(spec)}.mp4"
     subprocess.run([FF, "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", str(lst), "-i", str(wav),
                     "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-shortest", "-movflags", "+faststart", str(out)], check=True)
     # 출처 목록 (영상 설명란에 붙여 넣기)

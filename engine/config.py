@@ -6,7 +6,8 @@ CHANNEL_HANDLE = ""     # 미정 (예: @file404_kr). 유튜브에서 사용 가�
 # 내레이터 목소리 (edge-tts). 2026-10-30 사용자 피드백: 더 저음, 덜 기계적, 문장 연결 매끄럽게.
 # TTS 음높이는 거의 그대로 두고 (크게 내리면 기계음), 녹음본을 VOICE_DEEPEN 비율로 느리게 재생해 낮춘다.
 VOICE = "ko-KR-InJoonNeural"   # 2026-10-30 사용자: 인준 B·C 가 좋다
-VOICE_RATE = "+38%"        # 2026-10-30 사용자: 답답하지 않게 빠르게. deepen 0.86 과 합쳐 실제 속도 약 1.19배
+VOICE_RATE = "+46%"        # 2026-11-01 사용자: 6% 더 빠르게 (예전 +38%). deepen 0.86 과 합쳐 실제 속도 약 1.26배
+VOICE_MAX_GAP = 0.45       # 2026-11-01 문장 끝 쉼 상한(초). 예전엔 TTS 그대로 약 0.8초 (engine/tts._squeeze_gaps)
 VOICE_PITCH = "-2Hz"
 VOICE_DEEPEN = 0.86        # 1.0 = 원래 목소리. 낮을수록 굵고 느리다 (0.86~0.92 권장)
 VOICE_LOW_BOOST = 1.35     # 180Hz 아래 배율

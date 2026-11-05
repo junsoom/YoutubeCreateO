@@ -36,7 +36,8 @@
 - 메모리 8GB 맥이다. 렌더 워커 4개. 렌더 코드는 .py 파일로 실행한다 (heredoc 으로 넘기면 multiprocessing 이 멈춘다).
 
 ## 명령
-- 렌더: `./.venv/bin/python make_video.py episodes/<스펙>.json` → `output/<id>/<id>.mp4`
+- 렌더: `./.venv/bin/python make_video.py episodes/<스펙>.json` → `output/<번호>_<id>/<번호>_<id>.mp4` (번호는 제목 띠 `#0NN`, engine/paths.py)
+- 제작 규칙 전체: docs/제작규칙_초안.md (번호 = 주제 번호, 롱폼 20~25분 먼저 → 쇼츠 파생, 롱폼 주 1 + 쇼츠 주 3, 롱폼 띠 `· FULL FILE`)
 - 정지 화면만: `... --stills 2 10 30` (초)
 - 오래 걸리면 `caffeinate -i -s` 로 감싼다.
 - 업로드 안내문: `make_upload_kit.py episodes/<스펙>.json` → `output/<id>/업로드_안내.md` (설명란 = `description()`)

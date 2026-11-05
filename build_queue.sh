@@ -5,12 +5,12 @@ cd /Users/junhyunglee/Desktop/Ai/YoutubeCreateO || exit 1
 PY=./.venv/bin/python
 
 echo "=== $(date '+%H:%M:%S') 사진 받기 시작"
-$PY fetch_photos.py > output/fetch_queue.log 2>&1
-echo "=== $(date '+%H:%M:%S') 사진 받기 끝 ($(grep -c '받음' output/fetch_queue.log)장)"
+$PY fetch_photos.py > output/_logs/fetch_queue.log 2>&1
+echo "=== $(date '+%H:%M:%S') 사진 받기 끝 ($(grep -c '받음' output/_logs/fetch_queue.log)장)"
 
 for name in "$@"; do
   spec="episodes/${name}.json"
-  id=$($PY -c "import json,sys;print(json.load(open(sys.argv[1]))['id'])" "$spec")
+  id=$($PY -c "import json,sys;from engine import paths;print(paths.out_name(json.load(open(sys.argv[1]))))" "$spec")
   echo "=== $(date '+%H:%M:%S') $id 검사"
   $PY - "$spec" <<'PY'
 import json, sys

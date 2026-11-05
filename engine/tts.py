@@ -85,4 +85,33 @@ def say(text, voice=None, rate=None, pitch=None, deepen=None):
         a = a[s0:s1]
         off = s0 / config.SR
         words = [{**w, "t0": w["t0"] - off, "t1": w["t1"] - off} for w in words]
+    max_gap = getattr(config, "VOICE_MAX_GAP", None)
+    if max_gap and len(words) > 1:
+        a, words = _squeeze_gaps(a, words, max_gap)
     return a, words
+
+
+def _squeeze_gaps(a, words, max_gap, fade=0.015):
+    """단어 사이 쉼(주로 문장 끝)이 max_gap 초보다 길면 가운데 무음을 잘라 max_gap 으로 줄인다.
+    앞 단어 끝 쪽 55%, 다음 단어 앞 쪽 45%를 남기고, 이음매는 짧게 겹쳐(crossfade) 딸깍 소리를 막는다.
+    2026-11-01 벤치마크: 목소리 빠르기는 경쟁 채널과 같고, 느리게 들리는 건 문장 끝 쉼(0.8초) 때문이었다."""
+    sr = config.SR
+    nf = int(fade * sr)
+    out, cur, shift = [], 0, 0.0
+    new_words = [dict(words[0])]
+    for w0, w1 in zip(words[:-1], words[1:]):
+        gap = w1["t0"] - w0["t1"]
+        if gap > max_gap:
+            cut0 = int((w0["t1"] + max_gap * 0.55) * sr)
+            cut1 = int((w1["t0"] - max_gap * 0.45) * sr)
+            if cut1 - cut0 > 2 * nf:
+                seg = a[cur:cut0 + nf].copy()
+                tail = a[cut1:cut1 + nf]
+                ramp = np.linspace(0, 1, nf, dtype=np.float32)
+                seg[-nf:] = seg[-nf:] * (1 - ramp) + tail * ramp
+                out.append(seg)
+                cur = cut1 + nf
+                shift += (cut1 - cut0) / sr
+        new_words.append({**w1, "t0": w1["t0"] - shift, "t1": w1["t1"] - shift})
+    out.append(a[cur:])
+    return np.concatenate(out), new_words

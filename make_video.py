@@ -8,7 +8,7 @@ import json
 import time
 from pathlib import Path
 
-from engine import render
+from engine import paths, render
 
 
 def main():
@@ -19,7 +19,7 @@ def main():
     ap.add_argument("--out", default=None)
     a = ap.parse_args()
     spec = json.loads(Path(a.spec).read_text())
-    out = Path(a.out or f"output/{spec['id']}")
+    out = Path(a.out) if a.out else paths.out_dir(spec)
     t = time.time()
     res = render.render(spec, out, workers=a.workers, stills=a.stills)
     print("결과:", res, f"({time.time() - t:.0f}초)")

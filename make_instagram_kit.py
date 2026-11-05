@@ -14,7 +14,7 @@ from pathlib import Path
 import numpy as np
 from PIL import Image, ImageDraw, ImageFilter
 
-from engine import config
+from engine import config, paths
 from engine.fonts import font
 from engine.photo import PHOTOS, credits, grade
 
@@ -112,7 +112,7 @@ def auto_slides(spec):
 def main(path):
     spec = json.loads(Path(path).read_text())
     ig = spec.get("instagram", {})
-    out = Path("output") / spec["id"] / "instagram"
+    out = paths.out_dir(spec) / "instagram"
     out.mkdir(parents=True, exist_ok=True)
     label = spec.get("title", ["", ""])[0].split("·")[-1].strip() if spec.get("title") else spec["id"]
     num = re.search(r"#\d+", spec.get("title", [""])[0] or "")
